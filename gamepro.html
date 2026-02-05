@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>博弈实验室 v2.7 - 纯净沉浸版</title>
+    <style>
+        :root { --primary: #00ff88; --danger: #ff4444; --bg: #0f0f0f; --warning: #ffaa00; --card: #1a1a1a; }
+        body { background: var(--bg); color: white; font-family: 'PingFang SC', sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; overflow: hidden; }
+        #game-container { background: var(--card); padding: 2rem; border-radius: 24px; box-shadow: 0 0 40px rgba(0,0,0,0.8); width: 420px; text-align: center; border: 1px solid #333; }
+        .stats { display: flex; justify-content: space-between; margin-bottom: 15px; color: var(--primary); font-family: monospace; }
+        
+        /* 答题进度条样式 */
+        .timer-bar { height: 4px; background: #222; margin-bottom: 25px; border-radius: 2px; overflow: hidden; }
+        #timer-fill { height: 100%; background: var(--primary); width: 100%; transition: width 1s linear; }
+        
+        /* 博弈数字倒计时样式 */
+        #timer-count { font-size: 4rem; font-weight: bold; margin: 5px 0; font-family: 'Courier New', monospace; text-shadow: 0 0 20px rgba(0,255,136,0.3); line-height: 1; }
+        
+        .btn-group { display: flex; flex-direction: column; gap: 12px; }
+        button { padding: 16px; border: none; border-radius: 12px; cursor: pointer; font-size: 1.1rem; transition: 0.2s; background: #2d2d2d; color: white; border: 1px solid #444; }
+        button:hover { background: #3d3d3d; border-color: var(--primary); transform: translateY(-2px); }
+        .btn-primary { background: var(--primary); color: black; font-weight: bold; border: none; }
+        .btn-warning { background: var(--warning); color: black; font-weight: bold; border: none; }
+        .btn-steal { background: var(--danger); color: white; border: none; }
+        .hidden { display: none; }
+        .highlight { color: var(--primary); font-weight: bold; font-size: 1.4rem; }
+        p { color: #ccc; line-height: 1.5; }
+    </style>
+</head>
+<body>
+
+<div id="game-container">
+    <div class="stats">
+        <span>奖池: <span id="pool">0</span></span>
+        <span>资产: <span id="total-assets">0</span></span>
+    </div>
+    
+    <div id="bar-container" class="timer-bar"><div id="timer-fill"></div></div>
+
+    <div id="stage-start">
+        <h2 style="color: var(--primary); margin-top: 0;">博弈实验室</h2>
+        <p>这是关于默契、金钱与背叛的实验。<br>你能带走多少资产？</p>
+        <button class="btn-primary" onclick="initGame()" style="width:100%">建立连接 (Start)</button>
+    </div>
+
+    <div id="stage-quiz" class="hidden">
+        <h3 id="q-title" style="color:#666; margin:0;"></h3>
+        <p id="q-text" style="min-height:70px; display: flex; align-items: center; justify-content: center;"></p>
+        <div class="btn-group" id="quiz-btns"></div>
+    </div>
+
+    <div id="stage-decision" class="hidden">
+        <h3 style="color:var(--warning)">达成共识</h3>
+        <p>基础奖池已锁定。是落袋为安，<br>还是继续博取更高收益？</p>
+        <div class="btn-group">
+            <button class="btn-warning" onclick="enterPrisoner('normal')">立即结算</button>
+            <button onclick="nextQuestion()">继续挑战</button>
+        </div>
+    </div>
+
+    <div id="stage-prisoner" class="hidden">
+        <div id="timer-count">10</div>
+        <h3 id="p-title" style="margin: 0;">⚖️ 利益分配博弈</h3>
+        <p id="p-desc" style="margin: 15px 0;"></p>
+        <div class="btn-group">
+            <button onclick="finalDecision('split')">👼 均分 (Split)</button>
+            <button class="btn-steal" onclick="finalDecision('steal')">😈 偷走 (Steal)</button>
+        </div>
+    </div>
+
+    <div id="stage-result" class="hidden">
+        <h3>实验报告</h3>
+        <div id="final-msg" style="margin:20px 0;"></div>
+        <button class="btn-primary" onclick="location.reload()" style="width:100%">重新开始</button>
+    </div>
+</div>
+
+<script>
+    const questionBank = [
+        { q: "关于金钱，你更倾向于：", a: "极度节俭积累安全感", b: "活在当下享受品质" },
+        { q: "如果拥有超能力，你选：", a: "隐身术", b: "读心术" },
+        { q: "你会为了财富放弃真爱吗？", a: "会，生活很现实", b: "不会，真爱无价" },
+        { q: "你更相信哪句话？", a: "人之初性本善", b: "人之初性本恶" },
+        { q: "如果你突然中奖500万，你会：", a: "立刻辞职", b: "瞒着所有人继续工作" },
+        { q: "经典的电车难题：推下胖子救五个人？", a: "推（牺牲少数）", b: "不推（道德底线）" },
+        { q: "末日逃生舱剩一个位子：", a: "自己上", b: "让给更有用的人" },
+        { q: "发现好友伴侣出轨：", a: "立刻告诉好友", b: "装作不知道" },
+        { q: "你认为职场成功靠：", a: "硬核技术", b: "人际关系" }
+    ];
+
+    let pool = 0, streak = 0, timeLeft = 10, timerId = null, currentQuestions = [];
+    let totalAssets = parseInt(localStorage.getItem('game_gold_v2')) || 0;
+    document.getElementById('total-assets').innerText = totalAssets;
+
+    function showStage(id) {
+        ['stage-start', 'stage-quiz', 'stage-decision', 'stage-prisoner', 'stage-result'].forEach(s => {
+            document.getElementById(s).classList.add('hidden');
+        });
+        document.getElementById(id).classList.remove('hidden');
+    }
+
+    function initGame() {
+        currentQuestions = [...questionBank].sort(() => 0.5 - Math.random()).slice(0, 6);
+        streak = 0; pool = 0;
+        document.getElementById('pool').innerText = "0";
+        document.getElementById('bar-container').style.visibility = 'visible'; // 初始显示进度条
+        nextQuestion();
+    }
+
+    function nextQuestion() {
+        if(streak >= currentQuestions.length) return enterPrisoner('max');
+        showStage('stage-quiz');
+        const q = currentQuestions[streak];
+        document.getElementById('q-title').innerText = `SESSION 0${streak + 1}`;
+        document.getElementById('q-text').innerText = q.q;
+        document.getElementById('quiz-btns').innerHTML = `
+            <button onclick="handleChoice('A')">A. ${q.a}</button>
+            <button onclick="handleChoice('B')">B. ${q.b}</button>
+        `;
+        startQuizTimer();
+    }
+
+    function startQuizTimer() {
+        clearInterval(timerId);
+        timeLeft = 10;
+        document.getElementById('timer-fill').style.width = '100%';
+        timerId = setInterval(() => {
+            timeLeft--;
+            document.getElementById('timer-fill').style.width = (timeLeft * 10) + '%';
+            if(timeLeft <= 0) endGame("⏰ <b>响应超时！</b><br>在同步过程中连接中断。");
+        }, 1000);
+    }
+
+    function handleChoice(choice) {
+        clearInterval(timerId);
+        const botChoice = Math.random() > 0.3 ? choice : (choice === 'A' ? 'B' : 'A');
+        if(choice === botChoice) {
+            streak++; pool += streak * 200;
+            document.getElementById('pool').innerText = pool;
+            streak === 3 ? showStage('stage-decision') : nextQuestion();
+        } else {
+            streak >= 3 ? enterPrisoner('forced') : endGame("❌ <b>基础默契破裂！</b><br>你们的思想没能达成共鸣。");
+        }
+    }
+
+    function enterPrisoner(type) {
+        clearInterval(timerId); // 清除答题计时器
+        
+        // --- 核心优化点：彻底隐藏顶部进度条 ---
+        document.getElementById('bar-container').style.visibility = 'hidden'; 
+        
+        showStage('stage-prisoner');
+        const desc = document.getElementById('p-desc');
+        desc.innerHTML = type === 'forced' ? "由于出现意见分歧，奖池强制锁定：<br><span class='highlight'>" + pool + "</span>" : "终极财富分配。当前奖池：<span class='highlight'>" + pool + "</span>";
+        
+        // 启动专属数字倒计时
+        timeLeft = 10;
+        const countDisplay = document.getElementById('timer-count');
+        countDisplay.innerText = timeLeft;
+        countDisplay.style.color = "var(--primary)";
+        
+        timerId = setInterval(() => {
+            timeLeft--;
+            countDisplay.innerText = timeLeft;
+            if(timeLeft <= 3) countDisplay.style.color = "var(--danger)";
+            if(timeLeft <= 0) finalDecision('timeout');
+        }, 1000);
+    }
+
+    function finalDecision(action) {
+        clearInterval(timerId); // 停止数字计时
+        const botAction = Math.random() > 0.5 ? 'split' : 'steal';
+        let win = 0, msg = "";
+
+        if(action === 'timeout') {
+            msg = "⏰ <b style='color:var(--danger)'>决策超时！</b><br>你还在犹豫时，对手已经卷款撤离。";
+        } else if(action === 'split' && botAction === 'split') {
+            win = pool / 2; msg = "🌟 <b>完美的合作</b><br>你们都选了均分，各得 " + win;
+        } else if(action === 'steal' && botAction === 'split') {
+            win = pool; msg = "🗡️ <b>冷酷的背叛</b><br>你拿走了全部 " + win + "，对手一无所有。";
+        } else if(action === 'split' && botAction === 'steal') {
+            win = 0; msg = "📉 <b>昂贵的信任</b><br>对手偷走了所有金币。人性的复杂超出了预想。";
+        } else {
+            win = 0; msg = "💥 <b>双输结局</b><br>大家都选了偷走，奖池化为乌有。";
+        }
+
+        totalAssets += win;
+        localStorage.setItem('game_gold_v2', totalAssets);
+        endGame(msg);
+    }
+
+    function endGame(msg) {
+        clearInterval(timerId);
+        document.getElementById('bar-container').style.visibility = 'hidden';
+        showStage('stage-result');
+        document.getElementById('final-msg').innerHTML = msg;
+        document.getElementById('total-assets').innerText = totalAssets;
+    }
+</script>
+</body>
+</html>
