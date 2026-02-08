@@ -22,8 +22,17 @@ def generate_questions(count=10):
         messages=[{"role": "user", "content": prompt}]
     )
     # 解析并返回
+    # ... 前面代码保持不变 ...
     raw_content = response.choices[0].message.content
-    clean_json = raw_content.replace("```json", "").replace("```", "").strip()
+    
+    # 增强版解析：只取第一个 [ 和最后一个 ] 之间的内容
+    import re
+    match = re.search(r'\[.*\]', raw_content, re.DOTALL)
+    if match:
+        clean_json = match.group()
+    else:
+        clean_json = raw_content.replace("```json", "").replace("```", "").strip()
+    
     return json.loads(clean_json)
 
 if __name__ == "__main__":
