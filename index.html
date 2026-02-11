@@ -88,7 +88,16 @@
         { q: "发现好友伴侣出轨：", a: "立刻告诉好友", b: "装作不知道" },
         { q: "你认为职场成功靠：", a: "硬核技术", b: "人际关系" }
     ];
+    const i18n = {
+    zh: { title: "博弈实验室", start: "开始游戏", stake: "投入资金" },
+    en: { title: "Game Theory Lab", start: "Start Game", stake: "Investment" }
+    };
 
+    function updateUI() {
+        // 根据 currentLang 切换页面上的所有文字
+        document.getElementById('title').innerText = i18n[currentLang].title;
+        // 渲染题目时使用 question[`q_${currentLang}`]
+    }
     let pool = 0, streak = 0, timeLeft = 10, timerId = null, currentQuestions = [];
     let totalAssets = parseInt(localStorage.getItem('game_gold_v2')) || 0;
     document.getElementById('total-assets').innerText = totalAssets;
