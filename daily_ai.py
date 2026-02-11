@@ -15,7 +15,7 @@ client = openai.OpenAI(
 def generate_questions(count=10):
     prompt = """
     你是一个心理博弈专家。请生成 10 道用于《博弈实验室》游戏的 A/B 选择题。
-    要求：JSON 数组格式，字段包含 q, a, b, tag。
+    要求：JSON 数组格式，包含字段：q_zh (中文题), q_en (英文题), a_zh, a_en, b_zh, b_en。
     """
     response = client.chat.completions.create(
         model="deepseek-chat", 
