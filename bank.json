@@ -298,5 +298,85 @@
     "a": "33",
     "b": "22",
     "tag": "猜平均数博弈"
+  },
+  {
+    "q_zh": "你与对手各持一枚硬币，同时选择正面或反面。若两枚硬币相同，你得3分；若不同，对手得2分。你会选择：",
+    "q_en": "You and your opponent each hold a coin, choosing heads or tails simultaneously. If both coins match, you get 3 points; if they differ, your opponent gets 2 points. You choose:",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "在一个拍卖中，你和对手竞拍100元现金，出价高者获胜，但双方都需支付自己的出价。你会出价：",
+    "q_en": "In an auction for $100 cash, the highest bidder wins, but both pay their bid. You bid:",
+    "a_zh": "51元",
+    "a_en": "$51",
+    "b_zh": "0元（放弃）",
+    "b_en": "$0 (abstain)"
+  },
+  {
+    "q_zh": "你和对手需各自选择“合作”或“背叛”。若都合作，各得2分；都背叛，各得1分；若一方合作一方背叛，背叛者得3分，合作者得0分。你会：",
+    "q_en": "You and your opponent choose 'Cooperate' or 'Defect'. If both cooperate, each gets 2 points; both defect, each gets 1; if one defects and one cooperates, the defector gets 3, the cooperator 0. You choose:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手分10枚金币。你先提出分配方案（如“我7你3”），对手接受则按方案分配，拒绝则双方都得0。你会提议：",
+    "q_en": "You and your opponent split 10 gold coins. You propose a split (e.g., 'I take 7, you take 3'). If accepted, it's implemented; if rejected, both get 0. You propose:",
+    "a_zh": "我5你5",
+    "a_en": "I take 5, you take 5",
+    "b_zh": "我7你3",
+    "b_en": "I take 7, you take 3"
+  },
+  {
+    "q_zh": "你与对手轮流从20枚金币中取走1-3枚，取走最后一枚者输。你先手，第一次会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 gold coins from a pile of 20. The player who takes the last coin loses. You go first. How many do you take?",
+    "a_zh": "1枚",
+    "a_en": "1 coin",
+    "b_zh": "2枚",
+    "b_en": "2 coins"
+  },
+  {
+    "q_zh": "你面前有两个按钮：A按钮确保你得100元，B按钮有50%概率你得250元，50%概率你得0元。你会按：",
+    "q_en": "You face two buttons: Button A guarantees you $100; Button B gives a 50% chance of $250 and 50% chance of $0. You press:",
+    "a_zh": "A按钮",
+    "a_en": "Button A",
+    "b_zh": "B按钮",
+    "b_en": "Button B"
+  },
+  {
+    "q_zh": "你和对手同时写下1-100间的一个整数。谁写的数更接近对方所写数的2/3，谁获胜。你会写：",
+    "q_en": "You and your opponent simultaneously write an integer between 1 and 100. Whoever's number is closest to 2/3 of the other's number wins. You write:",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你与对手进行多轮囚徒困境。已知对手上一轮选择“合作”，你本轮会：",
+    "q_en": "You and your opponent play multiple rounds of Prisoner's Dilemma. Knowing your opponent cooperated last round, you now:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你有一个秘密，告诉对手“真话”或“假话”。对手猜“真”或“假”。若猜对，对手得2分；若猜错，你得1分。你会说：",
+    "q_en": "You have a secret and tell the opponent either 'Truth' or 'Lie'. They guess 'True' or 'False'. If correct, they get 2 points; if wrong, you get 1 point. You say:",
+    "a_zh": "真话",
+    "a_en": "Truth",
+    "b_zh": "假话",
+    "b_en": "Lie"
+  },
+  {
+    "q_zh": "你和对手各有一个数字（1-10），同时出示。若你的数字大于对手，你得数字对应的分数；若小于或等于，得0分。你会出示：",
+    "q_en": "You and your opponent each have a number (1-10) and reveal simultaneously. If your number is higher, you get points equal to your number; if lower or equal, you get 0. You reveal:",
+    "a_zh": "6",
+    "a_en": "6",
+    "b_zh": "8",
+    "b_en": "8"
   }
 ]
