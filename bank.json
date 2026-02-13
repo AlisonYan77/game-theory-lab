@@ -378,5 +378,85 @@
     "a_en": "6",
     "b_zh": "8",
     "b_en": "8"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-10中的一个数字。若数字相同，各得10分；若不同，数字较大者得5分，较小者得0分。你会写哪个数字？",
+    "q_en": "You and your opponent secretly choose a number from 1 to 10. If you choose the same number, both get 10 points. If different, the one with the larger number gets 5 points, the smaller gets 0. What number do you choose?",
+    "a_zh": "10",
+    "a_en": "10",
+    "b_zh": "5",
+    "b_en": "5"
+  },
+  {
+    "q_zh": "在一个公共物品捐赠游戏中，你知道如果超过一半的人捐款，所有人都会受益，但你不知道其他人的选择。你会捐款吗？",
+    "q_en": "In a public goods game, everyone benefits if more than half donate, but you don't know others' choices. Do you donate?",
+    "a_zh": "捐",
+    "a_en": "Donate",
+    "b_zh": "不捐",
+    "b_en": "Not donate"
+  },
+  {
+    "q_zh": "你和对手轮流提分蛋糕方案。你先提，若对方拒绝，蛋糕会缩小。你会提议自己分得多少比例？",
+    "q_en": "You and an opponent take turns proposing how to split a cake. You propose first. If rejected, the cake shrinks. What share do you propose for yourself?",
+    "a_zh": "略多于一半（如51%）",
+    "a_en": "Slightly more than half (e.g., 51%)",
+    "b_zh": "绝大部分（如90%）",
+    "b_en": "The vast majority (e.g., 90%)"
+  },
+  {
+    "q_zh": "拍卖一件价值100元的物品，出价最高者获胜但需支付自己的出价，第二名无需支付。你会出价多少？",
+    "q_en": "Auction an item worth 100. The highest bidder wins and pays their bid, the second pays nothing. How much do you bid?",
+    "a_zh": "略高于100（如101）",
+    "a_en": "Slightly above 100 (e.g., 101)",
+    "b_zh": "远低于100（如50）",
+    "b_en": "Well below 100 (e.g., 50)"
+  },
+  {
+    "q_zh": "作为公司经理，你怀疑员工会偷懒。你会选择严格监控，还是给予信任并设置激励？",
+    "q_en": "As a manager, you suspect employees might shirk. Do you choose strict monitoring, or trust with incentives?",
+    "a_zh": "严格监控",
+    "a_en": "Strict monitoring",
+    "b_zh": "信任与激励",
+    "b_en": "Trust and incentives"
+  },
+  {
+    "q_zh": "你要向陌生人发送一条消息，对方可能友好也可能敌对。你的第一条消息会是合作信号还是试探性威胁？",
+    "q_en": "You send a message to a stranger who might be friendly or hostile. Is your first message a cooperative signal or a tentative threat?",
+    "a_zh": "合作信号",
+    "a_en": "Cooperative signal",
+    "b_zh": "试探性威胁",
+    "b_en": "Tentative threat"
+  },
+  {
+    "q_zh": "在重复囚徒困境中，对方上一轮背叛了你。这一轮你会选择合作还是背叛？",
+    "q_en": "In a repeated prisoner's dilemma, your opponent betrayed you last round. Do you cooperate or defect this round?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你需要分配100元给自己和一个陌生人。对方可以接受或拒绝，拒绝则双方都得0。你分给对方多少？",
+    "q_en": "You divide 100 between yourself and a stranger. They can accept or reject; rejection gives both 0. How much do you give them?",
+    "a_zh": "50",
+    "a_en": "50",
+    "b_zh": "10",
+    "b_en": "10"
+  },
+  {
+    "q_zh": "市场上有两家竞争公司。你会选择与对手保持价格战，还是尝试达成隐性价格同盟？",
+    "q_en": "Two competing firms in a market. Do you maintain a price war, or attempt a tacit price-fixing alliance?",
+    "a_zh": "价格战",
+    "a_en": "Price war",
+    "b_zh": "隐性同盟",
+    "b_en": "Tacit alliance"
+  },
+  {
+    "q_zh": "你知道某个谣言是假的，但传播它可能让你获利。你会传播还是澄清？",
+    "q_en": "You know a rumor is false, but spreading it might benefit you. Do you spread it or clarify the truth?",
+    "a_zh": "传播",
+    "a_en": "Spread it",
+    "b_zh": "澄清",
+    "b_en": "Clarify truth"
   }
 ]
