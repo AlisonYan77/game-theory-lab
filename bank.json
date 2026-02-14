@@ -458,5 +458,85 @@
     "a_en": "Spread it",
     "b_zh": "澄清",
     "b_en": "Clarify truth"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-10中的一个数字。若数字相同，各得10分；若数字不同，数字较小者得5分，较大者得0分。你会写哪个数字？",
+    "q_en": "You and your opponent secretly choose a number from 1 to 10. If the numbers match, both get 10 points. If they differ, the smaller number gets 5 points, the larger gets 0. What number do you choose?",
+    "a_zh": "写较小的数字（如1或2）",
+    "a_en": "Choose a small number (e.g., 1 or 2)",
+    "b_zh": "写较大的数字（如9或10）",
+    "b_en": "Choose a large number (e.g., 9 or 10)"
+  },
+  {
+    "q_zh": "你与对手轮流从100枚金币中拿取1-10枚，拿完最后一枚者获胜。你先手，第一次会拿几枚？",
+    "q_en": "You and your opponent take turns taking 1-10 gold coins from a pile of 100. Whoever takes the last coin wins. You go first. How many do you take initially?",
+    "a_zh": "拿1枚，保持灵活",
+    "a_en": "Take 1 coin to stay flexible",
+    "b_zh": "拿特定数量（如4枚），试图控制序列",
+    "b_en": "Take a specific number (e.g., 4) to try to control the sequence"
+  },
+  {
+    "q_zh": "拍卖一张100元纸币，出价最高者赢得纸币，但出价前两名都需支付自己的出价。你会出价多少？",
+    "q_en": "Auction for a $100 bill. The highest bidder wins it, but the top two bidders both pay their bids. How much do you bid?",
+    "a_zh": "出价低于50元（如30元）",
+    "a_en": "Bid below $50 (e.g., $30)",
+    "b_zh": "出价高于50元（如60元）",
+    "b_en": "Bid above $50 (e.g., $60)"
+  },
+  {
+    "q_zh": "两人分10万元，由你提出分配方案（如“我7你3”）。若对方接受，按方案分；若拒绝，两人都得0。你会怎么提？",
+    "q_en": "Split $100,000. You propose a division (e.g., 'I get 70%, you get 30%'). If accepted, it happens; if rejected, both get nothing. What do you propose?",
+    "a_zh": "接近均分（如55:45）",
+    "a_en": "Near-equal split (e.g., 55:45)",
+    "b_zh": "自己拿大部分（如80:20）",
+    "b_en": "Take most for yourself (e.g., 80:20)"
+  },
+  {
+    "q_zh": "猜拳游戏（石头剪刀布）连续10局。第一局你会出什么？",
+    "q_en": "10 consecutive rounds of Rock-Paper-Scissors. What do you play in the first round?",
+    "a_zh": "出石头（最直接）",
+    "a_en": "Play Rock (most straightforward)",
+    "b_zh": "出剪刀（反常见思维）",
+    "b_en": "Play Scissors (counter-common thinking)"
+  },
+  {
+    "q_zh": "你与对手各有两个选择：合作（C）或背叛（D）。收益矩阵为：双方选C各得3；双方选D各得1；若一方选C一方选D，则选C者得0，选D者得5。这是一次性博弈，你会选？",
+    "q_en": "You and your opponent choose Cooperate (C) or Defect (D). Payoffs: both C → 3 each; both D → 1 each; if one C one D, C gets 0, D gets 5. This is a one-shot game. You choose?",
+    "a_zh": "合作（C）",
+    "a_en": "Cooperate (C)",
+    "b_zh": "背叛（D）",
+    "b_en": "Defect (D)"
+  },
+  {
+    "q_zh": "你面前有两个按钮：A按钮确保你获得500元；B按钮有50%概率获得1100元，50%概率得0。你会按哪个？",
+    "q_en": "Two buttons: Button A guarantees $500. Button B gives a 50% chance of $1100, 50% chance of $0. Which do you press?",
+    "a_zh": "按A（确定得500）",
+    "a_en": "Press A (guaranteed $500)",
+    "b_zh": "按B（赌一把）",
+    "b_en": "Press B (take the gamble)"
+  },
+  {
+    "q_zh": "你与对手同时决定是否信任对方。若互信，各得4；互不信任，各得2；若一方信任而另一方不信任，信任者得1，不信任者得3。你会选择信任吗？",
+    "q_en": "You and your opponent simultaneously decide whether to trust each other. Both trust → 4 each; both distrust → 2 each; if one trusts and the other distrusts, truster gets 1, distruster gets 3. Do you choose to trust?",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "不信任",
+    "b_en": "Distrust"
+  },
+  {
+    "q_zh": "你参加一个游戏：主持人给你看三个盒子，其中一个有奖。你选了一个后，主持人（知道奖品位置）打开另一个空盒子，然后问你是否换到剩下的那个盒子。你会换吗？",
+    "q_en": "A game show: three boxes, one contains a prize. You pick one. The host (who knows where the prize is) opens an empty box from the remaining two, then asks if you want to switch to the other unopened box. Do you switch?",
+    "a_zh": "换",
+    "a_en": "Switch",
+    "b_zh": "不换",
+    "b_en": "Don't switch"
+  },
+  {
+    "q_zh": "你与对手各有一个“核按钮”。若都不按，和平继续，各得10。若一人按，按者得15，不按者得0。若都按，核战爆发，各得-100。这是一次性同时决策，你会按吗？",
+    "q_en": "You and your opponent each have a 'nuclear button'. If neither presses, peace continues (10 each). If one presses, presser gets 15, non-presser gets 0. If both press, nuclear war (-100 each). One-shot simultaneous decision. Do you press?",
+    "a_zh": "不按",
+    "a_en": "Don't press",
+    "b_zh": "按",
+    "b_en": "Press"
   }
 ]
