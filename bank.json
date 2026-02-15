@@ -538,5 +538,85 @@
     "a_en": "Don't press",
     "b_zh": "按",
     "b_en": "Press"
+  },
+  {
+    "q_zh": "你与对手各自选择“合作”或“背叛”。若双方都合作，各得3分；都背叛，各得1分；一方合作一方背叛，背叛者得5分，合作者得0分。你会选择？",
+    "q_en": "You and your opponent each choose 'Cooperate' or 'Betray'. If both cooperate, each gets 3 points; both betray, each gets 1 point; if one cooperates and the other betrays, the betrayer gets 5 points, the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你和对手竞拍100元。出价最高者获胜并支付所出金额，但第二名也需支付自己的出价且一无所获。你会出价多少？",
+    "q_en": "You and your opponent bid for $100. The highest bidder wins and pays their bid, but the second-highest also pays their bid and gets nothing. How much do you bid?",
+    "a_zh": "出价略高于50元",
+    "a_en": "Bid slightly above $50",
+    "b_zh": "出价接近100元",
+    "b_en": "Bid close to $100"
+  },
+  {
+    "q_zh": "你和对手轮流从100元中取钱，每次可取1-10元，取完最后一次的人额外获得20元奖金。你先手，第一次会取多少？",
+    "q_en": "You and your opponent take turns taking $1-10 from $100. The player who takes the last amount gets an extra $20 bonus. You go first. How much do you take initially?",
+    "a_zh": "取1元",
+    "a_en": "Take $1",
+    "b_zh": "取10元",
+    "b_en": "Take $10"
+  },
+  {
+    "q_zh": "你和对手同时决定是否“进攻”对方。若都不进攻，各得2分；都进攻，各失1分；一方进攻一方不进攻，进攻者得3分，不进攻者失2分。你会？",
+    "q_en": "You and your opponent simultaneously decide whether to 'Attack' the other. If neither attacks, each gets 2 points; both attack, each loses 1 point; if one attacks and the other doesn't, the attacker gets 3 points, the non-attacker loses 2. What do you do?",
+    "a_zh": "不进攻",
+    "a_en": "Do not attack",
+    "b_zh": "进攻",
+    "b_en": "Attack"
+  },
+  {
+    "q_zh": "你有一个信息，可以真实分享或虚假分享给对手。对手收到信息后会做一个对你有利或不利的决策。你会？",
+    "q_en": "You have information that you can share truthfully or falsely with your opponent. After receiving it, they will make a decision that can benefit or harm you. What do you do?",
+    "a_zh": "真实分享",
+    "a_en": "Share truthfully",
+    "b_zh": "虚假分享",
+    "b_en": "Share falsely"
+  },
+  {
+    "q_zh": "你和对手各有一个数字（1-10），同时出示。若两数之和为奇数，你获胜；若为偶数，对手获胜。你会出几？",
+    "q_en": "You and your opponent each choose a number (1-10) and reveal simultaneously. If the sum is odd, you win; if even, they win. What number do you choose?",
+    "a_zh": "奇数",
+    "a_en": "An odd number",
+    "b_zh": "偶数",
+    "b_en": "An even number"
+  },
+  {
+    "q_zh": "你和对手需共同完成一个项目。若都努力，项目成功，各得4分；一人努力一人偷懒，项目勉强完成，努力者得2分，偷懒者得3分；都偷懒，项目失败，各得0分。你会？",
+    "q_en": "You and your opponent must collaborate on a project. If both work hard, it succeeds and each gets 4 points; if one works hard and the other slacks, it barely finishes—hard worker gets 2, slacker gets 3; if both slack, it fails and each gets 0. What do you do?",
+    "a_zh": "努力",
+    "a_en": "Work hard",
+    "b_zh": "偷懒",
+    "b_en": "Slack"
+  },
+  {
+    "q_zh": "你和对手分10枚金币。你提出分配方案（如“我得7枚，你得3枚”），对手接受则按方案分，拒绝则双方都得不到金币。你会提议如何分配？",
+    "q_en": "You and your opponent split 10 gold coins. You propose a split (e.g., 'I take 7, you take 3'). If they accept, the split happens; if they reject, both get nothing. What do you propose?",
+    "a_zh": "我得5枚，你得5枚",
+    "a_en": "I take 5, you take 5",
+    "b_zh": "我得8枚，你得2枚",
+    "b_en": "I take 8, you take 2"
+  },
+  {
+    "q_zh": "你和对手玩三局“石头剪刀布”。每局胜者得1分，平局各得0.5分。已知对手上一局出了“石头”，你下一局会出什么？",
+    "q_en": "You and your opponent play three rounds of Rock-Paper-Scissors. Each win gives 1 point, a draw gives 0.5 each. Knowing your opponent played 'Rock' last round, what do you play next?",
+    "a_zh": "布",
+    "a_en": "Paper",
+    "b_zh": "剪刀",
+    "b_en": "Scissors"
+  },
+  {
+    "q_zh": "你和对手各有一个秘密数字（1-100），同时公开。更接近对方数字两倍的人获胜。你会选哪个数字？",
+    "q_en": "You and your opponent each secretly choose a number (1-100) and reveal simultaneously. Whoever is closer to twice the opponent's number wins. What number do you choose?",
+    "a_zh": "接近33",
+    "a_en": "Around 33",
+    "b_zh": "接近67",
+    "b_en": "Around 67"
   }
 ]
