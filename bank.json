@@ -618,5 +618,85 @@
     "a_en": "Around 33",
     "b_zh": "接近67",
     "b_en": "Around 67"
+  },
+  {
+    "q_zh": "你与对手各自拥有100元。你们需要同时决定是否向公共池捐款。如果双方都捐款，每人获得150元回报；如果只有一方捐款，捐款者损失100元，未捐者获得50元；如果都不捐，保持原状。你会选择：",
+    "q_en": "You and your opponent each have $100. You must simultaneously decide whether to donate to a public pool. If both donate, each gets $150. If only one donates, the donor loses $100 and the non-donor gets $50. If neither donates, both keep their $100. You choose:",
+    "a_zh": "捐款",
+    "a_en": "Donate",
+    "b_zh": "不捐款",
+    "b_en": "Not donate"
+  },
+  {
+    "q_zh": "你与对手轮流提出分100元的方案。你先提议，若对方拒绝，总金额减至80元并由对方提议。若再拒绝，双方得0元。你的第一次提议是：",
+    "q_en": "You and your opponent take turns proposing how to split $100. You propose first. If rejected, the total drops to $80 and the opponent proposes. If rejected again, both get $0. Your first proposal is:",
+    "a_zh": "自己分70元，对方分30元",
+    "a_en": "Take $70, give $30",
+    "b_zh": "自己分60元，对方分40元",
+    "b_en": "Take $60, give $40"
+  },
+  {
+    "q_zh": "你与对手各有一张红牌或黑牌。若双方都出红牌，各得100元；一红一黑，出红者得0元，出黑者得150元；都出黑牌，各得10元。你会出：",
+    "q_en": "You and your opponent each have a red or black card. If both play red, each gets $100. If one plays red and the other black, the red player gets $0 and the black player gets $150. If both play black, each gets $10. You play:",
+    "a_zh": "红牌",
+    "a_en": "Red card",
+    "b_zh": "黑牌",
+    "b_en": "Black card"
+  },
+  {
+    "q_zh": "你与对手各选择一个1-10的整数。谁选的数字更接近对方所选数字的2/3，谁获胜。你会选择：",
+    "q_en": "You and your opponent each choose an integer from 1 to 10. Whoever chooses the number closest to 2/3 of the opponent's number wins. You choose:",
+    "a_zh": "3",
+    "a_en": "3",
+    "b_zh": "7",
+    "b_en": "7"
+  },
+  {
+    "q_zh": "你与对手同时决定是否“合作”。若都合作，各得2分；都不合作，各得1分；一方合作一方背叛，合作者得0分，背叛者得3分。你会：",
+    "q_en": "You and your opponent simultaneously decide whether to 'cooperate'. If both cooperate, each gets 2 points. If both defect, each gets 1 point. If one cooperates and the other defects, the cooperator gets 0 and the defector gets 3. You:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手进行多轮博弈。每轮可选择“和平”或“攻击”。若双方都选和平，各得2元；若一方攻击一方和平，攻击者得3元，和平者得0元；若都攻击，各损失1元。游戏共10轮。第一轮你会：",
+    "q_en": "You and your opponent play 10 rounds. Each round, you can choose 'Peace' or 'Attack'. If both choose Peace, each gets $2. If one Attacks and the other chooses Peace, the attacker gets $3 and the peaceful player gets $0. If both Attack, each loses $1. In the first round, you:",
+    "a_zh": "和平",
+    "a_en": "Peace",
+    "b_zh": "攻击",
+    "b_en": "Attack"
+  },
+  {
+    "q_zh": "你与对手竞拍一件价值100元的物品。出价最高者获胜并支付所出价格，但第二名也需支付自己的出价（且一无所获）。你的出价是：",
+    "q_en": "You and your opponent bid for an item worth $100. The highest bidder wins and pays their bid, but the second-highest bidder also pays their bid (and gets nothing). Your bid is:",
+    "a_zh": "60元",
+    "a_en": "$60",
+    "b_zh": "90元",
+    "b_en": "$90"
+  },
+  {
+    "q_zh": "你面前有两个按钮：A按钮确保你获得50元，B按钮有50%概率让你获得100元，50%概率得0元。对手的选择会影响你的收益：若他选A，你的B按钮收益翻倍；若他选B，你的A按钮收益减半。你会按：",
+    "q_en": "You have two buttons: Button A guarantees you $50. Button B gives you a 50% chance of $100 and 50% of $0. Your opponent's choice affects you: if they choose A, your Button B payout doubles; if they choose B, your Button A payout is halved. You press:",
+    "a_zh": "A按钮",
+    "a_en": "Button A",
+    "b_zh": "B按钮",
+    "b_en": "Button B"
+  },
+  {
+    "q_zh": "你与对手各自决定是否“投资”。若双方都投资，各得120元；若都不投资，各得20元；若只有一方投资，投资者损失80元，未投资者得40元。你会：",
+    "q_en": "You and your opponent decide whether to 'invest'. If both invest, each gets $120. If neither invests, each gets $20. If only one invests, the investor loses $80 and the non-investor gets $40. You:",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Not invest"
+  },
+  {
+    "q_zh": "你与对手各自在0-100间选一个数。谁选的数更接近“平均数的2/3”谁获胜。你会选择：",
+    "q_en": "You and your opponent each choose a number between 0 and 100. Whoever chooses the number closest to 2/3 of the average wins. You choose:",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
   }
 ]
