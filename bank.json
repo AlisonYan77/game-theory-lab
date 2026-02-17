@@ -698,5 +698,85 @@
     "a_en": "33",
     "b_zh": "22",
     "b_en": "22"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。你们轮流加价，每次加价至少1元，无法加价者输掉拍卖但无需付款，获胜者需支付自己的最后一次出价。你先手，你会：",
+    "q_en": "You are in an auction with an opponent for an item worth $100. You take turns bidding, with each bid at least $1 higher. The loser pays nothing, the winner pays their last bid. You bid first. You will:",
+    "a_zh": "出价1元",
+    "a_en": "Bid $1",
+    "b_zh": "放弃出价（出价0元）",
+    "b_en": "Pass (bid $0)"
+  },
+  {
+    "q_zh": "在一个合作项目中，你和伙伴可各自选择“全力投入”或“偷懒”。若都全力投入，各得收益3；若都偷懒，各得收益1；若一人投入一人偷懒，投入者得0，偷懒者得5。你会：",
+    "q_en": "In a joint project, you and a partner can choose 'Work Hard' or 'Shirk'. If both work hard, each gets 3. If both shirk, each gets 1. If one works hard and the other shirks, the hard worker gets 0, the shirker gets 5. You will:",
+    "a_zh": "全力投入",
+    "a_en": "Work Hard",
+    "b_zh": "偷懒",
+    "b_en": "Shirk"
+  },
+  {
+    "q_zh": "你要将一笔资金委托给一位陌生人投资，对方可选择“归还”或“私吞”。若归还，总金额翻倍并由对方分配；若私吞，对方全得。在委托前，你会：",
+    "q_en": "You can entrust a sum of money to a stranger for investment. They can 'Return' (double the total and split it) or 'Keep' (take all). Before deciding to entrust, you will:",
+    "a_zh": "委托全部资金",
+    "a_en": "Entrust all funds",
+    "b_zh": "不委托任何资金",
+    "b_en": "Entrust nothing"
+  },
+  {
+    "q_zh": "你与对手同时出示硬币的正面或反面。若相同，你得10元对手得0；若不同，对手得10元你得0。你知道对手是理性且自私的。你会出示：",
+    "q_en": "You and an opponent simultaneously show Heads or Tails. If they match, you get $10, opponent gets $0. If they differ, opponent gets $10, you get $0. You know the opponent is rational and selfish. You will show:",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你参加一场“猜平均数”的竞赛：所有人从0-100选一个数，最接近平均数的2/3者获胜。你认为其他参与者大致是理性的。你会选：",
+    "q_en": "You are in a 'Guess 2/3 of the Average' game: everyone picks a number 0-100, closest to 2/3 of the average wins. You believe other players are roughly rational. You will pick:",
+    "a_zh": "一个较小的数（如10-30）",
+    "a_en": "A small number (e.g., 10-30)",
+    "b_zh": "0",
+    "b_en": "0"
+  },
+  {
+    "q_zh": "你与对手玩三局两胜的剪刀石头布，目前比分1:1。最后一局前，你可以提议“我们本轮都出剪刀，平局后加赛”，但对方可能反悔。你会：",
+    "q_en": "You are tied 1-1 in a best-of-three Rock-Paper-Scissors. Before the final round, you can propose 'We both play Scissors for a tie, then play a decider', but the opponent might betray you. You will:",
+    "a_zh": "提出平局协议",
+    "a_en": "Propose the tie agreement",
+    "b_zh": "不提议，正常进行最后一局",
+    "b_en": "Make no proposal, play normally"
+  },
+  {
+    "q_zh": "作为面试官，你怀疑候选人夸大了经历。你可以直接质疑（可能冒犯诚实者），或忽略疑虑（可能雇用说谎者）。你会：",
+    "q_en": "As an interviewer, you suspect a candidate exaggerated their experience. You can directly challenge (risking offending an honest person) or ignore your doubt (risking hiring a liar). You will:",
+    "a_zh": "直接提出质疑",
+    "a_en": "Challenge directly",
+    "b_zh": "忽略疑虑，继续面试",
+    "b_en": "Ignore the doubt, proceed"
+  },
+  {
+    "q_zh": "在多人投票中，你的首选A几乎无胜算，次选B与热门C势均力敌。投票规则为简单多数。你会投给：",
+    "q_en": "In a multi-candidate vote, your favorite A has no chance. Your second choice B is competitive with the frontrunner C. Plurality voting rule. You will vote for:",
+    "a_zh": "首选A（坚持立场）",
+    "a_en": "Favorite A (stay loyal)",
+    "b_zh": "次选B（策略投票）",
+    "b_en": "Second choice B (vote strategically)"
+  },
+  {
+    "q_zh": "你发现同事在工作中有一个小错误。指出错误对团队有益，但可能让对方难堪。错误的影响很小且可能不会被发现。你会：",
+    "q_en": "You notice a minor mistake by a colleague. Pointing it out helps the team but may embarrass them. The impact is tiny and might go unnoticed. You will:",
+    "a_zh": "私下指出错误",
+    "a_en": "Point it out privately",
+    "b_zh": "保持沉默",
+    "b_en": "Remain silent"
+  },
+  {
+    "q_zh": "谈判最后阶段，对方给出了一个略低于你底线的最终报价。你知道若拒绝，双方都将一无所获，且关系可能破裂。你会：",
+    "q_en": "At the end of a negotiation, the other side makes a final offer slightly below your reservation value. If you reject, both get nothing and the relationship may sour. You will:",
+    "a_zh": "接受该报价",
+    "a_en": "Accept the offer",
+    "b_zh": "拒绝，坚持底线",
+    "b_en": "Reject, hold your line"
   }
 ]
