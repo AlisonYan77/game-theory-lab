@@ -778,5 +778,85 @@
     "a_en": "Accept the offer",
     "b_zh": "拒绝，坚持底线",
     "b_en": "Reject, hold your line"
+  },
+  {
+    "q_zh": "你参加一个拍卖，规则是出价最高者获胜，但前两名都需要支付自己的出价。你目前是第二名，且知道第一名的出价。你会选择：",
+    "q_en": "You are in an auction where the highest bidder wins, but both the top two bidders must pay their bids. You are currently second and know the first-place bid. Do you:",
+    "a_zh": "加价超过第一名，争取胜利",
+    "a_en": "Bid higher than the first place to try to win",
+    "b_zh": "保持当前出价，避免更大损失",
+    "b_en": "Keep your current bid to avoid greater losses"
+  },
+  {
+    "q_zh": "在囚徒困境中，如果对方上一轮选择背叛，你这一轮会：",
+    "q_en": "In a prisoner's dilemma, if the other player betrayed in the last round, you will:",
+    "a_zh": "选择合作，试图重建信任",
+    "a_en": "Cooperate to try to rebuild trust",
+    "b_zh": "选择背叛，以防再次被利用",
+    "b_en": "Betray to avoid being exploited again"
+  },
+  {
+    "q_zh": "你有一笔钱可以投资两个项目之一：A项目有50%概率翻倍，50%概率损失一半；B项目保证获得25%收益。你会选：",
+    "q_en": "You can invest in one of two projects: A has a 50% chance to double and 50% chance to lose half; B guarantees a 25% return. You choose:",
+    "a_zh": "A项目，追求更高回报",
+    "a_en": "Project A, pursuing higher returns",
+    "b_zh": "B项目，确保稳定收益",
+    "b_en": "Project B, ensuring stable gains"
+  },
+  {
+    "q_zh": "在谈判中，对方突然给出一个远低于你预期的报价。你会：",
+    "q_en": "In a negotiation, the other party suddenly makes an offer far below your expectations. You:",
+    "a_zh": "直接拒绝并给出你的底线",
+    "a_en": "Reject directly and state your bottom line",
+    "b_zh": "假装接受，但后续寻找机会调整",
+    "b_en": "Pretend to accept but look for chances to adjust later"
+  },
+  {
+    "q_zh": "团队任务中，有一个成员总是偷懒但分享成果时很积极。你会：",
+    "q_en": "In a team task, one member is always lazy but very active when sharing results. You:",
+    "a_zh": "公开指出问题，要求公平分配",
+    "a_en": "Point it out publicly and demand fair distribution",
+    "b_zh": "私下沟通，避免团队矛盾",
+    "b_en": "Communicate privately to avoid team conflict"
+  },
+  {
+    "q_zh": "你参加一个游戏，可以选择拿走100元，或者冒险：有10%机会获得2000元，90%机会得0元。你会：",
+    "q_en": "In a game, you can take $100 or risk: 10% chance to get $2000, 90% chance to get $0. You:",
+    "a_zh": "冒险争取2000元",
+    "a_en": "Take the risk for $2000",
+    "b_zh": "稳妥拿走100元",
+    "b_en": "Take the guaranteed $100"
+  },
+  {
+    "q_zh": "你知道同事的一个秘密，如果透露可能对你有益但会伤害对方。你会：",
+    "q_en": "You know a colleague's secret that could benefit you if revealed but would hurt them. You:",
+    "a_zh": "保守秘密，维持关系",
+    "a_en": "Keep the secret to maintain the relationship",
+    "b_zh": "透露秘密，争取自身利益",
+    "b_en": "Reveal the secret to pursue your own interests"
+  },
+  {
+    "q_zh": "在多人投票中，你发现自己的首选注定失败，而次选有机会获胜。你会：",
+    "q_en": "In a multi-person vote, you see your first choice is doomed to lose, while your second choice has a chance. You:",
+    "a_zh": "坚持投给首选，表达立场",
+    "a_en": "Vote for your first choice to express your stance",
+    "b_zh": "改投次选，影响结果",
+    "b_en": "Switch to your second choice to influence the outcome"
+  },
+  {
+    "q_zh": "你预测市场即将下跌，但大多数专家持乐观态度。你会：",
+    "q_en": "You predict the market will fall, but most experts are optimistic. You:",
+    "a_zh": "跟随大众观点，避免特立独行",
+    "a_en": "Follow the majority to avoid being an outlier",
+    "b_zh": "坚持自己的判断，逆向操作",
+    "b_en": "Stick to your judgment and act contrarily"
+  },
+  {
+    "q_zh": "合作项目中，对方突然要求修改分成比例，对你不利但项目已投入很多。你会：",
+    "q_en": "In a joint project, the other party suddenly demands to change the profit split to your disadvantage, but much has been invested. You:",
+    "a_zh": "接受条件，确保项目完成",
+    "a_en": "Accept the terms to ensure project completion",
+    "b_zh": "拒绝并威胁退出，迫使对方让步",
+    "b_en": "Refuse and threaten to quit to force concessions"
   }
 ]
