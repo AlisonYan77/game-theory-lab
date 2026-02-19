@@ -858,5 +858,85 @@
     "a_en": "Accept the terms to ensure project completion",
     "b_zh": "拒绝并威胁退出，迫使对方让步",
     "b_en": "Refuse and threaten to quit to force concessions"
+  },
+  {
+    "q_zh": "你与对手各自在纸上写下一个1-100之间的整数，谁写的数字更接近对方数字的2/3，谁获胜。你会写多少？",
+    "q_en": "You and your opponent each write an integer between 1 and 100. Whoever writes a number closest to 2/3 of the opponent's number wins. What number do you write?",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你和对手同时决定是否合作。若都合作，各得3分；若都背叛，各得1分；若一人合作一人背叛，背叛者得5分，合作者得0分。你会选择？",
+    "q_en": "You and your opponent simultaneously decide to cooperate or defect. If both cooperate, each gets 3 points; if both defect, each gets 1 point; if one cooperates and one defects, the defector gets 5 points and the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "拍卖一张100元纸币，出价最高者获得纸币，但出价前两名都需要支付自己的出价。你愿意出价多少？",
+    "q_en": "Auction for a $100 bill. The highest bidder wins the bill, but the top two bidders both pay their bids. How much are you willing to bid?",
+    "a_zh": "50元",
+    "a_en": "$50",
+    "b_zh": "0元（不参与）",
+    "b_en": "$0 (Do not participate)"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆10枚硬币中取走1-3枚，取走最后一枚者输。你先手，第一次会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 coins from a pile of 10 coins. The player who takes the last coin loses. You go first. How many coins do you take on your first turn?",
+    "a_zh": "1枚",
+    "a_en": "1 coin",
+    "b_zh": "2枚",
+    "b_en": "2 coins"
+  },
+  {
+    "q_zh": "你和对手各有一个秘密数字（1-10），裁判公布两数之和。若你猜中对方的数字，得10分；若对方猜中你的，对方得10分。你会选哪个数字？",
+    "q_en": "You and your opponent each have a secret number (1-10). The referee announces the sum of the two numbers. If you guess the opponent's number correctly, you get 10 points; if they guess yours, they get 10 points. Which number do you choose?",
+    "a_zh": "7",
+    "a_en": "7",
+    "b_zh": "4",
+    "b_en": "4"
+  },
+  {
+    "q_zh": "你与对手分10枚金币。你提出分配方案（如“我7你3”），对方接受则按此分配，拒绝则两人都得不到金币。你会如何提议？",
+    "q_en": "You and your opponent split 10 gold coins. You propose a distribution (e.g., 'I take 7, you take 3'). If the opponent accepts, the coins are distributed as proposed; if rejected, both get nothing. What do you propose?",
+    "a_zh": "我5你5",
+    "a_en": "I take 5, you take 5",
+    "b_zh": "我7你3",
+    "b_en": "I take 7, you take 3"
+  },
+  {
+    "q_zh": "你和对手同时选择“红”或“蓝”。若颜色相同，各得100元；若不同，选红者得200元，选蓝者得0元。你会选什么？",
+    "q_en": "You and your opponent simultaneously choose 'Red' or 'Blue'. If both choose the same color, each gets $100; if different, the one who chose Red gets $200, and the one who chose Blue gets $0. What do you choose?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你和对手各有一个按钮。若都不按，各得2元；若一人按另一人不按，按者得3元，不按者得1元；若都按，各得0元。你会按吗？",
+    "q_en": "You and your opponent each have a button. If neither presses, each gets $2; if one presses and the other doesn't, the presser gets $3 and the non-presser gets $1; if both press, each gets $0. Do you press the button?",
+    "a_zh": "按",
+    "a_en": "Press",
+    "b_zh": "不按",
+    "b_en": "Do not press"
+  },
+  {
+    "q_zh": "你和对手进行多轮信任游戏。每轮你先决定是否给对方1元（若给，对方收到3元），然后对方决定是否还你2元。这是第一轮，你会给吗？",
+    "q_en": "You and your opponent play multiple rounds of a trust game. Each round, you first decide whether to give $1 to the opponent (if you give, they receive $3). Then they decide whether to return $2 to you. This is the first round. Do you give?",
+    "a_zh": "给",
+    "a_en": "Give",
+    "b_zh": "不给",
+    "b_en": "Do not give"
+  },
+  {
+    "q_zh": "你和对手各自预测对方会选A还是B。若都预测正确，各得100元；若都错误，各得0元；若一人正确一人错误，正确者得150元，错误者得50元。你预测对方会选？",
+    "q_en": "You and your opponent each predict whether the other will choose A or B. If both predictions are correct, each gets $100; if both are wrong, each gets $0; if one is correct and the other wrong, the correct one gets $150 and the wrong one gets $50. What do you predict the opponent will choose?",
+    "a_zh": "A",
+    "a_en": "A",
+    "b_zh": "B",
+    "b_en": "B"
   }
 ]
