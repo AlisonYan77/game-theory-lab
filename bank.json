@@ -938,5 +938,85 @@
     "a_en": "A",
     "b_zh": "B",
     "b_en": "B"
+  },
+  {
+    "q_zh": "你与对手各自拥有100枚金币。你们需要同时决定是否向公共池投入金币，投入的金币会翻倍后平分给两人。你会选择：",
+    "q_en": "You and your opponent each have 100 gold coins. You must simultaneously decide whether to contribute coins to a public pool. Contributed coins are doubled and then split equally between both players. You choose to:",
+    "a_zh": "投入50枚金币",
+    "a_en": "Contribute 50 coins",
+    "b_zh": "不投入任何金币",
+    "b_en": "Contribute 0 coins"
+  },
+  {
+    "q_zh": "在一场拍卖中，你和对手竞拍一张价值100元的钞票。出价最高者获得钞票，但两位竞拍者都需要支付自己的出价。你会出价：",
+    "q_en": "In an auction, you and your opponent bid for a $100 bill. The highest bidder wins the bill, but both bidders must pay their own bid. You bid:",
+    "a_zh": "51元",
+    "a_en": "$51",
+    "b_zh": "0元（放弃竞拍）",
+    "b_en": "$0 (drop out)"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆10枚金币中取走1-3枚。取走最后一枚金币的人获胜。现在轮到你，还剩4枚金币。你会取走：",
+    "q_en": "You and your opponent take turns removing 1-3 gold coins from a pile of 10 coins. The player who takes the last coin wins. It's your turn, and there are 4 coins left. You remove:",
+    "a_zh": "3枚金币",
+    "a_en": "3 coins",
+    "b_zh": "1枚金币",
+    "b_en": "1 coin"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下“合作”或“背叛”。若都写“合作”，各得3分；都写“背叛”，各得1分；一人“合作”一人“背叛”，则背叛者得5分，合作者得0分。你会写：",
+    "q_en": "You and your opponent secretly write 'Cooperate' or 'Defect'. If both write 'Cooperate', each gets 3 points. If both write 'Defect', each gets 1 point. If one writes 'Cooperate' and the other 'Defect', the defector gets 5 points and the cooperator gets 0. You write:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你面前有两个信封：一个装有对手给你的金额X，另一个装有2X。你可以选择交换信封或不交换。你会：",
+    "q_en": "You have two envelopes: one contains an amount X given by your opponent, the other contains 2X. You can choose to swap envelopes or not. You:",
+    "a_zh": "交换信封",
+    "a_en": "Swap envelopes",
+    "b_zh": "不交换信封",
+    "b_en": "Do not swap"
+  },
+  {
+    "q_zh": "你和对手分10枚金币。对手先提出分配方案（如“我7你3”），你可以接受或拒绝。若拒绝，双方都得不到金币。对手提出“我8你2”。你会：",
+    "q_en": "You and your opponent split 10 coins. The opponent first proposes a split (e.g., '7 for me, 3 for you'). You can accept or reject. If rejected, both get nothing. The opponent proposes '8 for me, 2 for you'. You:",
+    "a_zh": "接受",
+    "a_en": "Accept",
+    "b_zh": "拒绝",
+    "b_en": "Reject"
+  },
+  {
+    "q_zh": "你和对手玩三局“剪刀石头布”。每局胜者得1分，平局各得0.5分。已知对手第一局必出“石头”。你第一局会出：",
+    "q_en": "You and your opponent play three rounds of Rock-Paper-Scissors. Each win gives 1 point, a draw gives 0.5 points each. You know the opponent will definitely play 'Rock' in the first round. In the first round, you play:",
+    "a_zh": "布",
+    "a_en": "Paper",
+    "b_zh": "剪刀",
+    "b_en": "Scissors"
+  },
+  {
+    "q_zh": "你和对手各自决定是否投资一个项目。若都投资，各获利4；都不投资，各获利2；仅一人投资，投资者亏损1，不投资者获利3。你会：",
+    "q_en": "You and your opponent each decide whether to invest in a project. If both invest, each gains 4. If neither invests, each gains 2. If only one invests, the investor loses 1 and the non-investor gains 3. You:",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Do not invest"
+  },
+  {
+    "q_zh": "你和对手轮流报数，从1开始，每次可报1-3个数，先报到30的人获胜。现在轮到你，当前数字是26。你会报：",
+    "q_en": "You and your opponent take turns counting numbers starting from 1, each can say 1 to 3 numbers per turn. The one who says '30' wins. It's your turn, and the current number is 26. You say:",
+    "a_zh": "26, 27, 28",
+    "a_en": "26, 27, 28",
+    "b_zh": "26, 27",
+    "b_en": "26, 27"
+  },
+  {
+    "q_zh": "你和对手各自选择“红”或“蓝”。若颜色相同，各得10分；若不同，选“红”者得0分，选“蓝”者得15分。你会选：",
+    "q_en": "You and your opponent each choose 'Red' or 'Blue'. If the colors match, each gets 10 points. If they differ, the one who chose 'Red' gets 0, and the one who chose 'Blue' gets 15. You choose:",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
   }
 ]
