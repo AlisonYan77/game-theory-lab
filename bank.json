@@ -1018,5 +1018,85 @@
     "a_en": "Red",
     "b_zh": "蓝",
     "b_en": "Blue"
+  },
+  {
+    "q_zh": "你参加一个拍卖会，规则是出价最高者获胜，但前两名出价者都需要支付自己的出价。你会：",
+    "q_en": "You participate in an auction where the highest bidder wins, but both the top two bidders must pay their bids. You will:",
+    "a_zh": "出价远低于物品价值，避免陷入“赢家诅咒”",
+    "a_en": "Bid well below the item's value to avoid the \"winner's curse\"",
+    "b_zh": "出价接近物品价值，争取以合理价格获胜",
+    "b_en": "Bid close to the item's value, aiming to win at a reasonable price"
+  },
+  {
+    "q_zh": "作为公司经理，你要在两个项目中分配预算。项目A成功率80%但收益一般；项目B成功率40%但收益很高。你会：",
+    "q_en": "As a manager, you must allocate budget between two projects. Project A has 80% success chance with moderate returns; Project B has 40% chance with high returns. You will:",
+    "a_zh": "选择项目A，稳健的回报更符合公司长期利益",
+    "a_en": "Choose Project A, as stable returns better serve long-term interests",
+    "b_zh": "选择项目B，高风险高回报可能带来突破",
+    "b_en": "Choose Project B, as high risk/high return could bring breakthrough"
+  },
+  {
+    "q_zh": "在合作谈判中，对方突然提出一个明显不公平的方案。你会：",
+    "q_en": "In a cooperative negotiation, the other party suddenly proposes an obviously unfair deal. You will:",
+    "a_zh": "直接拒绝并给出你的公平方案",
+    "a_en": "Reject it directly and present your fair counter-proposal",
+    "b_zh": "先接受部分条款，在后续谈判中逐步调整",
+    "b_en": "Accept some terms first, then gradually adjust in later negotiations"
+  },
+  {
+    "q_zh": "团队面临危机，你需要决定是否公开所有信息。公开可能引起恐慌，不公开可能被指责隐瞒。你会：",
+    "q_en": "Your team faces a crisis. You must decide whether to disclose all information. Disclosure may cause panic; non-disclosure may lead to accusations of concealment. You will:",
+    "a_zh": "选择性公开，控制信息节奏以稳定局面",
+    "a_en": "Disclose selectively, controlling information flow to stabilize the situation",
+    "b_zh": "完全公开，透明化处理以建立长期信任",
+    "b_en": "Disclose fully, handling transparently to build long-term trust"
+  },
+  {
+    "q_zh": "市场竞争激烈，对手刚刚降价。你会：",
+    "q_en": "Market competition is intense; a competitor just lowered prices. You will:",
+    "a_zh": "立即跟进降价，保持市场份额",
+    "a_en": "Immediately match the price cut to maintain market share",
+    "b_zh": "保持价格但增加服务价值，避免价格战",
+    "b_en": "Maintain price but add service value, avoiding price war"
+  },
+  {
+    "q_zh": "你需要从两名候选人中选一个搭档。候选人A能力突出但难以预测；候选人B能力中等但非常可靠。你会选择：",
+    "q_en": "You must choose a partner from two candidates. Candidate A is highly capable but unpredictable; Candidate B is moderately capable but very reliable. You choose:",
+    "a_zh": "候选人A，卓越能力值得承担一定风险",
+    "a_en": "Candidate A, as exceptional ability is worth some risk",
+    "b_zh": "候选人B，可靠性对合作成功至关重要",
+    "b_en": "Candidate B, as reliability is crucial for successful partnership"
+  },
+  {
+    "q_zh": "在多方博弈中，你发现两个对手可能私下结盟。你会：",
+    "q_en": "In a multi-party game, you suspect two opponents may have formed a private alliance. You will:",
+    "a_zh": "公开质疑他们的关系，破坏潜在联盟",
+    "a_en": "Publicly question their relationship to disrupt the potential alliance",
+    "b_zh": "私下接触其中一方，尝试建立自己的联盟",
+    "b_en": "Privately approach one party to try forming your own alliance"
+  },
+  {
+    "q_zh": "投资决策时，你更倾向于：",
+    "q_en": "When making investment decisions, you tend to:",
+    "a_zh": "分散投资以降低整体风险",
+    "a_en": "Diversify investments to reduce overall risk",
+    "b_zh": "集中投资最有信心的领域",
+    "b_en": "Concentrate investments in areas of highest confidence"
+  },
+  {
+    "q_zh": "当团队出现内部冲突时，作为领导者你会：",
+    "q_en": "When internal conflict arises within the team, as a leader you will:",
+    "a_zh": "立即介入调解，明确规则和界限",
+    "a_en": "Intervene immediately to mediate, establishing clear rules and boundaries",
+    "b_zh": "允许冲突暂时存在，观察团队自我调节能力",
+    "b_en": "Allow conflict to exist temporarily, observing the team's self-regulation ability"
+  },
+  {
+    "q_zh": "面对一个可能改变行业的新技术，但早期采用风险很大。你会：",
+    "q_en": "Facing a new technology that could change the industry, but early adoption carries high risk. You will:",
+    "a_zh": "成为早期采用者，抢占市场先机",
+    "a_en": "Become an early adopter to seize market advantage",
+    "b_zh": "等待技术成熟后再跟进，降低风险",
+    "b_en": "Wait for the technology to mature before following, reducing risk"
   }
 ]
