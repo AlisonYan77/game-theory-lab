@@ -1098,5 +1098,85 @@
     "a_en": "Become an early adopter to seize market advantage",
     "b_zh": "等待技术成熟后再跟进，降低风险",
     "b_en": "Wait for the technology to mature before following, reducing risk"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-10中的一个整数。若两数之和为奇数，你获得对手写的数字的金额；若为偶数，对手获得你写的数字的金额。你会写哪个数字？",
+    "q_en": "You and your opponent secretly write an integer from 1 to 10. If the sum is odd, you win the amount equal to your opponent's number. If the sum is even, your opponent wins the amount equal to your number. Which number do you write?",
+    "a_zh": "写一个奇数（如1、3、5）",
+    "a_en": "Write an odd number (e.g., 1, 3, 5)",
+    "b_zh": "写一个偶数（如2、4、6）",
+    "b_en": "Write an even number (e.g., 2, 4, 6)"
+  },
+  {
+    "q_zh": "你和对手各持10枚金币。你们同时决定捐出多少金币（0-10）给公共池。公共池的总和会翻倍后平分给两人。你会捐多少？",
+    "q_en": "You and your opponent each have 10 gold coins. You simultaneously decide how many to contribute (0-10) to a public pool. The total in the pool is doubled and split equally between you two. How much do you contribute?",
+    "a_zh": "捐出大部分金币（如8-10枚）",
+    "a_en": "Contribute most of your coins (e.g., 8-10)",
+    "b_zh": "捐出少量或不捐（如0-3枚）",
+    "b_en": "Contribute little or nothing (e.g., 0-3)"
+  },
+  {
+    "q_zh": "你要在两个选项中做出选择，对手会预测你的选择。若对手预测正确，他得2分你不得分；若预测错误，你得1分他不得分。你会如何选择？",
+    "q_en": "You choose between two options, and your opponent predicts your choice. If correct, they get 2 points and you get 0. If wrong, you get 1 point and they get 0. How do you choose?",
+    "a_zh": "随机选择（如抛硬币决定）",
+    "a_en": "Choose randomly (e.g., flip a coin)",
+    "b_zh": "固定选择一个选项（如总是选A）",
+    "b_en": "Stick to one option consistently (e.g., always choose A)"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆15枚金币中取走1-3枚。取走最后一枚金币的人获胜。你先手，你会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 gold coins from a pile of 15. The one who takes the last coin wins. You go first. How many do you take?",
+    "a_zh": "取1枚",
+    "a_en": "Take 1 coin",
+    "b_zh": "取2枚",
+    "b_en": "Take 2 coins"
+  },
+  {
+    "q_zh": "你面前有两个按钮：A按钮给你100元，但对手会得到200元；B按钮给你80元，但对手只得40元。你会按哪个？",
+    "q_en": "You have two buttons: Button A gives you ¥100 but gives your opponent ¥200. Button B gives you ¥80 but gives your opponent only ¥40. Which do you press?",
+    "a_zh": "按A按钮（自己得100，对手得200）",
+    "a_en": "Press A (you get 100, opponent gets 200)",
+    "b_zh": "按B按钮（自己得80，对手得40）",
+    "b_en": "Press B (you get 80, opponent gets 40)"
+  },
+  {
+    "q_zh": "你和对手各自决定是否“合作”。若都合作，各得3分；若都背叛，各得1分；若一方合作一方背叛，背叛者得5分，合作者得0分。你会？",
+    "q_en": "You and your opponent decide whether to 'Cooperate'. If both cooperate, each gets 3 points. If both betray, each gets 1. If one betrays and one cooperates, the betrayer gets 5 and the cooperator gets 0. What do you do?",
+    "a_zh": "选择合作",
+    "a_en": "Cooperate",
+    "b_zh": "选择背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你要将100元在自己和对手间分配。对手可以接受或拒绝。若接受，按你的方案分钱；若拒绝，两人都得0元。你会分给对手多少？",
+    "q_en": "You propose how to split ¥100 between you and your opponent. They can accept or reject. If accepted, the split stands. If rejected, both get ¥0. How much do you offer the opponent?",
+    "a_zh": "分给对手较少金额（如10-30元）",
+    "a_en": "Offer a small amount (e.g., ¥10-30)",
+    "b_zh": "分给对手接近一半（如40-50元）",
+    "b_en": "Offer close to half (e.g., ¥40-50)"
+  },
+  {
+    "q_zh": "你和对手玩三局“石头剪刀布”。每局胜者得1分。已知对手第一局会出“石头”。你第一局会出什么？",
+    "q_en": "You play three rounds of Rock-Paper-Scissors. Each win earns 1 point. You know the opponent will play 'Rock' in the first round. What do you play first?",
+    "a_zh": "出“布”（直接赢第一局）",
+    "a_en": "Play 'Paper' (win the first round directly)",
+    "b_zh": "出“剪刀”（故意输掉第一局）",
+    "b_en": "Play 'Scissors' (lose the first round intentionally)"
+  },
+  {
+    "q_zh": "拍卖一张价值100元的钞票，你和对手轮流出价，每次加价至少1元。出价最高者支付所出价格并获得钞票。你先从1元开始叫价，你会叫到多少？",
+    "q_en": "You auction a ¥100 bill. You and your opponent take turns bidding, increasing by at least ¥1 each time. The highest bidder pays their bid and gets the bill. You start by bidding ¥1. How high will you go?",
+    "a_zh": "在较低价格退出（如不超过50元）",
+    "a_en": "Drop out at a low price (e.g., not above ¥50)",
+    "b_zh": "叫价到接近或超过100元",
+    "b_en": "Bid close to or above ¥100"
+  },
+  {
+    "q_zh": "你与对手进行多轮博弈。每轮你可以选择“信任”或“不信任”。若双方都“信任”，各得2分；若一方“信任”一方“不信任”，“不信任”方得3分，“信任”方得-1分；若都“不信任”，各得0分。你会如何开始？",
+    "q_en": "You play multiple rounds with an opponent. Each round, you can choose 'Trust' or 'Distrust'. If both trust, each gets 2 points. If one distrusts and one trusts, the distrusting player gets 3, the trusting player gets -1. If both distrust, each gets 0. How do you start?",
+    "a_zh": "第一轮选择“信任”",
+    "a_en": "Choose 'Trust' in the first round",
+    "b_zh": "第一轮选择“不信任”",
+    "b_en": "Choose 'Distrust' in the first round"
   }
 ]
