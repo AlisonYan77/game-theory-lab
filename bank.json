@@ -1178,5 +1178,85 @@
     "a_en": "Choose 'Trust' in the first round",
     "b_zh": "第一轮选择“不信任”",
     "b_en": "Choose 'Distrust' in the first round"
+  },
+  {
+    "q_zh": "你与对手各持100元，同时决定是否捐赠给对方一部分。若双方都捐赠，则各自保留的钱翻倍；若只有一方捐赠，则捐赠者的钱归对方所有；若都不捐赠，则保留原有钱。你会选择：",
+    "q_en": "You and an opponent each hold $100, and simultaneously decide whether to donate a portion to the other. If both donate, each keeps their money doubled; if only one donates, the donor's money goes to the other; if neither donates, both keep their original money. You choose:",
+    "a_zh": "捐赠",
+    "a_en": "Donate",
+    "b_zh": "不捐赠",
+    "b_en": "Not donate"
+  },
+  {
+    "q_zh": "在一场拍卖中，出价最高者赢得奖品，但前两名出价者都需支付自己的出价金额。你已知对手大概率会出价50元，你会出价：",
+    "q_en": "In an auction, the highest bidder wins the prize, but the top two bidders both pay their bid amounts. You know your opponent is likely to bid $50. You bid:",
+    "a_zh": "51元",
+    "a_en": "$51",
+    "b_zh": "0元（不参与）",
+    "b_en": "$0 (not participate)"
+  },
+  {
+    "q_zh": "两人分10枚金币，由你提出分配方案（如“我得X枚，对方得Y枚”），对方可选择接受或拒绝。若拒绝，双方都得不到金币。你会提议：",
+    "q_en": "Two people split 10 gold coins. You propose a distribution (e.g., 'I get X, the other gets Y'). The other can accept or reject. If rejected, both get nothing. You propose:",
+    "a_zh": "我得9枚，对方得1枚",
+    "a_en": "I get 9, the other gets 1",
+    "b_zh": "我得5枚，对方得5枚",
+    "b_en": "I get 5, the other gets 5"
+  },
+  {
+    "q_zh": "你与对手轮流从20枚硬币中取走1-3枚，取走最后一枚者输。现在轮到你，还剩4枚硬币。你会取走：",
+    "q_en": "You and an opponent take turns removing 1-3 coins from a pile of 20. The one who takes the last coin loses. It's your turn, with 4 coins left. You remove:",
+    "a_zh": "3枚",
+    "a_en": "3 coins",
+    "b_zh": "1枚",
+    "b_en": "1 coin"
+  },
+  {
+    "q_zh": "你们各自在0-100间选一个数，最接近平均数的2/3者获胜。你认为多数人会随机选数，你会选：",
+    "q_en": "Each chooses a number between 0 and 100. The one closest to 2/3 of the average wins. You think most people will choose randomly. You choose:",
+    "a_zh": "0",
+    "a_en": "0",
+    "b_zh": "33",
+    "b_en": "33"
+  },
+  {
+    "q_zh": "合作任务中，你们可各自选择“全力投入”或“偷懒”。若都全力投入，各得3分；都偷懒，各得1分；若一人偷懒一人投入，偷懒者得5分，投入者得0分。你会：",
+    "q_en": "In a cooperative task, each can choose 'full effort' or 'slack off'. If both choose full effort, each gets 3 points; if both slack off, each gets 1; if one slacks and the other works, the slacker gets 5 points, the worker gets 0. You choose:",
+    "a_zh": "全力投入",
+    "a_en": "Full effort",
+    "b_zh": "偷懒",
+    "b_en": "Slack off"
+  },
+  {
+    "q_zh": "你需猜测对手在“红/蓝”二选一中的选择。若猜对，你得2分；若猜错，对手得1分。你会猜：",
+    "q_en": "You must guess your opponent's choice between 'Red' or 'Blue'. If correct, you get 2 points; if wrong, opponent gets 1 point. You guess:",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你们各自决定是否信任对方：若互信，各得3元；若互不信任，各得1元；若一方信任而另一方背叛，背叛者得5元，信任者得0元。你会：",
+    "q_en": "Each decides whether to trust the other: if both trust, each gets $3; if both distrust, each gets $1; if one trusts and the other betrays, the betrayer gets $5, the truster gets $0. You choose:",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "不信任",
+    "b_en": "Distrust"
+  },
+  {
+    "q_zh": "你与对手各有一个按钮，若都在10秒内按下，各得100元；若只有一人按下，按下者罚10元，未按者得50元；若都不按，各得0元。你会：",
+    "q_en": "Each has a button. If both press within 10 seconds, each gets $100; if only one presses, the presser loses $10, the non-presser gets $50; if neither presses, both get $0. You choose:",
+    "a_zh": "按下按钮",
+    "a_en": "Press the button",
+    "b_zh": "不按按钮",
+    "b_en": "Not press"
+  },
+  {
+    "q_zh": "你面前有两个信封：一个含X元，另一个含2X元。你随机选一个并打开，发现是100元。此时你可以选择交换另一个信封。你会：",
+    "q_en": "Two envelopes: one contains $X, the other contains $2X. You randomly pick one and open it, finding $100. You may switch to the other envelope. You choose:",
+    "a_zh": "交换",
+    "a_en": "Switch",
+    "b_zh": "不交换",
+    "b_en": "Keep"
   }
 ]
