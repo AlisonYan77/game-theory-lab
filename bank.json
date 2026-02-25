@@ -1338,5 +1338,85 @@
     "a_en": "Red",
     "b_zh": "蓝色",
     "b_en": "Blue"
+  },
+  {
+    "q_zh": "你参加一场拍卖会，规则是出价最高者获胜，但前两名都需要支付自己的出价。你目前是第二名，且价格已远超物品实际价值。你会：",
+    "q_en": "You are in an auction where the highest bidder wins, but the top two bidders both pay their bids. You are currently second, and the price far exceeds the item's actual value. Do you:",
+    "a_zh": "继续加价，试图反超第一名",
+    "a_en": "Bid higher to overtake the first place",
+    "b_zh": "立即退出，避免更大损失",
+    "b_en": "Drop out immediately to avoid greater loss"
+  },
+  {
+    "q_zh": "你和对手各自在纸上写一个1-10之间的整数。若两数之和≤10，你们各得自己写的数字的奖金；若＞10，都得0。你会写：",
+    "q_en": "You and an opponent each write an integer from 1 to 10. If the sum ≤10, each gets their number as prize; if >10, both get 0. You write:",
+    "a_zh": "写5（追求平衡与稳定）",
+    "a_en": "Write 5 (seeking balance and stability)",
+    "b_zh": "写8（冒险争取更高收益）",
+    "b_en": "Write 8 (risking for higher gain)"
+  },
+  {
+    "q_zh": "在多人投票淘汰游戏中，你发现两名强者结盟。此时你会：",
+    "q_en": "In a multiplayer elimination game, you find two strong players forming an alliance. Do you:",
+    "a_zh": "联合其他弱者先淘汰一名强者",
+    "a_en": "Unite with other weak players to eliminate one strong player first",
+    "b_zh": "尝试加入强者联盟以求自保",
+    "b_en": "Try to join the strong alliance for self-preservation"
+  },
+  {
+    "q_zh": "谈判中对方提出一个对你明显不利的方案，但强调‘这是最终报价’。你会：",
+    "q_en": "In a negotiation, the other party offers a clearly unfavorable deal but insists 'this is the final offer.' Do you:",
+    "a_zh": "直接拒绝，并准备离开谈判桌",
+    "a_en": "Reject it outright and prepare to walk away",
+    "b_zh": "假装接受，但后续寻找条款漏洞",
+    "b_en": "Pretend to accept, then look for loopholes later"
+  },
+  {
+    "q_zh": "团队任务中，你的贡献远超他人，但奖励会平均分配。下一轮任务你会：",
+    "q_en": "In a team task, your contribution far exceeds others, but rewards are split equally. In the next round, do you:",
+    "a_zh": "继续全力付出，相信公平终会到来",
+    "a_en": "Continue giving your all, believing fairness will come",
+    "b_zh": "刻意减少努力，达到团队平均水平",
+    "b_en": "Deliberately reduce effort to match the team average"
+  },
+  {
+    "q_zh": "猜拳比赛中，对手已连续出两次‘石头’。下一局你会出：",
+    "q_en": "In a rock-paper-scissors tournament, your opponent has played 'rock' twice in a row. Next round you play:",
+    "a_zh": "剪刀（预判对方会以为你出布）",
+    "a_en": "Scissors (anticipating they'll think you'll play paper)",
+    "b_zh": "布（相信对方会坚持出石头）",
+    "b_en": "Paper (believing they'll stick with rock)"
+  },
+  {
+    "q_zh": "投资游戏中，你已亏损30%。此时有一个高风险高回报的翻盘机会，你会：",
+    "q_en": "In an investment game, you've lost 30%. There's a high-risk, high-reward chance to recover. Do you:",
+    "a_zh": "投入剩余资金的70%搏一把",
+    "a_en": "Invest 70% of remaining funds to gamble",
+    "b_zh": "只投入10%，保留实力求稳",
+    "b_en": "Invest only 10%, preserving capital for stability"
+  },
+  {
+    "q_zh": "匿名投票决定是否惩罚一名违规者。你知道如果惩罚他，自己会获益，但对方会受损。你会：",
+    "q_en": "An anonymous vote decides whether to punish a rule-breaker. You know punishing them benefits you but harms them. Do you:",
+    "a_zh": "投票赞成惩罚（理性选择）",
+    "a_en": "Vote for punishment (rational choice)",
+    "b_zh": "投票反对惩罚（出于同情）",
+    "b_en": "Vote against punishment (out of sympathy)"
+  },
+  {
+    "q_zh": "最后一块蛋糕，你和另一人都想要。对方提议‘石头剪刀布’决定。你会：",
+    "q_en": "There's one piece of cake left, and both you and another person want it. They suggest rock-paper-scissors. Do you:",
+    "a_zh": "接受提议，并快速出拳",
+    "a_en": "Accept and play quickly",
+    "b_zh": "提议平分，避免运气决定",
+    "b_en": "Propose splitting it to avoid luck deciding"
+  },
+  {
+    "q_zh": "在信息不对称的交易中，你发现对方未察觉商品的隐藏缺陷。你会：",
+    "q_en": "In an asymmetric information trade, you discover a hidden defect the other party is unaware of. Do you:",
+    "a_zh": "主动告知缺陷，寻求公平交易",
+    "a_en": "Disclose the defect and seek a fair deal",
+    "b_zh": "隐瞒缺陷，按原价完成交易",
+    "b_en": "Conceal the defect and complete the trade at original price"
   }
 ]
