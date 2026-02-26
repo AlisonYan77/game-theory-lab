@@ -1418,5 +1418,85 @@
     "a_en": "Disclose the defect and seek a fair deal",
     "b_zh": "隐瞒缺陷，按原价完成交易",
     "b_en": "Conceal the defect and complete the trade at original price"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，竞拍一个价值100元的物品。规则是：出价最高者获胜并支付自己的出价，但第二名也需要支付自己的出价且一无所获。你已出价90元，对手出价95元。轮到你时，你会：",
+    "q_en": "You are in an auction against one opponent for an item worth $100. The rule: the highest bidder wins and pays their bid, but the second-highest bidder also pays their bid and gets nothing. You bid $90, your opponent bids $95. It's your turn. Do you:",
+    "a_zh": "出价100元，确保获胜但利润为零",
+    "a_en": "Bid $100 to ensure winning but with zero profit",
+    "b_zh": "放弃加价，接受损失90元",
+    "b_en": "Give up and accept the loss of $90"
+  },
+  {
+    "q_zh": "作为公司CEO，你需要决定是否投资一个高风险项目。若成功，公司利润翻倍；若失败，公司可能破产。董事会一半支持一半反对。你会：",
+    "q_en": "As CEO, you must decide whether to invest in a high-risk project. If successful, company profits double; if it fails, the company may go bankrupt. The board is split 50/50. Do you:",
+    "a_zh": "冒险投资，追求巨大回报",
+    "a_en": "Take the risk and invest for potentially huge returns",
+    "b_zh": "放弃项目，保持稳定经营",
+    "b_en": "Abandon the project and maintain stable operations"
+  },
+  {
+    "q_zh": "谈判中，对方突然提出一个明显不公平的条款。你知道若强硬拒绝可能使谈判破裂，但妥协会损害长期利益。你会：",
+    "q_en": "During negotiations, the other party suddenly proposes an obviously unfair term. You know that firmly rejecting it may break down the talks, but compromising would harm long-term interests. Do you:",
+    "a_zh": "强硬拒绝，准备承担谈判破裂风险",
+    "a_en": "Firmly reject it and prepare for the risk of negotiation breakdown",
+    "b_zh": "暂时妥协，后续再寻找调整机会",
+    "b_en": "Temporarily compromise and seek adjustments later"
+  },
+  {
+    "q_zh": "团队合作任务中，你发现一位成员长期偷懒但善于邀功。公开指责可能破坏团队和谐，沉默则对其他人不公。你会：",
+    "q_en": "In a team project, you find one member consistently slacks off but is good at taking credit. Publicly calling them out may disrupt team harmony; staying silent is unfair to others. Do you:",
+    "a_zh": "私下向领导反映，提供证据",
+    "a_en": "Report privately to the supervisor with evidence",
+    "b_zh": "在团队会议上匿名提出问题",
+    "b_en": "Raise the issue anonymously during a team meeting"
+  },
+  {
+    "q_zh": "竞标中，你得知对手预算上限为100万。你的项目成本是60万，你会报价：",
+    "q_en": "In a bidding process, you learn the opponent's maximum budget is $1 million. Your project costs $600,000. You bid:",
+    "a_zh": "98万，最大化利润但仍低于对手上限",
+    "a_en": "$980,000 to maximize profit while staying below the opponent's limit",
+    "b_zh": "75万，确保中标且保留合理利润",
+    "b_en": "$750,000 to ensure winning while keeping reasonable profit"
+  },
+  {
+    "q_zh": "市场上有两个相似产品竞争。你可以选择：",
+    "q_en": "Two similar products are competing in the market. You can choose to:",
+    "a_zh": "发动价格战，试图逼退对手",
+    "a_en": "Start a price war to force the competitor out",
+    "b_zh": "差异化定位，避免直接冲突",
+    "b_en": "Differentiate your product to avoid direct conflict"
+  },
+  {
+    "q_zh": "你发现同事正在准备跳槽到竞争对手公司。你会：",
+    "q_en": "You discover a colleague is preparing to jump to a competitor. Do you:",
+    "a_zh": "立即报告上级，保护公司利益",
+    "a_en": "Report to superiors immediately to protect company interests",
+    "b_zh": "私下与同事沟通，了解原因",
+    "b_en": "Privately talk to the colleague to understand their reasons"
+  },
+  {
+    "q_zh": "多人合作游戏中，你需要决定是否背叛盟友以获取个人胜利。盟友信任你，但背叛能使你直接获胜。你会：",
+    "q_en": "In a multiplayer game, you must decide whether to betray an ally for personal victory. The ally trusts you, but betrayal would secure your win. Do you:",
+    "a_zh": "保持忠诚，即使可能失去胜利",
+    "a_en": "Stay loyal even if it may cost you the win",
+    "b_zh": "选择背叛，确保个人胜利",
+    "b_en": "Betray to ensure personal victory"
+  },
+  {
+    "q_zh": "作为卖家，你知道商品有隐藏缺陷但买家未发现。法律上无需主动披露，但道德上存在疑虑。你会：",
+    "q_en": "As a seller, you know the product has a hidden flaw the buyer hasn't noticed. Legally, you don't have to disclose it, but morally you're conflicted. Do you:",
+    "a_zh": "主动披露缺陷，调整价格",
+    "a_en": "Disclose the flaw proactively and adjust the price",
+    "b_zh": "保持沉默，按原价交易",
+    "b_en": "Stay silent and complete the transaction at the original price"
+  },
+  {
+    "q_zh": "投资决策：你可以选择投资一个稳定回报5%的项目，或一个可能回报50%也可能亏损20%的项目。你会：",
+    "q_en": "Investment decision: you can choose a stable 5% return project, or a project that could return 50% but might lose 20%. Do you:",
+    "a_zh": "选择稳定5%回报",
+    "a_en": "Choose the stable 5% return",
+    "b_zh": "冒险追求50%高回报",
+    "b_en": "Take the risk for the potential 50% high return"
   }
 ]
