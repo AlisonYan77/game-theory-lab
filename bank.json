@@ -1498,5 +1498,85 @@
     "a_en": "Choose the stable 5% return",
     "b_zh": "冒险追求50%高回报",
     "b_en": "Take the risk for the potential 50% high return"
+  },
+  {
+    "q_zh": "在一个拍卖中，你和一个对手竞拍一件价值100元的物品。规则是：出价最高者获胜，但前两名都需要支付自己的出价。你会：",
+    "q_en": "In an auction, you and an opponent bid for an item worth $100. The rule is: the highest bidder wins, but both the top two bidders must pay their bids. You would:",
+    "a_zh": "出价略高于50元，试图以合理成本获胜",
+    "a_en": "Bid slightly above $50, trying to win at a reasonable cost",
+    "b_zh": "出价远低于50元，避免陷入“赢家的诅咒”",
+    "b_en": "Bid well below $50 to avoid the 'winner's curse'"
+  },
+  {
+    "q_zh": "作为公司代表谈判合作，对方先提出一个对你很不利的方案。你会：",
+    "q_en": "As a company representative negotiating cooperation, the other party first proposes a very unfavorable plan. You would:",
+    "a_zh": "直接拒绝并给出自己的方案，展示底线",
+    "a_en": "Reject directly and present your own plan to show your bottom line",
+    "b_zh": "先假装接受部分条款，再逐步讨价还价",
+    "b_en": "Pretend to accept some terms first, then bargain step by step"
+  },
+  {
+    "q_zh": "在“囚徒困境”中，如果你知道对手大概率会选择背叛，你会：",
+    "q_en": "In the 'Prisoner's Dilemma', if you know your opponent is likely to betray, you would:",
+    "a_zh": "选择合作，以争取更好的长期结果",
+    "a_en": "Choose cooperation to strive for a better long-term outcome",
+    "b_zh": "选择背叛，避免自己成为输家",
+    "b_en": "Choose betrayal to avoid being the loser"
+  },
+  {
+    "q_zh": "玩“猜平均数的2/3”游戏时，你认为大多数参与者是：",
+    "q_en": "When playing the 'Guess 2/3 of the average' game, you think most participants are:",
+    "a_zh": "理性且会进行多轮推理",
+    "a_en": "Rational and will engage in multiple rounds of reasoning",
+    "b_zh": "仅凭直觉或只进行一两轮推理",
+    "b_en": "Rely on intuition or only engage in one or two rounds of reasoning"
+  },
+  {
+    "q_zh": "在分蛋糕博弈中，由你负责切蛋糕，但由对手先选。你会：",
+    "q_en": "In the cake-cutting game, you are responsible for cutting the cake, but your opponent chooses first. You would:",
+    "a_zh": "尽量切成大小相等的两块",
+    "a_en": "Try to cut into two equal pieces",
+    "b_zh": "故意切成一块略大、一块略小",
+    "b_en": "Deliberately cut one slightly larger and one slightly smaller"
+  },
+  {
+    "q_zh": "作为卖家，面对一个未知价值的买家时，你会：",
+    "q_en": "As a seller facing a buyer of unknown value, you would:",
+    "a_zh": "先报高价，为后续让步留空间",
+    "a_en": "Quote a high price first to leave room for subsequent concessions",
+    "b_zh": "报出公平价格，以快速达成交易",
+    "b_en": "Quote a fair price to reach a deal quickly"
+  },
+  {
+    "q_zh": "在重复的信任游戏中，对方上一轮选择了背叛。本轮你会：",
+    "q_en": "In a repeated trust game, the other party chose to betray in the previous round. This round you would:",
+    "a_zh": "继续选择信任，以重建合作关系",
+    "a_en": "Continue to choose trust to rebuild cooperation",
+    "b_zh": "选择不信任，作为对背叛的惩罚",
+    "b_en": "Choose distrust as a punishment for betrayal"
+  },
+  {
+    "q_zh": "参加一个“赢家通吃”的比赛，你的实力中等。你会：",
+    "q_en": "Participating in a 'winner-takes-all' competition, your strength is average. You would:",
+    "a_zh": "采取保守策略，确保不犯错误",
+    "a_en": "Adopt a conservative strategy to ensure no mistakes",
+    "b_zh": "采取冒险策略，博取一线胜机",
+    "b_en": "Adopt a risky strategy to seize a slim chance of winning"
+  },
+  {
+    "q_zh": "在公共物品博弈中，你发现有人一直“搭便车”。你会：",
+    "q_en": "In a public goods game, you find someone has been 'free-riding'. You would:",
+    "a_zh": "减少自己的贡献，以示抗议",
+    "a_en": "Reduce your own contribution as a protest",
+    "b_zh": "维持或增加贡献，以身作则",
+    "b_en": "Maintain or increase contributions to lead by example"
+  },
+  {
+    "q_zh": "作为后来者进入一个已有领导者的市场，你会：",
+    "q_en": "As a latecomer entering a market with an existing leader, you would:",
+    "a_zh": "直接正面竞争，争夺市场份额",
+    "a_en": "Compete directly for market share",
+    "b_zh": "寻找差异化细分市场，避免直接冲突",
+    "b_en": "Find a differentiated niche market to avoid direct conflict"
   }
 ]
