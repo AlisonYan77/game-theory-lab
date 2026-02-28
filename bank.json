@@ -1578,5 +1578,85 @@
     "a_en": "Compete directly for market share",
     "b_zh": "寻找差异化细分市场，避免直接冲突",
     "b_en": "Find a differentiated niche market to avoid direct conflict"
+  },
+  {
+    "q_zh": "你与对手各自拥有100元。你们需要同时决定是否向公共池投入50元。如果双方都投入，每人获得额外80元；如果只有一方投入，投入者损失50元，未投入者获得20元；如果都不投入，则保持原状。你会选择？",
+    "q_en": "You and your opponent each have $100. You must simultaneously decide whether to contribute $50 to a public pool. If both contribute, each receives an extra $80. If only one contributes, the contributor loses $50 and the non-contributor gains $20. If neither contributes, nothing changes. What do you choose?",
+    "a_zh": "投入",
+    "a_en": "Contribute",
+    "b_zh": "不投入",
+    "b_en": "Not contribute"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆100枚硬币中取走1-10枚。取走最后一枚硬币的人获胜。现在轮到你，还剩15枚硬币。你会取走多少枚？",
+    "q_en": "You and your opponent take turns taking 1-10 coins from a pile of 100. The player who takes the last coin wins. It's your turn, and there are 15 coins left. How many do you take?",
+    "a_zh": "取走4枚",
+    "a_en": "Take 4 coins",
+    "b_zh": "取走10枚",
+    "b_en": "Take 10 coins"
+  },
+  {
+    "q_zh": "你与对手进行最后通牒博弈：你获得100元，需要提出一个分配方案（如“我拿X元，对方拿100-X元”）。对方只能接受或拒绝。若拒绝，双方都得0元。你会提出自己拿多少？",
+    "q_en": "You play the Ultimatum Game: you receive $100 and propose a split (e.g., 'I take X, the other gets 100-X'). The other can only accept or reject. If rejected, both get $0. How much do you propose for yourself?",
+    "a_zh": "60元",
+    "a_en": "$60",
+    "b_zh": "50元",
+    "b_en": "$50"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下1-100之间的一个数字。谁写的数字最接近对方数字的2/3，谁获胜。你会写哪个数字？",
+    "q_en": "You and your opponent secretly write a number between 1 and 100. Whoever writes the number closest to 2/3 of the other's number wins. What number do you write?",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你与对手玩信任游戏：你先获得50元，可以选择将任意金额（0-50）送给对方，该金额会变为3倍。然后对方决定返还任意金额给你。你会先送出多少？",
+    "q_en": "You play the Trust Game: you first receive $50 and can send any amount (0-50) to the other, which is tripled. Then the other decides how much to return to you. How much do you send initially?",
+    "a_zh": "25元",
+    "a_en": "$25",
+    "b_zh": "0元",
+    "b_en": "$0"
+  },
+  {
+    "q_zh": "你和对手被分开审讯。如果你们都保持沉默，各判1年；如果一人背叛指证对方，背叛者获释，对方判10年；如果互相背叛，各判5年。你会选择？",
+    "q_en": "You and your opponent are interrogated separately. If both stay silent, each gets 1 year. If one betrays the other, the betrayer goes free and the other gets 10 years. If both betray, each gets 5 years. What do you choose?",
+    "a_zh": "保持沉默",
+    "a_en": "Stay silent",
+    "b_zh": "背叛指证",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你与对手竞拍100元现金。规则：出价最高者赢得100元，但前两名出价者都必须支付自己的出价。你会出价多少？",
+    "q_en": "You and your opponent bid for $100 cash. Rule: the highest bidder wins the $100, but the top two bidders must both pay their bids. How much do you bid?",
+    "a_zh": "30元",
+    "a_en": "$30",
+    "b_zh": "51元",
+    "b_en": "$51"
+  },
+  {
+    "q_zh": "你和对手各有10枚炸弹。你们同时决定向对方发射多少枚（0-10）。每枚发射的炸弹有50%概率摧毁对方一枚未发射的炸弹。你会发射多少枚？",
+    "q_en": "You and your opponent each have 10 bombs. You simultaneously decide how many (0-10) to launch at the other. Each launched bomb has a 50% chance to destroy one of the other's unlaunched bombs. How many do you launch?",
+    "a_zh": "5枚",
+    "a_en": "5",
+    "b_zh": "10枚",
+    "b_en": "10"
+  },
+  {
+    "q_zh": "你与对手进行多轮博弈。每轮你可以选择“合作”或“攻击”。若双方都合作，各得2分；若都攻击，各得0分；若一方合作一方攻击，攻击者得3分，合作者得-1分。游戏共10轮。第一轮你会选择？",
+    "q_en": "You and your opponent play multiple rounds. Each round you can choose 'Cooperate' or 'Attack'. If both cooperate, each gets 2 points. If both attack, each gets 0. If one cooperates and one attacks, the attacker gets 3, the cooperator gets -1. There are 10 rounds. What do you choose in round 1?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "攻击",
+    "b_en": "Attack"
+  },
+  {
+    "q_zh": "你与对手面前有两个按钮：红色和蓝色。如果都按红色，各得100元；如果都按蓝色，各得50元；如果一个红一个蓝，按红者得0元，按蓝者得150元。你会按哪个？",
+    "q_en": "You and your opponent face two buttons: red and blue. If both press red, each gets $100. If both press blue, each gets $50. If one presses red and the other blue, the red presser gets $0, the blue presser gets $150. Which do you press?",
+    "a_zh": "红色",
+    "a_en": "Red",
+    "b_zh": "蓝色",
+    "b_en": "Blue"
   }
 ]
