@@ -1658,5 +1658,85 @@
     "a_en": "Red",
     "b_zh": "蓝色",
     "b_en": "Blue"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。你们轮流出价，每次加价至少1元，出价高者获胜但需支付自己的出价。你先手，你会：",
+    "q_en": "You are in an auction against an opponent for an item worth $100. You take turns bidding, with a minimum increase of $1. The highest bidder wins but pays their bid. You go first. Do you:",
+    "a_zh": "出价1元，试图以极低成本获胜",
+    "a_en": "Bid $1, trying to win at minimal cost",
+    "b_zh": "放弃出价，避免陷入“赢家的诅咒”",
+    "b_en": "Pass, avoiding the 'winner's curse'"
+  },
+  {
+    "q_zh": "作为公司主管，你需要决定是否推行一项可能提升效率但会引发员工不满的政策。你会：",
+    "q_en": "As a manager, you must decide whether to implement a policy that may boost efficiency but could upset employees. Do you:",
+    "a_zh": "推行政策，相信长期收益大于短期不满",
+    "a_en": "Implement it, believing long-term gains outweigh short-term discontent",
+    "b_zh": "暂缓推行，优先维持团队士气",
+    "b_en": "Delay it, prioritizing team morale"
+  },
+  {
+    "q_zh": "在合作项目中，对方先采取了信任你的行动。轮到你时，你会：",
+    "q_en": "In a collaborative project, the other party has taken a trusting move first. When it's your turn, do you:",
+    "a_zh": "回报信任，采取合作行动",
+    "a_en": "Reciprocate trust with a cooperative move",
+    "b_zh": "利用对方的信任，为自己争取最大利益",
+    "b_en": "Exploit their trust to maximize your own gain"
+  },
+  {
+    "q_zh": "你发现同事在报告中隐瞒了一个小错误。你会：",
+    "q_en": "You discover a colleague has concealed a minor error in a report. Do you:",
+    "a_zh": "私下提醒对方，维护关系",
+    "a_en": "Privately point it out to maintain the relationship",
+    "b_zh": "公开指出错误，强调透明度",
+    "b_en": "Publicly highlight the error, emphasizing transparency"
+  },
+  {
+    "q_zh": "谈判陷入僵局时，对方突然做出一个看似让步的提议。你会：",
+    "q_en": "When negotiations are deadlocked, the other side suddenly makes a seemingly concessional offer. Do you:",
+    "a_zh": "接受提议，尽快达成协议",
+    "a_en": "Accept the offer to close the deal quickly",
+    "b_zh": "怀疑是陷阱，提出更苛刻的反提议",
+    "b_en": "Suspect a trap and make a tougher counteroffer"
+  },
+  {
+    "q_zh": "在多人投票中，你的首选选项几乎没有胜算。你会：",
+    "q_en": "In a multi-party vote, your preferred option has almost no chance of winning. Do you:",
+    "a_zh": "坚持投给首选，表达立场",
+    "a_en": "Vote for your preference to express your stance",
+    "b_zh": "策略性投票给次优但可能获胜的选项",
+    "b_en": "Vote strategically for a less preferred but viable option"
+  },
+  {
+    "q_zh": "你需要从一个共同资源池中获取资源，但过度使用会导致资源枯竭。你会：",
+    "q_en": "You need to take resources from a common pool, but overuse will deplete it. Do you:",
+    "a_zh": "只取所需，为长期可持续性考虑",
+    "a_en": "Take only what you need, considering long-term sustainability",
+    "b_zh": "尽可能多取，担心别人会先下手",
+    "b_en": "Take as much as possible, fearing others will take first"
+  },
+  {
+    "q_zh": "你怀疑对手在虚张声势，但若你判断错误将损失惨重。你会：",
+    "q_en": "You suspect your opponent is bluffing, but being wrong would be costly. Do you:",
+    "a_zh": "挑战对方，呼叫其虚张声势",
+    "a_en": "Challenge them, calling their bluff",
+    "b_zh": "保守行事，假设对方是强势的",
+    "b_en": "Play it safe, assuming they are strong"
+  },
+  {
+    "q_zh": "在团队竞赛中，你的个人表现突出但可能 overshadow 队友。你会：",
+    "q_en": "In a team competition, your individual performance is outstanding but may overshadow teammates. Do you:",
+    "a_zh": "继续发挥个人最佳水平",
+    "a_en": "Continue performing at your personal best",
+    "b_zh": "适度收敛，鼓励并突出队友贡献",
+    "b_en": "Hold back moderately to encourage and highlight teammates"
+  },
+  {
+    "q_zh": "你知道一个秘密，说出它对你有利但会伤害他人。你会：",
+    "q_en": "You know a secret that would benefit you to reveal but would harm someone else. Do you:",
+    "a_zh": "说出秘密，争取自身利益",
+    "a_en": "Reveal it to pursue your own interest",
+    "b_zh": "保守秘密，尽管可能牺牲机会",
+    "b_en": "Keep it secret, even at a potential cost to yourself"
   }
 ]
