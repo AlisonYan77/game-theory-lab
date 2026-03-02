@@ -1738,5 +1738,85 @@
     "a_en": "Reveal it to pursue your own interest",
     "b_zh": "保守秘密，尽管可能牺牲机会",
     "b_en": "Keep it secret, even at a potential cost to yourself"
+  },
+  {
+    "q_zh": "你与对手各自拥有100元。你们需要同时决定是否向公共池捐款。如果两人都捐款，每人获得150元回报；如果只有一人捐款，捐款者损失100元，不捐者获得200元；如果都不捐，保持原状。你会：",
+    "q_en": "You and your opponent each have $100. You must simultaneously decide whether to donate to a public pool. If both donate, each receives $150. If only one donates, the donor loses $100 while the non-donor gets $200. If neither donates, both keep their $100. You will:",
+    "a_zh": "捐款",
+    "a_en": "Donate",
+    "b_zh": "不捐款",
+    "b_en": "Not donate"
+  },
+  {
+    "q_zh": "你与对手轮流提出分100元方案。你先提议，若对方拒绝，总金额减至50元并由对方提议；若再拒绝，双方得0元。你会提议自己分得：",
+    "q_en": "You and your opponent take turns proposing how to split $100. You propose first. If rejected, the total drops to $50 and the opponent proposes. If rejected again, both get $0. You will propose to take:",
+    "a_zh": "70元，给对方30元",
+    "a_en": "$70 for yourself, $30 for the opponent",
+    "b_zh": "60元，给对方40元",
+    "b_en": "$60 for yourself, $40 for the opponent"
+  },
+  {
+    "q_zh": "你与对手需在1-100间各选一个数，最接近平均数的2/3者获胜。你会选择：",
+    "q_en": "You and your opponent each choose a number between 1 and 100. The one closest to 2/3 of the average wins. You will choose:",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你与对手各有一张“合作”或“背叛”的牌。若都出“合作”，各得3分；都出“背叛”，各得1分；一合作一背叛，背叛者得5分，合作者得0分。你会出：",
+    "q_en": "You and your opponent each play a card: 'Cooperate' or 'Betray'. If both cooperate, each gets 3 points. If both betray, each gets 1 point. If one cooperates and one betrays, the betrayer gets 5 points, the cooperator gets 0. You will play:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你与对手竞拍1元硬币，出价最高者赢得硬币，但两人都需支付自己的出价。你可以出价0-1元之间的任意金额。你会出价：",
+    "q_en": "You and your opponent bid for a $1 coin. The highest bidder wins the coin, but both pay their bid. You can bid any amount between $0 and $1. You will bid:",
+    "a_zh": "0.5元",
+    "a_en": "$0.50",
+    "b_zh": "0元",
+    "b_en": "$0"
+  },
+  {
+    "q_zh": "你与对手进行多轮博弈。每轮可“分享”或“独占”。若两人都分享，各得2元；都独占，各得0元；一分享一独占，独占者得3元，分享者得0元。游戏共10轮。第一轮你会：",
+    "q_en": "You and your opponent play 10 rounds. Each round, you can 'Share' or 'Take'. If both share, each gets $2. If both take, each gets $0. If one shares and one takes, the taker gets $3, the sharer gets $0. In the first round, you will:",
+    "a_zh": "分享",
+    "a_en": "Share",
+    "b_zh": "独占",
+    "b_en": "Take"
+  },
+  {
+    "q_zh": "你与对手各有一个按钮。若都不按，各得2元；若一人按下，按下者得3元，另一人得0元；若都按下，各得1元。你会：",
+    "q_en": "You and your opponent each have a button. If neither presses, each gets $2. If one presses, the presser gets $3, the other gets $0. If both press, each gets $1. You will:",
+    "a_zh": "按下按钮",
+    "a_en": "Press the button",
+    "b_zh": "不按按钮",
+    "b_en": "Not press"
+  },
+  {
+    "q_zh": "你与对手需同时选择“红”或“蓝”。若选择相同，各得10元；若不同，选红者得0元，选蓝者得15元。你会选：",
+    "q_en": "You and your opponent simultaneously choose 'Red' or 'Blue'. If you match, each gets $10. If not, the Red chooser gets $0, the Blue chooser gets $15. You will choose:",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你与对手各有一个秘密数字（1-10）。若两数之和≤10，各得该数字对应的金额；若＞10，都得0。你会选择数字：",
+    "q_en": "You and your opponent each secretly choose a number (1-10). If the sum ≤ 10, each gets their number in dollars. If the sum > 10, both get $0. You will choose:",
+    "a_zh": "5",
+    "a_en": "5",
+    "b_zh": "7",
+    "b_en": "7"
+  },
+  {
+    "q_zh": "你与对手进行最后通牒博弈：你提议如何分10元，对方只能接受或拒绝。若接受，按提议分配；若拒绝，双方得0元。你会提议自己分得：",
+    "q_en": "You and your opponent play the Ultimatum Game: you propose how to split $10, the opponent can only accept or reject. If accepted, the split happens. If rejected, both get $0. You will propose to take:",
+    "a_zh": "8元，给对方2元",
+    "a_en": "$8 for yourself, $2 for the opponent",
+    "b_zh": "6元，给对方4元",
+    "b_en": "$6 for yourself, $4 for the opponent"
   }
 ]
