@@ -1818,5 +1818,83 @@
     "a_en": "$8 for yourself, $2 for the opponent",
     "b_zh": "6元，给对方4元",
     "b_en": "$6 for yourself, $4 for the opponent"
+  },
+  {
+    "q_zh": "你正在参加一场拍卖会，拍卖品是一张100元钞票。规则是：出价最高者获得钞票，但出价前两名都需要支付自己的出价。你会选择：",
+    "q_en": "You are in an auction for a $100 bill. The rule is: the highest bidder wins the bill, but both the top two bidders must pay their bids. You would choose:",
+    "a_zh": "出价1元，希望其他人都不出价",
+    "a_en": "Bid $1, hoping no one else bids",
+    "b_zh": "不出价，避免陷入“赢家诅咒”",
+    "b_en": "Do not bid, to avoid the \"winner's curse\""
+  },
+  {
+    "q_zh": "你和对手各有一笔资金，可以同时选择“投资”或“保留”。如果双方都投资，各得2倍收益；如果一方投资另一方保留，投资者亏损，保留者得少量收益；都保留则无收益。你会：",
+    "q_en": "You and an opponent each have funds and can choose to 'Invest' or 'Keep' simultaneously. If both invest, each gets double returns; if one invests and the other keeps, the investor loses and the keeper gets a small gain; if both keep, no gain. You would:",
+    "a_zh": "选择投资，相信对方也会合作",
+    "a_en": "Choose to invest, trusting the other will cooperate",
+    "b_zh": "选择保留，避免被背叛的风险",
+    "b_en": "Choose to keep, avoiding the risk of betrayal"
+  },
+  {
+    "q_zh": "选择红队，相信大多数人会理性选择",
+    "q_en": "Choose Red Team, believing most will choose rationally",
+    "a_zh": "选择蓝队，赌少数人才能获胜的特殊规则",
+    "a_en": "Choose Blue Team, betting on a special rule where only the minority wins"
+  },
+  {
+    "q_zh": "你和对手轮流从100元中取钱，每次可取1-10元，取完最后一次的人额外获得20元奖金。你先手。你的策略是：",
+    "q_en": "You and an opponent take turns taking $1-10 from $100. The one who takes the last amount gets an extra $20 bonus. You go first. Your strategy is:",
+    "a_zh": "第一次取1元，试图控制最终回合",
+    "a_en": "Take $1 first, trying to control the final round",
+    "b_zh": "第一次取10元，最大化前期收益",
+    "b_en": "Take $10 first, maximizing early gains"
+  },
+  {
+    "q_zh": "你要决定是否信任一个陌生人：若你信任他且他守信，双方各得50元；若你信任但他背叛，他得100元你得0；若你不信任，双方各得10元。你会：",
+    "q_en": "You decide whether to trust a stranger: if you trust and they honor it, both get $50; if you trust but they betray, they get $100 and you get $0; if you don't trust, both get $10. You would:",
+    "a_zh": "选择信任，相信人性本善",
+    "a_en": "Choose to trust, believing in human goodness",
+    "b_zh": "选择不信任，确保最低收益",
+    "b_en": "Choose not to trust, ensuring minimum gain"
+  },
+  {
+    "q_zh": "你和对手各自在0-100之间选一个数，最接近平均数的2/3的人获胜。你认为对手会怎么想？你会选：",
+    "q_en": "You and an opponent each choose a number between 0-100. The one closest to 2/3 of the average wins. How do you think the opponent thinks? You would choose:",
+    "a_zh": "选0，进行无限递归推理",
+    "a_en": "Choose 0, based on infinite recursive reasoning",
+    "b_zh": "选33，假设对手会随机选数",
+    "b_en": "Choose 33, assuming the opponent chooses randomly"
+  },
+  {
+    "q_zh": "你要分配100元给自己和匿名对手：若对方接受，按你的方案分；若拒绝，双方都得0。你会提议：",
+    "q_en": "You propose how to split $100 between you and an anonymous opponent: if they accept, it's split as proposed; if rejected, both get $0. You would propose:",
+    "a_zh": "自己99元，对方1元（考验对方理性）",
+    "a_en": "$99 for you, $1 for them (testing their rationality)",
+    "b_zh": "自己60元，对方40元（确保对方接受）",
+    "b_en": "$60 for you, $40 for them (ensuring acceptance)"
+  },
+  {
+    "q_zh": "你和对手独立选择“合作”或“背叛”。收益矩阵如下：双方合作各得3；双方背叛各得1；你合作对方背叛，你得0他得5。你会：",
+    "q_en": "You and an opponent independently choose 'Cooperate' or 'Betray'. Payoff matrix: both cooperate → 3 each; both betray → 1 each; you cooperate, they betray → 0 for you, 5 for them. You would:",
+    "a_zh": "选择合作，希望达成双赢",
+    "a_en": "Choose to cooperate, hoping for mutual win",
+    "b_zh": "选择背叛，避免最差结果",
+    "b_en": "Choose to betray, avoiding the worst outcome"
+  },
+  {
+    "q_zh": "你参加一个游戏：主持人给你两个信封，一个装另一信封金额的2倍。你选了一个，打开有100元。主持人问是否换另一个信封。你会：",
+    "q_en": "In a game, the host gives you two envelopes: one contains twice the amount of the other. You pick one and find $100. The host asks if you want to switch. You would:",
+    "a_zh": "换，期望值更高",
+    "a_en": "Switch, as the expected value is higher",
+    "b_zh": "不换，避免后悔",
+    "b_en": "Not switch, to avoid regret"
+  },
+  {
+    "q_zh": "你和对手进行多轮博弈，每轮可“合作”或“攻击”。总轮数未知。你的第一轮策略是：",
+    "q_en": "You and an opponent play multiple rounds, each choosing 'Cooperate' or 'Attack'. The total number of rounds is unknown. Your first-round strategy is:",
+    "a_zh": "合作，建立信任关系",
+    "a_en": "Cooperate, to build trust",
+    "b_zh": "攻击，争取先发优势",
+    "b_en": "Attack, to gain first-mover advantage"
   }
 ]
