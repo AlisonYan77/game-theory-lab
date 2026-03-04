@@ -1896,5 +1896,85 @@
     "a_en": "Cooperate, to build trust",
     "b_zh": "攻击，争取先发优势",
     "b_en": "Attack, to gain first-mover advantage"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-100中的一个整数，谁写的数字更接近对方数字的2/3，谁获胜。你会写多少？",
+    "q_en": "You and your opponent secretly write an integer between 1 and 100. Whoever writes a number closest to 2/3 of the other's number wins. What number do you write?",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你和对手各有一枚硬币，同时亮出正面或反面。若都亮正面，各得3元；都亮反面，各得1元；一正一反，反面者得5元，正面者得0元。你会亮哪面？",
+    "q_en": "You and your opponent each have a coin, revealing heads or tails simultaneously. If both show heads, each gets $3; both tails, each gets $1; if different, the one showing tails gets $5, heads gets $0. What do you show?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你与对手轮流从一堆15枚金币中取走1-3枚，取走最后一枚者输。你先手，第一次会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 gold coins from a pile of 15. The one who takes the last coin loses. You go first. How many do you take on your first turn?",
+    "a_zh": "2枚",
+    "a_en": "2 coins",
+    "b_zh": "3枚",
+    "b_en": "3 coins"
+  },
+  {
+    "q_zh": "拍卖一张100元纸币，出价最高者以其出价获得纸币，但出价第二高者也需要支付其出价（且什么也得不到）。你会出价多少？",
+    "q_en": "A $100 bill is auctioned. The highest bidder pays their bid and gets the bill, but the second-highest bidder also pays their bid (and gets nothing). How much do you bid?",
+    "a_zh": "50元",
+    "a_en": "$50",
+    "b_zh": "0元（不参与）",
+    "b_en": "$0 (do not participate)"
+  },
+  {
+    "q_zh": "你和对手各自决定合作（C）或背叛（D）。收益矩阵为：都合作各得3；都背叛各得1；你合作对手背叛，你得0对手得5；反之你得5对手得0。这是一次性博弈，你会选？",
+    "q_en": "You and your opponent choose to Cooperate (C) or Defect (D). Payoffs: both C → (3,3); both D → (1,1); you C, opponent D → (0,5); you D, opponent C → (5,0). This is a one-shot game. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你和对手同时决定是否信任对方。若互相信任，各得4；互不信任，各得2；你信任而对方不信任，你得1对方得5；反之你得5对方得1。你会信任吗？",
+    "q_en": "You and your opponent simultaneously decide whether to trust each other. Both trust → (4,4); both distrust → (2,2); you trust, opponent distrusts → (1,5); you distrust, opponent trusts → (5,1). Do you trust?",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "不信任",
+    "b_en": "Distrust"
+  },
+  {
+    "q_zh": "你有一个提议：将100元在你和对手间分配。对手只能接受或拒绝。若拒绝，双方都得0。你会提议自己拿多少？",
+    "q_en": "You propose how to split $100 between you and your opponent. The opponent can only accept or reject. If rejected, both get $0. How much do you propose to keep for yourself?",
+    "a_zh": "70元",
+    "a_en": "$70",
+    "b_zh": "50元",
+    "b_en": "$50"
+  },
+  {
+    "q_zh": "你和对手各有一个按钮。若都不按，各得2；若都按，各得1；若一人按另一人不按，按者得3，不按者得0。你会按吗？",
+    "q_en": "You and your opponent each have a button. If neither presses, both get 2; if both press, both get 1; if one presses and the other doesn't, the presser gets 3, the non-presser gets 0. Do you press?",
+    "a_zh": "按",
+    "a_en": "Press",
+    "b_zh": "不按",
+    "b_en": "Do not press"
+  },
+  {
+    "q_zh": "你和对手进行多轮囚徒困境，收益同经典矩阵（合作3/3，背叛5/0等），总轮数未知但每轮后有90%概率继续。你会从哪一策略开始？",
+    "q_en": "You and your opponent play multiple rounds of Prisoner's Dilemma with classic payoffs (CC:3/3, DD:1/1, etc.). Total rounds are unknown, but after each round there is a 90% chance of continuing. What strategy do you start with?",
+    "a_zh": "以牙还牙（首轮合作，之后模仿对手上一轮选择）",
+    "a_en": "Tit-for-Tat (start with Cooperate, then copy opponent's last move)",
+    "b_zh": "始终背叛",
+    "b_en": "Always Defect"
+  },
+  {
+    "q_zh": "你和对手各有一个数字（1-10），同时出示。若数字相同，各得该数字的奖金；若不同，数字较小者得两数字之和的奖金，较大者得0。你会出几？",
+    "q_en": "You and your opponent each choose a number (1-10) and reveal simultaneously. If numbers match, each gets that number as reward. If different, the smaller number gets the sum of both numbers, the larger gets 0. What number do you choose?",
+    "a_zh": "1",
+    "a_en": "1",
+    "b_zh": "5",
+    "b_en": "5"
   }
 ]
