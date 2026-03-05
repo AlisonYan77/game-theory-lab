@@ -1976,5 +1976,85 @@
     "a_en": "1",
     "b_zh": "5",
     "b_en": "5"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下0-100之间的一个整数，谁写的数字更接近对方数字的2/3，谁就获胜。你会写多少？",
+    "q_en": "You and your opponent secretly write an integer between 0 and 100. Whoever writes a number closest to 2/3 of the opponent's number wins. What number do you write?",
+    "a_zh": "0",
+    "a_en": "0",
+    "b_zh": "33",
+    "b_en": "33"
+  },
+  {
+    "q_zh": "你与对手进行最后通牒博弈：你获得100元，可以分给对方任意金额X（0≤X≤100）。若对方接受，你们各自获得相应金额；若拒绝，双方都得0元。你会分给对方多少？",
+    "q_en": "In an ultimatum game, you receive 100 units and can offer any amount X (0≤X≤100) to your opponent. If they accept, you keep (100-X) and they get X; if they reject, both get 0. How much do you offer?",
+    "a_zh": "30元",
+    "a_en": "30 units",
+    "b_zh": "50元",
+    "b_en": "50 units"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对方上一轮选择了合作。这一轮你会选择合作还是背叛？",
+    "q_en": "In a repeated prisoner's dilemma, your opponent cooperated in the last round. Do you cooperate or defect this round?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你参加一场拍卖，出价最高者赢得物品但需支付自己的出价，第二名无需支付。物品对你价值100元。你会出价多少？",
+    "q_en": "You join an auction where the highest bidder wins the item and pays their bid, the second pays nothing. The item is worth 100 to you. What do you bid?",
+    "a_zh": "60元",
+    "a_en": "60 units",
+    "b_zh": "100元",
+    "b_en": "100 units"
+  },
+  {
+    "q_zh": "你与对手同时选择“红”或“蓝”。若都选红，各得50；若都选蓝，各得100；若选择不同，选红者得150，选蓝者得0。你会选什么？",
+    "q_en": "You and your opponent simultaneously choose 'Red' or 'Blue'. Both Red: 50 each. Both Blue: 100 each. Different: Red gets 150, Blue gets 0. What do you choose?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你有一笔资金可投资于一个共同项目。项目总回报是所有人投资总额的1.5倍，然后平均分配给所有人。你会投入全部资金还是保留一半？",
+    "q_en": "You have funds to invest in a common project. The total return is 1.5 times the sum of all investments, then divided equally among all participants. Do you invest all or keep half?",
+    "a_zh": "投入全部",
+    "a_en": "Invest all",
+    "b_zh": "保留一半",
+    "b_en": "Keep half"
+  },
+  {
+    "q_zh": "你与对手轮流从一堆20枚硬币中取走1-3枚，取走最后一枚者输。你先手。你会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 coins from a pile of 20. Whoever takes the last coin loses. You go first. How many do you take?",
+    "a_zh": "1枚",
+    "a_en": "1 coin",
+    "b_zh": "2枚",
+    "b_en": "2 coins"
+  },
+  {
+    "q_zh": "在一个信任游戏中，你作为发送者获得100元，可以寄送任意金额给接收者，该金额会变为3倍。接收者随后决定返还多少给你。你会寄送多少？",
+    "q_en": "In a trust game, as the sender you get 100. You can send any amount to the receiver, which is tripled. The receiver then decides how much to return to you. How much do you send?",
+    "a_zh": "0元",
+    "a_en": "0 units",
+    "b_zh": "50元",
+    "b_en": "50 units"
+  },
+  {
+    "q_zh": "你与对手竞猜一枚公平硬币的落地结果。若都猜对或都猜错，各得50；若只有你猜对，你得80，对手得20；若只有对手猜对，他得80，你得20。你会猜正面还是反面？",
+    "q_en": "You and your opponent guess the outcome of a fair coin flip. If both are correct or both wrong, each gets 50. If only you are correct, you get 80, opponent 20. If only opponent is correct, they get 80, you get 20. Do you guess Heads or Tails?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你参加一个“少数者游戏”：所有人同时选择A或B。选A若少于总人数一半，则选A者各得100；否则选B者各得100。你会选A还是B？",
+    "q_en": "You play a 'Minority Game': All simultaneously choose A or B. If fewer than half choose A, A-players get 100 each; otherwise B-players get 100. Do you choose A or B?",
+    "a_zh": "A",
+    "a_en": "A",
+    "b_zh": "B",
+    "b_en": "B"
   }
 ]
