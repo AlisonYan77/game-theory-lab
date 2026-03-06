@@ -2056,5 +2056,85 @@
     "a_en": "A",
     "b_zh": "B",
     "b_en": "B"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-100之间的一个整数。若两数之和为偶数，你得对手所写数字的金额；若为奇数，对手得你所写数字的金额。你会写哪个数？",
+    "q_en": "You and an opponent secretly write an integer between 1 and 100. If the sum is even, you win the amount your opponent wrote; if odd, they win the amount you wrote. What number do you write?",
+    "a_zh": "写1（最小化潜在损失）",
+    "a_en": "Write 1 (minimize potential loss)",
+    "b_zh": "写100（最大化潜在收益）",
+    "b_en": "Write 100 (maximize potential gain)"
+  },
+  {
+    "q_zh": "在一个拍卖中，出价最高者赢得100元，但前两名都需支付自己的出价。你会出价多少？",
+    "q_en": "In an auction, the highest bidder wins $100, but the top two bidders both pay their bids. How much do you bid?",
+    "a_zh": "出价0元（避免损失）",
+    "a_en": "Bid $0 (avoid loss)",
+    "b_zh": "出价略高于50元（寻求均衡）",
+    "b_en": "Bid just over $50 (seek equilibrium)"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆15枚硬币中取走1-3枚，取走最后一枚者输。你先手，第一次会取几枚？",
+    "q_en": "You and an opponent take turns removing 1-3 coins from a pile of 15. Whoever takes the last coin loses. You go first. How many do you take initially?",
+    "a_zh": "取1枚（保守开局）",
+    "a_en": "Take 1 (conservative start)",
+    "b_zh": "取2枚（控制剩余数）",
+    "b_en": "Take 2 (control remaining count)"
+  },
+  {
+    "q_zh": "两人分10元，A提议分配比例，B可接受或拒绝（双方都得0）。若你是A，会提议如何分？",
+    "q_en": "Two people split $10. A proposes a division, B can accept (both get paid) or reject (both get $0). If you are A, what do you propose?",
+    "a_zh": "A得9元，B得1元（最大化己利）",
+    "a_en": "A gets $9, B gets $1 (maximize own gain)",
+    "b_zh": "A得6元，B得4元（确保接受）",
+    "b_en": "A gets $6, B gets $4 (ensure acceptance)"
+  },
+  {
+    "q_zh": "你和对手同时选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；一方合作一方背叛，背叛者得5分，合作者得0分。你会选？",
+    "q_en": "You and an opponent simultaneously choose 'Cooperate' or 'Defect'. Both cooperate: 3 points each. Both defect: 1 point each. One defects, one cooperates: defector gets 5, cooperator gets 0. What do you choose?",
+    "a_zh": "合作（寻求共赢）",
+    "a_en": "Cooperate (seek mutual gain)",
+    "b_zh": "背叛（防止被利用）",
+    "b_en": "Defect (avoid being exploited)"
+  },
+  {
+    "q_zh": "你有一枚信息可传递真话或假话给队友，对手会监听。你们需同时选择“左”或“右”路径相遇。你会传递什么信息？",
+    "q_en": "You can send one message (truth or lie) to your teammate, but the opponent will eavesdrop. You must simultaneously choose 'Left' or 'Right' to meet. What message do you send?",
+    "a_zh": "“选左”（简单直接）",
+    "a_en": "'Choose Left' (simple and direct)",
+    "b_zh": "“选右”（误导对手）",
+    "b_en": "'Choose Right' (mislead the opponent)"
+  },
+  {
+    "q_zh": "你和对手竞猜一个0-100之间的数字，谁猜的数字最接近平均数的2/3谁赢。你会猜多少？",
+    "q_en": "You and opponents guess a number between 0-100. Whoever guesses closest to 2/3 of the average wins. What do you guess?",
+    "a_zh": "猜0（无限递归推理）",
+    "a_en": "Guess 0 (infinite recursion reasoning)",
+    "b_zh": "猜33（假设平均数为50）",
+    "b_en": "Guess 33 (assuming average is 50)"
+  },
+  {
+    "q_zh": "你被囚禁，若你认罪而同伴不认，你获释，同伴判10年；若都认罪，各判5年；都不认，各判1年。你会？",
+    "q_en": "You are imprisoned. If you confess and your partner doesn't, you go free, they get 10 years. If both confess, both get 5 years. If neither confesses, both get 1 year. What do you do?",
+    "a_zh": "不认罪（信任同伴）",
+    "a_en": "Don't confess (trust partner)",
+    "b_zh": "认罪（理性自保）",
+    "b_en": "Confess (rational self-preservation)"
+  },
+  {
+    "q_zh": "你和对手各有一个按钮。若都不按，各得2元；若一人按，按者得3元，不按者得0元；若都按，各得1元。你会按吗？",
+    "q_en": "You and an opponent each have a button. If neither presses, both get $2. If one presses, presser gets $3, other gets $0. If both press, both get $1. Do you press?",
+    "a_zh": "不按（追求稳定收益）",
+    "a_en": "Don't press (seek stable gain)",
+    "b_zh": "按（争取更高收益）",
+    "b_en": "Press (aim for higher gain)"
+  },
+  {
+    "q_zh": "你和对手进行多轮博弈，每轮可合作或背叛。策略是“以牙还牙”（首轮合作，之后模仿对手上一轮选择）。面对未知对手，你首轮会？",
+    "q_en": "You play multiple rounds with an opponent, each round choosing cooperate or defect. Your strategy is 'Tit for Tat' (cooperate first, then copy opponent's last move). Facing an unknown opponent, what do you do first round?",
+    "a_zh": "合作（开启良性循环）",
+    "a_en": "Cooperate (initiate positive cycle)",
+    "b_zh": "背叛（先发制人）",
+    "b_en": "Defect (preemptive strike)"
   }
 ]
