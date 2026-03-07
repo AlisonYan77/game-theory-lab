@@ -2136,5 +2136,85 @@
     "a_en": "Cooperate (initiate positive cycle)",
     "b_zh": "背叛（先发制人）",
     "b_en": "Defect (preemptive strike)"
+  },
+  {
+    "q_zh": "在一个拍卖中，你和对手竞拍100元现金。规则是：出价最高者赢得现金，但两位竞拍者都必须支付自己的出价。你会选择：",
+    "q_en": "In an auction, you and an opponent bid for $100 cash. The rule is: the highest bidder wins the cash, but both bidders must pay their own bid. You would choose:",
+    "a_zh": "出价50元",
+    "a_en": "Bid $50",
+    "b_zh": "出价1元",
+    "b_en": "Bid $1"
+  },
+  {
+    "q_zh": "你和对手各自决定合作或背叛。若都合作，各得3分；都背叛，各得1分；若一方合作一方背叛，背叛者得5分，合作者得0分。你预计对手会背叛，你会：",
+    "q_en": "You and your opponent each choose to cooperate or betray. If both cooperate, each gets 3 points; if both betray, each gets 1 point; if one cooperates and the other betrays, the betrayer gets 5 points, the cooperator gets 0. You expect your opponent to betray, you would:",
+    "a_zh": "选择合作",
+    "a_en": "Cooperate",
+    "b_zh": "选择背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你要将10元分配给自己和一个陌生人。对方可以接受（按你的方案分配）或拒绝（两人都得0元）。你会分给对方：",
+    "q_en": "You have $10 to allocate between yourself and a stranger. The other can accept (distribution as you propose) or reject (both get $0). You would give the other:",
+    "a_zh": "1元",
+    "a_en": "$1",
+    "b_zh": "5元",
+    "b_en": "$5"
+  },
+  {
+    "q_zh": "你和对手同时选择“红”或“蓝”。若颜色相同，各得10元；若不同，选红者得15元，选蓝者得5元。你会选：",
+    "q_en": "You and your opponent simultaneously choose 'Red' or 'Blue'. If colors match, each gets $10; if different, the one choosing Red gets $15, the one choosing Blue gets $5. You would choose:",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你有一个信息，告诉对手可让ta多得2元，但你会损失1元。对手不知道你是否拥有此信息。你会：",
+    "q_en": "You have a piece of information that, if told to your opponent, will give them an extra $2 but cost you $1. The opponent does not know whether you have this information. You would:",
+    "a_zh": "告诉对方",
+    "a_en": "Tell them",
+    "b_zh": "隐瞒信息",
+    "b_en": "Withhold the information"
+  },
+  {
+    "q_zh": "你和对手轮流从100元中取钱，每次可取1-10元，取完最后一次的人额外获得20元。你先手，第一次会取：",
+    "q_en": "You and your opponent take turns taking $1–$10 from a pool of $100. The one who takes the last amount gets an extra $20. You go first, you would take:",
+    "a_zh": "10元",
+    "a_en": "$10",
+    "b_zh": "1元",
+    "b_en": "$1"
+  },
+  {
+    "q_zh": "你可以选择“信任”或“不信任”对手。若你信任且对手回报，各得10元；若你信任但对手背叛，你得0元对手得15元；若你不信任，各得3元。你会：",
+    "q_en": "You can choose to 'Trust' or 'Not Trust' your opponent. If you trust and they reciprocate, each gets $10; if you trust and they betray, you get $0, they get $15; if you don't trust, each gets $3. You would:",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "不信任",
+    "b_en": "Not Trust"
+  },
+  {
+    "q_zh": "你和对手各有一个数字（1-100），谁的数字更接近平均数的2/3谁赢。你会选：",
+    "q_en": "You and your opponent each choose a number from 1 to 100. Whoever's number is closest to 2/3 of the average wins. You would choose:",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你可以花2元让对手损失5元。对手不知道你是否拥有此选项。你会：",
+    "q_en": "You can spend $2 to make your opponent lose $5. The opponent does not know whether you have this option. You would:",
+    "a_zh": "花2元让对手损失",
+    "a_en": "Spend $2 to make them lose",
+    "b_zh": "保留2元",
+    "b_en": "Keep the $2"
+  },
+  {
+    "q_zh": "你和对手各有一张投票票，可投“是”或“否”。若至少一人投“是”，各得8元；若都投“否”，各得4元。你会投：",
+    "q_en": "You and your opponent each have a vote: 'Yes' or 'No'. If at least one votes 'Yes', each gets $8; if both vote 'No', each gets $4. You would vote:",
+    "a_zh": "是",
+    "a_en": "Yes",
+    "b_zh": "否",
+    "b_en": "No"
   }
 ]
