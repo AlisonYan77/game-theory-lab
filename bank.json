@@ -2216,5 +2216,85 @@
     "a_en": "Yes",
     "b_zh": "否",
     "b_en": "No"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下1-100之间的一个整数。谁写的数字更接近对方数字的2/3，谁获胜。你会写多少？",
+    "q_en": "You and your opponent secretly write an integer between 1 and 100. Whoever writes a number closest to 2/3 of the other's number wins. What number do you write?",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "1",
+    "b_en": "1"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆100枚金币中取走1-10枚。取走最后一枚金币的人获胜。你先手，第一次会取多少枚？",
+    "q_en": "You and your opponent take turns taking 1-10 gold coins from a pile of 100. The one who takes the last coin wins. You go first. How many do you take on your first turn?",
+    "a_zh": "1枚",
+    "a_en": "1",
+    "b_zh": "10枚",
+    "b_en": "10"
+  },
+  {
+    "q_zh": "你们两人被分开审讯。如果都抵赖，各判1年；如果都坦白，各判5年；如果一人坦白一人抵赖，坦白的释放，抵赖的判10年。你会如何选择？",
+    "q_en": "You are interrogated separately. If both deny, each gets 1 year. If both confess, each gets 5 years. If one confesses and the other denies, the confessor goes free and the denier gets 10 years. What do you choose?",
+    "a_zh": "坦白",
+    "a_en": "Confess",
+    "b_zh": "抵赖",
+    "b_en": "Deny"
+  },
+  {
+    "q_zh": "拍卖一张100元纸币，出价最高者获得，但出价前两名都需支付自己的出价。你会出价多少？",
+    "q_en": "Auction for a $100 bill. The highest bidder wins it, but the top two bidders both pay their bids. How much do you bid?",
+    "a_zh": "0元（不参与）",
+    "a_en": "$0 (not participate)",
+    "b_zh": "51元",
+    "b_en": "$51"
+  },
+  {
+    "q_zh": "你和对手同时展示“合作”或“背叛”。双方都合作各得3分；都背叛各得1分；一方合作一方背叛，合作者得0分，背叛者得5分。你会展示什么？",
+    "q_en": "You and your opponent simultaneously show 'Cooperate' or 'Betray'. Both cooperate: each gets 3 points. Both betray: each gets 1 point. One cooperates, one betrays: cooperator gets 0, betrayer gets 5. What do you show?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你有一笔钱，可以分一部分给匿名对手，你给的钱会翻三倍给对手，然后对手决定返还多少给你。你会分多少比例的钱给对方？",
+    "q_en": "You have a sum of money. You can give a portion to an anonymous opponent. The amount you give is tripled before they receive it. Then they decide how much to return to you. What percentage of your money do you give?",
+    "a_zh": "50%",
+    "a_en": "50%",
+    "b_zh": "0%",
+    "b_en": "0%"
+  },
+  {
+    "q_zh": "你和对手竞标一个价值100元的物品，出价不能超过100元，出价高者获胜并支付自己的出价。如果出价相同，则随机分配。你会出价多少？",
+    "q_en": "You and your opponent bid for an item worth $100. Bids cannot exceed $100. The higher bidder wins and pays their bid. If bids are equal, it's randomly assigned. How much do you bid?",
+    "a_zh": "100元",
+    "a_en": "$100",
+    "b_zh": "99元",
+    "b_en": "$99"
+  },
+  {
+    "q_zh": "两人分10枚金币，由你提出分配方案（如“我7你3”）。如果对手接受，按方案分配；如果拒绝，两人都得不到任何金币。你会提出什么方案？",
+    "q_en": "Two people split 10 gold coins. You propose an allocation (e.g., 'I get 7, you get 3'). If the opponent accepts, it's implemented. If they refuse, both get nothing. What do you propose?",
+    "a_zh": "我5你5",
+    "a_en": "I get 5, you get 5",
+    "b_zh": "我9你1",
+    "b_en": "I get 9, you get 1"
+  },
+  {
+    "q_zh": "你和对手各有一张红牌和一张黑牌。同时出一张，若颜色相同，你得1分；若颜色不同，对手得1分。你会出什么牌？",
+    "q_en": "You and your opponent each have a red card and a black card. Play one simultaneously. If colors match, you get 1 point. If they differ, your opponent gets 1 point. Which card do you play?",
+    "a_zh": "红牌",
+    "a_en": "Red",
+    "b_zh": "黑牌",
+    "b_en": "Black"
+  },
+  {
+    "q_zh": "一个公共账户，每人可投入0-10元。结束后，总金额翻倍后平均分给所有人，无论是否投入。你会投入多少？",
+    "q_en": "A public account. Each person can contribute $0-$10. Afterward, the total is doubled and divided equally among all, regardless of contribution. How much do you contribute?",
+    "a_zh": "10元",
+    "a_en": "$10",
+    "b_zh": "0元",
+    "b_en": "$0"
   }
 ]
