@@ -2296,5 +2296,85 @@
     "a_en": "$10",
     "b_zh": "0元",
     "b_en": "$0"
+  },
+  {
+    "q_zh": "你参加一个拍卖会，规则是出价最高者获胜，但出价第二高者也需要支付自己的出价且一无所获。你当前出价100元，对手出价110元。此时你会：",
+    "q_en": "You are in an auction where the highest bidder wins, but the second-highest bidder also pays their bid and gets nothing. Your current bid is $100, and your opponent bids $110. What do you do?",
+    "a_zh": "加价到120元，争取获胜",
+    "a_en": "Bid $120 to try to win",
+    "b_zh": "放弃加价，接受损失100元",
+    "b_en": "Stop bidding and accept the $100 loss"
+  },
+  {
+    "q_zh": "你在一个合作项目中，对方先选择是否信任你。如果对方选择信任，接下来轮到你决定：",
+    "q_en": "In a cooperative project, the other person first chooses whether to trust you. If they choose to trust you, it's your turn to decide:",
+    "a_zh": "回报对方的信任，选择合作",
+    "a_en": "Reward their trust by cooperating",
+    "b_zh": "利用对方的信任，选择背叛以获得更大个人利益",
+    "b_en": "Exploit their trust by betraying for greater personal gain"
+  },
+  {
+    "q_zh": "你与对手各自秘密选择“合作”或“背叛”。若双方都合作，各得3分；都背叛，各得1分；一方合作一方背叛，背叛者得5分，合作者得0分。你会选择：",
+    "q_en": "You and your opponent secretly choose 'Cooperate' or 'Betray'. If both cooperate, each gets 3 points; both betray, each gets 1 point; if one cooperates and one betrays, the betrayer gets 5 points, the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你有一笔资金可以投资两个项目之一：A项目稳赚5%；B项目有50%概率赚20%，50%概率亏10%。对手知道你的选择后，会决定是否跟进投资同一个项目。你会选择：",
+    "q_en": "You have funds to invest in one of two projects: Project A guarantees a 5% return; Project B has a 50% chance of a 20% return and a 50% chance of a 10% loss. After knowing your choice, your opponent will decide whether to invest in the same project. You choose:",
+    "a_zh": "A项目（稳赚）",
+    "a_en": "Project A (guaranteed)",
+    "b_zh": "B项目（风险与高收益）",
+    "b_en": "Project B (risky with high potential)"
+  },
+  {
+    "q_zh": "你们两人分100元。由你提出分配方案（如“我得X元，你得Y元”），对方只能接受或拒绝。若拒绝，两人都得0元。你会提议：",
+    "q_en": "Two people split $100. You propose a division (e.g., 'I get X, you get Y'). The other can only accept or reject. If rejected, both get $0. You propose:",
+    "a_zh": "我得70元，你得30元",
+    "a_en": "I get $70, you get $30",
+    "b_zh": "我得50元，你得50元",
+    "b_en": "I get $50, you get $50"
+  },
+  {
+    "q_zh": "你要向对手传递一条消息，消息可以是真或假。对手知道你可能说谎，会根据消息做决策。你的目标是让对手采取对你最有利的行动。此时你会：",
+    "q_en": "You send a message to your opponent, which can be true or false. The opponent knows you might lie and will decide based on the message. Your goal is to make them act in your favor. You:",
+    "a_zh": "发送真实消息",
+    "a_en": "Send the true message",
+    "b_zh": "发送虚假消息",
+    "b_en": "Send a false message"
+  },
+  {
+    "q_zh": "在一个多轮谈判中，对手上一轮采取了强硬态度。这一轮你会：",
+    "q_en": "In a multi-round negotiation, your opponent was tough in the last round. This round, you:",
+    "a_zh": "也采取强硬态度，以示回应",
+    "a_en": "Also act tough in response",
+    "b_zh": "主动让步，以缓和关系推动合作",
+    "b_en": "Take the initiative to compromise to ease tensions and promote cooperation"
+  },
+  {
+    "q_zh": "你与对手玩三局“石头剪刀布”。已输掉第一局。第二局你会：",
+    "q_en": "You play three rounds of Rock-Paper-Scissors with an opponent. You lost the first round. In the second round, you:",
+    "a_zh": "选择上一局对手用来赢你的手势（针对其可能的重复）",
+    "a_en": "Choose the move your opponent used to win the last round (anticipating a repeat)",
+    "b_zh": "随机选择，避免被预测",
+    "b_en": "Choose randomly to avoid being predicted"
+  },
+  {
+    "q_zh": "你们被困密室，唯一出口需两人同时按下不同颜色的按钮才能打开，但按下红色按钮的人会被轻微电击。沟通后，你会：",
+    "q_en": "You are trapped in a room. The only exit opens if two people press different colored buttons simultaneously, but the person who presses the red button gets a mild electric shock. After communicating, you:",
+    "a_zh": "主动提议按红色按钮",
+    "a_en": "Volunteer to press the red button",
+    "b_zh": "提议让对方按红色按钮",
+    "b_en": "Suggest the other person press the red button"
+  },
+  {
+    "q_zh": "你发现对手在之前的游戏中对你撒过谎。在新一局合作游戏中，对手首先示好。你会：",
+    "q_en": "You discover your opponent lied to you in a previous game. In a new cooperative game, the opponent shows goodwill first. You:",
+    "a_zh": "基于当前局势，选择信任并合作",
+    "a_en": "Based on the current situation, choose to trust and cooperate",
+    "b_zh": "因过去欺骗，选择不信任并采取防御策略",
+    "b_en": "Due to past deception, choose distrust and adopt a defensive strategy"
   }
 ]
