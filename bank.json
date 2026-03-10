@@ -2376,5 +2376,85 @@
     "a_en": "Based on the current situation, choose to trust and cooperate",
     "b_zh": "因过去欺骗，选择不信任并采取防御策略",
     "b_en": "Due to past deception, choose distrust and adopt a defensive strategy"
+  },
+  {
+    "q_zh": "你参加一个拍卖会，规则是出价最高者赢得拍品，但出价第二高者也需要支付自己的出价且一无所获。你已出价100元，目前你是最高出价者。此时有人出价110元。你会：",
+    "q_en": "You are in an auction where the highest bidder wins, but the second-highest bidder also pays their bid and gets nothing. You bid $100 and are currently the highest bidder. Someone bids $110. Do you:",
+    "a_zh": "放弃出价，接受损失100元",
+    "a_en": "Give up and accept the $100 loss",
+    "b_zh": "出价120元，试图减少损失或逆转局面",
+    "b_en": "Bid $120 to try to minimize loss or turn the situation around"
+  },
+  {
+    "q_zh": "你和对手各自在纸上写一个1-100之间的整数。谁写的数字更接近对方数字的2/3，谁获胜。你认为对手会怎么想？你会写：",
+    "q_en": "You and an opponent each write an integer between 1 and 100. Whoever writes a number closest to 2/3 of the other's number wins. How do you think your opponent thinks? You write:",
+    "a_zh": "一个较低的数（如20-35），假设对手会理性推理",
+    "a_en": "A low number (e.g., 20-35), assuming the opponent reasons rationally",
+    "b_zh": "一个接近50的数，假设对手会随机选择",
+    "b_en": "A number near 50, assuming the opponent chooses randomly"
+  },
+  {
+    "q_zh": "作为公司主管，你发现团队中有成员私下偷懒，但不确定是谁。公开严厉警告可能打击士气，不警告则可能纵容行为。你会：",
+    "q_en": "As a manager, you suspect someone on the team is slacking off privately, but you're not sure who. A public warning might hurt morale; no warning might encourage the behavior. Do you:",
+    "a_zh": "召开团队会议，不点名但严肃强调纪律",
+    "a_en": "Hold a team meeting, emphasizing rules seriously without naming anyone",
+    "b_zh": "私下与每位成员单独谈话，施加心理压力",
+    "b_en": "Talk privately with each member to create psychological pressure"
+  },
+  {
+    "q_zh": "你在一个陌生城市打车，司机提出不打表，一口价200元。你估计打表约150元，但担心司机会绕路。你会：",
+    "q_en": "In an unfamiliar city, a taxi driver offers a fixed price of $200 instead of using the meter. You estimate the metered fare would be about $150, but you worry the driver might take a longer route. Do you:",
+    "a_zh": "接受一口价，避免潜在纠纷或绕路风险",
+    "a_en": "Accept the fixed price to avoid potential disputes or detours",
+    "b_zh": "坚持打表，相信司机会遵守规则",
+    "b_en": "Insist on the meter, trusting the driver to follow rules"
+  },
+  {
+    "q_zh": "谈判中，对方开出一个明显低于你预期的报价。你认为这是试探还是他们的真实底线？你会：",
+    "q_en": "In a negotiation, the other party makes an offer significantly lower than you expected. Do you think this is a test or their real bottom line? You:",
+    "a_zh": "直接给出你的目标价，展示诚意",
+    "a_en": "Directly state your target price to show sincerity",
+    "b_zh": "给出一个更低的还价，试探对方反应",
+    "b_en": "Counter with an even lower offer to test their reaction"
+  },
+  {
+    "q_zh": "玩德州扑克时，你手牌平平，但通过下注让对手认为你可能有强牌。对手选择跟注。最后一轮公共牌发出，对你帮助不大。你会：",
+    "q_en": "In Texas Hold'em, you have a mediocre hand but have bet to make opponents think you have a strong hand. An opponent calls. The final community card doesn't help you. Do you:",
+    "a_zh": "继续下注（诈唬），维持强势形象",
+    "a_en": "Continue betting (bluff) to maintain a strong image",
+    "b_zh": "过牌，希望对手也过牌以摊牌比大小",
+    "b_en": "Check, hoping the opponent checks to see a showdown"
+  },
+  {
+    "q_zh": "团队项目中，你的贡献明显多于他人。最终成果将由团队共享。在下次任务分配时，你会：",
+    "q_en": "In a team project, your contribution is significantly greater than others'. The final credit will be shared equally. For the next task assignment, do you:",
+    "a_zh": "主动承担关键部分，确保项目质量",
+    "a_en": "Volunteer for key parts to ensure project quality",
+    "b_zh": "只做平均份额，迫使他人承担更多",
+    "b_en": "Do only an average share to force others to take more"
+  },
+  {
+    "q_zh": "市场上有两个相似的产品，A价格高但广告多，B价格低但知名度小。作为消费者，你会选择：",
+    "q_en": "Two similar products are on the market: A is higher-priced with heavy advertising, B is lower-priced but less known. As a consumer, you choose:",
+    "a_zh": "产品A，相信高价格代表高质或减少风险",
+    "a_en": "Product A, believing high price signals quality or reduces risk",
+    "b_zh": "产品B，认为广告成本转嫁给了消费者",
+    "b_en": "Product B, thinking advertising costs are passed to consumers"
+  },
+  {
+    "q_zh": "你在网上出售二手商品，有人很快联系并表示非常喜欢，但要求大幅降价。你会认为：",
+    "q_en": "You are selling a used item online. Someone contacts you quickly, says they love it, but asks for a large discount. You think:",
+    "a_zh": "这是真买家，降价促成交易",
+    "a_en": "They are a genuine buyer, so discount to close the deal",
+    "b_zh": "这是谈判策略，坚持原价或小幅让步",
+    "b_en": "This is a negotiation tactic, so hold the price or make a small concession"
+  },
+  {
+    "q_zh": "参加一个游戏节目，主持人给你看三个门，其中一个后面有汽车，另两个是山羊。你选了一号门。主持人打开三号门，是山羊，然后问你是否换到二号门。你会：",
+    "q_en": "On a game show, the host shows three doors: one has a car, two have goats. You pick Door 1. The host opens Door 3, revealing a goat, and asks if you want to switch to Door 2. Do you:",
+    "a_zh": "坚持原选择（一号门）",
+    "a_en": "Stick with your original choice (Door 1)",
+    "b_zh": "换到二号门",
+    "b_en": "Switch to Door 2"
   }
 ]
