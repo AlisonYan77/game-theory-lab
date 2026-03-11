@@ -2456,5 +2456,85 @@
     "a_en": "Stick with your original choice (Door 1)",
     "b_zh": "换到二号门",
     "b_en": "Switch to Door 2"
+  },
+  {
+    "q_zh": "你与对手同时竞拍一件价值100元的物品，出价高者得但需支付自己的出价。双方都不知道对方会出多少，你会出价多少？",
+    "q_en": "You and an opponent bid simultaneously for an item worth $100. The highest bidder wins but pays their own bid. Neither knows the other's bid. How much do you bid?",
+    "a_zh": "出价50元",
+    "a_en": "Bid $50",
+    "b_zh": "出价1元",
+    "b_en": "Bid $1"
+  },
+  {
+    "q_zh": "在一个合作项目中，如果你贡献努力，项目成功率80%；如果你偷懒，成功率40%。贡献努力会让你付出个人成本，但成功后双方均受益。你会如何选择？",
+    "q_en": "In a cooperative project, if you contribute effort, the success rate is 80%; if you slack, it's 40%. Contributing costs you personally, but success benefits both. What do you choose?",
+    "a_zh": "贡献努力",
+    "a_en": "Contribute effort",
+    "b_zh": "偷懒",
+    "b_en": "Slack off"
+  },
+  {
+    "q_zh": "你与陌生人玩信任游戏：你先决定是否给对方100元，如果你给，对方会收到300元并决定是否返还一半给你。你会先给钱吗？",
+    "q_en": "You play a trust game with a stranger: you decide whether to give them $100. If you do, they receive $300 and choose whether to return half to you. Do you give the money first?",
+    "a_zh": "给",
+    "a_en": "Give",
+    "b_zh": "不给",
+    "b_en": "Not give"
+  },
+  {
+    "q_zh": "你与对手轮流提出分100元方案，对方可接受或拒绝（拒绝则双方都得0）。你先提，你会提议自己分多少？",
+    "q_en": "You and an opponent take turns proposing how to split $100. The other can accept or reject (if rejected, both get $0). You propose first. How much do you offer yourself?",
+    "a_zh": "自己分60元，给对方40元",
+    "a_en": "Take $60, offer $40",
+    "b_zh": "自己分90元，给对方10元",
+    "b_en": "Take $90, offer $10"
+  },
+  {
+    "q_zh": "你们团队被俘，审问者将你们分开审问：如果都抵赖，各判1年；如果都招供，各判5年；如果一人招供一人抵赖，招供者释放，抵赖者判10年。你会如何选择？",
+    "q_en": "Your team is captured and interrogated separately: if both deny, each gets 1 year; if both confess, each gets 5 years; if one confesses and the other denies, the confessor goes free, the denier gets 10 years. What do you choose?",
+    "a_zh": "招供",
+    "a_en": "Confess",
+    "b_zh": "抵赖",
+    "b_en": "Deny"
+  },
+  {
+    "q_zh": "你参加一场比赛，奖金1000元。你可以选择公开自己的策略或保密。对手也会做同样选择。如果都公开，奖金平分；如果都保密，奖金归裁判；如果一方公开一方保密，公开者得200元，保密者得800元。你会？",
+    "q_en": "You join a contest with a $1000 prize. You can choose to reveal your strategy or keep it secret. The opponent does the same. If both reveal, split equally; if both keep secret, prize goes to referee; if one reveals and one keeps secret, the revealer gets $200, the secret-keeper gets $800. What do you do?",
+    "a_zh": "公开策略",
+    "a_en": "Reveal strategy",
+    "b_zh": "保密策略",
+    "b_en": "Keep secret"
+  },
+  {
+    "q_zh": "你与对手各有一个数字（1-10），同时展示。如果数字相同，各得该数字的奖金；如果不同，数字小者得两数字之和的奖金，大者得0。你会选哪个数字？",
+    "q_en": "You and an opponent each choose a number (1-10) and reveal simultaneously. If numbers match, each gets that number as prize; if different, the smaller number gets the sum, the larger gets $0. Which number do you choose?",
+    "a_zh": "选1",
+    "a_en": "Choose 1",
+    "b_zh": "选5",
+    "b_en": "Choose 5"
+  },
+  {
+    "q_zh": "你要决定是否投资一个项目：投资需付100元，成功则收益300元，但成功概率取决于有多少参与者投资（越多越高）。已知有10名玩家同时决定。你会投资吗？",
+    "q_en": "You decide whether to invest $100 in a project. If successful, profit is $300, but success probability depends on how many participants invest (more investors, higher chance). There are 10 players deciding simultaneously. Do you invest?",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Not invest"
+  },
+  {
+    "q_zh": "你与对手玩三局“石头剪刀布”，赢一局得1分。已知对手第一局喜欢出石头。你第一局会出什么？",
+    "q_en": "You play three rounds of Rock-Paper-Scissors with an opponent. Win a round to get 1 point. You know the opponent tends to choose Rock in the first round. What do you choose in round 1?",
+    "a_zh": "布（赢石头）",
+    "a_en": "Paper (beats Rock)",
+    "b_zh": "剪刀（输给石头）",
+    "b_en": "Scissors (loses to Rock)"
+  },
+  {
+    "q_zh": "你参加拍卖，出价最高者赢得奖品但需支付第二高的出价（维克里拍卖）。你认为奖品对你值80元，你会出价多少？",
+    "q_en": "You join an auction where the highest bidder wins but pays the second-highest bid (Vickrey auction). You value the prize at $80. How much do you bid?",
+    "a_zh": "出价80元",
+    "a_en": "Bid $80",
+    "b_zh": "出价60元",
+    "b_en": "Bid $60"
   }
 ]
