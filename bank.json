@@ -2536,5 +2536,85 @@
     "a_en": "Bid $80",
     "b_zh": "出价60元",
     "b_en": "Bid $60"
+  },
+  {
+    "q_zh": "你参加一个拍卖会，规则是出价最高者赢得奖品，但出价第二高者也需要支付自己的出价且一无所获。你目前出价100元，对手出价110元。你会选择：",
+    "q_en": "You are in an auction where the highest bidder wins the prize, but the second-highest bidder also pays their bid and gets nothing. You bid $100, and your opponent bids $110. Do you:",
+    "a_zh": "放弃加价，接受损失100元",
+    "a_en": "Give up and accept the $100 loss",
+    "b_zh": "加价到120元，试图挽回损失",
+    "b_en": "Bid $120 to try to recover the loss"
+  },
+  {
+    "q_zh": "你和对手各有一个按钮。如果双方都不按，各得2元；如果一方按而另一方不按，按者得3元，不按者得0元；如果双方都按，各得1元。你会：",
+    "q_en": "You and your opponent each have a button. If neither presses, both get $2. If one presses and the other doesn't, the presser gets $3 and the other gets $0. If both press, both get $1. Do you:",
+    "a_zh": "不按按钮",
+    "a_en": "Not press the button",
+    "b_zh": "按下按钮",
+    "b_en": "Press the button"
+  },
+  {
+    "q_zh": "你与对手轮流从一堆10枚硬币中取走1-3枚，取走最后一枚者输。现在轮到你先手，你会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 coins from a pile of 10 coins. The one who takes the last coin loses. It's your turn first. How many do you take?",
+    "a_zh": "取1枚",
+    "a_en": "Take 1 coin",
+    "b_zh": "取2枚",
+    "b_en": "Take 2 coins"
+  },
+  {
+    "q_zh": "你与陌生人各自在0-100间选一个数，最接近对方所选数2/3的人获胜。你会选：",
+    "q_en": "You and a stranger each choose a number between 0 and 100. The one whose number is closest to 2/3 of the other's number wins. You choose:",
+    "a_zh": "一个较小的数（如20）",
+    "a_en": "A small number (e.g., 20)",
+    "b_zh": "一个较大的数（如60）",
+    "b_en": "A large number (e.g., 60)"
+  },
+  {
+    "q_zh": "你和对手背对背同时展示手掌：若都展示手心，各得1元；若都展示手背，各得0元；若一人手心一人手背，展示手背者得2元，展示手心者得0元。你会展示：",
+    "q_en": "You and your opponent simultaneously show either palm or back of hand. If both show palm, both get $1. If both show back, both get $0. If one shows palm and the other shows back, the back-shower gets $2, the palm-shower gets $0. You show:",
+    "a_zh": "手心",
+    "a_en": "Palm",
+    "b_zh": "手背",
+    "b_en": "Back of hand"
+  },
+  {
+    "q_zh": "你有一笔资金可投资两个项目：A项目稳赚5%；B项目有50%可能赚15%，50%可能亏5%。你会选择：",
+    "q_en": "You have funds to invest in one of two projects: Project A guarantees a 5% return. Project B has a 50% chance of a 15% return and a 50% chance of a 5% loss. You choose:",
+    "a_zh": "投资A项目",
+    "a_en": "Invest in Project A",
+    "b_zh": "投资B项目",
+    "b_en": "Invest in Project B"
+  },
+  {
+    "q_zh": "你和对手各自决定是否合作。若双方合作，各得3分；若一方合作一方背叛，合作者得0分，背叛者得5分；若双方背叛，各得1分。你预计对手会背叛，你会：",
+    "q_en": "You and your opponent decide whether to cooperate. If both cooperate, both get 3 points. If one cooperates and the other betrays, the cooperator gets 0, the betrayer gets 5. If both betray, both get 1. You expect your opponent to betray. You:",
+    "a_zh": "选择合作",
+    "a_en": "Cooperate",
+    "b_zh": "选择背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你要将100元分配给另一个玩家，对方可以接受或拒绝。若接受，按分配方案分钱；若拒绝，双方都得0元。你会分给对方：",
+    "q_en": "You must divide $100 with another player. They can accept or reject. If accepted, the money is split as you proposed. If rejected, both get $0. You offer them:",
+    "a_zh": "20元",
+    "a_en": "$20",
+    "b_zh": "50元",
+    "b_en": "$50"
+  },
+  {
+    "q_zh": "你和对手各有一张红牌和一张黑牌，同时出一张。若颜色相同，你得2分对手得1分；若颜色不同，对手得2分你得1分。你会出：",
+    "q_en": "You and your opponent each have a red card and a black card. You play one simultaneously. If colors match, you get 2 points and they get 1. If colors differ, they get 2 points and you get 1. You play:",
+    "a_zh": "红牌",
+    "a_en": "Red card",
+    "b_zh": "黑牌",
+    "b_en": "Black card"
+  },
+  {
+    "q_zh": "你参加一个游戏：主持人给你两个信封，一个金额是另一个的两倍。你选了一个并看到里面有100元。此时你可以选择是否交换另一个信封。你会：",
+    "q_en": "You are given two envelopes by a host: one contains twice as much money as the other. You pick one and see $100 inside. You may choose to swap for the other envelope. Do you:",
+    "a_zh": "保持原信封",
+    "a_en": "Keep your envelope",
+    "b_zh": "交换信封",
+    "b_en": "Swap envelopes"
   }
 ]
