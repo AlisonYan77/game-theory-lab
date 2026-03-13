@@ -2616,5 +2616,85 @@
     "a_en": "Keep your envelope",
     "b_zh": "交换信封",
     "b_en": "Swap envelopes"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。你们轮流加价，每次加价至少1元，出价高者获胜并支付自己的出价。你先手，你会：",
+    "q_en": "You and an opponent are bidding on an item worth $100. You take turns bidding, with each bid at least $1 higher than the previous. The highest bidder wins and pays their bid. You go first. Do you:",
+    "a_zh": "出价1元",
+    "a_en": "Bid $1",
+    "b_zh": "放弃出价（出价0元）",
+    "b_en": "Pass (bid $0)"
+  },
+  {
+    "q_zh": "在一个合作项目中，你和伙伴各自决定投入努力（高/低）。高努力有个人成本但带来更大集体收益。你估计伙伴有60%概率选高努力。你会：",
+    "q_en": "In a joint project, you and a partner each choose effort (High/Low). High effort has a personal cost but yields higher group benefits. You estimate a 60% chance your partner chooses High. Do you:",
+    "a_zh": "选择高努力",
+    "a_en": "Choose High effort",
+    "b_zh": "选择低努力",
+    "b_en": "Choose Low effort"
+  },
+  {
+    "q_zh": "你要在两个谈判策略间选择：A) 先提出一个极端要求再让步；B) 直接提出合理要求并坚持。对手以强硬著称。你会：",
+    "q_en": "Choose between negotiation tactics: A) Start with an extreme demand then concede; B) State a reasonable demand and hold firm. Your opponent has a reputation for toughness. Do you:",
+    "a_zh": "采用极端开场策略",
+    "a_en": "Use the extreme-opening tactic",
+    "b_zh": "采用直接合理策略",
+    "b_en": "Use the direct-reasonable tactic"
+  },
+  {
+    "q_zh": "作为团队领导，需在两名下属中选一人晋升。A能力略强但自私；B能力稍弱但无私且促进合作。团队长期绩效更依赖协作。你会：",
+    "q_en": "As a team leader, you must promote one of two subordinates. A is slightly more skilled but selfish; B is slightly less skilled but selfless and fosters cooperation. Long-term team performance depends on collaboration. Do you:",
+    "a_zh": "晋升A",
+    "a_en": "Promote A",
+    "b_zh": "晋升B",
+    "b_en": "Promote B"
+  },
+  {
+    "q_zh": "你发现同事悄悄占用了公司资源谋私利。你知道若举报，他会被解雇；若不举报，团队可能受损。你与他关系一般。你会：",
+    "q_en": "You discover a colleague secretly using company resources for personal gain. You know reporting will get him fired; not reporting may harm the team. Your relationship is neutral. Do you:",
+    "a_zh": "匿名举报",
+    "a_en": "Report anonymously",
+    "b_zh": "保持沉默",
+    "b_en": "Remain silent"
+  },
+  {
+    "q_zh": "你在一个游戏中，最后回合需决定：信任对手合作（双方各得50）或背叛（你得70，对手得10）。此前对手一直合作。你会：",
+    "q_en": "In the final round of a game, you must choose: trust and cooperate (both get 50) or betray (you get 70, opponent gets 10). Your opponent has cooperated all along. Do you:",
+    "a_zh": "选择合作",
+    "a_en": "Cooperate",
+    "b_zh": "选择背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "竞标一个项目，你有两种报价策略：A) 报底价，确保中标但利润薄；B) 报较高价，利润高但可能输给对手。对手可能报底价。你会：",
+    "q_en": "Bidding for a project, you can: A) Bid low, ensuring win but thin profit; B) Bid higher, with good profit but risk losing to opponent. Opponent may bid low. Do you:",
+    "a_zh": "报底价",
+    "a_en": "Bid low",
+    "b_zh": "报较高价",
+    "b_en": "Bid higher"
+  },
+  {
+    "q_zh": "作为产品经理，你要决定新功能发布策略：A) 尽早发布不完美版本抢占市场；B) 延迟发布直至完善。主要对手可能很快推出类似功能。你会：",
+    "q_en": "As a product manager, decide release strategy: A) Launch early with imperfect feature to capture market; B) Delay until polished. Main rival may launch similar feature soon. Do you:",
+    "a_zh": "尽早发布",
+    "a_en": "Launch early",
+    "b_zh": "延迟完善",
+    "b_en": "Delay for polish"
+  },
+  {
+    "q_zh": "你在一个多方投票中，有两选项：X（对你有利但对群体略有损害）和Y（对群体有利但对你普通）。你需要游说他人。你会：",
+    "q_en": "In a multi-party vote, options are: X (good for you, slightly bad for group) and Y (good for group, neutral for you). You need to lobby others. Do you:",
+    "a_zh": "游说支持X",
+    "a_en": "Lobby for X",
+    "b_zh": "游说支持Y",
+    "b_en": "Lobby for Y"
+  },
+  {
+    "q_zh": "面临是否揭发朋友错误的抉择：揭发可获奖励但会失去友谊；不揭发可能事后被连带追责。错误本身不严重。你会：",
+    "q_en": "Decide whether to report a friend's minor wrongdoing: reporting brings a reward but loses friendship; not reporting may bring shared blame later. The wrongdoing is minor. Do you:",
+    "a_zh": "揭发",
+    "a_en": "Report",
+    "b_zh": "不揭发",
+    "b_en": "Not report"
   }
 ]
