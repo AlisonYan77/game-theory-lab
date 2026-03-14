@@ -2696,5 +2696,85 @@
     "a_en": "Report",
     "b_zh": "不揭发",
     "b_en": "Not report"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。规则是：出价最高者获胜，但前两名都需要支付自己的出价。你会选择：",
+    "q_en": "You are in an auction with an opponent for an item worth $100. The rule is: the highest bidder wins, but both the top two bidders must pay their bids. Do you choose to:",
+    "a_zh": "出价50元",
+    "a_en": "Bid $50",
+    "b_zh": "出价0元（不参与）",
+    "b_en": "Bid $0 (do not participate)"
+  },
+  {
+    "q_zh": "你与陌生人各自拥有100元。你们可以同时选择捐赠任意金额给对方，但捐赠金额会翻倍后送达。你会选择：",
+    "q_en": "You and a stranger each have $100. You can simultaneously choose to donate any amount to the other, but the donated amount will be doubled upon arrival. Do you choose to:",
+    "a_zh": "捐赠50元",
+    "a_en": "Donate $50",
+    "b_zh": "捐赠0元",
+    "b_en": "Donate $0"
+  },
+  {
+    "q_zh": "你与对手轮流从一堆100枚金币中取走1-10枚，取走最后一枚者输。你先手，第一轮你会取：",
+    "q_en": "You and an opponent take turns taking 1-10 gold coins from a pile of 100 coins. The one who takes the last coin loses. You go first. In the first round, do you take:",
+    "a_zh": "1枚金币",
+    "a_en": "1 coin",
+    "b_zh": "10枚金币",
+    "b_en": "10 coins"
+  },
+  {
+    "q_zh": "你与对手需同时选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；一方合作一方背叛，背叛者得5分，合作者得0分。你会选择：",
+    "q_en": "You and an opponent must simultaneously choose 'Cooperate' or 'Betray'. If both cooperate, each gets 3 points; if both betray, each gets 1 point; if one cooperates and the other betrays, the betrayer gets 5 points and the cooperator gets 0. Do you choose to:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你与对手各有一个按钮。若两人都不按，各得2元；若一人按另一人不按，按者得3元，不按者得0元；若两人都按，各失1元。你会：",
+    "q_en": "You and an opponent each have a button. If neither presses, each gets $2; if one presses and the other doesn't, the presser gets $3 and the non-presser gets $0; if both press, each loses $1. Do you:",
+    "a_zh": "按下按钮",
+    "a_en": "Press the button",
+    "b_zh": "不按按钮",
+    "b_en": "Not press the button"
+  },
+  {
+    "q_zh": "你与对手分10枚金币。你提出分配方案（如“我得X枚，你得Y枚”），对手只能接受或拒绝。若拒绝，两人都得不到金币。你会提议：",
+    "q_en": "You and an opponent split 10 gold coins. You propose an allocation (e.g., 'I get X, you get Y'), and the opponent can only accept or reject. If rejected, both get nothing. Do you propose:",
+    "a_zh": "我得9枚，你得1枚",
+    "a_en": "I get 9, you get 1",
+    "b_zh": "我得5枚，你得5枚",
+    "b_en": "I get 5, you get 5"
+  },
+  {
+    "q_zh": "你与对手进行多轮信任游戏。每轮你先决定是否信任对方：若信任，对方可选择回报（双方各+3）或欺骗（对方+5，你-2）；若不信任，双方各得0。第一轮你会：",
+    "q_en": "You and an opponent play a multi-round trust game. Each round, you decide first whether to trust the opponent: if you trust, they can choose to reciprocate (both +3) or cheat (they +5, you -2); if you don't trust, both get 0. In the first round, do you:",
+    "a_zh": "选择信任",
+    "a_en": "Choose to trust",
+    "b_zh": "选择不信任",
+    "b_en": "Choose not to trust"
+  },
+  {
+    "q_zh": "你与对手竞猜一个0-100之间的整数，谁猜的数字最接近平均数的2/3谁获胜。你会猜：",
+    "q_en": "You and an opponent guess an integer between 0 and 100. Whoever guesses closest to 2/3 of the average wins. Do you guess:",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "0",
+    "b_en": "0"
+  },
+  {
+    "q_zh": "你与对手被困密室，面前有两个箱子：A箱固定有100元，B箱可能有1000元（若对手未选B）或0元（若对手选了B）。你们同时独立选择箱子。你会选：",
+    "q_en": "You and an opponent are trapped in a room with two boxes: Box A always contains $100; Box B may contain $1000 (if the opponent didn't choose B) or $0 (if the opponent chose B). You choose simultaneously and independently. Do you choose:",
+    "a_zh": "A箱",
+    "a_en": "Box A",
+    "b_zh": "B箱",
+    "b_en": "Box B"
+  },
+  {
+    "q_zh": "你与对手进行“懦夫博弈”：两人驾车对撞，先转向者丢面子（得0分），后转向者获勇气赞誉（得5分）。若都不转向则相撞（各得-10分）。你会：",
+    "q_en": "You and an opponent play 'Chicken': two drivers head toward each other; the first to swerve loses face (0 points), the last to swerve gains courage praise (5 points). If neither swerves, they crash (both get -10). Do you:",
+    "a_zh": "坚持不转向",
+    "a_en": "Hold steady (don't swerve)",
+    "b_zh": "提前转向",
+    "b_en": "Swerve in advance"
   }
 ]
