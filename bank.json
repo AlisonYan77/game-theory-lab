@@ -2776,5 +2776,84 @@
     "a_en": "Hold steady (don't swerve)",
     "b_zh": "提前转向",
     "b_en": "Swerve in advance"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-10中的一个数字。若数字相同，各得10分；若数字不同，数字较小者得5分，较大者得0分。你会写哪个数字？",
+    "q_en": "You and an opponent secretly choose a number between 1 and 10. If you choose the same number, both get 10 points. If different, the smaller number gets 5 points, the larger gets 0. What number do you choose?",
+    "a_zh": "1（确保至少5分）",
+    "a_en": "1 (Guarantee at least 5 points)",
+    "b_zh": "10（赌对方也选10，追求10分）",
+    "b_en": "10 (Bet the opponent also chooses 10, aiming for 10 points)"
+  },
+  {
+    "q_zh": "在一场拍卖中，出价最高者赢得奖品，但前两名都必须支付自己的出价。你会采取什么策略？",
+    "q_en": "In an auction, the highest bidder wins the prize, but the top two bidders must both pay their bids. What is your strategy?",
+    "a_zh": "谨慎出价，避免成为第二",
+    "a_en": "Bid cautiously to avoid being the second-highest",
+    "b_zh": "激进出价，试图吓退对手",
+    "b_en": "Bid aggressively to intimidate opponents"
+  },
+  {
+    "q_zh": "You and a stranger simultaneously choose 'Cooperate' or 'Defect'. Mutual cooperation gives 3 points each; mutual defection gives 1 each; if one cooperates and the other defects, the cooperator gets 0, the defector gets 5. Only one round. You choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你要将100元分给另一个玩家，对方可以接受或拒绝。若接受，按你的方案分；若拒绝，双方都得0元。你会分给对方多少？",
+    "q_en": "You propose how to split $100 with another player. They can accept or reject. If accepted, the split stands; if rejected, both get $0. How much do you offer them?",
+    "a_zh": "50元（公平分配）",
+    "a_en": "$50 (Fair split)",
+    "b_zh": "10元（测试对方底线）",
+    "b_en": "$10 (Test their tolerance)"
+  },
+  {
+    "q_zh": "你和对手轮流从20个硬币中取走1-3个，取走最后一个硬币者输。你先手，第一次会取几个？",
+    "q_en": "You and an opponent take turns taking 1-3 coins from a pile of 20. Whoever takes the last coin loses. You go first. How many do you take initially?",
+    "a_zh": "1个",
+    "a_en": "1 coin",
+    "b_zh": "3个",
+    "b_en": "3 coins"
+  },
+  {
+    "q_zh": "猜拳（石头剪刀布）比赛中，对手上一轮出了“石头”。这一轮你会出什么？",
+    "q_en": "In a Rock-Paper-Scissors match, your opponent played 'Rock' last round. What do you play this round?",
+    "a_zh": "布（赌他不变）",
+    "a_en": "Paper (Bet they repeat)",
+    "b_zh": "剪刀（赌他以为你会出布）",
+    "b_en": "Scissors (Bet they think you'll play Paper)"
+  },
+  {
+    "q_zh": "两个公司设定产品价格：高价各赚100万，低价各赚60万；若一家高价一家低价，高价者赚30万，低价者赚120万。你会选？",
+    "q_en": "Two firms set prices: High price gives each $1M profit; Low price gives each $600K. If one high and one low, the high-price firm gets $300K, the low-price gets $1.2M. You choose?",
+    "a_zh": "高价",
+    "a_en": "High price",
+    "b_zh": "低价",
+    "b_en": "Low price"
+  },
+  {
+    "q_zh": "你有一个秘密，告诉朋友“不要告诉任何人”。你估计朋友有多大可能泄密？",
+    "q_en": "You tell a friend a secret and say 'Don't tell anyone.' What is the probability you assign to them leaking it?",
+    "a_zh": "较低（信任关系）",
+    "a_en": "Low (Trust the relationship)",
+    "b_zh": "较高（信息本身具有传播性）",
+    "b_en": "High (Information tends to spread)"
+  },
+  {
+    "q_zh": "多人投票决定是否通过一个对自己有利但对集体有害的方案。若通过，你得5分，其他每人扣1分。投票匿名，你会投？",
+    "q_en": "A group votes anonymously on a proposal that benefits you (+5 points) but harms each other member (-1 point). If passed, it takes effect. You vote?",
+    "a_zh": "赞成",
+    "a_en": "Yes",
+    "b_zh": "反对",
+    "b_en": "No"
+  },
+  {
+    "q_zh": "最后通牒博弈中，对方提出分给你总金额的10%。你知道对方如果被拒绝，也会损失惨重。你会接受吗？",
+    "q_en": "In an ultimatum game, you are offered 10% of the total sum. You know the proposer will also lose heavily if you reject. Do you accept?",
+    "a_zh": "接受（总比没有好）",
+    "a_en": "Accept (Better than nothing)",
+    "b_zh": "拒绝（惩罚不公平）",
+    "b_en": "Reject (Punish unfairness)"
   }
 ]
