@@ -2855,5 +2855,85 @@
     "a_en": "Accept (Better than nothing)",
     "b_zh": "拒绝（惩罚不公平）",
     "b_en": "Reject (Punish unfairness)"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-10中的一个数字。若数字相同，各得10分；若数字不同，数字较小者得5分，较大者得0分。你会写哪个数字？",
+    "q_en": "You and an opponent secretly choose a number from 1 to 10. If you choose the same number, both get 10 points. If different, the player with the smaller number gets 5 points, the larger gets 0. Which number do you choose?",
+    "a_zh": "1（确保至少5分）",
+    "a_en": "1 (Ensure at least 5 points)",
+    "b_zh": "10（赌对手也选10，追求10分）",
+    "b_en": "10 (Bet the opponent also chooses 10, aiming for 10 points)"
+  },
+  {
+    "q_zh": "在一个合作项目中，你可以选择“全力投入”或“保留实力”。如果双方都全力投入，项目大成功；若一方保留，保留者省力且分享成果；若都保留，项目失败。你更可能？",
+    "q_en": "In a collaborative project, you can 'Go All-In' or 'Hold Back'. If both go all-in, the project is a huge success. If one holds back, that person saves effort but shares the results. If both hold back, the project fails. What are you more likely to do?",
+    "a_zh": "全力投入（相信对方也会合作）",
+    "a_en": "Go All-In (Trust the other will cooperate)",
+    "b_zh": "保留实力（防止被利用）",
+    "b_en": "Hold Back (Protect against being exploited)"
+  },
+  {
+    "q_zh": "拍卖会上，你对一件估值约100元的物品出价。规则是：最高价者获胜，但前两名都必须支付他们的出价。你会？",
+    "q_en": "At an auction, you bid on an item worth about 100. The rule: The highest bidder wins, but the top two bidders must both pay their bids. You would?",
+    "a_zh": "出价略高于100（争取合理利润）",
+    "a_en": "Bid slightly above 100 (Aim for a reasonable profit)",
+    "b_zh": "出价远低于100（避免陷入支付陷阱）",
+    "b_en": "Bid well below 100 (Avoid the payment trap)"
+  },
+  {
+    "q_zh": "你要分100元给陌生人，对方可以接受或拒绝。若接受，按你的方案分；若拒绝，双方都得0元。你会分给对方多少？",
+    "q_en": "You must divide 100 with a stranger. They can accept or reject. If accepted, the split stands. If rejected, both get 0. How much do you offer the other person?",
+    "a_zh": "50元（公平分配）",
+    "a_en": "50 (Fair split)",
+    "b_zh": "10元（测试对方是否接受不平等）",
+    "b_en": "10 (Test if they accept inequality)"
+  },
+  {
+    "q_zh": "多人游戏中，每人可贡献0-10元到公共池。结束后，池中总额翻倍后平均分给所有人。你会贡献多少？",
+    "q_en": "In a multiplayer game, each can contribute 0-10 to a public pot. After, the total is doubled and split equally among all. How much do you contribute?",
+    "a_zh": "10元（最大化集体利益）",
+    "a_en": "10 (Maximize collective benefit)",
+    "b_zh": "0元（搭便车，享受他人贡献）",
+    "b_en": "0 (Free-ride on others' contributions)"
+  },
+  {
+    "q_zh": "你和对手轮流提分割方案（共100元）。你先提，若对方拒绝，则总金额减少10元，由对方提新方案，以此类推。你会提议自己分得多少？",
+    "q_en": "You and an opponent take turns proposing how to split 100. You go first. If rejected, the total shrinks by 10, and the other proposes, and so on. How much do you propose for yourself?",
+    "a_zh": "90元（利用先手优势）",
+    "a_en": "90 (Leverage first-mover advantage)",
+    "b_zh": "60元（给出对方无法拒绝的公平报价）",
+    "b_en": "60 (Offer a fair deal the other can't refuse)"
+  },
+  {
+    "q_zh": "你发现同事的一个小错误，该错误目前无害，但未来可能引发问题。你会？",
+    "q_en": "You discover a colleague's minor mistake, harmless now but potentially problematic later. You would?",
+    "a_zh": "立即私下提醒（建立信任，避免未来损失）",
+    "a_en": "Privately point it out now (Build trust, avoid future loss)",
+    "b_zh": "暂时不说，留作未来谈判筹码",
+    "b_en": "Keep it to yourself as potential future leverage"
+  },
+  {
+    "q_zh": "猜拳游戏（石头剪刀布）中，面对一个理性的陌生人，你第一局会出什么？",
+    "q_en": "In Rock-Paper-Scissors against a rational stranger, what do you play first?",
+    "a_zh": "石头（简单直接）",
+    "a_en": "Rock (Simple and direct)",
+    "b_zh": "剪刀（反常规，出其不意）",
+    "b_en": "Scissors (Counter-intuitive, surprise)"
+  },
+  {
+    "q_zh": "投资中，你有两个选择：A. 稳赚50元；B. 50%概率赚200元，50%概率赚0元。你选哪个？",
+    "q_en": "In an investment, you have two options: A. Guaranteed gain of 50. B. 50% chance to gain 200, 50% chance to gain 0. Which do you choose?",
+    "a_zh": "稳赚50元（风险厌恶）",
+    "a_en": "Guaranteed 50 (Risk-averse)",
+    "b_zh": "赌概率（追求更高期望收益）",
+    "b_en": "Gamble (Pursue higher expected value)"
+  },
+  {
+    "q_zh": "团队竞赛中，你的个人表现将决定团队排名，但过度努力会耗尽你的精力，影响后续个人赛。你会？",
+    "q_en": "In a team contest, your individual performance decides the team's rank, but overexerting will drain you for a subsequent solo match. You would?",
+    "a_zh": "为团队荣誉全力以赴",
+    "a_en": "Give your all for team honor",
+    "b_zh": "保存实力，为个人赛做准备",
+    "b_en": "Conserve energy for the solo match"
   }
 ]
