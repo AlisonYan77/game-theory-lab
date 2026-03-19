@@ -3095,5 +3095,85 @@
     "a_en": "Vote for X (stick to preference)",
     "b_zh": "投给Y（从众避损）",
     "b_en": "Vote for Y (follow majority to avoid penalty)"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下1-100之间的一个整数。谁写的数字更接近对方数字的2/3，谁就获胜。你会写多少？",
+    "q_en": "You and your opponent secretly write an integer between 1 and 100. Whoever writes a number closer to 2/3 of the other's number wins. What number do you write?",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你和对手同时决定“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；一方合作一方背叛，背叛者得5分，合作者得0分。此局你会？",
+    "q_en": "You and your opponent simultaneously choose 'Cooperate' or 'Betray'. If both cooperate, each gets 3 points; both betray, each gets 1; if one betrays and the other cooperates, the betrayer gets 5 points, the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "拍卖一张100元纸币，出价最高者按出价支付并获得纸币，但出价第二高者也需要支付其出价（但什么也得不到）。你已出价95元，对手出价96元。现在你可以选择：",
+    "q_en": "Auction for a $100 bill. The highest bidder pays their bid and gets the bill, but the second-highest bidder also pays their bid (and gets nothing). You bid $95, your opponent bids $96. Now you can choose to:",
+    "a_zh": "放弃加价",
+    "a_en": "Give up and not raise",
+    "b_zh": "加价到97元",
+    "b_en": "Raise to $97"
+  },
+  {
+    "q_zh": "你和对手分10枚金币。你提出分配方案（如“我7你3”），对手只能接受或拒绝。若拒绝，双方都得不到金币。你会提议：",
+    "q_en": "You and your opponent split 10 gold coins. You propose a split (e.g., 'I take 7, you take 3'), and the opponent can only accept or reject. If rejected, both get nothing. What do you propose?",
+    "a_zh": "我5你5",
+    "a_en": "I take 5, you take 5",
+    "b_zh": "我7你3",
+    "b_en": "I take 7, you take 3"
+  },
+  {
+    "q_zh": "一个公共账户，每人可秘密存入0-10元。结束后，总金额翻倍后平均分给所有人。你会存入多少？",
+    "q_en": "A public account where each person can secretly deposit $0 to $10. Afterward, the total is doubled and divided equally among all. How much do you deposit?",
+    "a_zh": "10元",
+    "a_en": "$10",
+    "b_zh": "0元",
+    "b_en": "$0"
+  },
+  {
+    "q_zh": "你和对手轮流从20枚硬币中取走1-3枚，取走最后一枚者输。你先手，第一次会取几枚？",
+    "q_en": "You and your opponent take turns taking 1 to 3 coins from a pile of 20. Whoever takes the last coin loses. You go first. How many do you take on your first turn?",
+    "a_zh": "取3枚",
+    "a_en": "Take 3",
+    "b_zh": "取2枚",
+    "b_en": "Take 2"
+  },
+  {
+    "q_zh": "两人独立决定是否“投资”。若都投资，各获利2；都不投资，各获利1；一人投资一人不投资，投资者损失1，不投资者获利3。你会？",
+    "q_en": "Two people independently decide whether to 'Invest'. If both invest, each gains 2; if neither invests, each gains 1; if one invests and the other doesn't, the investor loses 1, the non-investor gains 3. What do you do?",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Not invest"
+  },
+  {
+    "q_zh": "你和对手各有一张“红”或“黑”的卡片。同时亮出。若颜色相同，你得100元；若颜色不同，对手得100元。你会出什么颜色？",
+    "q_en": "You and your opponent each have a card that is either 'Red' or 'Black'. Reveal simultaneously. If the colors match, you win $100; if they differ, your opponent wins $100. What color do you play?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "黑",
+    "b_en": "Black"
+  },
+  {
+    "q_zh": "你面前有两个信封，一个装另一人钱数的两倍，一个装其一半。你选了一个，打开发现100元。此时你可以选择是否交换。你会换吗？",
+    "q_en": "Two envelopes: one contains twice as much money as the other. You pick one, open it, and see $100. You can choose to swap. Do you swap?",
+    "a_zh": "换",
+    "a_en": "Swap",
+    "b_zh": "不换",
+    "b_en": "Keep"
+  },
+  {
+    "q_zh": "你和对手进行多轮囚徒困境。已知共进行10轮，且双方都知道轮数。第一轮你会选择？",
+    "q_en": "You and your opponent play multiple rounds of Prisoner's Dilemma. It is known that there will be exactly 10 rounds, and both know this. In the first round, you choose to:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
   }
 ]
