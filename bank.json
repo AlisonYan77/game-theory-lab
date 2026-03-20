@@ -3175,5 +3175,85 @@
     "a_en": "Cooperate",
     "b_zh": "背叛",
     "b_en": "Betray"
+  },
+  {
+    "q_zh": "在一个合作项目中，你的搭档连续两次未能按时完成任务，影响了整体进度。此时你会：",
+    "q_en": "In a collaborative project, your partner has failed to meet deadlines twice in a row, affecting overall progress. At this point, you would:",
+    "a_zh": "A. 直接指出问题，要求对方给出解释并制定补救计划",
+    "a_en": "A. Directly point out the issue, demand an explanation, and request a remedial plan",
+    "b_zh": "B. 暂时不公开批评，私下提供帮助并观察后续表现",
+    "b_en": "B. Avoid public criticism for now, offer private assistance, and observe future performance"
+  },
+  {
+    "q_zh": "谈判陷入僵局时，对方突然提出一个明显对你有利的让步。你会认为：",
+    "q_en": "When negotiations reach a deadlock, the other party suddenly makes a concession that clearly benefits you. You would think:",
+    "a_zh": "A. 这是对方诚意的表现，可以接受并推进谈判",
+    "a_en": "A. This shows the other party's sincerity; accept and proceed with negotiations",
+    "b_zh": "B. 警惕这可能是一个陷阱，需要进一步分析对方的真实意图",
+    "b_en": "B. Be cautious as this might be a trap; further analyze the other party's true intentions"
+  },
+  {
+    "q_zh": "团队要投票决定一个高风险高回报的方案，你的真实想法是反对，但发现多数人支持。你会：",
+    "q_en": "The team is voting on a high-risk, high-reward proposal. You personally oppose it but find that the majority supports it. You would:",
+    "a_zh": "A. 坚持投反对票，并清晰陈述自己的理由",
+    "a_en": "A. Stick to voting against it and clearly state your reasons",
+    "b_zh": "B. 改为投赞成票，避免被孤立并维护团队表面和谐",
+    "b_en": "B. Switch to voting in favor to avoid isolation and maintain superficial team harmony"
+  },
+  {
+    "q_zh": "在竞标中，你发现唯一竞争对手的报价可能只比你略低一点。最后一轮你会：",
+    "q_en": "In a bidding process, you suspect your only competitor's offer might be slightly lower than yours. In the final round, you would:",
+    "a_zh": "A. 大幅降低报价，以确保中标",
+    "a_en": "A. Significantly lower your bid to secure the win",
+    "b_zh": "B. 仅微调报价，相信自己的方案质量能弥补差价",
+    "b_en": "B. Only make minor adjustments, trusting that your proposal's quality justifies a higher price"
+  },
+  {
+    "q_zh": "得知同事在领导面前委婉批评了你的工作，但并未指名道姓。你会：",
+    "q_en": "You learn that a colleague has indirectly criticized your work in front of the leadership without naming you. You would:",
+    "a_zh": "A. 找机会在公开场合澄清事实，捍卫自己的声誉",
+    "a_en": "A. Seize an opportunity to clarify the facts publicly and defend your reputation",
+    "b_zh": "B. 私下与该同事沟通，了解原因并尝试化解矛盾",
+    "b_en": "B. Communicate with the colleague privately to understand the reasons and resolve the conflict"
+  },
+  {
+    "q_zh": "进行多轮游戏时，上一轮对手选择了背叛你。这一轮你会：",
+    "q_en": "In a multi-round game, your opponent betrayed you in the previous round. This round, you would:",
+    "a_zh": "A. 选择合作，给予对方一次挽回信任的机会",
+    "a_en": "A. Choose to cooperate, giving the other party a chance to regain trust",
+    "b_zh": "B. 选择背叛，作为对上一轮的回应并保护自己",
+    "b_en": "B. Choose to betray, as a response to the previous round and to protect yourself"
+  },
+  {
+    "q_zh": "你需要从两个候选人中选一个搭档完成关键任务。一位能力极强但难以预测，另一位能力中等但非常可靠。你会选择：",
+    "q_en": "You need to choose a partner from two candidates for a critical task. One is highly capable but unpredictable, the other is moderately capable but very reliable. You would choose:",
+    "a_zh": "A. 能力极强但难以预测的候选人",
+    "a_en": "A. The highly capable but unpredictable candidate",
+    "b_zh": "B. 能力中等但非常可靠的候选人",
+    "b_en": "B. The moderately capable but very reliable candidate"
+  },
+  {
+    "q_zh": "在信息不完全的拍卖中，你对物品的真实价值不确定，但看到其他竞拍者热情很高。你会：",
+    "q_en": "In an auction with incomplete information, you are uncertain of the item's true value but see other bidders are enthusiastic. You would:",
+    "a_zh": "A. 积极参与竞拍，相信众人的判断可能有自己不知道的信息",
+    "a_en": "A. Actively participate in the bidding, believing the crowd might have information you lack",
+    "b_zh": "B. 保持谨慎，退出或仅象征性出价，避免“赢家的诅咒”",
+    "b_en": "B. Remain cautious, withdraw or bid only symbolically to avoid the 'winner's curse'"
+  },
+  {
+    "q_zh": "分享一个能带来集体巨大收益但会削弱你个人优势的秘密信息。你会：",
+    "q_en": "You possess secret information that could bring huge collective benefits but would weaken your personal advantage. You would:",
+    "a_zh": "A. 分享该信息，以换取长期的信任和更大的集体成果",
+    "a_en": "A. Share the information to gain long-term trust and achieve greater collective outcomes",
+    "b_zh": "B. 保守秘密，维持个人在后续博弈中的优势地位",
+    "b_en": "B. Keep the secret to maintain your advantageous position in future games"
+  },
+  {
+    "q_zh": "面临一个道德模糊的抉择：采取一个游走于规则边缘的策略可以确保胜利，但违背了公平竞赛精神。你会：",
+    "q_en": "Faced with a morally ambiguous choice: a strategy that skirts the rules would ensure victory but violates the spirit of fair play. You would:",
+    "a_zh": "A. 采用该策略，胜利是竞争中最现实的目标",
+    "a_en": "A. Adopt the strategy, as victory is the most realistic goal in competition",
+    "b_zh": "B. 放弃该策略，坚持公平原则即便可能失败",
+    "b_en": "B. Abandon the strategy and adhere to principles of fairness even at the risk of losing"
   }
 ]
