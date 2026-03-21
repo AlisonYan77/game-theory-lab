@@ -3255,5 +3255,85 @@
     "a_en": "A. Adopt the strategy, as victory is the most realistic goal in competition",
     "b_zh": "B. 放弃该策略，坚持公平原则即便可能失败",
     "b_en": "B. Abandon the strategy and adhere to principles of fairness even at the risk of losing"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下0-100之间的一个整数。谁写的数字更接近对方数字的2/3，谁获胜。你会写多少？",
+    "q_en": "You and your opponent secretly write an integer between 0 and 100. Whoever writes a number closest to 2/3 of the other's number wins. What number do you write?",
+    "a_zh": "0",
+    "a_en": "0",
+    "b_zh": "33",
+    "b_en": "33"
+  },
+  {
+    "q_zh": "你和对手进行多轮囚徒困境博弈。在最后一轮，你会选择合作还是背叛？",
+    "q_en": "You and your opponent play multiple rounds of the Prisoner's Dilemma. In the final round, do you cooperate or defect?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "拍卖会上，你和对手竞拍一张100元钞票。出价最高者获得钞票，但两位竞拍者都必须支付自己的出价。你会出价多少？",
+    "q_en": "At an auction, you and your opponent bid for a $100 bill. The highest bidder wins the bill, but both bidders must pay their bid. How much do you bid?",
+    "a_zh": "0元（不参与）",
+    "a_en": "$0 (Do not participate)",
+    "b_zh": "51元",
+    "b_en": "$51"
+  },
+  {
+    "q_zh": "你和对手同时决定是否信任对方。若双方都信任，各得3分；若一方信任一方不信任，不信任者得5分，信任者得0分；若双方都不信任，各得1分。你会选择信任吗？",
+    "q_en": "You and your opponent simultaneously decide whether to trust each other. If both trust, each gets 3 points. If one trusts and the other doesn't, the distrusting player gets 5 points, the trusting player gets 0. If both distrust, each gets 1 point. Do you choose to trust?",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "不信任",
+    "b_en": "Distrust"
+  },
+  {
+    "q_zh": "你有一个提议分配100元的机会：你可以提出一个分配方案（自己拿X元，给对方100-X元）。对方只能接受或拒绝。若拒绝，双方都得0元。你会提议自己拿多少？",
+    "q_en": "You have the opportunity to propose how to split $100: you take $X and give $(100-X) to the other player. They can only accept or reject. If rejected, both get $0. How much do you propose to take for yourself?",
+    "a_zh": "50元",
+    "a_en": "$50",
+    "b_zh": "90元",
+    "b_en": "$90"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆10枚硬币中取走1-3枚。取走最后一枚硬币者输。你先手。你会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 coins from a pile of 10 coins. The player who takes the last coin loses. You go first. How many coins do you take?",
+    "a_zh": "1枚",
+    "a_en": "1 coin",
+    "b_zh": "2枚",
+    "b_en": "2 coins"
+  },
+  {
+    "q_zh": "你和对手各自选择“红”或“蓝”。若颜色相同，你得3分，对手得1分；若颜色不同，你得1分，对手得3分。你会选什么颜色？",
+    "q_en": "You and your opponent each choose 'Red' or 'Blue'. If the colors match, you get 3 points and your opponent gets 1. If they differ, you get 1 point and your opponent gets 3. What color do you choose?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你和对手玩“胆小鬼博弈”：两人驾车相向而行，谁先转向谁丢脸（得0分），但若都不转向则相撞（都得-10分）。你会转向吗？",
+    "q_en": "You and your opponent play 'Chicken': two drivers head toward each other. Whoever swerves first loses face (0 points), but if neither swerves, they crash (both get -10 points). Do you swerve?",
+    "a_zh": "转向",
+    "a_en": "Swerve",
+    "b_zh": "不转向",
+    "b_en": "Do not swerve"
+  },
+  {
+    "q_zh": "你和对手进行一场“消耗战”：双方持续投入资源，先放弃者输掉所有已投入资源，赢家获得奖励。你会选择早期放弃还是坚持到底？",
+    "q_en": "You and your opponent engage in a 'War of Attrition': both keep investing resources. The first to quit loses all invested resources; the winner gets a prize. Do you quit early or persist to the end?",
+    "a_zh": "早期放弃",
+    "a_en": "Quit early",
+    "b_zh": "坚持到底",
+    "b_en": "Persist to the end"
+  },
+  {
+    "q_zh": "你得知对手是一个极度理性、追求自身利益最大化的AI。在囚徒困境的单次博弈中，你会选择合作还是背叛？",
+    "q_en": "You learn that your opponent is a highly rational AI that maximizes its own payoff. In a one-shot Prisoner's Dilemma, do you cooperate or defect?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
   }
 ]
