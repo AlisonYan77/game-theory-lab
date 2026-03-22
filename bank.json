@@ -3335,5 +3335,85 @@
     "a_en": "Cooperate",
     "b_zh": "背叛",
     "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手各自拥有 100 元。你们可以同时选择“合作”或“背叛”。若都合作，各得 50 元奖励；若都背叛，各损失 20 元；若一方合作一方背叛，背叛者得 80 元，合作者损失 30 元。你会选择？",
+    "q_en": "You and your opponent each have $100. You can simultaneously choose 'Cooperate' or 'Betray'. If both cooperate, each gets a $50 bonus. If both betray, each loses $20. If one cooperates and the other betrays, the betrayer gets $80 and the cooperator loses $30. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "在一个拍卖中，出价最高者赢得奖品，但前两名出价者都需要支付他们的出价金额。你已知对手可能出价在 50-100 之间。你的策略是？",
+    "q_en": "In an auction, the highest bidder wins the prize, but the top two bidders must both pay their bid amounts. You know your opponent may bid between 50 and 100. Your strategy is?",
+    "a_zh": "出价略高于 50，争取低成本获胜",
+    "a_en": "Bid slightly above 50 to win at low cost",
+    "b_zh": "出价接近 100，确保压倒性胜利",
+    "b_en": "Bid close to 100 to ensure a decisive win"
+  },
+  {
+    "q_zh": "你和对手轮流从 20 枚硬币中取走 1-3 枚，取走最后一枚者输。你先手。你的第一步取几枚？",
+    "q_en": "You and your opponent take turns removing 1-3 coins from a pile of 20. The player who takes the last coin loses. You go first. How many do you take on your first turn?",
+    "a_zh": "取 2 枚",
+    "a_en": "Take 2 coins",
+    "b_zh": "取 3 枚",
+    "b_en": "Take 3 coins"
+  },
+  {
+    "q_zh": "你们两人需各自在 0-100 间选一个整数，最接近平均数的 2/3 的人获胜。你认为多数人会怎么选？",
+    "q_en": "Each of you chooses an integer between 0 and 100. The one closest to 2/3 of the average wins. How do you think most people will choose?",
+    "a_zh": "选一个较低的数（如 20-40），认为别人会理性计算",
+    "a_en": "Choose a low number (e.g., 20-40), assuming others will calculate rationally",
+    "b_zh": "选一个非常低的数（如 0-10），认为别人会过度推理",
+    "b_en": "Choose a very low number (e.g., 0-10), assuming others will overthink"
+  },
+  {
+    "q_zh": "你发现同事在团队项目中偷懒，但领导尚未察觉。项目成功后，偷懒者可能与你获得同等奖励。此时你会？",
+    "q_en": "You discover a colleague slacking off in a team project, but the manager hasn't noticed. If the project succeeds, the slacker may receive equal credit. What do you do?",
+    "a_zh": "私下提醒同事，希望其改正",
+    "a_en": "Privately remind the colleague, hoping they will improve",
+    "b_zh": "直接向领导反映，确保公平评估",
+    "b_en": "Report directly to the manager to ensure fair evaluation"
+  },
+  {
+    "q_zh": "谈判中，对方开出一个明显低于你预期的报价。你的回应是？",
+    "q_en": "In a negotiation, the other party makes an offer significantly lower than your expectation. Your response is?",
+    "a_zh": "直接拒绝并给出你的底线价，显示决心",
+    "a_en": "Reject directly and state your bottom line to show determination",
+    "b_zh": "表示惊讶但继续讨论，试探对方真实意图",
+    "b_en": "Express surprise but continue discussing to probe their real intent"
+  },
+  {
+    "q_zh": "在一个信任游戏中，你可以将部分资金委托给陌生人投资，对方可能返还更多也可能私吞。你会委托多少比例的资金？",
+    "q_en": "In a trust game, you can entrust a portion of your funds to a stranger for investment. They may return more or keep it all. What percentage do you entrust?",
+    "a_zh": "委托小部分（如 30%），控制风险",
+    "a_en": "Entrust a small portion (e.g., 30%) to control risk",
+    "b_zh": "委托大部分（如 70%），激励对方合作",
+    "b_en": "Entrust a large portion (e.g., 70%) to incentivize cooperation"
+  },
+  {
+    "q_zh": "多人投票决定一项公共政策，你的真实偏好是 A，但你知道支持 B 的人数略多。投票时你会？",
+    "q_en": "A group votes on a public policy. Your true preference is A, but you know slightly more people support B. How do you vote?",
+    "a_zh": "坚持投给 A，表达真实立场",
+    "a_en": "Vote for A to express your true stance",
+    "b_zh": "策略性投给 B，避免成为少数派",
+    "b_en": "Strategically vote for B to avoid being in the minority"
+  },
+  {
+    "q_zh": "竞标中，你发现唯一对手可能资金不足。你会如何调整出价？",
+    "q_en": "In a bidding competition, you suspect your only opponent may have insufficient funds. How do you adjust your bid?",
+    "a_zh": "大幅提高出价，迫使对方退出",
+    "a_en": "Significantly increase your bid to force the opponent to withdraw",
+    "b_zh": "小幅加价，刚好压过其预算上限",
+    "b_en": "Slightly increase your bid to just exceed their budget limit"
+  },
+  {
+    "q_zh": "合作项目中，你的贡献难以被直接量化，而队友的贡献显而易见。项目汇报时，你会？",
+    "q_en": "In a collaborative project, your contribution is hard to quantify directly, while your teammate's work is obvious. During the project report, you will?",
+    "a_zh": "重点强调团队整体成果，淡化个人分工",
+    "a_en": "Emphasize the team's overall achievement and downplay individual roles",
+    "b_zh": "详细描述自己的幕后工作，确保被认可",
+    "b_en": "Detail your behind-the-scenes work to ensure recognition"
   }
 ]
