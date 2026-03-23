@@ -3415,5 +3415,85 @@
     "a_en": "Emphasize the team's overall achievement and downplay individual roles",
     "b_zh": "详细描述自己的幕后工作，确保被认可",
     "b_en": "Detail your behind-the-scenes work to ensure recognition"
+  },
+  {
+    "q_zh": "你与对手各自拥有100枚金币，你们需要同时决定是否向公共池投入金币。投入的金币会翻倍后平分给两人，无论对方是否投入。你会选择：",
+    "q_en": "You and your opponent each have 100 gold coins. You must simultaneously decide whether to contribute coins to a public pool. Contributed coins are doubled and then split equally between both players, regardless of the other's choice. You choose to:",
+    "a_zh": "投入50枚金币",
+    "a_en": "Contribute 50 coins",
+    "b_zh": "不投入任何金币",
+    "b_en": "Contribute 0 coins"
+  },
+  {
+    "q_zh": "在一场拍卖中，你和对手竞拍一张价值100元的钞票。出价最高者获得钞票，但两位竞拍者都需要支付自己的出价。你会选择出价：",
+    "q_en": "In an auction, you and your opponent bid for a banknote worth 100. The highest bidder wins the note, but both bidders must pay their bid. You choose to bid:",
+    "a_zh": "60元",
+    "a_en": "60",
+    "b_zh": "20元",
+    "b_en": "20"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆20枚金币中取走1-3枚，取走最后一枚金币者输。你先手，第一轮你会取走：",
+    "q_en": "You and your opponent take turns removing 1-3 gold coins from a pile of 20. The player who takes the last coin loses. You go first. On your first turn, you remove:",
+    "a_zh": "2枚金币",
+    "a_en": "2 coins",
+    "b_zh": "1枚金币",
+    "b_en": "1 coin"
+  },
+  {
+    "q_zh": "你和对手各自在0-100之间选择一个整数，最接近平均数的三分之二者获胜。你认为对手会倾向于选择较小的数，你会选择：",
+    "q_en": "You and your opponent each choose an integer between 0 and 100. The winner is the one whose number is closest to two-thirds of the average. You believe your opponent tends to choose small numbers. You choose:",
+    "a_zh": "22",
+    "a_en": "22",
+    "b_zh": "10",
+    "b_en": "10"
+  },
+  {
+    "q_zh": "你和对手进行囚徒困境博弈。若双方都合作，各得3分；都背叛，各得1分；一方合作一方背叛，合作者得0分，背叛者得5分。你预计对手会合作，你会选择：",
+    "q_en": "You and your opponent play a Prisoner's Dilemma. If both cooperate, each gets 3 points; both defect, each gets 1; if one cooperates and one defects, the cooperator gets 0 and the defector gets 5. You expect your opponent to cooperate. You choose to:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手分10枚金币。对手提出分配方案（如“我7你3”），你只能接受或拒绝。拒绝则双方都得不到金币。作为回应方，如果对方提出“我8你2”，你会：",
+    "q_en": "You and your opponent divide 10 gold coins. The opponent proposes a split (e.g., '7 for me, 3 for you'). You can only accept or reject. If rejected, both get nothing. As the responder, if the offer is '8 for me, 2 for you', you:",
+    "a_zh": "接受",
+    "a_en": "Accept",
+    "b_zh": "拒绝",
+    "b_en": "Reject"
+  },
+  {
+    "q_zh": "你和对手玩剪刀石头布。已知对手上一局出了石头，并且倾向于不连续出相同的手势。这一局你会出：",
+    "q_en": "You play Rock-Paper-Scissors against your opponent. Last round, they played Rock, and they tend not to repeat the same move twice. This round, you play:",
+    "a_zh": "布",
+    "a_en": "Paper",
+    "b_zh": "剪刀",
+    "b_en": "Scissors"
+  },
+  {
+    "q_zh": "你和对手各自决定是否投资一个项目。只有当两人都投资时，项目才会成功，每人获利4。若只有一人投资，投资者损失1，不投资者获利0。若都不投资，双方获利0。你会选择：",
+    "q_en": "You and your opponent decide whether to invest in a project. It succeeds only if both invest, giving each a profit of 4. If only one invests, the investor loses 1 and the other gets 0. If neither invests, both get 0. You choose to:",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Not invest"
+  },
+  {
+    "q_zh": "你与对手进行多轮信任游戏。你先手，可以选择将10枚金币全部传给对手，对手收到的金币会变为3倍，然后他决定返还给你多少。第一轮你会：",
+    "q_en": "You play a multi-round Trust Game. You move first, choosing whether to pass 10 coins to your opponent. Coins passed are tripled, then the opponent decides how much to return to you. In the first round, you:",
+    "a_zh": "传递全部10枚金币",
+    "a_en": "Pass all 10 coins",
+    "b_zh": "不传递任何金币",
+    "b_en": "Pass 0 coins"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下“合作”或“竞争”。若都写“合作”，各得2分；都写“竞争”，各得0分；一人写“合作”一人写“竞争”，写“竞争”者得3分，写“合作”者得-1分。你判断对手是激进型，你会写：",
+    "q_en": "You and your opponent secretly write 'Cooperate' or 'Compete'. If both write 'Cooperate', each gets 2; both 'Compete', each gets 0; if one writes 'Cooperate' and the other 'Compete', the 'Compete' writer gets 3 and the 'Cooperate' writer gets -1. You judge your opponent to be aggressive. You write:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "竞争",
+    "b_en": "Compete"
   }
 ]
