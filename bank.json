@@ -3495,5 +3495,85 @@
     "a_en": "Cooperate",
     "b_zh": "竞争",
     "b_en": "Compete"
+  },
+  {
+    "q_zh": "你与对手各持100枚金币，需同时决定向公共池投入多少（0-100）。若双方投入总和≥150，则每人拿回本金并获得额外50奖励；否则投入的金币将被没收。你会投入多少？",
+    "q_en": "You and an opponent each hold 100 gold coins, and must simultaneously decide how many to contribute to a public pool (0-100). If the total contribution from both sides is ≥150, each gets back their contribution plus an extra 50 reward; otherwise, all contributed coins are forfeited. How much will you contribute?",
+    "a_zh": "投入75枚，相信对方也会理性选择75以达成共赢",
+    "a_en": "Contribute 75, trusting the opponent will also rationally choose 75 to achieve mutual benefit",
+    "b_zh": "投入0枚，避免对方背叛导致自己损失",
+    "b_en": "Contribute 0, avoiding loss in case the opponent betrays"
+  },
+  {
+    "q_zh": "作为公司主管，你发现团队中有成员私下消极怠工但未被察觉。公开批评可能破坏信任，但放任会降低整体效率。你会如何选择？",
+    "q_en": "As a team leader, you discover a member is slacking off secretly without being noticed. Public criticism may damage trust, but ignoring it reduces overall efficiency. What will you do?",
+    "a_zh": "私下与该成员沟通，给予改进机会",
+    "a_en": "Communicate privately with the member, offering a chance to improve",
+    "b_zh": "在团队会议上不点名地强调纪律，施加群体压力",
+    "b_en": "Emphasize discipline anonymously in a team meeting to apply group pressure"
+  },
+  {
+    "q_zh": "你在拍卖会上竞拍一件价值约500元的收藏品。当前价格已升至480元，只剩你与另一人竞价。你会：",
+    "q_en": "You are bidding for a collectible worth about 500 at an auction. The current price is 480, with only you and one other bidder left. You will:",
+    "a_zh": "继续加价至500元，争取以合理价格获胜",
+    "a_en": "Continue bidding up to 500, aiming to win at a reasonable price",
+    "b_zh": "立即退出，避免陷入“赢家诅咒”",
+    "b_en": "Withdraw immediately to avoid the 'winner's curse'"
+  },
+  {
+    "q_zh": "谈判中对方提出一个对你明显不利的方案，但态度强硬。此时你会：",
+    "q_en": "In a negotiation, the opponent proposes a clearly unfavorable deal but acts firmly. You will:",
+    "a_zh": "直接拒绝并给出自己的方案，展示底线",
+    "a_en": "Reject it directly and present your own proposal to show your bottom line",
+    "b_zh": "假装接受但提出一个对方不可能同意的附加条件",
+    "b_en": "Pretend to accept but add a condition the opponent is unlikely to agree to"
+  },
+  {
+    "q_zh": "多人合作项目中，你的贡献最大但成果将平均分配。此时你会：",
+    "q_en": "In a group project, your contribution is the largest but the results will be shared equally. You will:",
+    "a_zh": "继续全力投入，以团队成功为先",
+    "a_en": "Continue to devote full effort, prioritizing team success",
+    "b_zh": "适度降低个人投入至平均水平，避免被搭便车",
+    "b_en": "Reduce personal effort to the average level to avoid free-riding"
+  },
+  {
+    "q_zh": "市场上有两家竞争店铺，节日促销时你会选择：",
+    "q_en": "Two competing stores are having holiday sales. You will choose to:",
+    "a_zh": "率先大幅降价以吸引顾客，抢占市场份额",
+    "a_en": "Cut prices significantly first to attract customers and seize market share",
+    "b_zh": "保持价格观望，根据对手行动再调整策略",
+    "b_en": "Maintain prices and observe, adjusting strategy based on the opponent's move"
+  },
+  {
+    "q_zh": "你发现好友的伴侣可能出轨，但不确定好友是否知情。你会：",
+    "q_en": "You suspect your friend's partner is cheating, but are unsure if your friend knows. You will:",
+    "a_zh": "委婉提醒好友，让其自行判断",
+    "a_en": "Hint discreetly to your friend, letting them judge for themselves",
+    "b_zh": "保持沉默，避免介入他人私事引发误会",
+    "b_en": "Remain silent to avoid misunderstandings from interfering in personal matters"
+  },
+  {
+    "q_zh": "在“囚徒困境”式游戏中，已知本轮是与同一对手的最后一局。你会选择：",
+    "q_en": "In a Prisoner's Dilemma-style game, this is the final round against the same opponent. You will choose:",
+    "a_zh": "合作，以维护长期建立的信任关系",
+    "a_en": "Cooperate to maintain the trust built over the long term",
+    "b_zh": "背叛，因为这是获取最大利益的最后机会",
+    "b_en": "Betray, as this is the last chance to maximize personal gain"
+  },
+  {
+    "q_zh": "作为新产品开发者，你收到竞争对手的收购要约，收购后产品可能被雪藏。你会：",
+    "q_en": "As a new product developer, you receive a buyout offer from a competitor who may shelve the product after acquisition. You will:",
+    "a_zh": "拒绝收购，坚持独立发展",
+    "a_en": "Reject the offer and insist on independent development",
+    "b_zh": "接受收购，用获得的资金启动新项目",
+    "b_en": "Accept the offer and use the funds to start a new project"
+  },
+  {
+    "q_zh": "团队投票决定奖金分配方案：A方案（你得多他人少）；B方案（平均分配）。投票匿名但结果公开。你会投：",
+    "q_en": "The team votes on a bonus distribution: Plan A (you get more, others less); Plan B (equal share). Voting is anonymous but results are public. You will vote for:",
+    "a_zh": "A方案，争取自身最大利益",
+    "a_en": "Plan A, striving for maximum personal benefit",
+    "b_zh": "B方案，维持团队和谐与个人声誉",
+    "b_en": "Plan B, maintaining team harmony and personal reputation"
   }
 ]
