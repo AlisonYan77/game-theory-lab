@@ -3575,5 +3575,85 @@
     "a_en": "Plan A, striving for maximum personal benefit",
     "b_zh": "B方案，维持团队和谐与个人声誉",
     "b_en": "Plan B, maintaining team harmony and personal reputation"
+  },
+  {
+    "q_zh": "你与对手各持100枚金币进行多轮拍卖。每轮双方秘密出价（0-100金币），出价高者赢得该轮，但双方出价都会被没收。率先赢得3轮者获得全部剩余金币。现在你已赢2轮，对手赢1轮，双方各剩50金币。最后一轮你会出多少？",
+    "q_en": "You and an opponent each have 100 gold coins in a multi-round auction. Each round, both secretly bid (0-100 coins). The higher bid wins the round, but both bids are forfeited. The first to win 3 rounds gets all remaining coins. You have won 2 rounds, opponent 1 round, each with 50 coins left. How much will you bid in the final round?",
+    "a_zh": "出价50（全部投入）",
+    "a_en": "Bid 50 (all-in)",
+    "b_zh": "出价1（最低试探）",
+    "b_en": "Bid 1 (minimum probe)"
+  },
+  {
+    "q_zh": "你在荒岛上与另一幸存者发现一箱足够一人存活3天的罐头。你们都已饥饿但还能撑1天。对方提议抛硬币决定归属。你会？",
+    "q_en": "On a desert island, you and another survivor find a crate of canned food enough for one person to survive 3 days. Both are hungry but can last 1 more day. The other suggests flipping a coin for it. Do you?",
+    "a_zh": "接受抛硬币",
+    "a_en": "Accept the coin flip",
+    "b_zh": "提议平分（各得1.5天量）",
+    "b_en": "Propose splitting equally (1.5 days' worth each)"
+  },
+  {
+    "q_zh": "作为公司CEO，你得知竞对将在下周发布革命性产品。你可以提前发布半成品抢占市场，但会损害品牌信誉。你会？",
+    "q_en": "As CEO, you learn a competitor will launch a revolutionary product next week. You could preemptively release a half-finished version to seize market share, but it would damage brand credibility. Do you?",
+    "a_zh": "提前发布半成品",
+    "a_en": "Release the half-finished product early",
+    "b_zh": "按原计划完善产品",
+    "b_en": "Stick to the plan and refine the product"
+  },
+  {
+    "q_zh": "谈判中对方突然给出远超预期的优厚条件，但要求立即签署。你会？",
+    "q_en": "In a negotiation, the other party suddenly offers terms far better than expected, but demands immediate signing. Do you?",
+    "a_zh": "立即签署",
+    "a_en": "Sign immediately",
+    "b_zh": "要求24小时考虑",
+    "b_en": "Request 24 hours to consider"
+  },
+  {
+    "q_zh": "团队项目中，一名能力平平但人缘好的成员多次失误拖累进度。作为组长，你会？",
+    "q_en": "In a team project, a likable but mediocre member repeatedly makes mistakes slowing progress. As team leader, do you?",
+    "a_zh": "公开批评并调整其任务",
+    "a_en": "Criticize publicly and reassign their tasks",
+    "b_zh": "私下鼓励并安排辅助",
+    "b_en": "Encourage privately and provide support"
+  },
+  {
+    "q_zh": "竞拍一件真实价值不明的古董，10人参与。拍卖师突然宣布“最高出价者支付，第二高价者也得支付一半”。此时你会？",
+    "q_en": "Bidding on an antique of unknown true value with 10 participants. The auctioneer suddenly announces: 'The highest bidder pays, but the second-highest also pays half their bid.' Do you?",
+    "a_zh": "继续谨慎出价",
+    "a_en": "Continue bidding cautiously",
+    "b_zh": "立即退出竞拍",
+    "b_en": "Withdraw immediately"
+  },
+  {
+    "q_zh": "得知好友在背后轻微质疑你的决策，但当面仍表示支持。你会？",
+    "q_en": "You learn a friend mildly questioned your decision behind your back, but still supports you to your face. Do you?",
+    "a_zh": "直接质问其真实想法",
+    "a_en": "Confront them directly about their true thoughts",
+    "b_zh": "装作不知但减少信任",
+    "b_en": "Pretend not to know but reduce trust"
+  },
+  {
+    "q_zh": "市场上有两个相似产品：A定价100元且广告宣称“性价比最高”；B定价120元无特别宣传。你会买哪个？",
+    "q_en": "Two similar products: A costs 100 with ads claiming 'best value'; B costs 120 with no special claims. Which do you buy?",
+    "a_zh": "产品A（100元）",
+    "a_en": "Product A (100)",
+    "b_zh": "产品B（120元）",
+    "b_en": "Product B (120)"
+  },
+  {
+    "q_zh": "作为陪审团成员，你确信被告有罪，但其他11人均认为无罪。最终判决需全员一致。你会？",
+    "q_en": "As a juror, you believe the defendant is guilty, but the other 11 all think not guilty. The verdict requires unanimity. Do you?",
+    "a_zh": "坚持己见，要求继续辩论",
+    "a_en": "Hold your ground and demand more deliberation",
+    "b_zh": "妥协，投无罪票",
+    "b_en": "Compromise and vote not guilty"
+  },
+  {
+    "q_zh": "投资中，你持有的股票已下跌20%。分析师称“可能反弹”但也可能继续下跌。你会？",
+    "q_en": "A stock you hold has fallen 20%. Analysts say it 'might rebound' but could also fall further. Do you?",
+    "a_zh": "加仓摊薄成本",
+    "a_en": "Buy more to average down",
+    "b_zh": "止损卖出",
+    "b_en": "Cut losses and sell"
   }
 ]
