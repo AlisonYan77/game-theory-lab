@@ -3735,5 +3735,85 @@
     "a_en": "33 or smaller",
     "b_zh": "大于33",
     "b_en": "Greater than 33"
+  },
+  {
+    "q_zh": "你与对手各自拥有100枚金币。你们需要同时决定是否向公共池捐赠金币。如果两人捐赠总额超过120枚，每人将额外获得80枚奖励；否则捐赠的金币将被没收。你会捐赠多少？",
+    "q_en": "You and your opponent each have 100 gold coins. You must simultaneously decide how many coins to donate to a public pool. If the total donation exceeds 120 coins, each player receives an 80-coin bonus; otherwise, all donations are forfeited. How many coins do you donate?",
+    "a_zh": "捐赠60枚",
+    "a_en": "Donate 60 coins",
+    "b_zh": "捐赠0枚",
+    "b_en": "Donate 0 coins"
+  },
+  {
+    "q_zh": "你参加一场拍卖，出价最高者赢得奖品，但前两名出价者都需要支付自己的出价金额。你的预算是200元，已知对手预算为150元。你会出价多少？",
+    "q_en": "You participate in an auction where the highest bidder wins the prize, but both the top two bidders must pay their bid amounts. Your budget is 200, and you know your opponent's budget is 150. How much do you bid?",
+    "a_zh": "出价151元",
+    "a_en": "Bid 151",
+    "b_zh": "出价50元",
+    "b_en": "Bid 50"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆15枚金币中取走1-3枚，取走最后一枚者输。你先手。你的第一回合会取几枚？",
+    "q_en": "You and your opponent take turns removing 1-3 gold coins from a pile of 15. The player who takes the last coin loses. You move first. How many coins do you take on your first turn?",
+    "a_zh": "取2枚",
+    "a_en": "Take 2 coins",
+    "b_zh": "取1枚",
+    "b_en": "Take 1 coin"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下1-100之间的一个整数。谁写的数字更接近对方数字的2/3，谁获胜。你会写哪个数字？",
+    "q_en": "You and your opponent secretly write an integer between 1 and 100. Whoever writes a number closest to 2/3 of the other's number wins. What number do you write?",
+    "a_zh": "写33",
+    "a_en": "Write 33",
+    "b_zh": "写22",
+    "b_en": "Write 22"
+  },
+  {
+    "q_zh": "你与对手进行三局两胜的剪刀石头布。第一局你出“剪刀”并获胜。第二局你会出什么？",
+    "q_en": "You play a best-of-three Rock-Paper-Scissors match. You won the first round with “Scissors.” What do you play in the second round?",
+    "a_zh": "出“石头”",
+    "a_en": "Play Rock",
+    "b_zh": "出“布”",
+    "b_en": "Play Paper"
+  },
+  {
+    "q_zh": "你和对手各自决定是否合作。若都合作，各得3分；若都背叛，各得1分；若一人合作一人背叛，合作者得0分，背叛者得5分。你会如何选择？",
+    "q_en": "You and your opponent choose to Cooperate or Betray. If both cooperate, each gets 3 points. If both betray, each gets 1 point. If one cooperates and the other betrays, the cooperator gets 0, the betrayer gets 5. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你面前有两个箱子：A箱固定有1000元，B箱可能有100万元或为空，取决于对手昨天的预测。对手预测你会“只拿B箱”则放入100万，预测“两个都拿”则B箱为空。你会如何选择？",
+    "q_en": "You face two boxes: Box A contains ¥1000. Box B may contain ¥1 million or be empty, based on your opponent's prediction yesterday. If they predicted you'd “take only Box B,” ¥1M is inside; if they predicted “take both,” Box B is empty. What do you choose?",
+    "a_zh": "只拿B箱",
+    "a_en": "Take only Box B",
+    "b_zh": "两个都拿",
+    "b_en": "Take both boxes"
+  },
+  {
+    "q_zh": "你和对手竞猜一个0-100之间的随机数。谁猜的数字最接近随机数的一半，谁获胜。你会猜多少？",
+    "q_en": "You and your opponent guess a random number between 0 and 100. Whoever guesses closest to half of the random number wins. What is your guess?",
+    "a_zh": "猜25",
+    "a_en": "Guess 25",
+    "b_zh": "猜10",
+    "b_en": "Guess 10"
+  },
+  {
+    "q_zh": "你与对手分10枚金币。你提出分配方案（如“我得X枚，你得Y枚”），对手接受则按方案分配，拒绝则双方都得不到金币。你会提出什么方案？",
+    "q_en": "You and your opponent divide 10 gold coins. You propose a split (e.g., “I get X, you get Y”). If your opponent accepts, the split happens; if they refuse, both get nothing. What split do you propose?",
+    "a_zh": "我得9枚，你得1枚",
+    "a_en": "I get 9, you get 1",
+    "b_zh": "我得6枚，你得4枚",
+    "b_en": "I get 6, you get 4"
+  },
+  {
+    "q_zh": "你和对手同时选择“红”或“蓝”。若颜色相同，各得10分；若不同，选红者得0分，选蓝者得15分。你会选什么颜色？",
+    "q_en": "You and your opponent simultaneously choose “Red” or “Blue.” If colors match, each gets 10 points. If they differ, the Red player gets 0, the Blue player gets 15. What color do you choose?",
+    "a_zh": "选红",
+    "a_en": "Choose Red",
+    "b_zh": "选蓝",
+    "b_en": "Choose Blue"
   }
 ]
