@@ -3815,5 +3815,85 @@
     "a_en": "Choose Red",
     "b_zh": "选蓝",
     "b_en": "Choose Blue"
+  },
+  {
+    "q_zh": "你与对手各持100枚金币。你们可以同时选择“合作”或“背叛”。若双方都合作，各得50；若都背叛，各得10；若一方合作一方背叛，背叛者得90，合作者得0。你会选择？",
+    "q_en": "You and your opponent each hold 100 gold coins. You can simultaneously choose 'Cooperate' or 'Betray'. If both cooperate, each gets 50; if both betray, each gets 10; if one cooperates and the other betrays, the betrayer gets 90 and the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "在一场拍卖中，你和对手竞拍一个价值100元的物品。出价最高者获胜并支付所出价格，但第二名也需支付自己的出价且一无所获。你准备出价？",
+    "q_en": "In an auction, you and your opponent bid for an item worth 100. The highest bidder wins and pays their bid, but the second place also pays their bid and gets nothing. What do you bid?",
+    "a_zh": "出价50元",
+    "a_en": "Bid 50",
+    "b_zh": "出价0元（不参与）",
+    "b_en": "Bid 0 (opt out)"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆100枚金币中取走1-10枚。取走最后一枚金币者获胜。现在由你先手，你会取多少枚？",
+    "q_en": "You and your opponent take turns taking 1-10 gold coins from a pile of 100. Whoever takes the last coin wins. You go first. How many do you take?",
+    "a_zh": "取1枚",
+    "a_en": "Take 1",
+    "b_zh": "取10枚",
+    "b_en": "Take 10"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下1-100之间的一个数字。谁写的数字更接近对方数字的2/3，谁获胜。你会写哪个数字？",
+    "q_en": "You and your opponent secretly write a number between 1 and 100. Whoever's number is closest to 2/3 of the opponent's number wins. What number do you write?",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你和对手进行多轮博弈。每轮你们同时选择“红”或“蓝”。若颜色相同，你得3分对手得1分；若不同，对手得3分你得1分。目标是10轮后总分更高。第一轮你会选？",
+    "q_en": "You and your opponent play multiple rounds. Each round, you simultaneously choose 'Red' or 'Blue'. If colors match, you get 3 points and opponent gets 1; if different, opponent gets 3 and you get 1. Goal is higher total after 10 rounds. What do you choose in round 1?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你有一个提议：将100元在你和对手之间分配。对手只能接受或拒绝。若拒绝，双方都得0。你会提议自己拿多少？",
+    "q_en": "You propose how to split 100 between you and your opponent. They can only accept or reject. If rejected, both get 0. How much do you propose to keep for yourself?",
+    "a_zh": "60元（给对方40）",
+    "a_en": "60 (give 40)",
+    "b_zh": "90元（给对方10）",
+    "b_en": "90 (give 10)"
+  },
+  {
+    "q_zh": "你和对手被困密室，面前有两个按钮：A按钮若被按下，你损失100元但对手得100元；B按钮若被按下，双方各损失50元。你必须按一个，你会按？",
+    "q_en": "You and your opponent are trapped. There are two buttons: Button A, if pressed, makes you lose 100 and opponent gain 100; Button B, if pressed, makes both lose 50. You must press one. Which do you press?",
+    "a_zh": "A按钮",
+    "a_en": "Button A",
+    "b_zh": "B按钮",
+    "b_en": "Button B"
+  },
+  {
+    "q_zh": "你和对手各有一个宝箱，可以选择“上锁”或“不上锁”。若都不上锁，各得100；若都上锁，各得20；若一人上锁一人不上锁，上锁者得120，不上锁者得0。你会？",
+    "q_en": "You and your opponent each have a treasure chest. You can choose 'Lock' or 'Not Lock'. If both don't lock, each gets 100; if both lock, each gets 20; if one locks and the other doesn't, the locker gets 120 and the non-locker gets 0. What do you do?",
+    "a_zh": "上锁",
+    "a_en": "Lock",
+    "b_zh": "不上锁",
+    "b_en": "Not Lock"
+  },
+  {
+    "q_zh": "你和对手进行三轮投票，决定是否平分200元奖金。规则：若三轮中至少两轮双方都投“同意”，则平分；否则奖金消失。第一轮你会投？",
+    "q_en": "You and your opponent vote for three rounds on whether to split 200 equally. Rule: If at least two rounds have both voting 'Yes', you split; otherwise, the money vanishes. How do you vote in round 1?",
+    "a_zh": "同意",
+    "a_en": "Yes",
+    "b_zh": "反对",
+    "b_en": "No"
+  },
+  {
+    "q_zh": "你与对手面前有两个选项：X选项确保你得80元对手得80元；Y选项有50%概率你得200元对手得0，50%概率你得0对手得200元。你会选？",
+    "q_en": "You and your opponent face two options: Option X guarantees you 80 and opponent 80; Option Y gives 50% chance you get 200 and opponent 0, and 50% chance you get 0 and opponent 200. Which do you choose?",
+    "a_zh": "X选项（稳定收益）",
+    "a_en": "Option X (stable gain)",
+    "b_zh": "Y选项（风险博弈）",
+    "b_en": "Option Y (risky gamble)"
   }
 ]
