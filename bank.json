@@ -3895,5 +3895,85 @@
     "a_en": "Option X (stable gain)",
     "b_zh": "Y选项（风险博弈）",
     "b_en": "Option Y (risky gamble)"
+  },
+  {
+    "q_zh": "你与对手各持100元，同时决定是否投资一个项目。若双方都投资，各得150元；若只有一方投资，投资者损失50元，不投资者得200元；若都不投资，保持原状。你会选择？",
+    "q_en": "You and an opponent each hold $100, deciding whether to invest in a project. If both invest, each gets $150; if only one invests, the investor loses $50 while the other gets $200; if neither invests, both keep $100. Your choice?",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Not invest"
+  },
+  {
+    "q_zh": "在一场拍卖中，你和对手竞拍100元现金，出价高者获胜但需支付自己的出价，出价低者无需支付。双方出价不得低于0元。你会出价多少？",
+    "q_en": "In an auction for $100 cash, the highest bidder wins but pays their bid; the loser pays nothing. Bids must be non-negative. Your bid?",
+    "a_zh": "出价略高于50元",
+    "a_en": "Bid slightly above $50",
+    "b_zh": "出价0元",
+    "b_en": "Bid $0"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆10枚硬币中取走1-3枚，取走最后一枚者输。你先手。你的策略是？",
+    "q_en": "You and an opponent take turns removing 1-3 coins from a pile of 10. The player who takes the last coin loses. You go first. Your strategy?",
+    "a_zh": "先取1枚",
+    "a_en": "Take 1 coin first",
+    "b_zh": "先取2枚",
+    "b_en": "Take 2 coins first"
+  },
+  {
+    "q_zh": "两人分100元，由你提出分配方案（如“你得X元，对方得100-X元”），对方可接受或拒绝。若拒绝，双方都得0元。你的方案是？",
+    "q_en": "Divide $100 by proposing a split (e.g., 'You get X, the other gets 100-X'). The other can accept or reject; if rejected, both get $0. Your proposal?",
+    "a_zh": "自己得99元，对方得1元",
+    "a_en": "You get $99, they get $1",
+    "b_zh": "平分（各50元）",
+    "b_en": "Split evenly ($50 each)"
+  },
+  {
+    "q_zh": "你和对手同时选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；一方合作一方背叛，合作者得0分，背叛者得5分。你会？",
+    "q_en": "You and an opponent simultaneously choose 'Cooperate' or 'Defect'. If both cooperate, each gets 3; both defect, each gets 1; if one cooperates and one defects, the cooperator gets 0 and the defector gets 5. Your choice?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手进行多轮博弈，每轮可选择“信任”（支付1元给对方，对方获得3元）或“欺骗”（不支付）。对方在收到钱后，可选择“回报”（返还2元）或“私吞”。在长期互动中，你的第一轮选择是？",
+    "q_en": "In a repeated game, each round you can 'Trust' (pay $1 to opponent, they receive $3) or 'Cheat' (pay nothing). After receiving money, they can 'Repay' (return $2) or 'Keep'. In long-term interaction, your first move?",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "欺骗",
+    "b_en": "Cheat"
+  },
+  {
+    "q_zh": "你和对手各有一个数字（1-100），谁选的数字更接近对方数字的2/3，谁获胜。你的选择是？",
+    "q_en": "You and an opponent each choose a number (1-100). Whoever's number is closest to 2/3 of the other's number wins. Your choice?",
+    "a_zh": "选择33",
+    "a_en": "Choose 33",
+    "b_zh": "选择22",
+    "b_en": "Choose 22"
+  },
+  {
+    "q_zh": "你与对手被困密室，各自有“沉默”或“揭发”两个选项。若都沉默，各判1年；都揭发，各判3年；一方沉默一方揭发，沉默者判5年，揭发者释放。你会？",
+    "q_en": "You and an opponent are trapped, each choosing 'Silent' or 'Betray'. If both silent, each gets 1 year; both betray, each gets 3 years; if one silent and one betrays, the silent gets 5 years and the betrayer goes free. Your choice?",
+    "a_zh": "沉默",
+    "a_en": "Silent",
+    "b_zh": "揭发",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你面前有两个按钮：A按钮确保你获得100元，B按钮有50%概率获得250元，50%概率得0元。对手会看到你的选择并做出相同或相反选择。你认为对手会？",
+    "q_en": "You face two buttons: A gives you $100 for sure; B gives 50% chance of $250, 50% chance of $0. Your opponent sees your choice and may choose the same or opposite. You think your opponent will?",
+    "a_zh": "模仿你的选择",
+    "a_en": "Imitate your choice",
+    "b_zh": "选择与你相反",
+    "b_en": "Choose opposite to you"
+  },
+  {
+    "q_zh": "你和对手各有一个秘密数字（1-10），同时公开。若两数之和为奇数，你赢；若为偶数，对方赢。你的策略是？",
+    "q_en": "You and an opponent each have a secret number (1-10), revealed simultaneously. If the sum is odd, you win; if even, they win. Your strategy?",
+    "a_zh": "总是选择奇数",
+    "a_en": "Always choose an odd number",
+    "b_zh": "随机选择奇偶",
+    "b_en": "Randomize between odd and even"
   }
 ]
