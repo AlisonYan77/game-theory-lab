@@ -3975,5 +3975,85 @@
     "a_en": "Always choose an odd number",
     "b_zh": "随机选择奇偶",
     "b_en": "Randomize between odd and even"
+  },
+  {
+    "q_zh": "你与对手各持100元，同时决定是否投资一个项目。若双方都投资，各得50元利润；若只有一方投资，投资者亏损20元，未投资者得10元；若都不投资，利润为0。你会选择投资吗？",
+    "q_en": "You and an opponent each hold $100 and simultaneously decide whether to invest in a project. If both invest, each gains $50 profit. If only one invests, the investor loses $20 while the non-investor gains $10. If neither invests, profit is $0. Do you invest?",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Not invest"
+  },
+  {
+    "q_zh": "在一个密封拍卖中，你对某物品估价100元。出价最高者获胜并支付自己的出价。你会出价多少？",
+    "q_en": "In a sealed-bid auction, you value an item at $100. The highest bidder wins and pays their bid. How much do you bid?",
+    "a_zh": "出价略低于100元（如95元）",
+    "a_en": "Bid slightly below $100 (e.g., $95)",
+    "b_zh": "出价远低于100元（如60元）",
+    "b_en": "Bid well below $100 (e.g., $60)"
+  },
+  {
+    "q_zh": "你与陌生人配对玩“信任游戏”：你先获得10元，可以送任意金额给对方，对方收到的金额会翻三倍，然后他决定返还多少给你。你会送多少元？",
+    "q_en": "You are paired with a stranger in a 'Trust Game': you receive $10 and may send any amount to them. The amount sent is tripled, and they decide how much to return to you. How much do you send?",
+    "a_zh": "送10元（全部）",
+    "a_en": "Send $10 (all)",
+    "b_zh": "送0元（不送）",
+    "b_en": "Send $0 (none)"
+  },
+  {
+    "q_zh": "你参与一个“公共品博弈”：四人小组每人有10元，可匿名投入公共池，池中总金额翻倍后平分给所有人。你会投入多少元？",
+    "q_en": "You are in a 'Public Goods Game': a group of four each has $10, and may anonymously contribute to a common pool. The total in the pool is doubled and split equally among all. How much do you contribute?",
+    "a_zh": "投入10元（全部）",
+    "a_en": "Contribute $10 (all)",
+    "b_zh": "投入0元",
+    "b_en": "Contribute $0"
+  },
+  {
+    "q_zh": "你与对手轮流提分钱方案：100元由你先提议分配比例，对方接受则按此分配，拒绝则双方都得0元。你会提议自己得多少元？",
+    "q_en": "You and an opponent take turns proposing how to split $100. You propose first; if they accept, the split happens; if they refuse, both get $0. How much do you propose for yourself?",
+    "a_zh": "提议自己得99元，对方得1元",
+    "a_en": "Propose $99 for yourself, $1 for them",
+    "b_zh": "提议自己得50元，对方得50元",
+    "b_en": "Propose $50 for yourself, $50 for them"
+  },
+  {
+    "q_zh": "在“鹰鸽博弈”中，争夺价值40元的资源。若双方都强硬（鹰），各损失20元；若一方强硬一方退让（鸽），强硬者得40元，退让者得0；若都退让，各得20元。你会选择强硬还是退让？",
+    "q_en": "In a 'Hawk-Dove Game', you compete for a resource worth $40. If both are aggressive (Hawk), each loses $20. If one is aggressive and the other yields (Dove), the aggressor gets $40, the yielder gets $0. If both yield, each gets $20. Do you choose Hawk or Dove?",
+    "a_zh": "强硬（鹰）",
+    "a_en": "Hawk",
+    "b_zh": "退让（鸽）",
+    "b_en": "Dove"
+  },
+  {
+    "q_zh": "你与对手玩“猜硬币”游戏：同时亮出硬币正面或反面。若相同，你得10元；若不同，对方得10元。你会选择正面还是反面？",
+    "q_en": "You and an opponent play a 'Matching Pennies' game: simultaneously show heads or tails. If they match, you win $10; if they differ, they win $10. Do you choose heads or tails?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你与对手进行多轮囚徒困境，每轮可选择合作或背叛。已知博弈会进行10轮。第一轮你会选择合作还是背叛？",
+    "q_en": "You and an opponent play multiple rounds of Prisoner's Dilemma, each round choosing to cooperate or defect. It is known that there will be exactly 10 rounds. In the first round, do you cooperate or defect?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你参加一个“选美比赛”博弈：所有人从0-100选一个整数，最接近平均数的2/3的人获胜。你会选哪个数？",
+    "q_en": "You participate in a 'Beauty Contest' game: everyone chooses an integer from 0 to 100, and the winner is whoever chooses the number closest to 2/3 of the average. What number do you choose?",
+    "a_zh": "选一个较小的数（如10-30）",
+    "a_en": "Choose a small number (e.g., 10-30)",
+    "b_zh": "选0",
+    "b_en": "Choose 0"
+  },
+  {
+    "q_zh": "你与对手各有一个按钮。若都不按，各得5元；若一人按另一人不按，按者得10元，不按者得0；若都按，各得1元。你会按按钮吗？",
+    "q_en": "You and an opponent each have a button. If neither presses, each gets $5. If one presses and the other doesn't, the presser gets $10, the non-presser gets $0. If both press, each gets $1. Do you press the button?",
+    "a_zh": "按",
+    "a_en": "Press",
+    "b_zh": "不按",
+    "b_en": "Not press"
   }
 ]
