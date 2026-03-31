@@ -4055,5 +4055,85 @@
     "a_en": "Press",
     "b_zh": "不按",
     "b_en": "Not press"
+  },
+  {
+    "q_zh": "你参加一个拍卖会，规则是出价最高者获胜，但前两名出价者都需要支付自己的出价。你会：",
+    "q_en": "You are in an auction where the highest bidder wins, but both the top two bidders must pay their bids. You would:",
+    "a_zh": "谨慎出价，避免陷入“赢家的诅咒”",
+    "a_en": "Bid cautiously to avoid the 'winner's curse'",
+    "b_zh": "激进出价，确保获胜并让对手付出代价",
+    "b_en": "Bid aggressively to ensure victory and make opponents pay"
+  },
+  {
+    "q_zh": "在囚徒困境中，如果你知道对方大概率会背叛，你会：",
+    "q_en": "In a prisoner's dilemma, if you know the other is likely to betray, you would:",
+    "a_zh": "选择合作，试图建立信任",
+    "a_en": "Cooperate to try building trust",
+    "b_zh": "选择背叛，减少自己的损失",
+    "b_en": "Betray to minimize your own loss"
+  },
+  {
+    "q_zh": "作为第一个行动者，在信任游戏中给对方一笔钱，对方可能回报也可能私吞。你会：",
+    "q_en": "As the first mover in a trust game, you can send money that may be returned or kept. You would:",
+    "a_zh": "给对方大部分钱，展示信任",
+    "a_en": "Send most of it to show trust",
+    "b_zh": "只给少量钱，降低风险",
+    "b_en": "Send a small amount to reduce risk"
+  },
+  {
+    "q_zh": "在公共物品博弈中，如果群体合作可获高收益，但有人可能搭便车。你会：",
+    "q_en": "In a public goods game, group cooperation yields high returns but some may free-ride. You would:",
+    "a_zh": "积极贡献，激励他人合作",
+    "a_en": "Contribute actively to encourage others",
+    "b_zh": "少贡献或不贡献，保护个人利益",
+    "b_en": "Contribute little or nothing to protect yourself"
+  },
+  {
+    "q_zh": "面对一个可能虚张声势的谈判对手，你会：",
+    "q_en": "Facing a negotiator who might be bluffing, you would:",
+    "a_zh": "直接挑战对方的底线",
+    "a_en": "Challenge their bottom line directly",
+    "b_zh": "给出妥协方案以达成协议",
+    "b_en": "Offer a compromise to reach a deal"
+  },
+  {
+    "q_zh": "在重复博弈中，对方上一轮背叛了你，这一轮你会：",
+    "q_en": "In a repeated game, the other betrayed you last round. This round you would:",
+    "a_zh": "选择合作，给予改正机会",
+    "a_en": "Cooperate to give a chance for redemption",
+    "b_zh": "选择背叛，实施以牙还牙",
+    "b_en": "Betray to implement tit-for-tat"
+  },
+  {
+    "q_zh": "作为市场后入者，面对垄断者，你会：",
+    "q_en": "As a new market entrant facing a monopolist, you would:",
+    "a_zh": "低价进入，迅速抢占份额",
+    "a_en": "Enter with low prices to grab share quickly",
+    "b_zh": "差异化定位，避免直接冲突",
+    "b_en": "Differentiate to avoid direct conflict"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，对方给你一个极不公平的分配方案，你会：",
+    "q_en": "In an ultimatum game, you receive a highly unfair offer. You would:",
+    "a_zh": "接受，总比没有好",
+    "a_en": "Accept it, something is better than nothing",
+    "b_zh": "拒绝，惩罚不公平行为",
+    "b_en": "Reject it to punish unfairness"
+  },
+  {
+    "q_zh": "团队竞赛中，你的贡献匿名且奖励平均分配。你会：",
+    "q_en": "In a team contest, your contribution is anonymous and rewards are split equally. You would:",
+    "a_zh": "全力以赴，为了团队荣誉",
+    "a_en": "Give full effort for team honor",
+    "b_zh": "节省精力，反正结果一样",
+    "b_en": "Conserve energy since outcome is the same"
+  },
+  {
+    "q_zh": "你知道对手情绪化且可能做出非理性决策，你会：",
+    "q_en": "You know your opponent is emotional and may act irrationally. You would:",
+    "a_zh": "利用其情绪，施加压力",
+    "a_en": "Exploit their emotions to apply pressure",
+    "b_zh": "保持冷静，避免激化矛盾",
+    "b_en": "Stay calm to avoid escalation"
   }
 ]
