@@ -4135,5 +4135,85 @@
     "a_en": "Exploit their emotions to apply pressure",
     "b_zh": "保持冷静，避免激化矛盾",
     "b_en": "Stay calm to avoid escalation"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。你们各自秘密写下出价（0-100元），出价高者获胜，但需支付自己的出价。若平局则随机一人获胜。你会出价多少？",
+    "q_en": "You and an opponent are bidding in an auction for an item worth $100. Each secretly writes a bid (0-100). The higher bid wins but pays their own bid. If tied, one wins randomly. What do you bid?",
+    "a_zh": "出价50元",
+    "a_en": "Bid $50",
+    "b_zh": "出价1元",
+    "b_en": "Bid $1"
+  },
+  {
+    "q_zh": "在一个合作游戏中，你和搭档需同时选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；若一人合作一人背叛，合作者得0分，背叛者得5分。你会如何选择？",
+    "q_en": "In a cooperation game, you and your partner choose 'Cooperate' or 'Betray' simultaneously. Both cooperate: each gets 3 points. Both betray: each gets 1. One cooperates, one betrays: cooperator gets 0, betrayer gets 5. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你与陌生人分100元。对方提出分配方案（如对方得X元，你得100-X元）。你可以接受或拒绝。若接受按方案分；若拒绝双方都得0元。对方提出他得90元，你得10元。你会？",
+    "q_en": "You and a stranger split $100. They propose a split (they get X, you get 100-X). You can accept or reject. If accept, split as proposed; if reject, both get $0. They propose they get $90, you get $10. Do you:",
+    "a_zh": "接受",
+    "a_en": "Accept",
+    "b_zh": "拒绝",
+    "b_en": "Reject"
+  },
+  {
+    "q_zh": "你参加一个“猜平均数的2/3”游戏：所有人写一个0-100的整数，最接近全体平均数2/3的人获胜。你认为多数人会怎么猜？",
+    "q_en": "You play 'Guess 2/3 of the average': everyone writes an integer 0-100. The closest to 2/3 of the average wins. How do you think most people will guess?",
+    "a_zh": "猜一个较高的数（如50）",
+    "a_en": "Guess a high number (e.g., 50)",
+    "b_zh": "猜一个较低的数（如20）",
+    "b_en": "Guess a low number (e.g., 20)"
+  },
+  {
+    "q_zh": "你和对手轮流提方案分100元。你先提，若对方拒绝，钱减少10元，再由对方提方案，以此类推（最多三轮）。你会提议自己得多少？",
+    "q_en": "You and an opponent take turns proposing how to split $100. You propose first. If rejected, money shrinks by $10, then they propose, etc. (max 3 rounds). What do you propose for yourself?",
+    "a_zh": "提议自己得90元",
+    "a_en": "Propose you get $90",
+    "b_zh": "提议自己得60元",
+    "b_en": "Propose you get $60"
+  },
+  {
+    "q_zh": "你与对手玩“胆小鬼博弈”：两人驾车相向而行，谁先转向谁输（丢面子），但都不转向则相撞（最差结果）。你会？",
+    "q_en": "You play 'Chicken' with an opponent: two drivers head toward each other. The first to swerve loses face, but if neither swerves, you crash (worst outcome). Do you:",
+    "a_zh": "坚持不转向",
+    "a_en": "Do not swerve",
+    "b_zh": "提前转向",
+    "b_en": "Swerve early"
+  },
+  {
+    "q_zh": "在一个密封拍卖中，你对某物品估价80元。出价最高者获胜并支付第二高出价。你会出价多少？",
+    "q_en": "In a sealed-bid auction, you value an item at $80. The highest bidder wins and pays the second-highest bid. What do you bid?",
+    "a_zh": "出价80元",
+    "a_en": "Bid $80",
+    "b_zh": "出价低于80元",
+    "b_en": "Bid less than $80"
+  },
+  {
+    "q_zh": "你参与一个公共品博弈：每人有10元，可投入公共池（投入额翻倍后平分给所有人）。你估计多数人会投入一半。你会投入多少？",
+    "q_en": "You play a public goods game: each has $10, can contribute to a pool (sum is doubled, then split equally). You guess most will contribute half. How much do you contribute?",
+    "a_zh": "投入5元",
+    "a_en": "Contribute $5",
+    "b_zh": "投入0元",
+    "b_en": "Contribute $0"
+  },
+  {
+    "q_zh": "你与对手同时展示一枚硬币的正反面。若同为正，你得3元；同为反，你得1元；若不同，对方得2元。你会展示哪面？",
+    "q_en": "You and an opponent simultaneously show heads or tails on a coin. If both heads, you get $3. If both tails, you get $1. If different, opponent gets $2. Which side do you show?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你参加一个多轮淘汰赛。第一轮，你可以选择“进攻”或“防守”。若双方都进攻，均被淘汰；都防守，均晋级；一攻一守，进攻者晋级。你会？",
+    "q_en": "You enter a multi-round tournament. In round 1, you choose 'Attack' or 'Defend'. If both attack, both are eliminated. If both defend, both advance. If one attacks, one defends, attacker advances. Do you:",
+    "a_zh": "进攻",
+    "a_en": "Attack",
+    "b_zh": "防守",
+    "b_en": "Defend"
   }
 ]
