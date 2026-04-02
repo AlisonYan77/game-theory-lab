@@ -4215,5 +4215,85 @@
     "a_en": "Attack",
     "b_zh": "防守",
     "b_en": "Defend"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，竞拍100元现金。双方同时秘密出价（0-100元整数），出价高者赢得现金，但双方都需支付自己的出价。若出价相同，则平分现金并各自支付出价。你会出价多少？",
+    "q_en": "You and an opponent are bidding in an auction for $100 in cash. Both secretly bid an integer amount from $0 to $100. The higher bidder wins the cash, but both pay their own bid. If bids are tied, the cash is split and both pay their bid. How much would you bid?",
+    "a_zh": "0元",
+    "a_en": "$0",
+    "b_zh": "50元",
+    "b_en": "$50"
+  },
+  {
+    "q_zh": "在一个信任游戏中，你先获得100元，可以选择分一部分给匿名对手（你会失去给出的部分，对手会得到三倍金额）。然后对手可以选择返还任意金额给你。你会分给对方多少？",
+    "q_en": "In a trust game, you start with $100. You can choose to send any portion to an anonymous opponent (you lose that amount, they receive triple). Then they can choose to send any amount back to you. How much would you send initially?",
+    "a_zh": "0元",
+    "a_en": "$0",
+    "b_zh": "50元",
+    "b_en": "$50"
+  },
+  {
+    "q_zh": "你与对手各自选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；若一方合作一方背叛，背叛者得5分，合作者得0分。此游戏只进行一轮，你会如何选择？",
+    "q_en": "You and an opponent each choose 'Cooperate' or 'Defect'. If both cooperate, each gets 3 points. If both defect, each gets 1 point. If one cooperates and one defects, the defector gets 5 points, the cooperator gets 0. This is a one‑round game. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手竞猜一个0-100之间的数字，谁猜的数字最接近平均数的2/3谁获胜。你认为对手会如何猜测？",
+    "q_en": "You and an opponent each guess a number between 0 and 100. Whoever guesses closest to 2/3 of the average of all guesses wins. How do you think your opponent will reason?",
+    "a_zh": "对手会随机猜，所以我猜33",
+    "a_en": "They will guess randomly, so I guess 33",
+    "b_zh": "对手会理性推理，所以我猜0",
+    "b_en": "They will reason rationally, so I guess 0"
+  },
+  {
+    "q_zh": "你有一笔资金可以投资一个项目，对手也有同样资金。如果双方都投资，各得利润2；如果都不投资，各得1；如果只有一方投资，投资者亏损1，不投资者得3。你会投资吗？",
+    "q_en": "You have capital to invest in a project, and so does your opponent. If both invest, each gets a profit of 2. If neither invests, each gets 1. If only one invests, the investor loses 1, the non‑investor gets 3. Do you invest?",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Not invest"
+  },
+  {
+    "q_zh": "你与对手轮流提出如何分配100元。你先提议分配方案（如“我得X，你得Y”），对手可以接受或拒绝。若接受则按方案分配；若拒绝则双方都得0。你会提议自己得多少？",
+    "q_en": "You and an opponent take turns proposing how to split $100. You propose first (e.g., 'I take X, you get Y'). The opponent can accept or reject. If accepted, the split is made; if rejected, both get $0. How much do you propose for yourself?",
+    "a_zh": "51元",
+    "a_en": "$51",
+    "b_zh": "99元",
+    "b_en": "$99"
+  },
+  {
+    "q_zh": "在一个公共品博弈中，四人小组每人有10元，可选择投入公共池任意金额（0-10元）。池中总金额翻倍后平均分给四人。你认为其他人平均会投入多少？",
+    "q_en": "In a public‑goods game, a group of four each has $10. Each can contribute any amount (0‑$10) to a common pool. The total in the pool is doubled and split equally among the four. How much do you think the others will contribute on average?",
+    "a_zh": "很少（0-3元）",
+    "a_en": "Little ($0‑$3)",
+    "b_zh": "较多（6-10元）",
+    "b_en": "A lot ($6‑$10)"
+  },
+  {
+    "q_zh": "你与对手玩“胆小鬼游戏”：两人驾车对撞，先转向者丢面子（收益0），后转向者获荣誉（收益5）。若都不转向则相撞（收益-10）。若同时转向则平局（各得2）。你会选择转向吗？",
+    "q_en": "You and an opponent play 'Chicken': two drivers head toward each other. The first to swerve loses face (payoff 0), the last to swerve gains honor (payoff 5). If neither swerves, they crash (payoff –10). If both swerve simultaneously, it's a tie (payoff 2 each). Do you swerve?",
+    "a_zh": "转向",
+    "a_en": "Swerve",
+    "b_zh": "不转向",
+    "b_en": "Not swerve"
+  },
+  {
+    "q_zh": "你参加一个抽奖，奖品100元。你可以选择独自抽奖（中奖概率10%），或与另一人合作抽奖（中奖概率20%），但中奖后需平分奖金。你会选择合作吗？",
+    "q_en": "You enter a lottery for a $100 prize. You can either enter alone (10% chance to win) or team up with one other person (20% chance to win), but the prize is split equally if won. Do you team up?",
+    "a_zh": "独自抽奖",
+    "a_en": "Enter alone",
+    "b_zh": "合作抽奖",
+    "b_en": "Team up"
+  },
+  {
+    "q_zh": "你与对手进行多轮囚徒困境，已知游戏会随机在某一轮后结束（每轮后继续的概率为80%）。在每一轮中，你会如何选择？",
+    "q_en": "You and an opponent play multiple rounds of Prisoner's Dilemma. The game ends randomly after each round (with an 80% chance of continuing). In each round, what is your strategy?",
+    "a_zh": "始终合作，直到对手背叛",
+    "a_en": "Always cooperate until the opponent defects",
+    "b_zh": "始终背叛",
+    "b_en": "Always defect"
   }
 ]
