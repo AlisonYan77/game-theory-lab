@@ -4295,5 +4295,85 @@
     "a_en": "Always cooperate until the opponent defects",
     "b_zh": "始终背叛",
     "b_en": "Always defect"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。你们各自秘密出价，出价高者获胜但需支付自己的出价。若平局则随机一人获胜。你会出价多少？",
+    "q_en": "You and an opponent are bidding in an auction for an item worth 100. You each secretly submit a bid; the higher bidder wins but pays their bid. If tied, one wins randomly. What do you bid?",
+    "a_zh": "出价略高于50元",
+    "a_en": "Bid slightly above 50",
+    "b_zh": "出价略低于100元",
+    "b_en": "Bid slightly below 100"
+  },
+  {
+    "q_zh": "你与陌生人同时选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；一人合作一人背叛，背叛者得5分，合作者得0分。你会如何选择？",
+    "q_en": "You and a stranger simultaneously choose 'Cooperate' or 'Defect'. If both cooperate, each gets 3 points; both defect, each gets 1; if one cooperates and one defects, the defector gets 5, the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手轮流从100元中取钱，每次可取1-10元。取走最后1元的人获胜并获得全部剩余金额。你先手，第一次会取多少？",
+    "q_en": "You and an opponent take turns taking 1-10 dollars from a pot of 100. The one who takes the last dollar wins all remaining money. You go first. How much do you take initially?",
+    "a_zh": "取1元",
+    "a_en": "Take 1",
+    "b_zh": "取10元",
+    "b_en": "Take 10"
+  },
+  {
+    "q_zh": "你参与一个游戏：每人写下0-100间的一个整数，最接近平均数的2/3者获胜。你会写哪个数？",
+    "q_en": "In a game, each player writes an integer between 0 and 100. The one closest to 2/3 of the average wins. What number do you write?",
+    "a_zh": "0",
+    "a_en": "0",
+    "b_zh": "33",
+    "b_en": "33"
+  },
+  {
+    "q_zh": "你与对手各有一枚硬币，同时亮出正面或反面。若相同，你得3元对手得1元；若不同，对手得3元你得1元。你会亮哪面？",
+    "q_en": "You and an opponent each have a coin, showing heads or tails simultaneously. If they match, you get $3, opponent gets $1; if they differ, opponent gets $3, you get $1. What do you show?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你与对手分10枚金币。你提出分配方案（如“我得X枚，你得Y枚”），对手接受则按此分配，拒绝则双方都得0。你会提议如何分配？",
+    "q_en": "You and an opponent divide 10 gold coins. You propose a split (e.g., 'I take X, you take Y'). If opponent accepts, it happens; if rejects, both get 0. What do you propose?",
+    "a_zh": "我得9枚，你得1枚",
+    "a_en": "I take 9, you take 1",
+    "b_zh": "我得5枚，你得5枚",
+    "b_en": "I take 5, you take 5"
+  },
+  {
+    "q_zh": "你面前有两个按钮：按A，你直接得100元；按B，若全球超过50%参与者按B，则每人得200元，否则按B者得0。你会按哪个？",
+    "q_en": "You have two buttons: Press A, you get $100 directly; Press B, if over 50% of global participants press B, everyone gets $200, otherwise B-pressers get $0. Which do you press?",
+    "a_zh": "按A",
+    "a_en": "Press A",
+    "b_zh": "按B",
+    "b_en": "Press B"
+  },
+  {
+    "q_zh": "你与对手玩三局“剪刀石头布”，每局胜得1分。前两局你们各胜一局。第三局你会出什么？",
+    "q_en": "You play best-of-three 'Rock Paper Scissors' with an opponent; each win gives 1 point. The first two games are tied 1-1. What do you play in the third?",
+    "a_zh": "出与前两局相同的",
+    "a_en": "Play what you played before",
+    "b_zh": "出与前两局不同的",
+    "b_en": "Play something different"
+  },
+  {
+    "q_zh": "你参与一个抽奖：10人各决定是否投入10元。若至少6人投入，则每人获20元；否则投入者损失10元，未投入者无得失。你会投入吗？",
+    "q_en": "You are in a lottery: 10 people each decide whether to contribute $10. If at least 6 contribute, everyone gets $20; otherwise contributors lose $10, others get nothing. Do you contribute?",
+    "a_zh": "投入",
+    "a_en": "Contribute",
+    "b_zh": "不投入",
+    "b_en": "Not contribute"
+  },
+  {
+    "q_zh": "你与对手进行“胆小鬼博弈”：两人驾车对撞，先转向者丢面子（收益0），后转向者获勇气赞赏（收益1），都不转向则相撞（收益-10）。你会转向吗？",
+    "q_en": "You play 'Chicken' with an opponent: two drivers head toward each other. The first to swerve loses face (payoff 0), the second gains courage points (payoff 1); if neither swerves, crash (payoff -10). Do you swerve?",
+    "a_zh": "转向",
+    "a_en": "Swerve",
+    "b_zh": "不转向",
+    "b_en": "Not swerve"
   }
 ]
