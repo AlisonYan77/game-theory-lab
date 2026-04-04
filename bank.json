@@ -4375,5 +4375,85 @@
     "a_en": "Swerve",
     "b_zh": "不转向",
     "b_en": "Not swerve"
+  },
+  {
+    "q_zh": "你与对手各持一枚硬币，同时亮出正面或反面。若同为正面，你得3元；同为反面，你得1元；一正一反，你输2元。你会选择：",
+    "q_en": "You and your opponent each hold a coin, simultaneously showing heads or tails. If both are heads, you gain $3; if both are tails, you gain $1; if one is heads and the other tails, you lose $2. You will choose:",
+    "a_zh": "总是出正面",
+    "a_en": "Always show heads",
+    "b_zh": "随机出正反面（各50%概率）",
+    "b_en": "Randomly show heads or tails (50% each)"
+  },
+  {
+    "q_zh": "在一个拍卖中，出价最高者赢得奖品，但前两名都需支付自己的出价。你会：",
+    "q_en": "In an auction, the highest bidder wins the prize, but the top two bidders both pay their bids. You will:",
+    "a_zh": "出价远低于奖品价值",
+    "a_en": "Bid far below the prize value",
+    "b_zh": "出价接近奖品价值",
+    "b_en": "Bid close to the prize value"
+  },
+  {
+    "q_zh": "你与陌生人分100元，对方决定分配比例，但若你拒绝，两人都得0元。你会：",
+    "q_en": "You and a stranger split $100. The other decides the split, but if you reject it, both get $0. You will:",
+    "a_zh": "接受任何高于0元的分配",
+    "a_en": "Accept any offer above $0",
+    "b_zh": "拒绝低于30元的分配",
+    "b_en": "Reject any offer below $30"
+  },
+  {
+    "q_zh": "猜一个0到100之间的整数，最接近平均数的2/3的人获胜。你会猜：",
+    "q_en": "Guess an integer between 0 and 100. The one closest to 2/3 of the average wins. You will guess:",
+    "a_zh": "一个较小的数（如10-30）",
+    "a_en": "A small number (e.g., 10-30)",
+    "b_zh": "0",
+    "b_en": "0"
+  },
+  {
+    "q_zh": "两人轮流提分钱方案（如70/30），若被拒则钱减少。作为先手，你会提议：",
+    "q_en": "Two players take turns proposing how to split money (e.g., 70/30). If rejected, the total shrinks. As the first mover, you propose:",
+    "a_zh": "自己拿绝大部分（如90/10）",
+    "a_en": "Take the vast majority (e.g., 90/10)",
+    "b_zh": "接近平分（如60/40）",
+    "b_en": "A near-equal split (e.g., 60/40)"
+  },
+  {
+    "q_zh": "多人投票选A或B，若A票多则全体得2元，若B票多则选B者得3元。你会：",
+    "q_en": "Multiple voters choose A or B. If A gets more votes, everyone gets $2. If B gets more, only B voters get $3. You will:",
+    "a_zh": "选A（追求集体利益）",
+    "a_en": "Choose A (for collective benefit)",
+    "b_zh": "选B（追求个人更高收益）",
+    "b_en": "Choose B (for higher personal gain)"
+  },
+  {
+    "q_zh": "重复囚徒困境中，对方上一轮背叛了你。这一轮你会：",
+    "q_en": "In a repeated prisoner's dilemma, your opponent betrayed you last round. This round you will:",
+    "a_zh": "选择合作",
+    "a_en": "Cooperate",
+    "b_zh": "选择背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你可以选择信任对方获得双赢，或背叛获得更高但风险大的收益。你会：",
+    "q_en": "You can trust the other for mutual gain, or betray for higher but risky gain. You will:",
+    "a_zh": "信任对方",
+    "a_en": "Trust the other",
+    "b_zh": "背叛对方",
+    "b_en": "Betray the other"
+  },
+  {
+    "q_zh": "竞猜多数人的选择（如A/B），而非正确答案。你认为多数人会选：",
+    "q_en": "Guess what the majority will choose (e.g., A/B), not the correct answer. You think most will choose:",
+    "a_zh": "A",
+    "a_en": "A",
+    "b_zh": "B",
+    "b_en": "B"
+  },
+  {
+    "q_zh": "最后通牒游戏中，对方给你1元，自己留9元。若你拒绝，两人都得0元。你会：",
+    "q_en": "In an ultimatum game, the other keeps $9 and gives you $1. If you reject, both get $0. You will:",
+    "a_zh": "接受（得到1元总比没有好）",
+    "a_en": "Accept ($1 is better than $0)",
+    "b_zh": "拒绝（惩罚不公平）",
+    "b_en": "Reject (to punish unfairness)"
   }
 ]
