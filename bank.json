@@ -4455,5 +4455,85 @@
     "a_en": "Accept ($1 is better than $0)",
     "b_zh": "拒绝（惩罚不公平）",
     "b_en": "Reject (to punish unfairness)"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下0-100之间的一个整数，谁写的数字更接近对方数字的2/3，谁获胜。你会写多少？",
+    "q_en": "You and your opponent each secretly write an integer between 0 and 100. Whoever writes a number closest to 2/3 of the other's number wins. What number do you write?",
+    "a_zh": "0",
+    "a_en": "0",
+    "b_zh": "33",
+    "b_en": "33"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆100枚金币中取走1-10枚金币，取走最后一枚金币的人获胜。你先手，第一次会取多少枚？",
+    "q_en": "You and your opponent take turns taking 1-10 gold coins from a pile of 100. The one who takes the last coin wins. You go first. How many coins do you take on your first turn?",
+    "a_zh": "1枚",
+    "a_en": "1 coin",
+    "b_zh": "10枚",
+    "b_en": "10 coins"
+  },
+  {
+    "q_zh": "你和对手同时决定是否合作。若都合作，各得3分；都背叛，各得1分；一人合作一人背叛，背叛者得5分，合作者得0分。你会选择？",
+    "q_en": "You and your opponent simultaneously decide whether to cooperate. If both cooperate, each gets 3 points; if both defect, each gets 1 point; if one cooperates and the other defects, the defector gets 5 points and the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "拍卖一张100元纸币，出价最高者赢得纸币，但出价前两名都需支付自己的出价金额。你会出价多少？",
+    "q_en": "Auction a 100-dollar bill. The highest bidder wins the bill, but the top two bidders both pay their bid amounts. How much do you bid?",
+    "a_zh": "0元（不参与）",
+    "a_en": "$0 (Do not participate)",
+    "b_zh": "51元",
+    "b_en": "$51"
+  },
+  {
+    "q_zh": "你和对手各有一个按钮。若都不按，各得1元；若一人按，按者得3元，不按者得0元；若都按，各付1元。你会按吗？",
+    "q_en": "You and your opponent each have a button. If neither presses, each gets $1; if one presses, the presser gets $3 and the other gets $0; if both press, each loses $1. Do you press the button?",
+    "a_zh": "按",
+    "a_en": "Press",
+    "b_zh": "不按",
+    "b_en": "Do not press"
+  },
+  {
+    "q_zh": "你和对手分10枚金币。你提出分配方案（如“我7你3”），对手只能接受或拒绝。若拒绝，双方都得不到金币。你会怎么分？",
+    "q_en": "You and your opponent split 10 gold coins. You propose an allocation (e.g., 'I take 7, you take 3'), and the opponent can only accept or reject. If rejected, both get nothing. How do you allocate?",
+    "a_zh": "我5你5",
+    "a_en": "I take 5, you take 5",
+    "b_zh": "我9你1",
+    "b_en": "I take 9, you take 1"
+  },
+  {
+    "q_zh": "你和对手各有一张红牌和一张黑牌。同时出一张，若颜色相同，你得3分对手得1分；若不同，对手得3分你得1分。你会出什么牌？",
+    "q_en": "You and your opponent each have a red card and a black card. Play one simultaneously. If the colors match, you get 3 points and your opponent gets 1; if they differ, your opponent gets 3 points and you get 1. Which card do you play?",
+    "a_zh": "红牌",
+    "a_en": "Red card",
+    "b_zh": "黑牌",
+    "b_en": "Black card"
+  },
+  {
+    "q_zh": "你和对手竞拍一件价值对你俩都是100元的物品。出价高者赢得物品并支付自己的出价，出价低者支付自己出价的一半但什么也得不到。你会出价多少？",
+    "q_en": "You and your opponent bid for an item worth $100 to both of you. The higher bidder wins the item and pays their bid; the lower bidder pays half their bid but gets nothing. How much do you bid?",
+    "a_zh": "0元",
+    "a_en": "$0",
+    "b_zh": "100元",
+    "b_en": "$100"
+  },
+  {
+    "q_zh": "你和对手玩三局“石头剪刀布”。每局胜者得1分，平局各得0分。已知对手第一局会出“石头”，你第一局会出什么？",
+    "q_en": "You and your opponent play three rounds of Rock-Paper-Scissors. Each round winner gets 1 point, a tie gives 0 points. You know your opponent will play 'Rock' in the first round. What do you play in the first round?",
+    "a_zh": "布（赢下第一局）",
+    "a_en": "Paper (Win the first round)",
+    "b_zh": "剪刀（为后续布局）",
+    "b_en": "Scissors (Set up for later rounds)"
+  },
+  {
+    "q_zh": "你和对手各自决定投资一个公共项目。投资额可以是0、5或10元。总回报是总投资额的1.5倍，平均分给两人。你会投资多少？",
+    "q_en": "You and your opponent each decide how much to invest in a public project: $0, $5, or $10. The total return is 1.5 times the total investment, split equally between you two. How much do you invest?",
+    "a_zh": "0元",
+    "a_en": "$0",
+    "b_zh": "10元",
+    "b_en": "$10"
   }
 ]
