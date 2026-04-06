@@ -4535,5 +4535,85 @@
     "a_en": "$0",
     "b_zh": "10元",
     "b_en": "$10"
+  },
+  {
+    "q_zh": "你与对手各持100枚金币。你们需要同时决定是否向公共池投入金币。如果双方投入总额超过150枚，每人将额外获得200枚金币；否则投入的金币将被没收。你会投入多少？",
+    "q_en": "You and your opponent each hold 100 gold coins. You must simultaneously decide how many coins to contribute to a public pool. If the total contribution exceeds 150 coins, each player receives an additional 200 coins; otherwise, all contributions are forfeited. How many coins do you contribute?",
+    "a_zh": "投入80枚金币",
+    "a_en": "Contribute 80 coins",
+    "b_zh": "投入50枚金币",
+    "b_en": "Contribute 50 coins"
+  },
+  {
+    "q_zh": "你与对手轮流从一堆100枚金币中取走1-10枚金币。取走最后一枚金币者获胜。现在轮到你，还剩23枚金币。你会取走多少枚？",
+    "q_en": "You and your opponent take turns removing 1-10 gold coins from a pile of 100 coins. The player who takes the last coin wins. It's your turn, and 23 coins remain. How many do you take?",
+    "a_zh": "取走2枚金币",
+    "a_en": "Take 2 coins",
+    "b_zh": "取走5枚金币",
+    "b_en": "Take 5 coins"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-100之间的一个整数。谁写的数字更接近对方数字的2/3，谁获胜。你会写哪个数字？",
+    "q_en": "You and your opponent secretly write an integer between 1 and 100. Whoever writes a number closest to 2/3 of the other's number wins. What number do you write?",
+    "a_zh": "写33",
+    "a_en": "Write 33",
+    "b_zh": "写22",
+    "b_en": "Write 22"
+  },
+  {
+    "q_zh": "你与对手各有一张“合作”或“背叛”的卡片。若双方都出“合作”，各得3分；都出“背叛”，各得1分；一方“合作”一方“背叛”，则背叛者得5分，合作者得0分。这是你们第一次相遇。你会出什么？",
+    "q_en": "You and your opponent each have a card marked 'Cooperate' or 'Betray'. If both play 'Cooperate', each gets 3 points; if both play 'Betray', each gets 1 point; if one plays 'Cooperate' and the other 'Betray', the betrayer gets 5 points and the cooperator gets 0. This is your first encounter. What do you play?",
+    "a_zh": "出“合作”",
+    "a_en": "Play 'Cooperate'",
+    "b_zh": "出“背叛”",
+    "b_en": "Play 'Betray'"
+  },
+  {
+    "q_zh": "你与对手竞拍一件价值100金币的物品。出价最高者赢得物品并支付所出价格，出价第二高者什么也得不到但也要支付所出价格。你会出价多少？",
+    "q_en": "You and your opponent bid for an item worth 100 gold coins. The highest bidder wins the item and pays their bid; the second-highest bidder gets nothing but also pays their bid. How much do you bid?",
+    "a_zh": "出价60金币",
+    "a_en": "Bid 60 coins",
+    "b_zh": "出价90金币",
+    "b_en": "Bid 90 coins"
+  },
+  {
+    "q_zh": "你面前有两个箱子：A箱固定有1000金币，B箱可能有100万金币，也可能为空。一个预言家（准确率99%）已预测你的选择：若他预测你只拿B箱，则在B箱放入100万；若预测你两个都拿，则让B箱为空。现在你如何选择？",
+    "q_en": "You face two boxes: Box A contains 1000 gold coins for sure. Box B may contain 1 million coins or be empty. A predictor (99% accurate) has already forecast your choice: if they predicted you'd take only Box B, they put 1 million in it; if they predicted you'd take both, they left Box B empty. What do you choose?",
+    "a_zh": "只拿B箱",
+    "a_en": "Take only Box B",
+    "b_zh": "两个箱子都拿",
+    "b_en": "Take both boxes"
+  },
+  {
+    "q_zh": "你与对手玩三局“剪刀石头布”，胜一局得1分。前两局你们各胜一局。决胜局你会出什么？",
+    "q_en": "You and your opponent play three rounds of Rock-Paper-Scissors, earning 1 point per win. The score is tied 1-1. What do you throw in the final round?",
+    "a_zh": "出石头",
+    "a_en": "Throw Rock",
+    "b_zh": "出剪刀",
+    "b_en": "Throw Scissors"
+  },
+  {
+    "q_zh": "你与对手分10枚金币。你提出分配方案（如“我7你3”），对手只能接受或拒绝。若拒绝，双方都得不到金币。你会提出什么方案？",
+    "q_en": "You and your opponent divide 10 gold coins. You propose a split (e.g., 'I take 7, you take 3'), and they can only accept or reject. If rejected, neither gets anything. What split do you propose?",
+    "a_zh": "我5你5",
+    "a_en": "I take 5, you take 5",
+    "b_zh": "我7你3",
+    "b_en": "I take 7, you take 3"
+  },
+  {
+    "q_zh": "你与对手各自决定是否“攻击”对方。若都不攻击，各得2分；若一方攻击而另一方不攻击，攻击者得3分，不攻击者得0分；若都攻击，各得1分。你会如何选择？",
+    "q_en": "You and your opponent decide whether to 'Attack' the other. If neither attacks, each gets 2 points; if one attacks and the other doesn't, the attacker gets 3 points and the non-attacker 0; if both attack, each gets 1 point. What do you choose?",
+    "a_zh": "不攻击",
+    "a_en": "Do not attack",
+    "b_zh": "攻击",
+    "b_en": "Attack"
+  },
+  {
+    "q_zh": "你与对手进行多轮囚徒困境博弈，已知共进行10轮。在最后一轮（第10轮），你会选择合作还是背叛？",
+    "q_en": "You and your opponent play multiple rounds of the Prisoner's Dilemma, knowing there will be exactly 10 rounds. In the final round (round 10), do you choose to Cooperate or Betray?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
   }
 ]
