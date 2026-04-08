@@ -4695,5 +4695,85 @@
     "a_en": "Choose not to attack, pursuing peaceful coexistence.",
     "b_zh": "选择攻击，以防对方先发制人。",
     "b_en": "Choose to attack, in case the opponent strikes first."
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。你们各自秘密写下出价（0-100元），出价高者获胜，但需支付自己的出价。若平局则随机一人获胜。你会出价多少？",
+    "q_en": "You and an opponent are bidding in an auction for an item worth 100. Each secretly writes a bid (0-100). The higher bid wins but pays their bid. If tied, a random winner is chosen. What do you bid?",
+    "a_zh": "出价50元",
+    "a_en": "Bid 50",
+    "b_zh": "出价1元",
+    "b_en": "Bid 1"
+  },
+  {
+    "q_zh": "作为囚徒困境中的囚徒，你知道对手很可能选择“背叛”。在单次博弈中，你会如何选择？",
+    "q_en": "In a prisoner's dilemma, you know your opponent is likely to 'defect'. In a one-shot game, what do you do?",
+    "a_zh": "选择合作（保持沉默）",
+    "a_en": "Cooperate (stay silent)",
+    "b_zh": "选择背叛（揭发对方）",
+    "b_en": "Defect (testify)"
+  },
+  {
+    "q_zh": "在“信任游戏”中，你作为投资者拥有100元。你可以将任意金额交给受托人，该金额会变为3倍，然后受托人决定返还多少给你。你会投资多少？",
+    "q_en": "In a trust game, you are the investor with 100. You can send any amount to the trustee, which is tripled. The trustee then decides how much to return. How much do you send?",
+    "a_zh": "投资全部100元",
+    "a_en": "Send all 100",
+    "b_zh": "投资0元",
+    "b_en": "Send 0"
+  },
+  {
+    "q_zh": "你与陌生人分100元。对方提出方案（如对方得70元，你得30元）。如果你拒绝，双方都得0元。你会接受一个给你30元的方案吗？",
+    "q_en": "You and a stranger split 100. They propose a split (e.g., they keep 70, you get 30). If you reject, both get 0. Do you accept a 30 offer?",
+    "a_zh": "接受",
+    "a_en": "Accept",
+    "b_zh": "拒绝",
+    "b_en": "Reject"
+  },
+  {
+    "q_zh": "在“鹰鸽博弈”中，争夺资源价值为50。若双方都强硬（鹰），各损失20；若一方强硬一方退让（鸽），强硬者得50，退让者得0；若都退让，各得15。你认为对手会选什么？",
+    "q_en": "In a hawk-dove game, a resource is worth 50. If both are aggressive (hawk), each loses 20. If one hawk one dove, hawk gets 50, dove gets 0. If both dove, each gets 15. What do you think your opponent will choose?",
+    "a_zh": "强硬（鹰）",
+    "a_en": "Hawk",
+    "b_zh": "退让（鸽）",
+    "b_en": "Dove"
+  },
+  {
+    "q_zh": "你参加一个“猜平均数”游戏：所有人从0-100选一个数，最接近平均数的2/3者获胜。你认为多数参与者会怎么想？",
+    "q_en": "You play a 'guess 2/3 of the average' game: everyone picks 0-100, closest to 2/3 of the average wins. How do you think most players will reason?",
+    "a_zh": "他们会选一个较小的数（如20-35）",
+    "a_en": "They will pick a small number (e.g., 20-35)",
+    "b_zh": "他们会随机选或选大数（如50-100）",
+    "b_en": "They will pick randomly or a large number (e.g., 50-100)"
+  },
+  {
+    "q_zh": "在重复囚徒困境中，上一轮对手选择了合作。本轮你会选择？",
+    "q_en": "In a repeated prisoner's dilemma, your opponent cooperated last round. What do you do this round?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手同时选择“红”或“蓝”。若颜色相同，各得100；若不同，选红者得0，选蓝者得200。你会选什么？",
+    "q_en": "You and an opponent simultaneously choose 'Red' or 'Blue'. If colors match, each gets 100. If different, Red gets 0, Blue gets 200. What do you choose?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你有一个信息，告诉对手可使其获利，但会让你损失少量利益。对手不知道你是否拥有该信息。你会告诉他吗？",
+    "q_en": "You have information that, if told to your opponent, benefits them but costs you a small amount. They don't know you have it. Do you tell them?",
+    "a_zh": "告诉",
+    "a_en": "Tell",
+    "b_zh": "不告诉",
+    "b_en": "Don't tell"
+  },
+  {
+    "q_zh": "最后通牒博弈中，你是提议者。要将100元分给回应者（必须留至少1元给对方）。如果对方拒绝，双方都得0。你会分给对方多少？",
+    "q_en": "In an ultimatum game, you are the proposer. Split 100 with the responder (must give at least 1). If they reject, both get 0. How much do you offer?",
+    "a_zh": "分给对方40-50元",
+    "a_en": "Offer 40-50",
+    "b_zh": "分给对方1-10元",
+    "b_en": "Offer 1-10"
   }
 ]
