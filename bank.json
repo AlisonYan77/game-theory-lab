@@ -4775,5 +4775,85 @@
     "a_en": "Offer 40-50",
     "b_zh": "分给对方1-10元",
     "b_en": "Offer 1-10"
+  },
+  {
+    "q_zh": "在一个两人竞拍中，你对某件物品的真实估价是100元。拍卖规则是：出价最高者获胜，但前两名都需要支付自己的出价。你会：",
+    "q_en": "In a two-person auction, your true valuation of an item is 100 yuan. The rule is: the highest bidder wins, but both the top two bidders must pay their bids. You will:",
+    "a_zh": "出价略高于100元，确保获胜",
+    "a_en": "Bid slightly above 100 yuan to ensure winning",
+    "b_zh": "出价远低于100元，避免支付过高",
+    "b_en": "Bid far below 100 yuan to avoid overpaying"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆20枚硬币中取走1-3枚，取走最后一枚者输。你先手，你会：",
+    "q_en": "You and your opponent take turns taking 1-3 coins from a pile of 20 coins. The one who takes the last coin loses. You go first. You will:",
+    "a_zh": "取走2枚硬币",
+    "a_en": "Take 2 coins",
+    "b_zh": "取走3枚硬币",
+    "b_en": "Take 3 coins"
+  },
+  {
+    "q_zh": "在信任游戏中，你作为投资者有100元，可以分一部分给受托人，受托人收到的钱会翻三倍后再决定返还多少给你。你会：",
+    "q_en": "In the trust game, as an investor with 100 yuan, you can give a portion to the trustee. The trustee receives triple the amount and then decides how much to return to you. You will:",
+    "a_zh": "投资大部分（如80元），展示信任",
+    "a_en": "Invest most (e.g., 80 yuan) to show trust",
+    "b_zh": "投资少量（如20元），降低风险",
+    "b_en": "Invest a small amount (e.g., 20 yuan) to reduce risk"
+  },
+  {
+    "q_zh": "你和对手独立选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；一方合作一方背叛，背叛者得5分，合作者得0分。你会：",
+    "q_en": "You and your opponent independently choose 'Cooperate' or 'Defect'. If both cooperate, each gets 3 points; both defect, each gets 1 point; if one cooperates and one defects, the defector gets 5 points, the cooperator gets 0. You will:",
+    "a_zh": "选择合作",
+    "a_en": "Choose Cooperate",
+    "b_zh": "选择背叛",
+    "b_en": "Choose Defect"
+  },
+  {
+    "q_zh": "在一个密封报价的公共物品游戏中，每人私下决定投入0-10元到一个公共池，池中总金额翻倍后平均分给所有人。你会：",
+    "q_en": "In a sealed-bid public goods game, each person privately decides to contribute 0-10 yuan to a public pool. The total amount is doubled and then divided equally among all. You will:",
+    "a_zh": "投入10元（全额）",
+    "a_en": "Contribute 10 yuan (full amount)",
+    "b_zh": "投入0元（搭便车）",
+    "b_en": "Contribute 0 yuan (free-ride)"
+  },
+  {
+    "q_zh": "你和对手进行多轮囚徒困境，但不知道具体轮数。你会：",
+    "q_en": "You and your opponent play multiple rounds of the Prisoner's Dilemma, but the exact number of rounds is unknown. You will:",
+    "a_zh": "从第一轮就开始背叛",
+    "a_en": "Defect from the first round",
+    "b_zh": "先合作，根据对方反应调整",
+    "b_en": "Cooperate first, then adjust based on the opponent's response"
+  },
+  {
+    "q_zh": "你参加一个“猜平均数的2/3”游戏，所有人从0-100选一个数，最接近平均数2/3的人获胜。你会选：",
+    "q_en": "You participate in a 'Guess 2/3 of the average' game. Everyone chooses a number from 0-100, and the one closest to 2/3 of the average wins. You will choose:",
+    "a_zh": "一个较小的数（如10-30）",
+    "a_en": "A small number (e.g., 10-30)",
+    "b_zh": "一个较大的数（如50-70）",
+    "b_en": "A large number (e.g., 50-70)"
+  },
+  {
+    "q_zh": "你和对手分10元，你提出分配方案（如“我7你3”），对方只能接受或拒绝。若拒绝，双方都得0。你会提议：",
+    "q_en": "You and your opponent split 10 yuan. You propose a division (e.g., 'I take 7, you take 3'), and the opponent can only accept or reject. If rejected, both get 0. You will propose:",
+    "a_zh": "较公平的方案（如5.5:4.5）",
+    "a_en": "A fairer split (e.g., 5.5:4.5)",
+    "b_zh": "对自己有利的方案（如8:2）",
+    "b_en": "A self-advantageous split (e.g., 8:2)"
+  },
+  {
+    "q_zh": "在一个信息不对称的市场中，你作为卖家知道商品质量（高或低），买家不知道。你会：",
+    "q_en": "In a market with asymmetric information, you as the seller know the product quality (high or low), but the buyer does not. You will:",
+    "a_zh": "如实告知质量，建立信誉",
+    "a_en": "Truthfully disclose the quality to build credibility",
+    "b_zh": "隐瞒低质量，以高价出售",
+    "b_en": "Conceal low quality and sell at a high price"
+  },
+  {
+    "q_zh": "你和对手玩“胆小鬼游戏”：两人驾车相向而行，先转向者丢脸，都不转向则相撞。你会：",
+    "q_en": "You and your opponent play 'Chicken': two drivers head toward each other; the first to swerve loses face, but if neither swerves, they crash. You will:",
+    "a_zh": "提前表明绝不转向的决心",
+    "a_en": "Commit in advance to never swerve",
+    "b_zh": "准备在最后一刻转向",
+    "b_en": "Plan to swerve at the last moment"
   }
 ]
