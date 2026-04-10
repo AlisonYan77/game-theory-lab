@@ -4855,5 +4855,85 @@
     "a_en": "Commit in advance to never swerve",
     "b_zh": "准备在最后一刻转向",
     "b_en": "Plan to swerve at the last moment"
+  },
+  {
+    "q_zh": "你与对手各自在纸上写下1-100之间的一个整数，谁写的数字更接近对方数字的2/3，谁就获胜。你会写多少？",
+    "q_en": "You and your opponent each write an integer between 1 and 100. Whoever writes a number closest to 2/3 of the opponent's number wins. What number do you write?",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你与陌生人各自选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；一方合作一方背叛，背叛者得5分，合作者得0分。你会选择？",
+    "q_en": "You and a stranger each choose 'Cooperate' or 'Betray'. If both cooperate, each gets 3 points; both betray, each gets 1 point; if one cooperates and the other betrays, the betrayer gets 5 points, the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "拍卖一张100元纸币，出价最高者获得纸币，但出价前两名都需支付自己的出价金额。你已出价到95元，对手出价96元。轮到你，你会？",
+    "q_en": "A 100-dollar bill is auctioned. The highest bidder wins it, but the top two bidders both pay their bid amounts. You bid 95, opponent bids 96. It's your turn. Do you:",
+    "a_zh": "放弃竞拍",
+    "a_en": "Drop out",
+    "b_zh": "出价97元",
+    "b_en": "Bid 97"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆100枚硬币中取走1-10枚，取走最后一枚硬币者输。你先手，第一次会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-10 coins from a pile of 100. Whoever takes the last coin loses. You go first. How many do you take?",
+    "a_zh": "1枚",
+    "a_en": "1",
+    "b_zh": "9枚",
+    "b_en": "9"
+  },
+  {
+    "q_zh": "你和对手同时展示一枚硬币的正面或反面。若一致，你得3分；若不一致且你出正面，你得0分；若不一致且你出反面，你得5分。你会出？",
+    "q_en": "You and your opponent simultaneously show heads or tails. If they match, you get 3 points; if they differ and you showed heads, you get 0; if they differ and you showed tails, you get 5. What do you show?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你有一个提议分配100元的机会，对方只能接受或拒绝。若拒绝，双方都得0。你会提议自己拿多少？",
+    "q_en": "You can propose how to split 100 dollars. The other can only accept or reject. If rejected, both get 0. How much do you propose for yourself?",
+    "a_zh": "70元",
+    "a_en": "70",
+    "b_zh": "50元",
+    "b_en": "50"
+  },
+  {
+    "q_zh": "你和对手各自决定是否投入10元。若至少一人投入，总收益30元将平分给两人（不论是否投入）。你会投入吗？",
+    "q_en": "You and your opponent each decide whether to contribute 10 dollars. If at least one contributes, total profit of 30 dollars is split equally between both (regardless of contribution). Do you contribute?",
+    "a_zh": "投入",
+    "a_en": "Contribute",
+    "b_zh": "不投入",
+    "b_en": "Not contribute"
+  },
+  {
+    "q_zh": "你和对手各有一张“红”或“黑”的卡片。若颜色相同，各得100元；颜色不同，各得0。在不知道对方选择时，你会出什么颜色？",
+    "q_en": "You and your opponent each have a card that is either 'Red' or 'Black'. If colors match, each gets 100 dollars; if not, each gets 0. Without knowing the other's choice, what color do you choose?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "黑",
+    "b_en": "Black"
+  },
+  {
+    "q_zh": "你和对手同时决定是否“攻击”对方。若都不攻击，各得2分；都攻击，各得0分；一方攻击一方不攻击，攻击者得3分，不攻击者得-1分。你会？",
+    "q_en": "You and your opponent simultaneously decide whether to 'Attack' the other. If neither attacks, each gets 2 points; both attack, each gets 0; if one attacks and the other doesn't, attacker gets 3, non-attacker gets -1. What do you do?",
+    "a_zh": "攻击",
+    "a_en": "Attack",
+    "b_zh": "不攻击",
+    "b_en": "Not attack"
+  },
+  {
+    "q_zh": "你面前有两个信封：一个金额是另一个的两倍。你选了一个，打开前有机会交换。你会交换吗？",
+    "q_en": "Two envelopes: one contains twice as much money as the other. You pick one. Before opening, you can switch. Do you switch?",
+    "a_zh": "交换",
+    "a_en": "Switch",
+    "b_zh": "不交换",
+    "b_en": "Not switch"
   }
 ]
