@@ -4935,5 +4935,85 @@
     "a_en": "Switch",
     "b_zh": "不交换",
     "b_en": "Not switch"
+  },
+  {
+    "q_zh": "你与对手各持100枚金币。你们同时决定是否向公共池投入金币，投入的金币会翻倍后平分给双方。你会选择：",
+    "q_en": "You and your opponent each have 100 gold coins. You simultaneously decide whether to contribute coins to a public pool. Contributed coins are doubled and then split equally between both players. You choose to:",
+    "a_zh": "投入50枚金币",
+    "a_en": "Contribute 50 coins",
+    "b_zh": "不投入任何金币",
+    "b_en": "Contribute 0 coins"
+  },
+  {
+    "q_zh": "在一场拍卖中，你和对手竞拍一个价值100元的物品。出价最高者获胜并支付所出价格，但第二名也需要支付自己的出价且一无所获。你的策略是：",
+    "q_en": "In an auction, you and your opponent bid for an item worth 100. The highest bidder wins and pays their bid, but the second-highest bidder also pays their bid and gets nothing. Your strategy is:",
+    "a_zh": "出价略高于50元",
+    "a_en": "Bid slightly above 50",
+    "b_zh": "出价略低于100元",
+    "b_en": "Bid slightly below 100"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆20枚金币中取走1-3枚。取走最后一枚者获胜。你先手，会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 gold coins from a pile of 20. The player who takes the last coin wins. You go first. How many do you take?",
+    "a_zh": "取2枚",
+    "a_en": "Take 2 coins",
+    "b_zh": "取3枚",
+    "b_en": "Take 3 coins"
+  },
+  {
+    "q_zh": "你和对手各自秘密写下0-100间的一个整数。谁写的数字最接近对方数字的2/3，谁获胜。你会写：",
+    "q_en": "You and your opponent secretly write an integer between 0 and 100. Whoever writes the number closest to 2/3 of the other's number wins. You write:",
+    "a_zh": "0",
+    "a_en": "0",
+    "b_zh": "33",
+    "b_en": "33"
+  },
+  {
+    "q_zh": "你和对手合作完成一个项目，总收益为100。你们各自决定自己要求的份额（0-100），若两人要求总和≤100，各得所要求份额；若总和>100，两人都得0。你会要求：",
+    "q_en": "You and your opponent collaborate on a project with a total reward of 100. Each demands a share (0-100). If the sum of demands ≤100, each gets their demand; if >100, both get 0. You demand:",
+    "a_zh": "50",
+    "a_en": "50",
+    "b_zh": "60",
+    "b_en": "60"
+  },
+  {
+    "q_zh": "你与对手进行多轮囚徒困境。每轮合作各得3分，背叛各得1分；若一人合作一人背叛，合作者得0分，背叛者得5分。游戏共10轮。第一轮你会：",
+    "q_en": "You play a repeated prisoner's dilemma with your opponent for 10 rounds. Mutual cooperation gives 3 points each; mutual defection gives 1 each; if one cooperates and one defects, cooperator gets 0, defector gets 5. In the first round, you:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手各有一张红牌和一张黑牌。同时出一张牌：若都出红，各得100；若都出黑，各得10；若一红一黑，出红者得0，出黑者得200。你会出：",
+    "q_en": "You and your opponent each have a red card and a black card. You simultaneously play one card: both red → each gets 100; both black → each gets 10; one red one black → red gets 0, black gets 200. You play:",
+    "a_zh": "红牌",
+    "a_en": "Red",
+    "b_zh": "黑牌",
+    "b_en": "Black"
+  },
+  {
+    "q_zh": "你和对手争夺一个价值100的奖品。你们同时决定投入多少资源（0-100），投入多者获胜并获得奖品，但双方都需支付自己的投入。你会投入：",
+    "q_en": "You and your opponent compete for a prize worth 100. You simultaneously decide how much to invest (0-100). The higher investor wins the prize, but both pay their investment. You invest:",
+    "a_zh": "0",
+    "a_en": "0",
+    "b_zh": "50",
+    "b_en": "50"
+  },
+  {
+    "q_zh": "你与对手进行信任游戏：你先获得100元，可以分给对方任意金额X（0≤X≤100），对方收到的金额为3X，然后对方决定返还给你任意金额Y（0≤Y≤3X）。你会分给对方：",
+    "q_en": "You play a trust game: you receive 100 first, and may send any amount X (0≤X≤100) to the opponent. The opponent receives 3X, then decides how much Y (0≤Y≤3X) to return to you. You send:",
+    "a_zh": "0元",
+    "a_en": "0",
+    "b_zh": "50元",
+    "b_en": "50"
+  },
+  {
+    "q_zh": "你和对手同时选择“进攻”或“撤退”。若都撤退，各得50；若一进一退，进攻者得100，撤退者得10；若都进攻，各得0。你会选择：",
+    "q_en": "You and your opponent simultaneously choose 'Attack' or 'Retreat'. Both retreat → each gets 50; one attacks, one retreats → attacker gets 100, retreator gets 10; both attack → each gets 0. You choose:",
+    "a_zh": "进攻",
+    "a_en": "Attack",
+    "b_zh": "撤退",
+    "b_en": "Retreat"
   }
 ]
