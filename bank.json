@@ -5015,5 +5015,85 @@
     "a_en": "Attack",
     "b_zh": "撤退",
     "b_en": "Retreat"
+  },
+  {
+    "q_zh": "你与对手各自拥有100枚金币，需要同时决定是否向公共池投入金币。投入的金币会翻倍后平分给双方，不投入则保留自己的金币。你会选择：",
+    "q_en": "You and your opponent each have 100 gold coins. You must simultaneously decide whether to contribute coins to a public pool. Contributed coins are doubled and split equally between both players; non-contributed coins are kept. You choose to:",
+    "a_zh": "投入全部100枚金币",
+    "a_en": "Contribute all 100 coins",
+    "b_zh": "不投入任何金币",
+    "b_en": "Contribute 0 coins"
+  },
+  {
+    "q_zh": "在一个拍卖中，你和对手竞拍一张价值100元的钞票。出价最高者获得钞票，但两位竞拍者都必须支付自己的出价。你会出价：",
+    "q_en": "In an auction, you and your opponent bid for a banknote worth 100 yuan. The highest bidder wins the note, but both bidders must pay their bid. You bid:",
+    "a_zh": "51元",
+    "a_en": "51 yuan",
+    "b_zh": "0元（放弃竞拍）",
+    "b_en": "0 yuan (abstain)"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆10枚金币中取走1-3枚，取走最后一枚者获胜。你先手，你会取走：",
+    "q_en": "You and your opponent take turns removing 1-3 gold coins from a pile of 10. The player who takes the last coin wins. You go first. You remove:",
+    "a_zh": "1枚金币",
+    "a_en": "1 coin",
+    "b_zh": "2枚金币",
+    "b_en": "2 coins"
+  },
+  {
+    "q_zh": "你和对手分别选择“合作”或“背叛”。若双方合作，各得3分；若双方背叛，各得1分；若一方合作一方背叛，背叛者得5分，合作者得0分。你会选择：",
+    "q_en": "You and your opponent choose 'Cooperate' or 'Defect'. If both cooperate, each gets 3 points. If both defect, each gets 1 point. If one cooperates and one defects, the defector gets 5 points, the cooperator gets 0. You choose:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你和对手需要同时写下1-100之间的一个数字，最接近平均数的2/3者获胜。你会写：",
+    "q_en": "You and your opponent simultaneously write a number between 1 and 100. The one closest to 2/3 of the average wins. You write:",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你有一个提议权，可以将100枚金币按任意比例分配给自己和对手，对手只能接受或拒绝。若拒绝，双方都得不到金币。你会提议：",
+    "q_en": "You have the proposal right to split 100 gold coins between yourself and your opponent. The opponent can only accept or reject. If rejected, both get nothing. You propose:",
+    "a_zh": "自己99枚，对手1枚",
+    "a_en": "99 for yourself, 1 for the opponent",
+    "b_zh": "自己70枚，对手30枚",
+    "b_en": "70 for yourself, 30 for the opponent"
+  },
+  {
+    "q_zh": "你和对手被分开审讯。若一人认罪并指证对方，则认罪者获释，对方判10年；若双方都认罪，各判5年；若都不认罪，各判1年。你会选择：",
+    "q_en": "You and your opponent are interrogated separately. If one confesses and testifies against the other, the confessor goes free, the other gets 10 years. If both confess, each gets 5 years. If neither confesses, each gets 1 year. You choose:",
+    "a_zh": "认罪",
+    "a_en": "Confess",
+    "b_zh": "不认罪",
+    "b_en": "Stay silent"
+  },
+  {
+    "q_zh": "你和对手进行多轮博弈，每轮可选择“合作”或“背叛”。已知博弈会进行10轮，且双方都能看到历史选择。第一轮你会选择：",
+    "q_en": "You and your opponent play multiple rounds, each choosing 'Cooperate' or 'Defect'. It is known that there will be 10 rounds, and both can see past choices. In the first round, you choose:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你和对手各自选择“红”或“蓝”。若颜色相同，各得10分；若不同，选红者得0分，选蓝者得15分。你会选择：",
+    "q_en": "You and your opponent each choose 'Red' or 'Blue'. If colors match, each gets 10 points. If they differ, the one choosing Red gets 0, the one choosing Blue gets 15. You choose:",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你面前有两个按钮：A按钮确保你获得100元，对手获得0元；B按钮有50%概率让你和对手各得200元，50%概率双方都得0元。你会按：",
+    "q_en": "You have two buttons: Button A guarantees you 100 yuan and your opponent 0 yuan. Button B gives a 50% chance that both get 200 yuan, and a 50% chance that both get 0. You press:",
+    "a_zh": "A按钮",
+    "a_en": "Button A",
+    "b_zh": "B按钮",
+    "b_en": "Button B"
   }
 ]
