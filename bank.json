@@ -5095,5 +5095,85 @@
     "a_en": "Button A",
     "b_zh": "B按钮",
     "b_en": "Button B"
+  },
+  {
+    "q_zh": "你与对手各自拥有100元。你们需要同时决定是否向公共池捐款。规则：若双方都捐款，每人获得150元回报；若只有一人捐款，捐款者损失100元，不捐者获得200元；若都不捐，保持原状。你会选择：",
+    "q_en": "You and your opponent each have $100. You must simultaneously decide whether to donate to a public pool. Rules: If both donate, each receives $150 in return. If only one donates, the donor loses $100, and the non-donor gains $200. If neither donates, both keep their $100. Your choice:",
+    "a_zh": "捐款",
+    "a_en": "Donate",
+    "b_zh": "不捐款",
+    "b_en": "Not donate"
+  },
+  {
+    "q_zh": "你在一个拍卖中与另一人竞拍100元现金。规则：出价最高者赢得100元，但两位竞拍者都必须支付自己的出价。若出价相同，随机一人获胜。你的策略是：",
+    "q_en": "You are bidding against one other person for $100 cash. Rules: The highest bidder wins the $100, but both bidders must pay their own bid. If bids are equal, one wins randomly. Your strategy:",
+    "a_zh": "出价50元",
+    "a_en": "Bid $50",
+    "b_zh": "出价1元",
+    "b_en": "Bid $1"
+  },
+  {
+    "q_zh": "你与对手轮流从一堆10枚金币中取走1-3枚。取走最后一枚金币的人输。现在轮到你，还剩4枚金币。你会取走：",
+    "q_en": "You and your opponent take turns removing 1-3 gold coins from a pile of 10. The player who takes the last coin loses. It's your turn, and 4 coins remain. You will take:",
+    "a_zh": "1枚",
+    "a_en": "1 coin",
+    "b_zh": "3枚",
+    "b_en": "3 coins"
+  },
+  {
+    "q_zh": "你参与一个“信任游戏”：你先获得100元，可以选择将任意金额X（0≤X≤100）交给对手，对手收到的金额将变为3X，然后由对手决定返还任意金额Y给你。你会交给对手：",
+    "q_en": "You play a 'Trust Game': You first receive $100 and can send any amount X (0≤X≤100) to your opponent. The opponent receives 3X, then decides how much Y to return to you. You will send:",
+    "a_zh": "0元",
+    "a_en": "$0",
+    "b_zh": "100元",
+    "b_en": "$100"
+  },
+  {
+    "q_zh": "你与对手各自秘密选择“合作”或“背叛”。收益矩阵如下：若双方合作，各得3分；双方背叛，各得1分；若你合作而对手背叛，你得0分对手得5分；若你背叛而对手合作，你得5分对手得0分。你会选择：",
+    "q_en": "You and your opponent secretly choose 'Cooperate' or 'Defect'. Payoff matrix: If both cooperate, each gets 3 points. If both defect, each gets 1 point. If you cooperate and opponent defects, you get 0, opponent gets 5. If you defect and opponent cooperates, you get 5, opponent gets 0. Your choice:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与对手进行多轮博弈。每轮你们同时出示“红”或“蓝”。若颜色相同，各得1分；若不同，出示红者得3分，出示蓝者得0分。本轮你会出示：",
+    "q_en": "You and your opponent play multiple rounds. Each round, you simultaneously show 'Red' or 'Blue'. If colors match, each gets 1 point. If different, the one showing Red gets 3 points, the one showing Blue gets 0. This round you will show:",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你面前有两个信封：一个装有对手写的数字X，另一个装有数字2X。你随机选一个打开，看到数字100。现在你可以选择是否与另一个信封交换。你会：",
+    "q_en": "Two envelopes: one contains a number X written by your opponent, the other contains 2X. You randomly pick one and see the number 100. You can choose to swap with the other envelope. You will:",
+    "a_zh": "交换",
+    "a_en": "Swap",
+    "b_zh": "不交换",
+    "b_en": "Not swap"
+  },
+  {
+    "q_zh": "你与对手各自在0-100之间选择一个整数。谁选的数字最接近对方所选数字的2/3，谁获胜。你的选择是：",
+    "q_en": "You and your opponent each choose an integer between 0 and 100. Whoever chooses the number closest to 2/3 of the opponent's number wins. Your choice:",
+    "a_zh": "0",
+    "a_en": "0",
+    "b_zh": "67",
+    "b_en": "67"
+  },
+  {
+    "q_zh": "你与对手分10枚金币。由你提出分配方案（如“我得X枚，你得Y枚”，X+Y=10），对手只能接受或拒绝。若接受，按方案分配；若拒绝，双方都得0。你的方案是：",
+    "q_en": "You and your opponent divide 10 gold coins. You propose an allocation (e.g., 'I take X, you take Y', X+Y=10). The opponent can only accept or reject. If accepted, the allocation is implemented. If rejected, both get 0. Your proposal:",
+    "a_zh": "我得9枚，你得1枚",
+    "a_en": "I take 9, you take 1",
+    "b_zh": "我得5枚，你得5枚",
+    "b_en": "I take 5, you take 5"
+  },
+  {
+    "q_zh": "你参加一个抽奖：有3个门，一扇门后有汽车，另两扇后是山羊。你选了一号门。主持人（知道汽车在哪里）打开了另一扇门（三号门），后面是山羊。现在主持人问你是否要换到二号门。你会：",
+    "q_en": "You join a lottery: 3 doors, one has a car, the other two have goats. You pick Door 1. The host (who knows where the car is) opens another door (Door 3), revealing a goat. The host asks if you want to switch to Door 2. You will:",
+    "a_zh": "换到二号门",
+    "a_en": "Switch to Door 2",
+    "b_zh": "坚持一号门",
+    "b_en": "Stick with Door 1"
   }
 ]
