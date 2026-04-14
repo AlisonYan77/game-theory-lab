@@ -5175,5 +5175,85 @@
     "a_en": "Switch to Door 2",
     "b_zh": "坚持一号门",
     "b_en": "Stick with Door 1"
+  },
+  {
+    "q_zh": "你与对手各自拥有100元，你们同时决定是否给对方50元。如果双方都给，每人获得对方50元后净收益为0；如果一方给另一方不给，给方损失50元，收方获得50元；如果双方都不给，各自保持100元。你会选择：",
+    "q_en": "You and your opponent each have $100. You simultaneously decide whether to give $50 to the other. If both give, each receives $50 from the other, netting $0; if one gives and the other doesn't, the giver loses $50 and the receiver gains $50; if neither gives, both keep $100. You choose:",
+    "a_zh": "给对方50元",
+    "a_en": "Give $50",
+    "b_zh": "不给对方50元",
+    "b_en": "Do not give $50"
+  },
+  {
+    "q_zh": "你与对手竞拍1元硬币，出价高者赢得硬币但需支付自己的出价，出价低者支付0元且无收益。双方出价必须是整数（单位：分），且不能沟通。你会出价：",
+    "q_en": "You and your opponent bid for a $1 coin. The higher bidder wins the coin but pays their bid; the lower bidder pays $0 and gets nothing. Bids must be in whole cents, and no communication is allowed. You bid:",
+    "a_zh": "50分",
+    "a_en": "50 cents",
+    "b_zh": "100分",
+    "b_en": "100 cents"
+  },
+  {
+    "q_zh": "你与对手各自在0-100之间选择一个数字，谁选的数字最接近对方所选数字的2/3，谁获胜。你会选择：",
+    "q_en": "You and your opponent each choose a number between 0 and 100. Whoever chooses the number closest to 2/3 of the other's number wins. You choose:",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "0",
+    "b_en": "0"
+  },
+  {
+    "q_zh": "你与对手进行多轮囚徒困境博弈，每轮可选择合作或背叛。已知博弈会进行恰好10轮，且双方都知道轮数。在第一轮，你会选择：",
+    "q_en": "You and your opponent play multiple rounds of the Prisoner's Dilemma, choosing to cooperate or defect each round. It is known that exactly 10 rounds will be played, and both know the number of rounds. In the first round, you choose:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你面前有两个信封，一个装有对方金额的两倍，另一个装有对方金额的一半。你先选一个信封并查看金额，然后可以选择是否与对方交换信封。对方也面临同样情况。你看完金额后，会选择：",
+    "q_en": "You have two envelopes: one contains twice the opponent's amount, the other contains half. You pick one, see the amount, and then decide whether to swap with the opponent. The opponent faces the same choice. After seeing your amount, you choose:",
+    "a_zh": "交换信封",
+    "a_en": "Swap envelopes",
+    "b_zh": "不交换信封",
+    "b_en": "Do not swap"
+  },
+  {
+    "q_zh": "你与对手分10枚金币，由你提出分配方案（如“我得X枚，对方得10-X枚”），对方只能接受或拒绝。若接受，按方案分配；若拒绝，双方都得0枚。你会提议：",
+    "q_en": "You and your opponent divide 10 gold coins. You propose a split (e.g., 'I take X, opponent takes 10-X'), and the opponent can only accept or reject. If accepted, the split is implemented; if rejected, both get 0. You propose:",
+    "a_zh": "我得9枚，对方得1枚",
+    "a_en": "I take 9, opponent takes 1",
+    "b_zh": "我得5枚，对方得5枚",
+    "b_en": "I take 5, opponent takes 5"
+  },
+  {
+    "q_zh": "你与对手各自决定是否投资一个公共项目。投资需付出1单位成本，项目总收益为投资人数×1.5，平均分配给两人。你会选择：",
+    "q_en": "You and your opponent decide whether to invest in a public project. Investing costs 1 unit. The total return is the number of investors × 1.5, split equally between both. You choose:",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Do not invest"
+  },
+  {
+    "q_zh": "你与对手玩“猜拳”游戏，但规则改为：石头赢剪刀得2分，剪刀赢布得2分，布赢石头得2分；平局各得1分；输得0分。你会先出：",
+    "q_en": "You play Rock-Paper-Scissors with a modified rule: Rock beats Scissors scores 2, Scissors beats Paper scores 2, Paper beats Rock scores 2; tie scores 1 each; losing scores 0. You choose:",
+    "a_zh": "石头",
+    "a_en": "Rock",
+    "b_zh": "随机出（等概率石头、剪刀、布）",
+    "b_en": "Random (equal probability Rock, Paper, Scissors)"
+  },
+  {
+    "q_zh": "你与对手各自拥有10点生命值。每轮你可选择攻击（消耗2点生命，扣对方4点）或治疗（恢复3点生命）。游戏进行到一方生命值≤0结束。第一轮你会：",
+    "q_en": "You and your opponent each have 10 HP. Each round, you can either Attack (cost 2 HP, deal 4 damage) or Heal (restore 3 HP). The game ends when one player's HP ≤ 0. In the first round, you choose:",
+    "a_zh": "攻击",
+    "a_en": "Attack",
+    "b_zh": "治疗",
+    "b_en": "Heal"
+  },
+  {
+    "q_zh": "你与对手进行投票：每人有“红”“蓝”两票。若红票总数≥蓝票总数，每人获得与红票数相等的收益；若蓝票多，每人获得与蓝票数相等的收益。你会投：",
+    "q_en": "You and your opponent vote: each has a 'Red' and a 'Blue' ballot. If total Red ballots ≥ Blue, each earns a reward equal to the number of Red ballots; if Blue ballots are more, each earns equal to Blue ballots. You vote:",
+    "a_zh": "红票",
+    "a_en": "Red",
+    "b_zh": "蓝票",
+    "b_en": "Blue"
   }
 ]
