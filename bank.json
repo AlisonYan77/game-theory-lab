@@ -5255,5 +5255,85 @@
     "a_en": "Red",
     "b_zh": "蓝票",
     "b_en": "Blue"
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。你们各自秘密写下0-100之间的出价，出价高者获胜，但需支付自己的出价。如果平局，则随机一人获胜。你会出价多少？",
+    "q_en": "You and an opponent are bidding in an auction for an item worth $100. Each of you secretly writes a bid between $0 and $100. The higher bidder wins but pays their own bid. In case of a tie, a random person wins. How much would you bid?",
+    "a_zh": "出价50元",
+    "a_en": "Bid $50",
+    "b_zh": "出价1元",
+    "b_en": "Bid $1"
+  },
+  {
+    "q_zh": "在一个合作项目中，你和搭档各自选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；一人合作一人背叛，合作者得0分，背叛者得5分。你会如何选择？",
+    "q_en": "In a cooperative project, you and your partner each choose 'Cooperate' or 'Defect'. If both cooperate, each gets 3 points; both defect, each gets 1 point; if one cooperates and one defects, the cooperator gets 0 points, the defector gets 5 points. What would you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与陌生人玩“最后通牒博弈”。对方获得100元，并提出分给你X元（0≤X≤100）。如果你接受，你们按此分配；如果你拒绝，双方都得0元。对方提出分给你10元，你会？",
+    "q_en": "You play the 'Ultimatum Game' with a stranger. They receive $100 and offer you $X (0≤X≤100). If you accept, you both keep the money accordingly; if you reject, both get $0. They offer you $10. Would you?",
+    "a_zh": "接受",
+    "a_en": "Accept",
+    "b_zh": "拒绝",
+    "b_en": "Reject"
+  },
+  {
+    "q_zh": "你参与一个“猜平均数”游戏：所有玩家在0-100间选一个数，最接近全体平均数2/3的玩家获胜。你认为其他玩家会如何选择？",
+    "q_en": "You play a 'Guess 2/3 of the Average' game: all players choose a number between 0 and 100, and the one closest to 2/3 of the average wins. How do you think other players will choose?",
+    "a_zh": "他们会随机选择，所以我选33",
+    "a_en": "They will choose randomly, so I choose 33",
+    "b_zh": "他们会理性推理，所以我选0或1",
+    "b_en": "They will reason rationally, so I choose 0 or 1"
+  },
+  {
+    "q_zh": "你与对手轮流从一堆10枚硬币中取走1-3枚，取走最后一枚者输。你先手，你会取几枚？",
+    "q_en": "You and an opponent take turns taking 1-3 coins from a pile of 10 coins. The player who takes the last coin loses. You go first. How many coins do you take?",
+    "a_zh": "取1枚",
+    "a_en": "Take 1 coin",
+    "b_zh": "取2枚",
+    "b_en": "Take 2 coins"
+  },
+  {
+    "q_zh": "你被困在一个与世隔绝的村庄，村民要么总是说真话，要么总是说假话。一位村民指着一条路说：“如果我问另一条路是否通往城市，他会说是。”这条路通往城市吗？",
+    "q_en": "You are trapped in an isolated village where villagers either always tell the truth or always lie. A villager points to a road and says, 'If I asked whether the other road leads to the city, he would say yes.' Does this road lead to the city?",
+    "a_zh": "是",
+    "a_en": "Yes",
+    "b_zh": "否",
+    "b_en": "No"
+  },
+  {
+    "q_zh": "你与对手玩“胆小鬼博弈”：两人驾车相向而行，先转向者被视为“胆小鬼”丢面子，但若都不转向则会相撞。你认为对手会如何行动？",
+    "q_en": "You play 'Chicken' with an opponent: two drivers head toward each other; the first to swerve is called a 'chicken' and loses face, but if neither swerves, they crash. How do you think your opponent will act?",
+    "a_zh": "对手会转向，所以我坚持直行",
+    "a_en": "The opponent will swerve, so I stay straight",
+    "b_zh": "对手不会转向，所以我转向",
+    "b_en": "The opponent won't swerve, so I swerve"
+  },
+  {
+    "q_zh": "你参加一个投票，有三个选项A、B、C。你最喜欢A，最讨厌C。投票采用排序制，你最可能的策略是？",
+    "q_en": "You participate in a vote with three options: A, B, C. You prefer A most and dislike C most. The voting uses a ranked-choice system. What is your most likely strategy?",
+    "a_zh": "诚实排序：A > B > C",
+    "a_en": "Rank honestly: A > B > C",
+    "b_zh": "策略排序：B > A > C（以防A被淘汰）",
+    "b_en": "Rank strategically: B > A > C (in case A is eliminated)"
+  },
+  {
+    "q_zh": "你与对手进行多轮囚徒困境，已知最后一轮是第10轮。在最后一轮中，你会选择合作还是背叛？",
+    "q_en": "You and an opponent play multiple rounds of the Prisoner's Dilemma, and it is known that the last round is the 10th. In the final round, would you choose to cooperate or defect?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你有一笔钱可以投资两个项目之一：A项目有50%概率翻倍，50%概率亏光；B项目保证获得25%收益。你会选择哪个？",
+    "q_en": "You have money to invest in one of two projects: Project A has a 50% chance to double your money and a 50% chance to lose it all; Project B guarantees a 25% return. Which do you choose?",
+    "a_zh": "A项目",
+    "a_en": "Project A",
+    "b_zh": "B项目",
+    "b_en": "Project B"
   }
 ]
