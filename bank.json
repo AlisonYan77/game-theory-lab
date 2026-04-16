@@ -5335,5 +5335,85 @@
     "a_en": "Project A",
     "b_zh": "B项目",
     "b_en": "Project B"
+  },
+  {
+    "q_zh": "你和对手各自选择一个1-10之间的整数，数字更接近对方选择数字2/3的人获胜。你会选择哪个数字？",
+    "q_en": "You and your opponent each choose an integer between 1 and 10. The person whose number is closer to 2/3 of the opponent's number wins. Which number do you choose?",
+    "a_zh": "3",
+    "a_en": "3",
+    "b_zh": "7",
+    "b_en": "7"
+  },
+  {
+    "q_zh": "你和对手同时决定是否合作。若都合作，各得3分；若都背叛，各得1分；若一方合作一方背叛，背叛者得5分，合作者得0分。你会选择？",
+    "q_en": "You and your opponent simultaneously decide whether to cooperate. If both cooperate, each gets 3 points; if both defect, each gets 1 point; if one cooperates and one defects, the defector gets 5 points, the cooperator gets 0. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "拍卖会上，你和对手竞拍一张面值100元的钞票，出价最高者获得钞票，但出价前两名都需支付自己的出价。你会出价多少？",
+    "q_en": "At an auction, you and your opponent bid for a $100 bill. The highest bidder wins the bill, but the top two bidders must pay their bids. How much do you bid?",
+    "a_zh": "50元",
+    "a_en": "$50",
+    "b_zh": "0元（不参与）",
+    "b_en": "$0 (Do not participate)"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆10枚硬币中取走1-3枚，取走最后一枚者输。你先手，第一次会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 coins from a pile of 10 coins. The player who takes the last coin loses. You go first. How many coins do you take on your first turn?",
+    "a_zh": "1枚",
+    "a_en": "1 coin",
+    "b_zh": "2枚",
+    "b_en": "2 coins"
+  },
+  {
+    "q_zh": "你和对手各自在纸上写下“是”或“否”。若两人都写“是”，各得100元；若都写“否”，各得10元；若不同，写“否”者得200元，写“是”者得0元。你会写什么？",
+    "q_en": "You and your opponent each write 'Yes' or 'No' on paper. If both write 'Yes', each gets $100; if both write 'No', each gets $10; if different, the one who writes 'No' gets $200, the one who writes 'Yes' gets $0. What do you write?",
+    "a_zh": "是",
+    "a_en": "Yes",
+    "b_zh": "否",
+    "b_en": "No"
+  },
+  {
+    "q_zh": "你有一笔资金，可以选择投资或不投资一个项目。对手也面临同样选择。若双方都投资，项目成功，各获利2；若都不投资，各获利1；若仅一方投资，项目失败，投资者损失1，不投资者获利0。你会投资吗？",
+    "q_en": "You have capital and can choose to invest or not in a project. Your opponent faces the same choice. If both invest, the project succeeds, each gains 2; if neither invests, each gains 1; if only one invests, the project fails, the investor loses 1, the non-investor gains 0. Do you invest?",
+    "a_zh": "投资",
+    "a_en": "Invest",
+    "b_zh": "不投资",
+    "b_en": "Do not invest"
+  },
+  {
+    "q_zh": "你和对手各自选择“红”或“蓝”。若颜色相同，你获得100元；若颜色不同，对手获得100元。你会选择什么颜色？",
+    "q_en": "You and your opponent each choose 'Red' or 'Blue'. If the colors match, you win $100; if they differ, your opponent wins $100. What color do you choose?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你和对手分10枚金币。你提出分配方案（如“我得X枚，你得Y枚”），对手接受则按方案分配，拒绝则双方都得不到金币。你会提议自己得几枚？",
+    "q_en": "You and your opponent divide 10 gold coins. You propose a split (e.g., 'I take X, you take Y'). If your opponent accepts, the split is implemented; if rejected, both get nothing. How many coins do you propose for yourself?",
+    "a_zh": "5枚",
+    "a_en": "5 coins",
+    "b_zh": "8枚",
+    "b_en": "8 coins"
+  },
+  {
+    "q_zh": "你和对手玩三局“剪刀石头布”，胜一局得1分，平局0分，负局-1分。总分高者获胜。第一局你会出什么？",
+    "q_en": "You and your opponent play three rounds of Rock-Paper-Scissors. Win a round: +1 point, draw: 0, lose: -1. Higher total score wins. What do you play in the first round?",
+    "a_zh": "石头",
+    "a_en": "Rock",
+    "b_zh": "剪刀",
+    "b_en": "Scissors"
+  },
+  {
+    "q_zh": "你和对手各自决定是否按下按钮。若都不按，各得100元；若都按，各罚50元；若一人按一人不按，按者得150元，不按者得0元。你会按吗？",
+    "q_en": "You and your opponent each decide whether to press a button. If neither presses, each gets $100; if both press, each loses $50; if one presses and the other doesn't, the presser gets $150, the non-presser gets $0. Do you press the button?",
+    "a_zh": "按",
+    "a_en": "Press",
+    "b_zh": "不按",
+    "b_en": "Do not press"
   }
 ]
