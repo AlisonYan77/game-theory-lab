@@ -5415,5 +5415,85 @@
     "a_en": "Press",
     "b_zh": "不按",
     "b_en": "Do not press"
+  },
+  {
+    "q_zh": "你与对手各自秘密选择“合作”或“背叛”。若双方都选合作，各得2分；都选背叛，各得0分；一方合作一方背叛，背叛者得3分，合作者得-1分。游戏进行10轮，你会采取什么策略？",
+    "q_en": "You and your opponent secretly choose 'Cooperate' or 'Defect'. If both cooperate, each gets 2 points; both defect, each gets 0; if one cooperates and one defects, the defector gets 3 points and the cooperator gets -1. The game lasts 10 rounds. What strategy would you adopt?",
+    "a_zh": "第一轮合作，之后模仿对手上一轮的选择（以牙还牙）。",
+    "a_en": "Cooperate in the first round, then mimic the opponent's previous move (tit-for-tat).",
+    "b_zh": "始终选择背叛，以确保自己不受损失。",
+    "b_en": "Always defect to ensure you don't suffer losses."
+  },
+  {
+    "q_zh": "拍卖会上，你和一位对手竞拍一个价值100元的物品。规则是：出价最高者获胜，但前两名都必须支付自己的出价。你会出价多少？",
+    "q_en": "At an auction, you and one opponent bid for an item worth 100. The rule: the highest bidder wins, but both the top two bidders must pay their bid. How much would you bid?",
+    "a_zh": "出价略高于0元（如1元），避免陷入价格战。",
+    "a_en": "Bid slightly above 0 (e.g., 1) to avoid a bidding war.",
+    "b_zh": "出价接近100元，确保获胜并仍有收益。",
+    "b_en": "Bid close to 100 to ensure winning and still profit."
+  },
+  {
+    "q_zh": "你和对手同时决定是否“进攻”或“撤退”。若双方都进攻，各损失5；都撤退，各得1；一方进攻一方撤退，进攻者得3，撤退者得0。你会如何选择？",
+    "q_en": "You and your opponent simultaneously decide to 'Attack' or 'Retreat'. If both attack, each loses 5; both retreat, each gets 1; if one attacks and one retreats, the attacker gets 3 and the retreating side gets 0. What would you choose?",
+    "a_zh": "选择进攻，赌对手会撤退。",
+    "a_en": "Choose Attack, betting the opponent will retreat.",
+    "b_zh": "选择撤退，确保至少不损失。",
+    "b_en": "Choose Retreat to ensure at least no loss."
+  },
+  {
+    "q_zh": "你与对手分10枚金币。你提出分配方案（如“我得7枚，你得3枚”），对手只能接受或拒绝。若拒绝，双方都得不到金币。你会怎么分配？",
+    "q_en": "You and your opponent split 10 gold coins. You propose a split (e.g., 'I take 7, you take 3'), and the opponent can only accept or reject. If rejected, both get nothing. How would you split?",
+    "a_zh": "提出“我得6枚，你得4枚”，提高对手接受概率。",
+    "a_en": "Propose 'I take 6, you take 4' to increase acceptance chance.",
+    "b_zh": "提出“我得9枚，你得1枚”，最大化自己收益。",
+    "b_en": "Propose 'I take 9, you take 1' to maximize your own gain."
+  },
+  {
+    "q_zh": "你与对手各有一个数字选择器，可设1-100间任一整数。谁选的数字更接近对方数字的2/3，谁获胜。你会选多少？",
+    "q_en": "You and your opponent each pick an integer from 1 to 100. Whoever picks the number closest to 2/3 of the average of both numbers wins. What number would you pick?",
+    "a_zh": "选33，基于对手会随机选择的假设。",
+    "a_en": "Pick 33, assuming the opponent chooses randomly.",
+    "b_zh": "选22，考虑对手也会进行类似推理。",
+    "b_en": "Pick 22, considering the opponent will also reason similarly."
+  },
+  {
+    "q_zh": "你与对手玩三局两胜的剪刀石头布。第一局你出“石头”赢了。第二局你会出什么？",
+    "q_en": "You and your opponent play best-of-three Rock-Paper-Scissors. You won the first round with Rock. What will you play in the second round?",
+    "a_zh": "继续出“石头”，利用对手认为你会变的心理。",
+    "a_en": "Play Rock again, exploiting the opponent's expectation that you'll change.",
+    "b_zh": "改出“剪刀”，避免被对手预测。",
+    "b_en": "Switch to Scissors to avoid being predictable."
+  },
+  {
+    "q_zh": "你与对手各有一笔资金，可部分或全部投入公共池。池中资金翻倍后均分给两人。你会投入多少？",
+    "q_en": "You and your opponent each have some funds, and you can invest any portion into a public pool. The pool is doubled and split equally between both. How much would you invest?",
+    "a_zh": "投入全部资金，信任对手也会合作。",
+    "a_en": "Invest all funds, trusting the opponent will also cooperate.",
+    "b_zh": "投入一半资金，平衡风险与收益。",
+    "b_en": "Invest half to balance risk and reward."
+  },
+  {
+    "q_zh": "你和对手轮流从一堆20枚硬币中取走1-3枚。取走最后一枚者输。你先手，会取几枚？",
+    "q_en": "You and your opponent take turns taking 1-3 coins from a pile of 20. Whoever takes the last coin loses. You go first. How many do you take?",
+    "a_zh": "取2枚，试图控制剩余数量为4的倍数。",
+    "a_en": "Take 2, trying to leave a multiple of 4.",
+    "b_zh": "取1枚，先试探对手策略。",
+    "b_en": "Take 1 to first probe the opponent's strategy."
+  },
+  {
+    "q_zh": "你与对手各有一个按钮。若两人都不按，各得2元；若一人按另一人不按，按者得3元，不按者得0；若两人都按，各得1元。你会按吗？",
+    "q_en": "You and your opponent each have a button. If neither presses, each gets $2; if one presses and the other doesn't, the presser gets $3, the other $0; if both press, each gets $1. Would you press?",
+    "a_zh": "不按，争取双赢结果。",
+    "a_en": "Not press, aiming for a win-win outcome.",
+    "b_zh": "按，以防对手背叛并争取更高收益。",
+    "b_en": "Press, to guard against betrayal and aim for higher gain."
+  },
+  {
+    "q_zh": "你与对手进行多轮信任游戏。每轮你可选择“信任”对手，若对手回报则双方各得3分；若对手背叛，你得0分对手得5分。若你不信任，双方各得1分。游戏开始时你会？",
+    "q_en": "You and your opponent play multiple rounds of a trust game. Each round you can choose to 'Trust' the opponent; if they reciprocate, both get 3 points; if they betray, you get 0 and they get 5. If you don't trust, both get 1 point. At the start, you would:",
+    "a_zh": "选择信任，建立合作基础。",
+    "a_en": "Choose Trust to establish cooperation.",
+    "b_zh": "选择不信任，先观察对手行为。",
+    "b_en": "Choose Not Trust to first observe the opponent's behavior."
   }
 ]
