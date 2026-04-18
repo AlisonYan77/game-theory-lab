@@ -5495,5 +5495,85 @@
     "a_en": "Choose Trust to establish cooperation.",
     "b_zh": "选择不信任，先观察对手行为。",
     "b_en": "Choose Not Trust to first observe the opponent's behavior."
+  },
+  {
+    "q_zh": "你与对手进行一场拍卖，标的物价值100元。你们各自秘密写下出价（0-100元），出价高者获胜，但需支付自己的出价。如果平局，标的物随机分配。你会出价多少？",
+    "q_en": "You and an opponent are bidding in an auction for an item worth $100. Each secretly writes a bid (0-$100). The highest bidder wins but pays their bid. If tied, the item is randomly assigned. How much would you bid?",
+    "a_zh": "出价50元",
+    "a_en": "Bid $50",
+    "b_zh": "出价1元",
+    "b_en": "Bid $1"
+  },
+  {
+    "q_zh": "在一个合作项目中，你可以选择“全力投入”或“偷懒”。如果双方都全力投入，各得收益8；都偷懒各得2；若一人投入一人偷懒，投入者得3，偷懒者得10。你会如何选择？",
+    "q_en": "In a cooperative project, you can choose 'work hard' or 'shirk'. If both work hard, each gets 8; both shirk, each gets 2; if one works hard and the other shirks, the hard worker gets 3, the shirker gets 10. What do you choose?",
+    "a_zh": "全力投入",
+    "a_en": "Work hard",
+    "b_zh": "偷懒",
+    "b_en": "Shirk"
+  },
+  {
+    "q_zh": "你与陌生人分100元。对方提出分配方案（如对方留X元，给你Y元）。你可以接受（按方案分配）或拒绝（双方都得0）。如果你预计对方会提出“对方留70元，给你30元”，你会？",
+    "q_en": "You and a stranger split $100. They propose a split (e.g., they keep X, you get Y). You can accept (split as proposed) or reject (both get $0). If you expect them to propose 'they keep $70, you get $30', would you?",
+    "a_zh": "接受",
+    "a_en": "Accept",
+    "b_zh": "拒绝",
+    "b_en": "Reject"
+  },
+  {
+    "q_zh": "你参加一个游戏：每人同时选择“红”或“蓝”。如果所有人都选红，每人罚10元；如果有人选蓝，选蓝者得5元，选红者罚5元。在100人参与时，你会选？",
+    "q_en": "You play a game: everyone simultaneously chooses 'Red' or 'Blue'. If all choose Red, each loses $10; if anyone chooses Blue, Blues gain $5, Reds lose $5. With 100 players, you choose?",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你与对手轮流从一堆20枚硬币中取走1-3枚，取走最后一枚者输。你先手。你的第一回合会取几枚？",
+    "q_en": "You and an opponent take turns taking 1-3 coins from a pile of 20. Whoever takes the last coin loses. You go first. How many do you take on your first turn?",
+    "a_zh": "取1枚",
+    "a_en": "Take 1",
+    "b_zh": "取2枚",
+    "b_en": "Take 2"
+  },
+  {
+    "q_zh": "在一个信任游戏中，你先决定是否给对手10元。如果你给，钱会变为30元交给对手，然后对手决定是否还你一半（15元）。你会给吗？",
+    "q_en": "In a trust game, you first decide whether to give $10 to the opponent. If you give, it becomes $30 for them, then they decide whether to return half ($15) to you. Do you give?",
+    "a_zh": "给",
+    "a_en": "Give",
+    "b_zh": "不给",
+    "b_en": "Not give"
+  },
+  {
+    "q_zh": "你与对手各有一张“合作”或“背叛”的卡片。同时亮出：都合作各得3；都背叛各得1；一合作一背叛，合作者得0，背叛者得5。你会出？",
+    "q_en": "You and an opponent each have a 'Cooperate' or 'Defect' card. Reveal simultaneously: both cooperate → each gets 3; both defect → each gets 1; one cooperates, one defects → cooperator gets 0, defector gets 5. You play?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你参加一个竞猜：猜测所有参与者中，选择A和B的比例哪个更接近平均预测值。你认为大多数人会怎么选？",
+    "q_en": "You join a prediction game: guess whether the proportion of all players choosing A or B will be closer to the average prediction. What do you think most will choose?",
+    "a_zh": "A",
+    "a_en": "A",
+    "b_zh": "B",
+    "b_en": "B"
+  },
+  {
+    "q_zh": "你与对手进行多轮囚徒困境。已知游戏会随机在1-10轮后结束，但具体轮数未知。第一轮你会？",
+    "q_en": "You play multiple rounds of Prisoner's Dilemma with an opponent. The game ends randomly after 1-10 rounds (exact number unknown). In the first round, you?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你有一个秘密数字（1-100）。对手猜一个数，如果猜中你得100元，对手得0；如果没猜中，对手得所猜的数字（元），你得秘密数字与猜测之差（元）。你会设秘密数字为？",
+    "q_en": "You have a secret number (1-100). The opponent guesses a number. If correct, you get $100, they get $0; if wrong, they get the guessed number ($), you get the absolute difference ($). You set your secret number to?",
+    "a_zh": "50",
+    "a_en": "50",
+    "b_zh": "100",
+    "b_en": "100"
   }
 ]
