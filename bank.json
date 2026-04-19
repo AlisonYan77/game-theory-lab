@@ -5575,5 +5575,85 @@
     "a_en": "50",
     "b_zh": "100",
     "b_en": "100"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1或2，若数字相同你得5分对手得3分，若不同则对手得5分你得3分。你会写几？",
+    "q_en": "You and an opponent secretly write 1 or 2. If the numbers match, you get 5 points and they get 3. If they differ, they get 5 and you get 3. What do you write?",
+    "a_zh": "1",
+    "a_en": "1",
+    "b_zh": "2",
+    "b_en": "2"
+  },
+  {
+    "q_zh": "拍卖一张100元纸币，出价最高者支付其出价并获得纸币，但第二名也需支付其出价且一无所获。你已出价95元，对手出价96元。你可以选择加价或放弃。你会？",
+    "q_en": "A $100 bill is auctioned. The highest bidder pays their bid and gets the bill, but the second-highest also pays their bid and gets nothing. You bid $95, opponent bids $96. You can raise or quit. Do you?",
+    "a_zh": "加价至97元",
+    "a_en": "Raise to $97",
+    "b_zh": "放弃",
+    "b_en": "Quit"
+  },
+  {
+    "q_zh": "你们两人分10枚金币。你提议分配方案，对方接受则按方案分，拒绝则两人都得0。你会提议自己拿几枚？",
+    "q_en": "Two players split 10 gold coins. You propose a division. If accepted, it happens; if rejected, both get 0. How many do you propose for yourself?",
+    "a_zh": "5枚",
+    "a_en": "5 coins",
+    "b_zh": "9枚",
+    "b_en": "9 coins"
+  },
+  {
+    "q_zh": "猜拳游戏（石头剪刀布）中，你预测对手认为你会出什么，从而选择克制的招式。你认为对手最可能猜你出什么？",
+    "q_en": "In Rock-Paper-Scissors, you predict what your opponent thinks you'll play, then choose the move that beats it. What do you think they're most likely to guess you'll play?",
+    "a_zh": "石头",
+    "a_en": "Rock",
+    "b_zh": "剪刀",
+    "b_en": "Scissors"
+  },
+  {
+    "q_zh": "囚徒困境中，若合作双方各得3分，背叛对方则自己得5分对方得0分，双方背叛各得1分。你们只玩一轮，你会？",
+    "q_en": "Prisoner's Dilemma: if both cooperate, each gets 3; if you betray and they cooperate, you get 5 and they get 0; if both betray, each gets 1. One round only. You choose to:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "赛马有A、B两匹，实力相当。你和对手各选一匹，选相同则平局，不同则选更快马者赢。你认为对手会选哪匹？",
+    "q_en": "Two horses, A and B, are equally fast. You and an opponent each pick one. If you pick the same, it's a tie; if different, the one who picked the faster horse wins. Which horse do you think your opponent will pick?",
+    "a_zh": "A",
+    "a_en": "A",
+    "b_zh": "B",
+    "b_en": "B"
+  },
+  {
+    "q_zh": "一个钱包里有金额X。你和对手各自猜测一个金额，更接近X者获胜。已知X在0-100均匀随机。你会猜多少？",
+    "q_en": "A wallet contains amount X. You and an opponent each guess a number; closest to X wins. X is uniformly random between 0 and 100. What do you guess?",
+    "a_zh": "50",
+    "a_en": "50",
+    "b_zh": "33（或67）",
+    "b_en": "33 (or 67)"
+  },
+  {
+    "q_zh": "你们轮流从一堆15枚硬币中取走1-3枚，取走最后一枚者输。你先手，第一次会取几枚？",
+    "q_en": "Players take turns removing 1–3 coins from a pile of 15. The player who takes the last coin loses. You go first. How many do you remove?",
+    "a_zh": "1枚",
+    "a_en": "1 coin",
+    "b_zh": "2枚",
+    "b_en": "2 coins"
+  },
+  {
+    "q_zh": "你和对手同时亮出0-100间的一个整数。较小数者得分等于其亮出的数，但若两数相同则都得0。你会亮出几？",
+    "q_en": "You and an opponent simultaneously show an integer from 0 to 100. The player showing the smaller number scores points equal to their number, but if equal, both score 0. What number do you show?",
+    "a_zh": "99",
+    "a_en": "99",
+    "b_zh": "1",
+    "b_en": "1"
+  },
+  {
+    "q_zh": "三个箱子分别标有“苹果”、“橘子”、“混合”。所有标签都贴错了。你可以从一个箱子中取出一件水果查看，然后推断所有正确标签。你会从哪个箱子取？",
+    "q_en": "Three boxes are labeled \"Apples,\" \"Oranges,\" and \"Mixed.\" All labels are wrong. You may take one fruit from one box to see, then deduce all correct labels. Which box do you sample from?",
+    "a_zh": "标有“混合”的箱子",
+    "a_en": "The box labeled \"Mixed\"",
+    "b_zh": "标有“苹果”或“橘子”的箱子",
+    "b_en": "The box labeled \"Apples\" or \"Oranges\""
   }
 ]
