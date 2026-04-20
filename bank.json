@@ -5655,5 +5655,85 @@
     "a_en": "The box labeled \"Mixed\"",
     "b_zh": "标有“苹果”或“橘子”的箱子",
     "b_en": "The box labeled \"Apples\" or \"Oranges\""
+  },
+  {
+    "q_zh": "你与对手各持100元，你们同时决定是否向公共池投入50元。若双方都投入，则公共池总额变为150元，并平分给两人（各得75元）；若只有一方投入，则投入者损失50元，未投入者获得对方投入的50元；若都不投入，则保持原状。你会选择：",
+    "q_en": "You and an opponent each have $100. You simultaneously decide whether to contribute $50 to a common pool. If both contribute, the pool grows to $150 and is split equally ($75 each). If only one contributes, the contributor loses $50 and the non-contributor gains that $50. If neither contributes, both keep their $100. Your choice:",
+    "a_zh": "投入50元",
+    "a_en": "Contribute $50",
+    "b_zh": "不投入",
+    "b_en": "Do not contribute"
+  },
+  {
+    "q_zh": "你与对手轮流提出分100元蛋糕的方案。你先提议如何分配（如你X元，对手Y元），对手可接受或拒绝。若拒绝，蛋糕缩水至90元，由对手提议分配，你决定是否接受，以此类推（每轮缩水10元）。你的第一轮提议是：",
+    "q_en": "You and an opponent take turns proposing how to split a $100 cake. You propose first (e.g., you get $X, opponent gets $Y). If rejected, the cake shrinks to $90, and the opponent proposes how to split it, then you decide to accept or reject, and so on (shrinking $10 per round). Your first-round proposal is:",
+    "a_zh": "提议自己得99元，对手得1元",
+    "a_en": "Propose $99 for yourself, $1 for opponent",
+    "b_zh": "提议自己得60元，对手得40元",
+    "b_en": "Propose $60 for yourself, $40 for opponent"
+  },
+  {
+    "q_zh": "你与对手竞拍100元现金，出价高者获胜并支付其出价，但出价第二高者也需要支付其出价且一无所获。你预估对手会出价60元。你的出价是：",
+    "q_en": "You and an opponent bid for $100 cash. The highest bidder wins and pays their bid, but the second-highest bidder also pays their bid and gets nothing. You estimate the opponent will bid $60. Your bid:",
+    "a_zh": "出价61元",
+    "a_en": "Bid $61",
+    "b_zh": "出价0元（不参与）",
+    "b_en": "Bid $0 (do not participate)"
+  },
+  {
+    "q_zh": "你与对手玩三局两胜的剪刀石头布，当前比分1:1。最后一局前，你可以花费10元购买一个特权：在双方出手后，你有权要求重赛一次（仅限最后一局）。你会购买吗？",
+    "q_en": "You and an opponent play best-of-three rock-paper-scissors. The score is 1:1. Before the final round, you can pay $10 for a privilege: after both make moves, you may demand one rematch (only for the final round). Will you buy it?",
+    "a_zh": "花费10元购买特权",
+    "a_en": "Pay $10 for the privilege",
+    "b_zh": "不购买，直接进行最后一局",
+    "b_en": "Do not buy, proceed directly to the final round"
+  },
+  {
+    "q_zh": "你与对手各自在0-100间选一个整数，谁选的数最接近平均数的2/3谁获胜。你认为对手会随机选择。你的选择是：",
+    "q_en": "You and an opponent each choose an integer between 0 and 100. Whoever chooses the number closest to 2/3 of the average wins. You believe the opponent will choose randomly. Your choice:",
+    "a_zh": "选择33",
+    "a_en": "Choose 33",
+    "b_zh": "选择0",
+    "b_en": "Choose 0"
+  },
+  {
+    "q_zh": "你与对手被分开审讯。若都抵赖，各判1年；若都坦白，各判5年；若一人坦白一人抵赖，坦白者释放，抵赖者判10年。你确信对手会坦白。你会：",
+    "q_en": "You and an opponent are interrogated separately. If both deny, each gets 1 year. If both confess, each gets 5 years. If one confesses and the other denies, the confessor goes free, the denier gets 10 years. You are certain the opponent will confess. You will:",
+    "a_zh": "坦白",
+    "a_en": "Confess",
+    "b_zh": "抵赖",
+    "b_en": "Deny"
+  },
+  {
+    "q_zh": "你与对手进行多轮博弈，每轮可合作或背叛。累计收益高者胜。已知对手上一轮背叛了你。本轮你会：",
+    "q_en": "You and an opponent play multiple rounds, each round you can cooperate or betray. The one with higher total payoff wins. The opponent betrayed you in the last round. This round you will:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你有一个价值100元的秘密，对手想知道。你可以选择免费公开，或花费20元加密。若加密，对手可花费30元破解。若破解成功，对手获得秘密，你损失100元；若破解失败或对手不破解，你保留秘密。你会：",
+    "q_en": "You have a secret worth $100, and the opponent wants to know it. You can disclose it for free, or pay $20 to encrypt it. If encrypted, the opponent can pay $30 to crack it. If successful, the opponent gets the secret and you lose $100; if failed or the opponent does not crack, you keep the secret. You will:",
+    "a_zh": "花费20元加密",
+    "a_en": "Pay $20 to encrypt",
+    "b_zh": "免费公开",
+    "b_en": "Disclose for free"
+  },
+  {
+    "q_zh": "你与对手各有一个按钮。若只有一人按下，按下者得100元，对方得0；若两人都按下，各得10元；都不按，各得50元。你会：",
+    "q_en": "You and an opponent each have a button. If only one presses, the presser gets $100, the other gets $0. If both press, each gets $10. If neither presses, each gets $50. You will:",
+    "a_zh": "按下按钮",
+    "a_en": "Press the button",
+    "b_zh": "不按按钮",
+    "b_en": "Do not press"
+  },
+  {
+    "q_zh": "你与对手进行最后通牒博弈：你提议如何分100元，对手只能接受或拒绝。若拒绝，双方都得0。你认为对手极度厌恶不公平。你的提议是：",
+    "q_en": "You and an opponent play the ultimatum game: you propose how to split $100, the opponent can only accept or reject. If rejected, both get $0. You believe the opponent strongly dislikes unfairness. Your proposal:",
+    "a_zh": "提议自己得90元，对手得10元",
+    "a_en": "Propose $90 for yourself, $10 for opponent",
+    "b_zh": "提议自己得60元，对手得40元",
+    "b_en": "Propose $60 for yourself, $40 for opponent"
   }
 ]
