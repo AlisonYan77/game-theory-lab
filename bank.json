@@ -5735,5 +5735,85 @@
     "a_en": "Propose $90 for yourself, $10 for opponent",
     "b_zh": "提议自己得60元，对手得40元",
     "b_en": "Propose $60 for yourself, $40 for opponent"
+  },
+  {
+    "q_zh": "你与对手各自秘密写下1-10中的一个数字，数字大者获胜，但若双方数字相同则都输。你会写几？",
+    "q_en": "You and your opponent secretly choose a number from 1 to 10. The higher number wins, but if both choose the same, both lose. What number do you choose?",
+    "a_zh": "写10（追求绝对优势）",
+    "a_en": "Choose 10 (pursue absolute advantage)",
+    "b_zh": "写9（避免平局风险）",
+    "b_en": "Choose 9 (avoid the risk of a tie)"
+  },
+  {
+    "q_zh": "两人分100元，由你提议分配比例，对方接受则按此分配，拒绝则两人都得0元。你会提议自己拿多少？",
+    "q_en": "Two people split $100. You propose a division. If accepted, it's implemented; if rejected, both get $0. How much do you propose for yourself?",
+    "a_zh": "自己拿99元，给对方1元",
+    "a_en": "Take $99, offer $1",
+    "b_zh": "自己拿60元，给对方40元",
+    "b_en": "Take $60, offer $40"
+  },
+  {
+    "q_zh": "囚徒困境中，若已知对方有80%概率合作，你会如何选择？",
+    "q_en": "In a prisoner's dilemma, if you know the other has an 80% chance to cooperate, what do you do?",
+    "a_zh": "合作（赌对方合作）",
+    "a_en": "Cooperate (bet on their cooperation)",
+    "b_zh": "背叛（确保自身利益）",
+    "b_en": "Defect (secure your own interest)"
+  },
+  {
+    "q_zh": "拍卖一张20元纸币，出价最高者按出价支付并获得纸币，但出价第二高者也需支付其出价且一无所获。你已出价15元，对手出价18元，你会？",
+    "q_en": "A $20 bill is auctioned. The highest bidder pays their bid and gets the bill, but the second-highest also pays their bid and gets nothing. You bid $15, opponent bids $18. Do you:",
+    "a_zh": "加价到19元",
+    "a_en": "Raise to $19",
+    "b_zh": "放弃出价",
+    "b_en": "Give up bidding"
+  },
+  {
+    "q_zh": "猜拳游戏（石头剪刀布）连续三局，第一局你出石头输了，第二局你会出什么？",
+    "q_en": "In a best-of-three rock-paper-scissors, you lost the first round with rock. What do you play in the second round?",
+    "a_zh": "出剪刀（假设对方认为你会变）",
+    "a_en": "Scissors (assuming they think you'll change)",
+    "b_zh": "出布（反制对方可能出的剪刀）",
+    "b_en": "Paper (counter their likely scissors)"
+  },
+  {
+    "q_zh": "一场投票中，你的首选是A方案，但A几乎无望获胜。B和C方案中，你更倾向B，但C是多数人的第二选择。你会投给？",
+    "q_en": "In a vote, your top choice is A, but it has no chance. Between B and C, you prefer B, but C is the second choice for most. You vote for:",
+    "a_zh": "B（忠于偏好）",
+    "a_en": "B (stay true to preference)",
+    "b_zh": "C（影响最终结果）",
+    "b_en": "C (influence the final outcome)"
+  },
+  {
+    "q_zh": "两人轮流从一堆20枚硬币中取走1-3枚，取走最后一枚者输。你先手，第一次会取几枚？",
+    "q_en": "Two players take turns taking 1-3 coins from a pile of 20. Whoever takes the last coin loses. You go first. How many do you take?",
+    "a_zh": "取1枚（谨慎开局）",
+    "a_en": "Take 1 (cautious start)",
+    "b_zh": "取3枚（激进控制）",
+    "b_en": "Take 3 (aggressive control)"
+  },
+  {
+    "q_zh": "投资游戏中，你可以将部分资金投入一个公共池，池中总额翻倍后平均返还给所有玩家。你会投入多少比例的资金？",
+    "q_en": "In an investment game, you can put some money into a public pot. The total is doubled and split equally among all players. What percentage of your funds do you invest?",
+    "a_zh": "投入100%（信任合作）",
+    "a_en": "Invest 100% (trust cooperation)",
+    "b_zh": "投入50%（平衡风险）",
+    "b_en": "Invest 50% (balance risk)"
+  },
+  {
+    "q_zh": "一场比赛中，你暂列第二，终点前有一个捷径但违规概率30%，若被抓则名次垫底。你会选择？",
+    "q_en": "You're in second place near the finish. A shortcut has a 30% chance of being caught (resulting in last place). Do you:",
+    "a_zh": "走捷径（搏一把夺冠）",
+    "a_en": "Take the shortcut (gamble for first)",
+    "b_zh": "保持原路（保住第二名）",
+    "b_en": "Stay on course (secure second place)"
+  },
+  {
+    "q_zh": "你需要从两个陌生人中选一人平分100元，对方在得知你选择后也可决定是否接受。你会选择谁？",
+    "q_en": "You choose one of two strangers to split $100 with. After learning your choice, they can accept or reject (both get $0). Whom do you choose?",
+    "a_zh": "选择表情友善的人",
+    "a_en": "The person with a friendly expression",
+    "b_zh": "随机选择一人",
+    "b_en": "Choose randomly"
   }
 ]
