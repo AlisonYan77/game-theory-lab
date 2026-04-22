@@ -5815,5 +5815,85 @@
     "a_en": "The person with a friendly expression",
     "b_zh": "随机选择一人",
     "b_en": "Choose randomly"
+  },
+  {
+    "q_zh": "你与对手各自拥有100枚金币。你们需要同时决定是否向公共池投入金币，投入的金币会翻倍后平分给两人。你会选择：",
+    "q_en": "You and your opponent each have 100 gold coins. You must simultaneously decide whether to contribute coins to a public pool. Contributed coins are doubled and then split equally between both players. You choose to:",
+    "a_zh": "投入50枚金币",
+    "a_en": "Contribute 50 coins",
+    "b_zh": "不投入任何金币",
+    "b_en": "Contribute 0 coins"
+  },
+  {
+    "q_zh": "在一场拍卖中，你和对手竞拍一张价值100元的钞票。出价最高者赢得钞票，但两位竞拍者都需要支付自己的出价。你的策略是：",
+    "q_en": "In an auction, you and your opponent bid for a $100 bill. The highest bidder wins the bill, but both bidders must pay their bid. Your strategy is:",
+    "a_zh": "出价60元",
+    "a_en": "Bid $60",
+    "b_zh": "出价20元",
+    "b_en": "Bid $20"
+  },
+  {
+    "q_zh": "你和对手轮流从一堆10枚金币中取走1-3枚。取走最后一枚金币的人获胜。你先手，你会取走：",
+    "q_en": "You and your opponent take turns removing 1-3 gold coins from a pile of 10. The player who takes the last coin wins. You go first. You remove:",
+    "a_zh": "1枚金币",
+    "a_en": "1 coin",
+    "b_zh": "2枚金币",
+    "b_en": "2 coins"
+  },
+  {
+    "q_zh": "你和对手需要同时选择“合作”或“背叛”。若都合作，各得3分；都背叛，各得1分；若一方合作一方背叛，背叛者得5分，合作者得0分。你会选择：",
+    "q_en": "You and your opponent simultaneously choose 'Cooperate' or 'Betray'. If both cooperate, each gets 3 points. If both betray, each gets 1 point. If one cooperates and one betrays, the betrayer gets 5 points, the cooperator gets 0. You choose:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你有一份秘密情报，对手不知道你是否拥有它。你可以选择“公开”或“隐藏”。若你公开而对手没有，你获得优势；若对手也有并公开，则平局；若你隐藏而对手公开，你处于劣势。你会：",
+    "q_en": "You have a secret piece of intelligence that your opponent doesn't know you have. You can choose to 'Reveal' or 'Conceal' it. If you reveal and your opponent doesn't, you gain an advantage. If both reveal, it's a draw. If you conceal and your opponent reveals, you are at a disadvantage. You decide to:",
+    "a_zh": "公开情报",
+    "a_en": "Reveal",
+    "b_zh": "隐藏情报",
+    "b_en": "Conceal"
+  },
+  {
+    "q_zh": "你和对手分10枚金币。对手先提出分配方案（如“我7你3”），你可以接受或拒绝。若拒绝，双方都得不到金币。对手提出“他8你2”。你会：",
+    "q_en": "You and your opponent split 10 gold coins. The opponent proposes a split first (e.g., '7 for me, 3 for you'). You can accept or reject. If rejected, both get nothing. The opponent proposes '8 for me, 2 for you'. You:",
+    "a_zh": "接受",
+    "a_en": "Accept",
+    "b_zh": "拒绝",
+    "b_en": "Reject"
+  },
+  {
+    "q_zh": "你与对手玩三局两胜的游戏。每局胜者得1分。目前比分1:1。最后一局，你可以选择“高风险高回报”策略（胜率40%，赢则得2分）或“稳健”策略（胜率60%，赢则得1分）。你选择：",
+    "q_en": "You and your opponent play a best-of-three game. Each round winner gets 1 point. The score is 1:1. In the final round, you can choose a 'High-risk, high-reward' strategy (40% win chance, but win gives 2 points) or a 'Steady' strategy (60% win chance, win gives 1 point). You choose:",
+    "a_zh": "高风险高回报",
+    "a_en": "High-risk, high-reward",
+    "b_zh": "稳健策略",
+    "b_en": "Steady strategy"
+  },
+  {
+    "q_zh": "你和对手各自在0-100之间选一个整数。谁选的数最接近对方所选数的2/3，谁获胜。你会选择：",
+    "q_en": "You and your opponent each choose an integer between 0 and 100. Whoever chooses the number closest to 2/3 of the opponent's number wins. You choose:",
+    "a_zh": "33",
+    "a_en": "33",
+    "b_zh": "22",
+    "b_en": "22"
+  },
+  {
+    "q_zh": "你和对手被困在同一个房间，面前有两个按钮。如果只有一人按下红色按钮，按的人得5分，另一人得0分；如果两人都按红色，各扣2分；如果都不按红色，各得2分。蓝色按钮始终安全（各得1分）。你会按：",
+    "q_en": "You and your opponent are trapped in a room with two buttons. If only one presses the red button, that person gets 5 points, the other gets 0. If both press red, each loses 2 points. If neither presses red, each gets 2 points. The blue button is always safe (each gets 1 point). You press:",
+    "a_zh": "红色按钮",
+    "a_en": "Red button",
+    "b_zh": "蓝色按钮",
+    "b_en": "Blue button"
+  },
+  {
+    "q_zh": "你与对手进行多轮信任游戏。每轮你可以选择“信任”对方，若对方也“信任”，双方各得3分；若你“信任”而对方“背叛”，你得0分，对方得5分；若你“背叛”，无论对方如何，你得1分。第一轮你会：",
+    "q_en": "You and your opponent play multiple rounds of a trust game. Each round, you can choose to 'Trust' the opponent. If both trust, each gets 3 points. If you trust and the opponent 'Betrays', you get 0, they get 5. If you 'Betray', you get 1 point regardless of the opponent's choice. In the first round, you:",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "背叛",
+    "b_en": "Betray"
   }
 ]
