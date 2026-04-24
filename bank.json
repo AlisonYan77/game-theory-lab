@@ -5975,5 +5975,85 @@
     "a_en": "Switch (winning probability becomes 2/3)",
     "b_zh": "不换（两门概率都是1/2，换不换一样）",
     "b_en": "Do not switch (both doors have 1/2 probability, no difference)"
+  },
+  {
+    "q_zh": "你发现你的对手总是选择合作。为了最大化你的长期收益，你会如何选择？",
+    "q_en": "You notice your opponent always chooses to cooperate. To maximize your long-term gains, what do you do?",
+    "a_zh": "一直背叛，利用他的善意榨取最大利益",
+    "a_en": "Always betray to exploit his goodwill for maximum profit",
+    "b_zh": "偶尔合作，维持他的信任并偶尔背叛",
+    "b_en": "Occasionally cooperate to maintain his trust and betray sometimes"
+  },
+  {
+    "q_zh": "在一场重复博弈中，你连续三次背叛后，对手选择了永久报复（永远背叛）。你该怎么做？",
+    "q_en": "In a repeated game, after you betray three times in a row, your opponent chooses permanent retaliation (always defect). What should you do?",
+    "a_zh": "开始单方面合作，试图用善意感化他",
+    "a_en": "Start unilaterally cooperating to try to win him over with goodwill",
+    "b_zh": "转换策略为‘以牙还牙’，从此刻开始模仿他的每一步",
+    "b_en": "Switch to 'tit-for-tat', imitating his every move from now on"
+  },
+  {
+    "q_zh": "对手在上一轮背叛了你，但这一轮他选择了合作。你怀疑他在测试你的反应。最佳选择是？",
+    "q_en": "Your opponent betrayed you last round but chose to cooperate this round. You suspect he's testing your reaction. The best choice is?",
+    "a_zh": "立即合作，奖励他的回归善意，鼓励稳定合作",
+    "a_en": "Cooperate immediately to reward his return to goodwill and encourage stable cooperation",
+    "b_zh": "再次背叛，让他知道他无法通过短暂示好操纵你",
+    "b_en": "Betray again to show him he can't manipulate you with brief kindness"
+  },
+  {
+    "q_zh": "你与一个理性且信息完全的对手进行单次囚徒困境博弈。你的最优策略是？",
+    "q_en": "You are in a one-shot prisoner's dilemma with a rational, perfectly informed opponent. Your optimal strategy is?",
+    "a_zh": "合作，因为这样能获得道德上的优势",
+    "a_en": "Cooperate, because it gives a moral advantage",
+    "b_zh": "背叛，因为这是占优策略，无论对方怎么选",
+    "b_en": "Defect, because it's the dominant strategy regardless of the opponent's choice"
+  },
+  {
+    "q_zh": "在一场漫长的博弈中，你的对手采用‘宽容的以牙还牙’（有时原谅一次背叛）。你如何利用这一点？",
+    "q_en": "In a long game, your opponent uses 'forgiving tit-for-tat' (sometimes forgives one betrayal). How do you exploit this?",
+    "a_zh": "每隔几轮背叛一次，试探他的宽容底线",
+    "a_en": "Betray every few rounds to test the limits of his forgiveness",
+    "b_zh": "完全合作，因为任何背叛都有可能触发他的报复链",
+    "b_en": "Cooperate fully, because any betrayal could trigger his retaliation chain"
+  },
+  {
+    "q_zh": "如果你的对手是随机策略（50%合作/50%背叛），你的最佳回应是？",
+    "q_en": "If your opponent uses a random strategy (50% cooperate / 50% defect), your best response is?",
+    "a_zh": "始终背叛，因为随机对手无法被诱导或惩罚",
+    "a_en": "Always defect, because a random opponent cannot be induced or punished",
+    "b_zh": "始终合作，期待偶尔的随机合作带来收益",
+    "b_en": "Always cooperate, hoping for occasional random cooperation payoffs"
+  },
+  {
+    "q_zh": "你在一场多人锦标赛中，其他人都采用‘以牙还牙’。你想赢得总积分第一名，应该怎么做？",
+    "q_en": "You are in a multi-player tournament where everyone else uses 'tit-for-tat'. To win first place overall, you should?",
+    "a_zh": "完全复制他们的策略，保持高度同步",
+    "a_en": "Copy their strategy exactly to maintain high synchronization",
+    "b_zh": "早期频繁背叛，然后转为合作，积累初期优势",
+    "b_en": "Betray frequently early, then switch to cooperation to build early advantage"
+  },
+  {
+    "q_zh": "对手宣称‘如果你合作，我就合作’，但他在上一轮骗了你。这轮你该相信他吗？",
+    "q_en": "Your opponent claims 'if you cooperate, I will cooperate', but he deceived you last round. Should you believe him this round?",
+    "a_zh": "不信，继续背叛直到他用实际行动证明诚意",
+    "a_en": "Don't believe him, keep defecting until he proves sincerity with actions",
+    "b_zh": "信一次，给他一个改正的机会，但准备好立即回应背叛",
+    "b_en": "Trust once, give him a chance to reform, but be ready to respond immediately to betrayal"
+  },
+  {
+    "q_zh": "在博弈中，沉默的态度（不说任何威胁或承诺）对你的对手有何影响？",
+    "q_en": "In a game, how does a silent attitude (no threats or promises) affect your opponent?",
+    "a_zh": "会让对手困惑，增加他犯错误的概率",
+    "a_en": "It confuses the opponent, increasing the chance he makes a mistake",
+    "b_zh": "会让对手认为你软弱或不可预测，可能促使他采取冒险策略",
+    "b_en": "It makes the opponent think you are weak or unpredictable, possibly prompting risky moves"
+  },
+  {
+    "q_zh": "你得到一条可靠内部消息：你的对手将在最后一轮背叛你。倒数第二轮你该怎么做？",
+    "q_en": "You get reliable inside info that your opponent will betray you in the final round. What do you do in the second-to-last round?",
+    "a_zh": "在最后一轮之前先背叛他，抢先获得单次优势",
+    "a_en": "Betray him before the final round to gain a one-time advantage",
+    "b_zh": "仍然合作，试图在最后时刻改变他的决定或至少留下善意",
+    "b_en": "Still cooperate, trying to change his mind at the last moment or at least leave goodwill"
   }
 ]
