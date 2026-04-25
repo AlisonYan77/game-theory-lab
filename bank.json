@@ -6055,5 +6055,85 @@
     "a_en": "Betray him before the final round to gain a one-time advantage",
     "b_zh": "仍然合作，试图在最后时刻改变他的决定或至少留下善意",
     "b_en": "Still cooperate, trying to change his mind at the last moment or at least leave goodwill"
+  },
+  {
+    "q_zh": "在一个即将结束的博弈游戏中，你发现对手一直在模仿你的选择。下一轮，你会：",
+    "q_en": "In a game nearing its end, you notice your opponent has been mirroring your choices. Next round, you will:",
+    "a_zh": "选择合作，试图引导双方共赢",
+    "a_en": "Choose cooperate, attempting to guide mutual benefit",
+    "b_zh": "选择背叛，利用对手的惯性获取最大利益",
+    "b_en": "Choose defect, exploiting your opponent's habit for maximum gain"
+  },
+  {
+    "q_zh": "你和对手进行一个多回合囚徒困境，对方在上回合选择了背叛。这轮你会：",
+    "q_en": "In a multi-round Prisoner's Dilemma, your opponent defected last round. This round you will:",
+    "a_zh": "继续信任，背叛一次可能是误会",
+    "a_en": "Keep trusting—one defection might be a misunderstanding",
+    "b_zh": "以背叛回应背叛，让对方付出代价",
+    "b_en": "Retaliate with defection, making them pay a price"
+  },
+  {
+    "q_zh": "在博弈中，你的对手明显情绪激动且非理性。你的最优策略是：",
+    "q_en": "In a game, your opponent is clearly emotional and irrational. Your optimal strategy is to:",
+    "a_zh": "保持冷静，用理性策略稳定局势并等待对方犯错",
+    "a_en": "Stay calm, use rational strategies to stabilize the situation and wait for their mistake",
+    "b_zh": "利用对方的情绪，故意挑衅使其彻底失控",
+    "b_en": "Exploit their emotions, deliberately provoke them into total loss of control"
+  },
+  {
+    "q_zh": "一场博弈中，你怀疑对手在通过小动作传递虚假信息。你应该：",
+    "q_en": "In a game, you suspect your opponent is sending false signals through subtle moves. You should:",
+    "a_zh": "忽略对方信号，完全基于自己的逻辑决策",
+    "a_en": "Ignore their signals, make decisions purely based on your own logic",
+    "b_zh": "反向解读对方信号，将计就计误导对手",
+    "b_en": "Interpret signals inversely, using their own trick against them"
+  },
+  {
+    "q_zh": "你和对手势均力敌，但对方突然提出一次性‘和平协议’。你会：",
+    "q_en": "You and your opponent are evenly matched, but they suddenly propose a one-time 'peace pact.' You will:",
+    "a_zh": "接受协议，建立互信可以开启长期合作",
+    "a_en": "Accept the pact—building trust can open the door to long-term cooperation",
+    "b_zh": "拒绝协议，这很可能是对方设下的陷阱",
+    "b_en": "Reject the pact—it's likely a trap set by them"
+  },
+  {
+    "q_zh": "博弈进行到一半，你发现对手总是慢半拍做决策，这给你提供了：",
+    "q_en": "Halfway through the game, you notice your opponent always decides a beat late. This gives you:",
+    "a_zh": "耐心等待的契机，利用对方犹豫来观察其意图",
+    "a_en": "An opportunity to wait patiently, using their hesitation to observe their intentions",
+    "b_zh": "快速进攻的优势，在对方反应之前扩大胜机",
+    "b_en": "An advantage for quick strikes, expanding your lead before they react"
+  },
+  {
+    "q_zh": "在零和博弈中，对方表现出明显的‘输赢都无所谓’态度。你会：",
+    "q_en": "In a zero-sum game, your opponent clearly displays an 'I don't care about winning or losing' attitude. You will:",
+    "a_zh": "试探性进攻，因为对方可能是在伪装",
+    "a_en": "Probe with an attack, as they might be bluffing",
+    "b_zh": "加大赌注，利用对方的漠然心态榨取最大利益",
+    "b_en": "Raise the stakes, exploiting their indifference to extract maximum gain"
+  },
+  {
+    "q_zh": "你和对手第一次进行博弈，没有历史记录。你会如何开局？",
+    "q_en": "This is your first game against this opponent, with no history. How will you start?",
+    "a_zh": "选择合作，树立一个良性的第一印象",
+    "a_en": "Choose cooperate, setting a positive first impression",
+    "b_zh": "选择背叛，抢得先手并试探对方反应",
+    "b_en": "Choose defect, seize the initiative and probe their response"
+  },
+  {
+    "q_zh": "博弈中对方突然转变策略，从激进变为保守。你的心理判断是：",
+    "q_en": "In the game, your opponent suddenly shifts from aggressive to conservative. Your psychological assessment is:",
+    "a_zh": "对方在示弱，实际可能在酝酿反击",
+    "a_en": "They are feigning weakness, likely planning a counterattack",
+    "b_zh": "对方心态崩溃，这是乘胜追击的最佳时机",
+    "b_en": "They have a mental breakdown—this is the best time to press the attack"
+  },
+  {
+    "q_zh": "你与对手进行了多轮合作，双方收益稳定。这时你发现可以单方面占一次便宜而不被报复的可能性。你会：",
+    "q_en": "You and your opponent have cooperated for many rounds with stable gains. You now see a chance to cheat once without retaliation. You will:",
+    "a_zh": "放弃这次便宜，维护长期的信任与合作",
+    "a_en": "Forgo the one-time gain to preserve long-term trust and cooperation",
+    "b_zh": "抓住机会占一次便宜，因为博弈不会永远持续",
+    "b_en": "Seize the opportunity, as the game won't last forever"
   }
 ]
