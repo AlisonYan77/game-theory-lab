@@ -6135,5 +6135,85 @@
     "a_en": "Forgo the one-time gain to preserve long-term trust and cooperation",
     "b_zh": "抓住机会占一次便宜，因为博弈不会永远持续",
     "b_en": "Seize the opportunity, as the game won't last forever"
+  },
+  {
+    "q_zh": "你进入一个合作与背叛的博弈游戏。如果双方都合作，各得3分；如果一方背叛一方合作，背叛者得5分，合作者得0分；如果双方都背叛，各得1分。你的对手是一个理性人，且你们只有一次互动。你会选择？",
+    "q_en": "You enter a cooperation vs. betrayal game. If both cooperate, each gets 3 points. If one betrays and the other cooperates, the betrayer gets 5, the cooperator gets 0. If both betray, each gets 1 point. Your opponent is rational, and you only interact once. What do you choose?",
+    "a_zh": "合作（相信对手也会合作，追求最优共赢得3分）",
+    "a_en": "Cooperate (trust opponent to cooperate too, aiming for mutual best outcome of 3 points)",
+    "b_zh": "背叛（先发制人，确保至少得1分，并有机会获得5分）",
+    "b_en": "Betray (preempt to guarantee at least 1 point, with a chance to get 5)"
+  },
+  {
+    "q_zh": "假设你参加一个拍卖，奖品价值100元。你和另一个玩家竞拍，出价最高者得奖并支付其出价，但出价最低者也要支付其出价却什么也得不到（全支付拍卖）。你推测对手会出价80元，你应该？",
+    "q_en": "In an all-pay auction, the prize is worth $100. You and another player bid; the highest bidder wins and pays their bid, but the loser also pays their bid and gets nothing. You estimate your opponent will bid $80. What do you do?",
+    "a_zh": "出价81元（确保获胜，净赚19元）",
+    "a_en": "Bid $81 (secure win, net profit $19)",
+    "b_zh": "出价0元（避免损失，但放弃竞争）",
+    "b_en": "Bid $0 (avoid loss, but forfeit competition)"
+  },
+  {
+    "q_zh": "你参加一个‘信任博弈’实验。你决定将10元中的多少元给伙伴，伙伴收到后会自动翻倍，然后伙伴可以自愿返还给你一部分。如果你认为伙伴是自私的理性人，你会？",
+    "q_en": "In a trust game, you decide how much of $10 to send to a partner. The amount is tripled (in this version: doubled for clarity) upon receipt, then the partner can voluntarily return some. If you believe your partner is a selfish rational actor, what do you do?",
+    "a_zh": "给0元（防止被背叛，保留全部10元）",
+    "a_en": "Send $0 (prevent betrayal, keep all $10)",
+    "b_zh": "给10元（期望翻倍后得到回报，但冒险）",
+    "b_en": "Send $10 (hope for doubled return, but take the risk)"
+  },
+  {
+    "q_zh": "你是‘海盗分金币’游戏中的最年轻海盗。四个海盗（包括你）分100枚金币，提议需超过半数（包括自己）同意。如果提议被拒，提议者会被杀死，下一人继续。你知道最年长的海盗会提出最利于自己的方案，但你仍可投票拒绝。你会？",
+    "q_en": "You are the youngest pirate in a pirate gold division game. Four pirates (including you) split 100 gold coins. A proposal needs majority approval (including proposer), or the proposer dies and the next proceeds. You know the oldest will propose a self-serving plan, but you can still vote no. You should:",
+    "a_zh": "同意任何给自己至少1枚金币的方案（避免死亡风险，并至少获得一点）",
+    "a_en": "Accept any proposal that gives you at least 1 coin (avoid death risk and gain something)",
+    "b_zh": "不管给多少都拒绝（试图让提案者死亡，争取在后续轮次获得更多）",
+    "b_en": "Reject regardless (try to kill the proposer to get more in later rounds)"
+  },
+  {
+    "q_zh": "在一个‘威慑博弈’中，你是一个小国，邻国大国要求你割让领土。如果你抵抗，双方都会陷入战争，损失惨重；如果屈服，你损失领土但避免战争。你相信大国会测试你的决心，你应该？",
+    "q_en": "In a deterrence game, you are a small country. A big neighboring country demands your territory. If you resist, both suffer war with heavy losses; if you yield, you lose territory but avoid war. You believe the big country will test your resolve. You should:",
+    "a_zh": "宣布坚决抵抗，并展示军事准备（提高威慑可信度）",
+    "a_en": "Declare firm resistance and show military readiness (increase deterrence credibility)",
+    "b_zh": "谈判让步，避免冲突（选择稳定但丧失部分利益）",
+    "b_en": "Negotiate and concede to avoid conflict (choose stability but lose some interests)"
+  },
+  {
+    "q_zh": "你参与‘选美比赛’博弈：在0到100之间选一个数字，最接近所有参赛者平均数的1/2的人获胜。所有参赛者都是理性且知道规则。你应该选？",
+    "q_en": "In a beauty contest game, pick a number from 0 to 100. The winner is closest to half of the average of all picks. All players are rational and know the rules. What number do you pick?",
+    "a_zh": "0（通过无限递归推理，最终收敛到0）",
+    "a_en": "0 (through infinite recursive reasoning, converges to 0)",
+    "b_zh": "25（假设大家随机分布，平均约50，一半是25）",
+    "b_en": "25 (assuming random distribution, average ~50, half is 25)"
+  },
+  {
+    "q_zh": "你和朋友玩‘懦夫博弈’：两人开车对撞，谁先转向谁是‘懦夫’，都不转向则两败俱伤。你朋友装作疯狂，扔出方向盘，让你看到。这时你应该？",
+    "q_en": "In a chicken game, you and a friend drive toward each other. The first to swerve is ‘chicken’; if neither swerves, both crash. Your friend acts crazy and throws out the steering wheel, showing you. What do you do?",
+    "a_zh": "坚信他在虚张声势，继续直行（逼迫他转向）",
+    "a_en": "Believe he is bluffing, keep going straight (force him to swerve)",
+    "b_zh": "立刻转向，避免相撞（承认失败但保住安全）",
+    "b_en": "Swerve immediately to avoid crash (admit defeat but stay safe)"
+  },
+  {
+    "q_zh": "在‘独裁者博弈’中，你被分配100元，你可以决定给自己和另一个匿名伙伴如何分配。伙伴无法报复，游戏只有一次。一个自私的理性人会选择？",
+    "q_en": "In a dictator game, you are given $100 to split between yourself and an anonymous partner. The partner cannot retaliate, and the game is one-shot. A selfish rational person would:",
+    "a_zh": "全拿100元，给对方0元（最大化私利）",
+    "a_en": "Keep all $100, give $0 to partner (maximize self-interest)",
+    "b_zh": "平分，各50元（出于公平感，但非理性）",
+    "b_en": "Split evenly, $50 each (out of fairness, but not rational)"
+  },
+  {
+    "q_zh": "重复囚徒困境中，你和对手将进行无限次互动。你们目前一直相互合作，但如果你想通过一次性背叛获得更多，你将面临未来对方可能永远背叛的风险。最佳长期策略是什么？",
+    "q_en": "In an iterated prisoner's dilemma with infinite interactions, you and your opponent have been cooperating. If you betray once for a higher gain, you risk perpetual retaliation. The best long-term strategy is:",
+    "a_zh": "继续合作（采用‘以牙还牙’策略，首先合作，随后模仿对方上次行动）",
+    "a_en": "Keep cooperating (adopt Tit-for-Tat: cooperate first, then mirror opponent's last move)",
+    "b_zh": "立刻背叛（一次性利益最大化，之后观察对方反应）",
+    "b_en": "Betray now (maximize one-time gain, then react to opponent's response)"
+  },
+  {
+    "q_zh": "在‘最后通牒博弈’中，你作为提议者，有100元需要分给另一个玩家。如果对方拒绝你的方案，双方都得不到钱。你知道对方是理性人，但实验显示多数人会拒绝不公平的分配。你会提出？",
+    "q_en": "In an ultimatum game, as the proposer, you have $100 to split with another player. If they reject your offer, both get nothing. You know the other is rational, but experiments show most reject unfair splits. What do you offer?",
+    "a_zh": "给自己99元，给对方1元（理论上对方应该接受，但风险高）",
+    "a_en": "Give yourself $99, partner $1 (theoretically they should accept, but high risk)",
+    "b_zh": "给自己50元，给对方50元（公平分配，几乎肯定被接受）",
+    "b_en": "Give yourself $50, partner $50 (fair split, almost certainly accepted)"
   }
 ]
