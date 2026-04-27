@@ -6215,5 +6215,85 @@
     "a_en": "Give yourself $99, partner $1 (theoretically they should accept, but high risk)",
     "b_zh": "给自己50元，给对方50元（公平分配，几乎肯定被接受）",
     "b_en": "Give yourself $50, partner $50 (fair split, almost certainly accepted)"
+  },
+  {
+    "q_zh": "在囚徒困境中，如果你知道对方会无条件合作，你会选择：",
+    "q_en": "In the Prisoner's Dilemma, if you know the other will unconditionally cooperate, you would choose:",
+    "a_zh": "背叛（获得最大个人利益）",
+    "a_en": "Defect (gain maximum personal payoff)",
+    "b_zh": "合作（维持共同利益）",
+    "b_en": "Cooperate (maintain mutual benefit)"
+  },
+  {
+    "q_zh": "在重复博弈中，对手上次背叛了你，这次你倾向于：",
+    "q_en": "In a repeated game, if your opponent defected last round, you tend to:",
+    "a_zh": "以牙还牙，立刻背叛",
+    "a_en": "Tit-for-tat, defect immediately",
+    "b_zh": "大度宽恕，继续合作",
+    "b_en": "Generously forgive, keep cooperating"
+  },
+  {
+    "q_zh": "在拍卖竞价博弈中，你的理性出价策略是：",
+    "q_en": "In an auction bidding game, your rational bidding strategy is:",
+    "a_zh": "出价略低于真实估值以防赢家诅咒",
+    "a_en": "Bid slightly below true value to avoid winner's curse",
+    "b_zh": "出价与真实估值完全一致",
+    "b_en": "Bid exactly at true value"
+  },
+  {
+    "q_zh": "在公共物品博弈中，当其他人都在搭便车时，你会：",
+    "q_en": "In a public goods game, when others are free-riding, you would:",
+    "a_zh": "停止贡献以惩罚搭便车者",
+    "a_en": "Stop contributing to punish free-riders",
+    "b_zh": "继续贡献以维持公共物品",
+    "b_en": "Keep contributing to maintain the public good"
+  },
+  {
+    "q_zh": "在谈判博弈中，对方率先提出一个极端不公平方案，你最好的回应是：",
+    "q_en": "In a negotiation game, the other party proposes an extremely unfair offer first. Your best response is:",
+    "a_zh": "拒绝并威胁退出，迫使对方让步",
+    "a_en": "Reject and threaten to walk away, forcing concession",
+    "b_zh": "接受部分条件并温和还价",
+    "b_en": "Accept some terms and counter-offer gently"
+  },
+  {
+    "q_zh": "在零和博弈中，对手明显有更强的资源，你的最优策略是：",
+    "q_en": "In a zero-sum game, your opponent clearly has superior resources. Your optimal strategy is:",
+    "a_zh": "随机化行动，让对方无法预测",
+    "a_en": "Randomize actions to keep opponent unpredictable",
+    "b_zh": "正面硬拼，争取一线胜机",
+    "b_en": "Fight head-on for a sliver of chance"
+  },
+  {
+    "q_zh": "在信任博弈中，你是受托人收到双倍资金，你会返还：",
+    "q_en": "In a trust game, as the trustee receiving doubled funds, you would return:",
+    "a_zh": "接近一半以维持长期信任",
+    "a_en": "Close to half to maintain long-term trust",
+    "b_zh": "尽可能少以最大化当前收益",
+    "b_en": "As little as possible to maximize immediate gain"
+  },
+  {
+    "q_zh": "在胆小鬼博弈中，双方相向而行，你为了不输会：",
+    "q_en": "In a Chicken game, both are driving toward each other. To avoid losing, you would:",
+    "a_zh": "假装疯狂，让对方相信你绝不转向",
+    "a_en": "Pretend to be crazy, convincing the opponent you will never swerve",
+    "b_zh": "在最后一刻转向以保全双方",
+    "b_en": "Swerve at the last moment to save both"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，对方给你极低的分成，你会：",
+    "q_en": "In an Ultimatum game, you receive a very low split. You would:",
+    "a_zh": "拒绝，宁可双方都不得利也要惩罚不公",
+    "a_en": "Reject, preferring mutual loss to punish unfairness",
+    "b_zh": "接受，因为总比什么都没有强",
+    "b_en": "Accept, because something is better than nothing"
+  },
+  {
+    "q_zh": "在协同博弈中，你怀疑对方可能误解了目标，你会：",
+    "q_en": "In a coordination game, you suspect the other party may have misunderstood the goal. You would:",
+    "a_zh": "发送明确信号并重复强调共同焦点",
+    "a_en": "Send a clear signal and repeatedly emphasize a common focus",
+    "b_zh": "按自己的理解行事，期待对方也如此",
+    "b_en": "Act according to your own understanding, expecting the other to do the same"
   }
 ]
