@@ -6295,5 +6295,85 @@
     "a_en": "Send a clear signal and repeatedly emphasize a common focus",
     "b_zh": "按自己的理解行事，期待对方也如此",
     "b_en": "Act according to your own understanding, expecting the other to do the same"
+  },
+  {
+    "q_zh": "在一次性囚徒困境中，对手声称将选择“合作”，你作为理性人，会选择？",
+    "q_en": "In a one-shot Prisoner's Dilemma, your opponent claims they will 'cooperate.' As a rational player, do you?",
+    "a_zh": "背叛：因为背叛是占优策略，无论对方是否守信。",
+    "a_en": "Defect: because defection is the dominant strategy regardless of their honesty.",
+    "b_zh": "合作：因为相信对方的承诺可能带来双赢。",
+    "b_en": "Cooperate: because trusting their promise may lead to mutual gain."
+  },
+  {
+    "q_zh": "在重复博弈中，为了建立长期合作信誉，你会如何对待首次背叛你的对手？",
+    "q_en": "In a repeated game, how do you respond to an opponent who betrays you on the first move to build long-term cooperative credibility?",
+    "a_zh": "以牙还牙：立即也背叛一次，以示惩罚。",
+    "a_en": "Tit-for-tat: immediately defect once as punishment.",
+    "b_zh": "宽容原谅：继续合作，展现出仁厚态度。",
+    "b_en": "Forgive and cooperate: show magnanimity to encourage future cooperation."
+  },
+  {
+    "q_zh": "拍卖中你与另一人对同一物品竞价，对方出价高于你预期，最佳反应是？",
+    "q_en": "In an auction against one other bidder, they bid higher than your expectation. What is your best response?",
+    "a_zh": "加价超越，坚持赢下物品。",
+    "a_en": "Raise the bid to win the item.",
+    "b_zh": "停止竞价，避免陷入“赢家诅咒”（支付过高）。",
+    "b_en": "Stop bidding to avoid the winner's curse (overpaying)."
+  },
+  {
+    "q_zh": "在“公共物品”游戏中，每人可捐款至公共池，资金翻倍后均分。若其他人都捐，你最好？",
+    "q_en": "In a public goods game, each can donate to a pool; the pool is doubled and split equally. If others donate, you should?",
+    "a_zh": "搭便车：不捐而分享翻倍后的资金。",
+    "a_en": "Free-ride: donate nothing and still share the doubled pool.",
+    "b_zh": "也捐款：维持公平，避免团队士气崩溃。",
+    "b_en": "Donate too: maintain fairness and avoid team morale collapse."
+  },
+  {
+    "q_zh": "谈判中，对方先给出一个极端离谱的初始报价，你的最优策略是？",
+    "q_en": "In a negotiation, the opponent starts with an extremely outrageous offer. Your optimal strategy is?",
+    "a_zh": "严肃反制：报出同样极端但反向的还价，锚定新基准。",
+    "a_en": "Counter seriously with an equally extreme opposite offer to anchor a new baseline.",
+    "b_zh": "忽略并展示底线：直接说出你真实可接受的范围。",
+    "b_en": "Ignore and reveal your bottom line: state your true acceptable range directly."
+  },
+  {
+    "q_zh": "在“懦夫博弈”（Chicken）中，若你确信对方是理性且惜命的，最佳行动是？",
+    "q_en": "In the 'Chicken' game, if you are sure the opponent is rational and values life, your best move is?",
+    "a_zh": "坚持不转向，迫使对方先让步。",
+    "a_en": "Stay your course without swerving, forcing them to yield first.",
+    "b_zh": "提前转向，确保绝对安全。",
+    "b_en": "Swerve early to guarantee absolute safety."
+  },
+  {
+    "q_zh": "对方在博弈中使用了“随机化策略”（混合策略），你应如何应对？",
+    "q_en": "If your opponent uses a randomized (mixed) strategy in a game, how should you respond?",
+    "a_zh": "保持不可预测：也采用混合策略，防止被预判。",
+    "a_en": "Stay unpredictable: also use a mixed strategy to avoid being read.",
+    "b_zh": "计算其概率分布，并用纯策略针对性破解。",
+    "b_en": "Calculate their probability distribution and exploit it with a pure strategy."
+  },
+  {
+    "q_zh": "在“最后通牒博弈”中，你作为提议者，分给对方极少（如10%），对方可能拒绝，你将？",
+    "q_en": "In the Ultimatum Game, as the proposer, you offer the other only 10%. They might reject. You would?",
+    "a_zh": "冒险给出极低比例，赌对方理性接受任何正收益。",
+    "a_en": "Risk a very low share, betting the opponent is rational and accepts any positive amount.",
+    "b_zh": "提高到公平附近（如40%-50%），确保大概率通过。",
+    "b_en": "Raise to near-fair (40-50%) to ensure high probability of acceptance."
+  },
+  {
+    "q_zh": "在“威信博弈”（Signaling Game）中，你为高端买家，卖家降低价格，你会认为？",
+    "q_en": "In a signaling game, you are a high-end buyer. The seller lowers the price. You think?",
+    "a_zh": "品质可能下降，低价是坏信号，因此拒绝。",
+    "a_en": "Quality might have dropped; low price is a bad signal, so reject.",
+    "b_zh": "这是真实优惠，立刻接受。",
+    "b_en": "This is a genuine discount; accept immediately."
+  },
+  {
+    "q_zh": "在多人协作任务中，你察觉到有人搭便车，最优策略是？",
+    "q_en": "In a multi-player cooperative task, you notice someone free-riding. The optimal strategy is?",
+    "a_zh": "私下警告或公开点名，利用社会压力促使其改变。",
+    "a_en": "Warn privately or call out publicly, using social pressure to make them change.",
+    "b_zh": "自己也转为搭便车，避免单方面吃亏。",
+    "b_en": "Switch to free-riding yourself to avoid being the only sucker."
   }
 ]
