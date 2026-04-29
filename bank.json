@@ -6375,5 +6375,85 @@
     "a_en": "Warn privately or call out publicly, using social pressure to make them change.",
     "b_zh": "自己也转为搭便车，避免单方面吃亏。",
     "b_en": "Switch to free-riding yourself to avoid being the only sucker."
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对手上一轮选择了背叛。你认为最佳策略是什么？",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent defected in the last round. What is the best strategy?",
+    "a_zh": "继续合作，以善意感化对方",
+    "a_en": "Continue cooperating to reform the opponent with goodwill",
+    "b_zh": "立即背叛，惩罚对方上一轮的背叛",
+    "b_en": "Immediately defect to punish the opponent's previous betrayal"
+  },
+  {
+    "q_zh": "在拍卖中，你与对手争夺一件低于市价的商品，对手出价很高且表现出强烈意愿。你应该？",
+    "q_en": "In an auction for an underpriced item, your opponent bids high with strong desire. What should you do?",
+    "a_zh": "加价逼迫对手付出更高成本，即使自己拿到也可能亏损",
+    "a_en": "Outbid to force the opponent into higher costs, even if you might lose money",
+    "b_zh": "及时退出，让对手以高价成交，你保留资金",
+    "b_en": "Exit timely, letting the opponent win at a high price while you keep your funds"
+  },
+  {
+    "q_zh": "在一场谈判中，对方提出一个非常不公平的分配方案（例如你10%他90%）。最佳反应是？",
+    "q_en": "In a negotiation, the opponent proposes a very unfair split (e.g., 10% for you, 90% for them). Best response?",
+    "a_zh": "接受方案，维持关系，期待未来补偿",
+    "a_en": "Accept the deal to maintain the relationship, hoping for future compensation",
+    "b_zh": "拒绝并威胁退出谈判，即使谈判破裂双方都一无所获",
+    "b_en": "Refuse and threaten to walk away, even if it means both get nothing"
+  },
+  {
+    "q_zh": "在“懦夫博弈”（Chicken Game）中，你们两人相向而行。你已知对方是理性人，你会？",
+    "q_en": "In a Chicken Game, two cars drive toward each other. You know the opponent is rational. What do you do?",
+    "a_zh": "先打方向盘闪避，保证安全",
+    "a_en": "Swerve first to ensure safety",
+    "b_zh": "坚持直行，并向对手展示你已扔掉方向盘",
+    "b_en": "Keep straight and show the opponent you have thrown away the steering wheel"
+  },
+  {
+    "q_zh": "在一次博弈中，你可以选择信任对方或防备对方。如果对方知道你一旦被背叛会终身报复，你会如何选择？",
+    "q_en": "In a trust game, you can choose to trust or guard. If the opponent knows you will retaliate forever if betrayed, what do you do?",
+    "a_zh": "选择信任，因为对方害怕报复会诚实",
+    "a_en": "Choose to trust, because the opponent fears retaliation and will be honest",
+    "b_zh": "选择防备，因为信任风险依然存在",
+    "b_en": "Choose to guard, because the risk of betrayal still exists"
+  },
+  {
+    "q_zh": "在“胆小鬼博弈”中，你已提前宣称自己绝不转弯，但对手仍然不减速。你应该？",
+    "q_en": "In a Chicken Game, you have declared you will never swerve, but the opponent still doesn't slow down. You should?",
+    "a_zh": "坚持不转弯，维护信誉",
+    "a_en": "Hold your ground to maintain credibility",
+    "b_zh": "在最后一刻转弯，避免两败俱伤",
+    "b_en": "Swerve at the last moment to avoid mutual destruction"
+  },
+  {
+    "q_zh": "在“最后通牒博弈”中，你被分配10元，你决定给对方多少。对方若拒绝则双方都得0。你认为最合理的分配是？",
+    "q_en": "In an Ultimatum Game, you are given $10 and decide how much to offer. If the other rejects, both get $0. Most reasonable offer?",
+    "a_zh": "给对方1元，保留9元，因为对方接受总比没有好",
+    "a_en": "Offer $1, keep $9, because accepting is better than nothing for the other",
+    "b_zh": "给对方4-5元，以公平感确保对方接受",
+    "b_en": "Offer $4-5 to ensure acceptance through perceived fairness"
+  },
+  {
+    "q_zh": "你和对手各自有一张牌，可以同时选择“进攻”或“防守”。如果双方都进攻则两败俱伤；如果一方进攻一方防守，进攻方赢。你会？",
+    "q_en": "You and the opponent each have a card, choosing 'Attack' or 'Defend' simultaneously. Double attack hurts both; attack vs. defend wins for attacker. You would?",
+    "a_zh": "选择进攻，赌对方会防守",
+    "a_en": "Choose attack, betting the opponent will defend",
+    "b_zh": "选择防守，因为进攻可能招致两败俱伤",
+    "b_en": "Choose defend, because attack risks mutual harm"
+  },
+  {
+    "q_zh": "在“猎鹿博弈”中，你和伙伴可以选择猎鹿（高风险高回报）或猎兔（稳妥低回报）。你预计伙伴会选猎兔，你会？",
+    "q_en": "In a Stag Hunt game, you and a partner choose to hunt stag (high risk/reward) or hare (safe, low reward). You expect the partner to hunt hare. You would?",
+    "a_zh": "也选择猎兔，确保获得可靠回报",
+    "a_en": "Also hunt hare to secure a reliable payoff",
+    "b_zh": "仍选择猎鹿，试图引导对方合作",
+    "b_en": "Still hunt stag, trying to guide the partner toward cooperation"
+  },
+  {
+    "q_zh": "在博弈中，你的对手表现出明显的情绪失控和非理性。你应采取？",
+    "q_en": "In a game, your opponent shows obvious emotional loss of control and irrationality. You should?",
+    "a_zh": "保持自身理性，利用对方的非理性谋取最大利益",
+    "a_en": "Stay rational and exploit the other's irrationality for maximum gain",
+    "b_zh": "也表现出非理性，以迷惑对方，创造均势",
+    "b_en": "Also display irrationality to confuse the opponent and create balance"
   }
 ]
