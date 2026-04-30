@@ -6455,5 +6455,85 @@
     "a_en": "Stay rational and exploit the other's irrationality for maximum gain",
     "b_zh": "也表现出非理性，以迷惑对方，创造均势",
     "b_en": "Also display irrationality to confuse the opponent and create balance"
+  },
+  {
+    "q_zh": "你与对手分配一笔奖金。如果你选择“平分”，对手也选择“平分”，则各得一半；若你选“独占”，对手选“平分”，你全拿，对手得零；若双方都选“独占”，则各得零。你会怎么选？",
+    "q_en": "You and an opponent are splitting a bonus. If you choose 'Split' and they also choose 'Split', you each get half; if you choose 'Keep' and they choose 'Split', you get all, they get none; if both choose 'Keep', you both get nothing. What do you choose?",
+    "a_zh": "平分",
+    "a_en": "Split",
+    "b_zh": "独占",
+    "b_en": "Keep"
+  },
+  {
+    "q_zh": "你被设定为“鹰派”，对手为“鸽派”。若双方都发动攻击，两败俱伤；若你攻击而对方退缩，你获胜；若双方都退缩，平局。你的开局策略是？",
+    "q_en": "You are assigned as 'Hawk', opponent as 'Dove'. If both attack, mutual loss; if you attack and they yield, you win; if both yield, draw. What's your opening move?",
+    "a_zh": "直接攻击",
+    "a_en": "Attack directly",
+    "b_zh": "先示弱再伺机反击",
+    "b_en": "Feign weakness then counter"
+  },
+  {
+    "q_zh": "在“囚徒困境”中，你和同伙被抓。若你沉默而同伙招供，你判10年，同伙获释；若双方都沉默，各判1年；若双方都招供，各判5年。你选择？",
+    "q_en": "In the Prisoner's Dilemma, you and your accomplice are caught. If you stay silent and they confess, you get 10 years, they go free; if both silent, 1 year each; if both confess, 5 years each. Your choice?",
+    "a_zh": "沉默",
+    "a_en": "Stay silent",
+    "b_zh": "招供",
+    "b_en": "Confess"
+  },
+  {
+    "q_zh": "你与对手竞标一件物品。若你出高价且对手出低价，你赢；若双方出价相同，抽签决定；若双方出高价，利润被压缩至零。你的理性策略是？",
+    "q_en": "You and a rival bid on an item. If you bid high and they bid low, you win; if bids match, coin flip; if both bid high, profit vanishes. Your rational move?",
+    "a_zh": "出低价，赌对手出高价",
+    "a_en": "Bid low, betting rival bids high",
+    "b_zh": "出高价，确保赢面",
+    "b_en": "Bid high to secure win"
+  },
+  {
+    "q_zh": "在一场“消耗战”中，双方轮流决定是否继续竞争。僵持越久损失越大，但先退出者输掉全部。你第一轮会？",
+    "q_en": "In a 'War of Attrition', you and opponent decide turn by turn to continue or quit. The longer the stalemate, the bigger the loss, but the first to quit loses all. Your first move?",
+    "a_zh": "立即退出，及时止损",
+    "a_en": "Quit immediately to cut losses",
+    "b_zh": "坚持至少一轮，观察对手反应",
+    "b_en": "Hold at least one round to test opponent"
+  },
+  {
+    "q_zh": "你和对手各有一张牌，牌面为“合作”或“背叛”。如果牌面相同，双方各得3分；不同则合作方得0分，背叛方得5分。你出什么牌？",
+    "q_en": "You and opponent each play a card: 'Cooperate' or 'Betray'. If cards match, both get 3 points; if not, cooperator gets 0, betrayer gets 5. Which card do you play?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "博弈进入最后三轮，你领先对手2分。对手已知你是“理性人”。你会选择最稳妥策略还是冒险一搏？",
+    "q_en": "You are leading by 2 points with 3 rounds left. Opponent knows you are 'rational'. Do you play safe or take a risk?",
+    "a_zh": "保守防守，维持优势",
+    "a_en": "Play safe to maintain lead",
+    "b_zh": "激进进攻，试图提前终结",
+    "b_en": "Go aggressive to finish early"
+  },
+  {
+    "q_zh": "你与对手共享一个资源池，每人可抽取1或2单位。如果总和超过资源最大值，双方都得不到。你第一轮抽多少？",
+    "q_en": "You and opponent share a resource pool; each can take 1 or 2 units. If total exceeds max capacity, both get nothing. How many do you take first?",
+    "a_zh": "1单位，以防过度消耗",
+    "a_en": "1 unit to avoid overuse",
+    "b_zh": "2单位，争取最大利益",
+    "b_en": "2 units to maximize gain"
+  },
+  {
+    "q_zh": "在“勒索博弈”中，对方宣称：若你给其1元，他将给你2元；若不给，双方都得0。你会相信他并先给1元吗？",
+    "q_en": "In an 'extortion game', opponent says: if you give them $1, they'll give you $2 back; if not, both get $0. Do you trust them and give $1?",
+    "a_zh": "相信并支付1元",
+    "a_en": "Trust and pay $1",
+    "b_zh": "拒绝，避免被骗",
+    "b_en": "Refuse to avoid being cheated"
+  },
+  {
+    "q_zh": "你和对手同时选择前往“酒吧”或“图书馆”。如果两人都去酒吧，拥挤体验差；都去图书馆，安静但无聊；各去一处则各自满意。你选？",
+    "q_en": "You and opponent simultaneously choose 'Bar' or 'Library'. Both go to bar: crowded and bad; both to library: quiet but boring; one each: both satisfied. Your choice?",
+    "a_zh": "酒吧",
+    "a_en": "Bar",
+    "b_zh": "图书馆",
+    "b_en": "Library"
   }
 ]
