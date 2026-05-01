@@ -6535,5 +6535,85 @@
     "a_en": "Bar",
     "b_zh": "图书馆",
     "b_en": "Library"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对手连续三次背叛了你。接下来你会选择：",
+    "q_en": "In a repeated prisoner's dilemma, your opponent has betrayed you three times in a row. What do you choose next?",
+    "a_zh": "A. 继续合作，试图以善意感化对方",
+    "a_en": "A. Continue cooperating, hoping to reform them through goodwill",
+    "b_zh": "B. 报复性背叛，让对方知道你不会被利用",
+    "b_en": "B. Retaliate by betraying, to show you won't be exploited"
+  },
+  {
+    "q_zh": "在拍卖中，你发现对手似乎总是比你多出价一次。接下来你会：",
+    "q_en": "In an auction, you notice your opponent always bids one increment higher than you. What do you do next?",
+    "a_zh": "A. 提高心理价位，继续加价争夺到底",
+    "a_en": "A. Raise your ceiling and keep bidding to win at all costs",
+    "b_zh": "B. 突然放弃出价，让对手以过高价格成交",
+    "b_en": "B. Suddenly stop bidding, letting them win at an inflated price"
+  },
+  {
+    "q_zh": "在谈判中，对方给出了一个看似不合理的高报价。你的策略是：",
+    "q_en": "In a negotiation, the other party gives a seemingly unreasonable high offer. Your strategy is:",
+    "a_zh": "A. 立即还一个极低的报价，试探对方底线",
+    "a_en": "A. Immediately counter with an extremely low offer to probe their limit",
+    "b_zh": "B. 沉默不语，等待对方先沉不住气调整报价",
+    "b_en": "B. Stay silent, waiting for them to get anxious and adjust first"
+  },
+  {
+    "q_zh": "在零和博弈中，对手公开宣称自己会采取‘强硬策略’。你会：",
+    "q_en": "In a zero-sum game, your opponent publicly declares they will use a 'tough strategy'. You will:",
+    "a_zh": "A. 相信其宣言，相应地调整自己的保守策略",
+    "a_en": "A. Believe the declaration and adjust your strategy to be more conservative",
+    "b_zh": "B. 认为这是虚张声势，反而采取更激进的策略",
+    "b_en": "B. Dismiss it as bluff, and adopt an even more aggressive strategy"
+  },
+  {
+    "q_zh": "在合作游戏中，你发现队友有作弊嫌疑但无确凿证据。你会：",
+    "q_en": "In a cooperative game, you suspect a teammate is cheating but have no solid proof. You will:",
+    "a_zh": "A. 暗中观察并模仿对方行为，防止吃亏",
+    "a_en": "A. Covertly observe and mirror their behavior to avoid being disadvantaged",
+    "b_zh": "B. 直接公开质疑，以建立透明规则威慑作弊",
+    "b_en": "B. Directly and publicly question them, to deter cheating through transparent rules"
+  },
+  {
+    "q_zh": "当你是游戏中的‘少数派’，多数人已达成共谋时，你的最优选择是：",
+    "q_en": "When you are the 'minority' in a game and the majority has already colluded, your best move is:",
+    "a_zh": "A. 试图加入共谋，哪怕条件苛刻",
+    "a_en": "A. Try to join the collusion, even if the terms are unfavorable",
+    "b_zh": "B. 分化瓦解，私下向部分成员提供更好的单独交易",
+    "b_en": "B. Divide and conquer, by privately offering better deals to some members"
+  },
+  {
+    "q_zh": "在博弈中，你获得一个‘一次性的核选项’（能极大改变局势）。你会：",
+    "q_en": "In a game, you obtain a 'one-time nuclear option' that can drastically change the situation. You will:",
+    "a_zh": "A. 尽早使用，以震慑对手并建立早期优势",
+    "a_en": "A. Use it early to shock the opponent and secure an early advantage",
+    "b_zh": "B. 隐藏底牌，直到最后关键时刻才突然使出",
+    "b_en": "B. Hide it as a trump card, and suddenly play it at the crucial final moment"
+  },
+  {
+    "q_zh": "在模拟市场博弈中，对手突然大量抛售导致价格暴跌。你会：",
+    "q_en": "In a simulated market game, an opponent suddenly dumps a large volume, crashing prices. You will:",
+    "a_zh": "A. 恐慌性跟进抛售，减少损失",
+    "a_en": "A. Panic and follow the sell-off to cut losses",
+    "b_zh": "B. 逆势低价收购，等待后续反弹",
+    "b_en": "B. Buy the dip against the trend, waiting for a rebound"
+  },
+  {
+    "q_zh": "在虚张声势的扑克类博弈中，你手中牌极差但对手表现出犹豫。你会：",
+    "q_en": "In a bluff-heavy poker-like game, you have a terrible hand but your opponent shows hesitation. You will:",
+    "a_zh": "A. 果断全押，利用心理压力迫使对方弃牌",
+    "a_en": "A. Go all-in decisively, using psychological pressure to make them fold",
+    "b_zh": "B. 选择最小注码跟注，减少风险见机行事",
+    "b_en": "B. Call with the minimum bet to reduce risk and adapt based on later action"
+  },
+  {
+    "q_zh": "在团队对抗中，对方队长主动提出‘和平协议’共享胜利。你怀疑是陷阱。你会：",
+    "q_en": "In a team competition, the opposing captain proposes a 'peace pact' to share victory. You suspect a trap. You will:",
+    "a_zh": "A. 表面同意协议，暗中准备背叛策略",
+    "a_en": "A. Pretend to agree, while secretly preparing a betrayal strategy",
+    "b_zh": "B. 明确拒绝，并加强进攻彻底击溃对方",
+    "b_en": "B. Flatly refuse, and go on the offensive to crush them completely"
   }
 ]
