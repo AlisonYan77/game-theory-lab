@@ -6615,5 +6615,85 @@
     "a_en": "A. Pretend to agree, while secretly preparing a betrayal strategy",
     "b_zh": "B. 明确拒绝，并加强进攻彻底击溃对方",
     "b_en": "B. Flatly refuse, and go on the offensive to crush them completely"
+  },
+  {
+    "q_zh": "你进入了一个实验室，被告知可以和另一个人分一笔钱。如果你选择“信任”对方，对方可以选择“分享”或“独吞”。如果你选择“不信任”，则双方都得到很少的钱。你会怎么选？",
+    "q_en": "You enter a lab and are told you can split a sum of money with another person. If you choose 'Trust,' the other can either 'Share' or 'Keep all.' If you choose 'Distrust,' both get a small amount. What do you choose?",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "不信任",
+    "b_en": "Distrust"
+  },
+  {
+    "q_zh": "你和对手同时选择“合作”或“背叛”。若双方合作，各得3分；一方背叛一方合作，背叛者得5分，合作者得0分；双方背叛各得1分。你更倾向选哪个？",
+    "q_en": "You and an opponent simultaneously choose 'Cooperate' or 'Betray.' If both cooperate, each gets 3 points; if one betrays and the other cooperates, the betrayer gets 5 and the cooperator gets 0; if both betray, each gets 1. Which do you lean towards?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你知道对方会看到你的选择后再做决定。你承诺会选“帮助”，但如果你选“帮助”对方可能选“利用你”让你受损；如果你选“不帮”则对方也得不到好处。你会：",
+    "q_en": "You know the other person will see your choice before deciding. You promise to choose 'Help,' but if you choose 'Help,' they might 'Exploit' you and cause loss; if you choose 'Not help,' they gain nothing. What do you do?",
+    "a_zh": "遵守承诺，选帮助",
+    "a_en": "Keep promise, choose Help",
+    "b_zh": "违背承诺，选不帮",
+    "b_en": "Break promise, choose Not help"
+  },
+  {
+    "q_zh": "在一个游戏中，你可以选择“进攻”或“防守”。如果你进攻，对手可能反击让你两败俱伤；如果防守，双方都安全但无收益。你会：",
+    "q_en": "In a game, you can choose 'Attack' or 'Defend.' If you attack, the opponent may counterattack and both get hurt; if you defend, both are safe but no gain. What do you choose?",
+    "a_zh": "进攻",
+    "a_en": "Attack",
+    "b_zh": "防守",
+    "b_en": "Defend"
+  },
+  {
+    "q_zh": "你和对方轮流提议如何分100元。对方先提议，如果他分给你少于30元，你可以拒绝，拒绝后双方都得不到钱。他会分给你多少？你预期他会：",
+    "q_en": "You and another take turns proposing how to split $100. If they propose giving you less than $30, you can reject, and both get nothing. How much will they offer? You expect they will:",
+    "a_zh": "分给我30元以上",
+    "a_en": "Offer me more than $30",
+    "b_zh": "分给我30元或以下",
+    "b_en": "Offer me $30 or less"
+  },
+  {
+    "q_zh": "在这个游戏中，你可以选择“诚实”或“欺骗”。如果你欺骗，短期可能获利，但长期可能失去信任。对方会观察你的历史行为。你会：",
+    "q_en": "In this game, you can choose 'Honest' or 'Cheat.' If you cheat, you may gain in the short term but lose trust long term. The opponent observes your history. What do you choose?",
+    "a_zh": "诚实",
+    "a_en": "Honest",
+    "b_zh": "欺骗",
+    "b_en": "Cheat"
+  },
+  {
+    "q_zh": "你和另一个玩家共同完成一个任务，你们可以选“努力”或“偷懒”。如果都努力，成果最好；一人偷懒则成果中等；都偷懒则成果最差。你更可能选：",
+    "q_en": "You and another player work on a task. You can choose 'Work hard' or 'Slack off.' If both work hard, best outcome; one slacks off, moderate; both slack off, worst. Which are you more likely to choose?",
+    "a_zh": "努力",
+    "a_en": "Work hard",
+    "b_zh": "偷懒",
+    "b_en": "Slack off"
+  },
+  {
+    "q_zh": "你可以选择“公开”你的选择或“隐藏”。如果公开，对方会根据你的选择调整策略；如果隐藏，对方只能猜测。你的目标是最大化自己收益，你会：",
+    "q_en": "You can choose to 'Reveal' your choice or 'Hide' it. If revealed, the opponent adjusts their strategy; if hidden, they guess. Your goal is to maximize your gain. What do you choose?",
+    "a_zh": "公开",
+    "a_en": "Reveal",
+    "b_zh": "隐藏",
+    "b_en": "Hide"
+  },
+  {
+    "q_zh": "在最后一轮博弈中，你和对方都知道不会再有下一轮。这时你更倾向于：",
+    "q_en": "In the final round of a game, both you and the opponent know there will be no next round. Which are you more inclined to choose?",
+    "a_zh": "合作（做对双方都有利的事）",
+    "a_en": "Cooperate (do what benefits both)",
+    "b_zh": "背叛（只考虑自己最大利益）",
+    "b_en": "Betray (only consider own maximum gain)"
+  },
+  {
+    "q_zh": "对方威胁如果你不按他的要求做，就会选一个让你损失惨重的选项。你相信这个威胁是可信的，但选择服从会让你少得一些利益。你会：",
+    "q_en": "The opponent threatens that if you don't comply, they will choose an option that heavily harms you. You believe the threat is credible, but complying gives you less profit. What do you do?",
+    "a_zh": "服从对方要求",
+    "a_en": "Comply with the demand",
+    "b_zh": "拒绝服从，承担风险",
+    "b_en": "Refuse and take the risk"
   }
 ]
