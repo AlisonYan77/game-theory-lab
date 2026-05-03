@@ -6695,5 +6695,85 @@
     "a_en": "Comply with the demand",
     "b_zh": "拒绝服从，承担风险",
     "b_en": "Refuse and take the risk"
+  },
+  {
+    "q_zh": "在“囚徒困境”中，如果你和对方都选择合作，每人获利3年；若一方背叛、一方合作，背叛者获利1年，合作者获利5年；若双方都背叛，每人获利2年。假设这是单次博弈，对方大概率会怎么选择？",
+    "q_en": "In a one-shot Prisoner's Dilemma where mutual cooperation yields 3 years each, betrayal vs cooperation yields 1 for betrayer and 5 for cooperator, and mutual betrayal yields 2 each, what is the opponent's likely choice?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "在重复的“信任博弈”中，第一轮你选择信任对方，对方却背叛了你。第二轮，你更倾向于：",
+    "q_en": "In a repeated Trust Game, you chose to trust your partner in round 1, but they betrayed you. In round 2, you are more inclined to:",
+    "a_zh": "继续信任，试图修复关系",
+    "a_en": "Continue trusting to repair the relationship",
+    "b_zh": "选择背叛，作为报复",
+    "b_en": "Betray as an act of retaliation"
+  },
+  {
+    "q_zh": "面对一个“最后通牒博弈”（你分100元，对方接受或拒绝）：如果你给对方20元，对方拒绝则双方得0元。你认为对方更可能：",
+    "q_en": "In an Ultimatum Game (you split $100, other accepts or rejects): you offer $20 to the other; if rejected, both get $0. Do you think the other will:",
+    "a_zh": "接受，因为20元比0元好",
+    "a_en": "Accept, because $20 is better than $0",
+    "b_zh": "拒绝，因为不公平而惩罚你",
+    "b_en": "Reject, to punish you for unfairness"
+  },
+  {
+    "q_zh": "在“鹰鸽博弈”中，双方如果都选择“鹰”（攻击），都会受伤；如果都选择“鸽”（撤退），平分资源；如果一鹰一鸽，鹰独占资源。你预计对方在资源中等价值时会选：",
+    "q_en": "In a Hawk-Dove Game, if both choose Hawk, both get injured; both Dove, share resources; one Hawk one Dove, Hawk takes all. With moderate resource value, you predict the opponent will choose:",
+    "a_zh": "鹰（攻击）",
+    "a_en": "Hawk (aggressive)",
+    "b_zh": "鸽（撤退）",
+    "b_en": "Dove (retreat)"
+  },
+  {
+    "q_zh": "在“协调博弈”中，你和对方需要一起选择“左”或“右”，两人选相同则各得10分，不同则各得0分。如果没有沟通，你会选：",
+    "q_en": "In a Coordination Game, you and the other must choose 'Left' or 'Right'; if both pick same, each gets 10; if different, 0. Without communication, you choose:",
+    "a_zh": "左",
+    "a_en": "Left",
+    "b_zh": "右",
+    "b_en": "Right"
+  },
+  {
+    "q_zh": "在“消耗战博弈”中，双方持续投入资源对抗，先退出者损失更大。如果你觉得对方很有韧性，你的最优策略是：",
+    "q_en": "In a War of Attrition, both sides commit resources; the one who withdraws first suffers more. If you perceive the opponent as highly tenacious, your best strategy is:",
+    "a_zh": "尽早退出，减少损失",
+    "a_en": "Withdraw early to minimize losses",
+    "b_zh": "坚持到底，赌对方先退",
+    "b_en": "Hold out, betting the opponent will quit first"
+  },
+  {
+    "q_zh": "在“独裁者博弈”中，你作为分配者，将100元分给自己和对方，对方无权拒绝。你会分给对方多少钱？",
+    "q_en": "In a Dictator Game, you as the allocator split $100 between yourself and the other, who cannot refuse. How much do you give to the other?",
+    "a_zh": "0-20元（最少）",
+    "a_en": "$0-20 (minimal)",
+    "b_zh": "40-50元（接近公平）",
+    "b_en": "$40-50 (near fair)"
+  },
+  {
+    "q_zh": "在“信号博弈”中，对方首先发出一个昂贵但无意义的信号。你判断对方真实意图时，更信任：",
+    "q_en": "In a Signaling Game, the opponent first sends a costly but meaningless signal. When judging their true intention, you rely more on:",
+    "a_zh": "信号的代价本身（对方投入大通常更可信）",
+    "a_en": "The signal's cost itself (high cost tends to indicate credibility)",
+    "b_zh": "信号的内容和你的直觉",
+    "b_en": "The signal's content and your intuition"
+  },
+  {
+    "q_zh": "在“猎鹿博弈”中，你和对方可以选择猎鹿（需合作）或猎兔（单干）。猎鹿成功每人得10分，猎兔每人得2分。但若你选猎鹿，对方选猎兔，你只得0分。你认为对方会选：",
+    "q_en": "In a Stag Hunt, you and the other can hunt stag (needs cooperation) worth 10 each, or hunt rabbit (solo) worth 2 each. If you hunt stag and they hunt rabbit, you get 0. You think the other will choose:",
+    "a_zh": "猎鹿（合作）",
+    "a_en": "Hunt stag (cooperate)",
+    "b_zh": "猎兔（单干，安全收益）",
+    "b_en": "Hunt rabbit (safe individual gain)"
+  },
+  {
+    "q_zh": "在“猜硬币”博弈中，你和对方同时选择正面或反面。你猜中对方的选择则得1分，猜错则对方得1分。若对方是理性且零和思维，你会选：",
+    "q_en": "In a Matching Pennies game, you and the other choose heads or tails simultaneously. If you match the other's choice, you get 1 point; if not, the other gets 1. If the opponent is rational and zero-sum minded, you choose:",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "按随机概率混合选择（无规律）",
+    "b_en": "Randomize probabilistically (unpredictable)"
   }
 ]
