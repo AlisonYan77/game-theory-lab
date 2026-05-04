@@ -6775,5 +6775,85 @@
     "a_en": "Heads",
     "b_zh": "按随机概率混合选择（无规律）",
     "b_en": "Randomize probabilistically (unpredictable)"
+  },
+  {
+    "q_zh": "你在一个长期合作项目中，对方突然要求重新谈判分成比例，声称否则退出。你最可能选择？",
+    "q_en": "In a long-term cooperation project, the other party suddenly demands to renegotiate the profit split, threatening to withdraw otherwise. What do you most likely choose?",
+    "a_zh": "坚持原比例，展示强硬姿态，相信对方损失更大。",
+    "a_en": "Stick to the original ratio, show a tough stance, believing the other party has more to lose.",
+    "b_zh": "同意小幅让步，以换取长期稳定合作。",
+    "b_en": "Agree to a small concession to secure long-term stable cooperation."
+  },
+  {
+    "q_zh": "在一次性匿名交易中，你承诺付款后对方先发货。你会如何行动？",
+    "q_en": "In a one-shot anonymous transaction, you promise to pay after the other party ships first. How do you act?",
+    "a_zh": "如约付款，建立个人信用原则。",
+    "a_en": "Pay as promised, upholding personal principle of trustworthiness.",
+    "b_zh": "收到货后不付款，最大化自身利益。",
+    "b_en": "Not pay after receiving the goods, maximizing your own gain."
+  },
+  {
+    "q_zh": "谈判中，对方先开出了一个极端不合理的低价。你如何回应？",
+    "q_en": "In a negotiation, the other party first makes an extremely unreasonable low offer. How do you respond?",
+    "a_zh": "立即拒绝并报出你的高价作为反击。",
+    "a_en": "Reject immediately and counter with your high price as a retaliation.",
+    "b_zh": "忽略其报价，直接询问对方真实的底线和诉求。",
+    "b_en": "Ignore their offer and directly ask about their real bottom line and interests."
+  },
+  {
+    "q_zh": "你与对手进行多轮博弈，对方前几轮一直合作。这轮你发现背叛收益极高，且对方无法报复。你会？",
+    "q_en": "You are in a multi-round game with an opponent who has cooperated in previous rounds. This round you see a high gain from defecting, and your opponent cannot retaliate. You will?",
+    "a_zh": "背叛一次，获取巨额收益。",
+    "a_en": "Defect once to gain a huge payoff.",
+    "b_zh": "继续合作，维护长期信任关系。",
+    "b_en": "Continue to cooperate, maintaining long-term trust."
+  },
+  {
+    "q_zh": "在公开招标中，你已知对手的成本比你低，你会如何出价？",
+    "q_en": "In a public tender, you know your competitor has lower costs than you. How do you bid?",
+    "a_zh": "报出低于成本的价格，试图迫使对手亏损出局。",
+    "a_en": "Bid below cost, trying to force the competitor to lose money and drop out.",
+    "b_zh": "报出合理利润的价格，专攻非价格竞争（如质量、售后）。",
+    "b_en": "Bid at a reasonable profit margin, focusing on non-price competition (e.g., quality, after-sales)."
+  },
+  {
+    "q_zh": "你和对手各自拥有一个秘密，互相威胁要曝光。最优策略是？",
+    "q_en": "You and your opponent each possess a secret, with mutual threats to expose. What is the optimal strategy?",
+    "a_zh": "先发制人曝光对方秘密，削弱其威慑力。",
+    "a_en": "Strike first and expose the other's secret to weaken their deterrence.",
+    "b_zh": "提议同时销毁秘密，建立相互威慑的和平。",
+    "b_en": "Propose to destroy secrets simultaneously, establishing a peace through mutual deterrence."
+  },
+  {
+    "q_zh": "在重复博弈中，你发现对方总是模仿你上一轮的行动。你该如何应对？",
+    "q_en": "In a repeated game, you find that the opponent always copies your previous move. How should you respond?",
+    "a_zh": "主动展现合作，引导对方进入合作循环。",
+    "a_en": "Proactively show cooperation, guiding the opponent into a cooperative cycle.",
+    "b_zh": "故意背叛一次，测试对方是否真的机械模仿。",
+    "b_en": "Deliberately defect once to test whether the opponent truly mimics mechanically."
+  },
+  {
+    "q_zh": "你与对手实力悬殊，对方开出“要么接受我的条件，要么一拍两散”的最后通牒。你会？",
+    "q_en": "You are in a highly asymmetric power relationship. The opponent gives an ultimatum: “Accept my terms or walk away.” You will?",
+    "a_zh": "接受条件，留得青山在，寻求未来翻盘机会。",
+    "a_en": "Accept the terms, preserving your position for a future comeback.",
+    "b_zh": "拒绝并主动散伙，维护尊严和长期威慑。",
+    "b_en": "Refuse and walk away, protecting your dignity and long-term deterrence."
+  },
+  {
+    "q_zh": "在博弈中，你有一个无关紧要但对方很在乎的虚假信息。你会如何使用？",
+    "q_en": "In a game, you have a piece of false information that is trivial to you but important to the opponent. How do you use it?",
+    "a_zh": "作为谈判筹码交换真实利益，然后揭露其为假。",
+    "a_en": "Use it as a bargaining chip to exchange for real gains, then reveal it as false.",
+    "b_zh": "直接告诉对方这是假信息，建立诚实声誉。",
+    "b_en": "Directly tell the opponent it is false, building a reputation for honesty."
+  },
+  {
+    "q_zh": "你和对手同时选择是否进入一个新市场。只有一家进入可以盈利，两家都进入则双输。你预测对方会进入。你会？",
+    "q_en": "You and a competitor simultaneously decide whether to enter a new market. Only one entering yields profit; both entering leads to loss. You predict the opponent will enter. You will?",
+    "a_zh": "仍然进入，期待对方可能退缩，或抢夺先机。",
+    "a_en": "Still enter, hoping the opponent might back down, or to seize first-mover advantage.",
+    "b_zh": "放弃进入，寻找其他差异化市场。",
+    "b_en": "Abstain from entering and seek other differentiated markets."
   }
 ]
