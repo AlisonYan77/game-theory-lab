@@ -6855,5 +6855,85 @@
     "a_en": "Still enter, hoping the opponent might back down, or to seize first-mover advantage.",
     "b_zh": "放弃进入，寻找其他差异化市场。",
     "b_en": "Abstain from entering and seek other differentiated markets."
+  },
+  {
+    "q_zh": "你进入了一个游戏，对手声称他不会背叛你。你会选择：",
+    "q_en": "You enter a game where your opponent claims they won't betray you. Do you:",
+    "a_zh": "A. 信任对手，不背叛",
+    "a_en": "A. Trust the opponent and cooperate",
+    "b_zh": "B. 先下手为强，背叛对手",
+    "b_en": "B. Preemptively betray them"
+  },
+  {
+    "q_zh": "在最后一轮博弈中，双方都知道这是最后一次互动。你会：",
+    "q_en": "In the final round of the game, both know it's the last interaction. Do you:",
+    "a_zh": "A. 继续合作，保持形象",
+    "a_en": "A. Continue cooperating to maintain your image",
+    "b_zh": "B. 背叛以获取最大利益",
+    "b_en": "B. Defect for maximum gain"
+  },
+  {
+    "q_zh": "对手上一轮背叛了你，此轮你们再次相遇。你会：",
+    "q_en": "Your opponent betrayed you last round. You meet again this round. Do you:",
+    "a_zh": "A. 以牙还牙，立即背叛",
+    "a_en": "A. Tit-for-tat: defect immediately",
+    "b_zh": "B. 原谅对方，继续合作",
+    "b_en": "B. Forgive and cooperate again"
+  },
+  {
+    "q_zh": "你可以花一点费用获取对手的决策历史。你选择：",
+    "q_en": "You can pay a small cost to see your opponent's decision history. Do you:",
+    "a_zh": "A. 支付费用，获取情报",
+    "a_en": "A. Pay the cost and get the intel",
+    "b_zh": "B. 节约费用，凭直觉博弈",
+    "b_en": "B. Save the cost and rely on intuition"
+  },
+  {
+    "q_zh": "对手开始就表现出绝对的攻击性。你的最优策略是：",
+    "q_en": "Your opponent starts with extreme aggression. Your best strategy is:",
+    "a_zh": "A. 同样强硬，威慑对手",
+    "a_en": "A. Match their aggression to deter them",
+    "b_zh": "B. 示弱合作，试图改变对方",
+    "b_en": "B. Show weakness and cooperate, hoping to change them"
+  },
+  {
+    "q_zh": "系统提示此轮双方若都背叛则两败俱伤。你会：",
+    "q_en": "The system warns that mutual defection hurts both badly. Do you:",
+    "a_zh": "A. 冒险合作，赌对方也理性",
+    "a_en": "A. Risk cooperation, betting on their rationality",
+    "b_zh": "B. 选择背叛保底",
+    "b_en": "B. Choose defection as a safe bet"
+  },
+  {
+    "q_zh": "你发现对手正在模仿你的上一轮决策。你会：",
+    "q_en": "You notice your opponent is mirroring your last move. Do you:",
+    "a_zh": "A. 故意合作两次，诱导对方信任",
+    "a_en": "A. Cooperate twice to build trust, then exploit",
+    "b_zh": "B. 保持随机，避免被看穿",
+    "b_en": "B. Stay random to avoid being read"
+  },
+  {
+    "q_zh": "游戏中途出现匿名结盟提议，要求共同背叛第三者。你会：",
+    "q_en": "Mid-game, an anonymous alliance proposes to betray a third party. Do you:",
+    "a_zh": "A. 接受结盟，获取短期利益",
+    "a_en": "A. Accept the alliance for short-term gain",
+    "b_zh": "B. 拒绝并提醒第三方",
+    "b_en": "B. Reject and warn the third party"
+  },
+  {
+    "q_zh": "你的当前分数领先，只剩最后两轮。你会：",
+    "q_en": "You're in the lead with only two rounds left. Do you:",
+    "a_zh": "A. 保守合作，维持领先",
+    "a_en": "A. Play conservative and cooperate to maintain lead",
+    "b_zh": "B. 冒险背叛，试图拉开差距",
+    "b_en": "B. Take risks and defect to widen the gap"
+  },
+  {
+    "q_zh": "如果双方都选择合作，都能获得中等收益；如果一方背叛，背叛者收益极高。你会：",
+    "q_en": "Mutual cooperation gives moderate gains; defection gives high gain to the defector. Do you:",
+    "a_zh": "A. 主动沟通，建立互信机制",
+    "a_en": "A. Initiate communication to build mutual trust",
+    "b_zh": "B. 不沟通，默认选择背叛",
+    "b_en": "B. Stay silent and default to defection"
   }
 ]
