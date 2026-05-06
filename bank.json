@@ -6935,5 +6935,85 @@
     "a_en": "A. Initiate communication to build mutual trust",
     "b_zh": "B. 不沟通，默认选择背叛",
     "b_en": "B. Stay silent and default to defection"
+  },
+  {
+    "q_zh": "你发现竞争对手在市场上散布关于你产品的虚假负面信息，你会选择？",
+    "q_en": "You discover a competitor spreading false negative information about your product in the market. What do you choose?",
+    "a_zh": "立即发布正式声明澄清事实，并公开谴责对方的不道德行为。",
+    "a_en": "Immediately issue an official statement clarifying the facts and publicly condemn their unethical behavior.",
+    "b_zh": "暗中收集证据并反向散布对方的负面信息，以牙还牙。",
+    "b_en": "Secretly gather evidence and spread negative information about the competitor in return—tit for tat."
+  },
+  {
+    "q_zh": "在一场囚徒困境中，你知道对手过去从未背叛过你，你会选择？",
+    "q_en": "In a Prisoner's Dilemma, you know your opponent has never betrayed you in the past. What do you choose?",
+    "a_zh": "继续合作，维持互信以追求长期共赢。",
+    "a_en": "Continue cooperating to maintain mutual trust for long-term mutual benefit.",
+    "b_zh": "这次选择背叛，因为对方可能认为你会继续合作而放松警惕。",
+    "b_en": "Betray this time, because the opponent might assume you'll keep cooperating and let their guard down."
+  },
+  {
+    "q_zh": "你参加一个匿名博弈，对方先主动向你展示了善意（比如送来资源），你会？",
+    "q_en": "In an anonymous game, the other party first shows you goodwill (e.g., sends resources). What do you do?",
+    "a_zh": "回赠等值或更多的善意，建立正和博弈。",
+    "a_en": "Return equal or greater goodwill to establish a positive-sum game.",
+    "b_zh": "接受善意但不回报，利用对方的示弱获取优势。",
+    "b_en": "Accept the goodwill without reciprocating, exploiting their perceived weakness for advantage."
+  },
+  {
+    "q_zh": "在一次谈判中，对方提出了一个对你非常有利但对他明显不利的方案，你会？",
+    "q_en": "In a negotiation, the other party proposes a deal that is very favorable to you but clearly disadvantageous to them. What do you do?",
+    "a_zh": "立刻接受，毕竟商业中机会稍纵即逝。",
+    "a_en": "Accept immediately—opportunities in business are fleeting.",
+    "b_zh": "主动调整方案使其更公平，避免对方事后反悔或破坏关系。",
+    "b_en": "Adjust the proposal to be fairer, to prevent future regret or relationship damage."
+  },
+  {
+    "q_zh": "如果博弈只有最后一轮，且你知道对方是高度理性的，你会选择？",
+    "q_en": "If the game is in its final round and you know your opponent is highly rational, what do you choose?",
+    "a_zh": "合作，希望对方也因理性选择合作以获得最后一轮双赢。",
+    "a_en": "Cooperate, hoping the opponent, being rational, will also cooperate for a final win-win.",
+    "b_zh": "背叛，因为最后一轮没有未来惩罚，最大化单次收益。",
+    "b_en": "Betray, because there's no future punishment in the final round—maximize immediate gain."
+  },
+  {
+    "q_zh": "你与对手多次博弈，对方一直采用‘冷酷策略’（一次背叛后永远背叛），你会？",
+    "q_en": "You are in a repeated game with an opponent using 'Grim Trigger' (permanent betrayal after one defection). What do you do?",
+    "a_zh": "始终选择合作，绝不冒险触发对方的永久惩罚。",
+    "a_en": "Always cooperate, never risking triggering their permanent retaliation.",
+    "b_zh": "先试探性背叛一次，观察对方是否真的严格执行，再调整策略。",
+    "b_en": "Test with one betrayal to see if they truly enforce the rule, then adjust."
+  },
+  {
+    "q_zh": "在分配资源博弈中，你可以选择完全公平分配或吞下大部分资源，你的对手没有否决权，你会？",
+    "q_en": "In a resource allocation game, you can either split fairly or take most resources; your opponent has no veto power. What do you choose?",
+    "a_zh": "公平分配，维持声望以便未来合作。",
+    "a_en": "Split fairly to maintain reputation for future cooperation.",
+    "b_zh": "吞下大部分，反正规则允许，对手也无可奈何。",
+    "b_en": "Take most—since the rules permit it and the opponent can't stop you."
+  },
+  {
+    "q_zh": "你的对手在博弈前公开承诺‘如果你合作，我必合作’，但你怀疑他在说谎，你会？",
+    "q_en": "Before the game, your opponent publicly promises, 'If you cooperate, I will cooperate,' but you suspect they are lying. What do you do?",
+    "a_zh": "选择合作，赌对方会为了信誉而遵守承诺。",
+    "a_en": "Cooperate, betting that they'll honor the promise to protect their credibility.",
+    "b_zh": "选择背叛，因为空口承诺通常不可信，先下手为强。",
+    "b_en": "Betray, because empty promises are often unreliable—strike first."
+  },
+  {
+    "q_zh": "在多轮博弈中，你发现对手的决策完全随机（没有规律），你会选择什么策略？",
+    "q_en": "In a multi-round game, you find your opponent's decisions are completely random (no pattern). What strategy do you adopt?",
+    "a_zh": "固定选择‘合作’，用不变应万变，争取随机中的正向期望。",
+    "a_en": "Consistently choose 'Cooperate'—stability against randomness, hoping for positive expectation.",
+    "b_zh": "固定选择‘背叛’，因为随机对手不会报复，背叛永远安全且收益高。",
+    "b_en": "Consistently choose 'Betray'—since a random opponent won't retaliate, betrayal is always safe and profitable."
+  },
+  {
+    "q_zh": "你正处于一个‘懦夫博弈’中（两人相向而行，看谁先转向），你判断对手性格强硬固执，你会？",
+    "q_en": "In a 'Chicken Game' (two drivers heading toward each other, first to swerve loses), you judge your opponent as stubborn and tough. What do you do?",
+    "a_zh": "也保持强硬不转向，期待对方在最后一刻怕死而退缩。",
+    "a_en": "Stay tough and not swerve, hoping they will chicken out at the last second.",
+    "b_zh": "提前转向，放弃对抗，确保安全并寻找其他博弈机会。",
+    "b_en": "Swerve early, abandon confrontation, ensure safety, and seek other game opportunities."
   }
 ]
