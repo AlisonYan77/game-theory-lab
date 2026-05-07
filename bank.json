@@ -7015,5 +7015,85 @@
     "a_en": "Stay tough and not swerve, hoping they will chicken out at the last second.",
     "b_zh": "提前转向，放弃对抗，确保安全并寻找其他博弈机会。",
     "b_en": "Swerve early, abandon confrontation, ensure safety, and seek other game opportunities."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，面对一个始终合作的对手，你更倾向于采取哪种策略？",
+    "q_en": "In a repeated prisoner's dilemma, facing an opponent who always cooperates, which strategy are you more inclined to adopt?",
+    "a_zh": "始终合作，维持双方高收益",
+    "a_en": "Always cooperate to maintain mutual high payoff",
+    "b_zh": "偶尔背叛，试探并利用对手的善意",
+    "b_en": "Occasionally defect to test and exploit the opponent's goodwill"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你发现对手的出价明显高于物品实际价值，你的最佳反应是？",
+    "q_en": "In an auction game, you notice your opponent's bid is significantly higher than the item's actual value. What's your optimal response?",
+    "a_zh": "退出竞拍，避免陷入赢家诅咒",
+    "a_en": "Drop out to avoid the winner's curse",
+    "b_zh": "继续加价，迫使对手支付更高成本",
+    "b_en": "Keep raising the bid to force the opponent to pay a higher cost"
+  },
+  {
+    "q_zh": "在一个信任博弈中，作为投资者，你决定将多少初始资金交给受托人？",
+    "q_en": "In a trust game as the investor, how much of your initial endowment would you send to the trustee?",
+    "a_zh": "全部金额，赌对方会公平回报",
+    "a_en": "All funds, betting on reciprocal fairness",
+    "b_zh": "少量金额，降低风险并测试对方",
+    "b_en": "A small amount to minimize risk and test the other party"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你作为提议者，对方可能拒绝任何低于30%的分成。你会如何分配？",
+    "q_en": "In the ultimatum game as the proposer, the responder may reject any offer below 30%. How would you split?",
+    "a_zh": "给出40%以确保接受，同时保留大部分",
+    "a_en": "Offer 40% to ensure acceptance while keeping the majority",
+    "b_zh": "给出20%并承担被拒绝的风险，测试对方理性",
+    "b_en": "Offer 20% and risk rejection to test the opponent's rationality"
+  },
+  {
+    "q_zh": "在协和谬误博弈中，一项已投入巨大成本的项目前景黯淡，你会？",
+    "q_en": "In a dollar auction (entrapment game) where a costly project looks bleak, would you?",
+    "a_zh": "果断止损，退出项目",
+    "a_en": "Cut losses decisively and exit the project",
+    "b_zh": "继续追加投入，希望能扭转局面",
+    "b_en": "Continue investing in hopes of turning the situation around"
+  },
+  {
+    "q_zh": "在“懦夫博弈”中，你和对手相向而行，你选择的策略是？",
+    "q_en": "In a game of chicken where you and your opponent drive toward each other, what strategy do you choose?",
+    "a_zh": "保持直线，展示决意迫使对方转向",
+    "a_en": "Stay straight to show resolve and force the opponent to swerve",
+    "b_zh": "轻微转向，释放合作信号避免碰撞",
+    "b_en": "Slightly swerve to signal cooperation and avoid collision"
+  },
+  {
+    "q_zh": "在无限次重复博弈中，对方一直使用“冷酷触发”策略（一次背叛即永远背叛），你会？",
+    "q_en": "In an infinitely repeated game, your opponent uses a grim trigger strategy (once you defect, they defect forever). What do you do?",
+    "a_zh": "始终合作，利用对方稳定特性获得长期收益",
+    "a_en": "Always cooperate to leverage the opponent's stability for long-term gain",
+    "b_zh": "首轮背叛，试探触发机制是否真实",
+    "b_en": "Defect in the first round to test if the trigger is real"
+  },
+  {
+    "q_zh": "在公共物品博弈中，群体其他成员均慷慨捐助，你作为搭便车者会如何选择？",
+    "q_en": "In a public goods game, if other group members are all generous donors, how would you act as a potential free-rider?",
+    "a_zh": "同样慷慨捐助，维护群体合作氛围",
+    "a_en": "Contribute generously as well to maintain group cooperation",
+    "b_zh": "不捐助或多捐助少，利用他人善意为己牟利",
+    "b_en": "Contribute little or nothing to exploit others' goodwill"
+  },
+  {
+    "q_zh": "在信号博弈中，你希望让对方相信你是“高能力”类型，你会选择？",
+    "q_en": "In a signaling game, you want the opponent to believe you are a 'high-ability' type. What action do you take?",
+    "a_zh": "发送成本高昂但可信的信号（如高学历、大额投资）",
+    "a_en": "Send a costly but credible signal (e.g., advanced degree, big investment)",
+    "b_zh": "仅口头承诺，压低成本但可能无说服力",
+    "b_en": "Only make a verbal promise, low cost but possibly unconvincing"
+  },
+  {
+    "q_zh": "在蜈蚣博弈中，每一步你的决策都会影响后续收益。你倾向于？",
+    "q_en": "In the centipede game, each step you decide impacts future payoffs. Which tendency do you follow?",
+    "a_zh": "尽早结束游戏，锁定当前利益",
+    "a_en": "End the game early to secure current gains",
+    "b_zh": "尽量延长游戏，期待对手率先终止而获利",
+    "b_en": "Prolong the game, hoping the opponent ends it first for your profit"
   }
 ]
