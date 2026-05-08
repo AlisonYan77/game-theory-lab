@@ -7095,5 +7095,85 @@
     "a_en": "End the game early to secure current gains",
     "b_zh": "尽量延长游戏，期待对手率先终止而获利",
     "b_en": "Prolong the game, hoping the opponent ends it first for your profit"
+  },
+  {
+    "q_zh": "在一次重复囚徒困境中，你的对手在上一轮选择了背叛。为了长期合作利益最大化，这一轮你应该：",
+    "q_en": "In an iterated prisoner's dilemma, your opponent defected in the previous round. To maximize long-term cooperation benefits, what should you do this round?",
+    "a_zh": "选择合作，给予对方改过机会并重建信任",
+    "a_en": "Choose cooperate to give the opponent a chance to rebuild trust",
+    "b_zh": "选择背叛，惩罚对方以防被进一步利用",
+    "b_en": "Choose defect as retaliation to prevent future exploitation"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你作为提议者需要分配一笔100元。如果对方拒绝，双方都一无所获。假设对方是完全理性的，最安全的分配方式是：",
+    "q_en": "In an ultimatum game, as the proposer you must split 100 yuan. If the other refuses, both get nothing. Assuming the other is perfectly rational, the safest split is:",
+    "a_zh": "给自己99元，给对方1元（对方理性应接受）",
+    "a_en": "Keep 99 yuan, give 1 yuan (a rational opponent should accept)",
+    "b_zh": "给自己60元，给对方40元（降低被拒绝风险）",
+    "b_en": "Keep 60 yuan, give 40 yuan (lower risk of rejection)"
+  },
+  {
+    "q_zh": "在谈判中，你希望对方先透露底价。以下哪种策略最能利用心理学诱使对方出价？",
+    "q_en": "In a negotiation, you want the other side to reveal their bottom line first. Which strategy best uses psychology to elicit their offer?",
+    "a_zh": "持续保持沉默和等待，用压力迫使对方开口",
+    "a_en": "Maintain silence and wait, using pressure to force them to speak",
+    "b_zh": "先提出一个离谱的开价，让对方因对比而提出真实底价",
+    "b_en": "Make an extreme opening offer so the other reveals their true price by contrast"
+  },
+  {
+    "q_zh": "在一场零和博弈中，你发现对手在上一局中使用了混合策略。为了最大化你的期望收益，你应该：",
+    "q_en": "In a zero-sum game, you notice your opponent used a mixed strategy last round. To maximize your expected payoff, you should:",
+    "a_zh": "坚持使用纯策略，打乱对手的学习过程",
+    "a_en": "Stick to a pure strategy to disrupt the opponent's learning",
+    "b_zh": "也采用混合策略，让自己不可预测且无法被利用",
+    "b_en": "Also adopt a mixed strategy to become unpredictable and unexploitable"
+  },
+  {
+    "q_zh": "在多人公共物品博弈中，前两轮大家平均捐赠了50%。你看到有一个人捐赠了0%。作为想最大化群体收益的玩家，你本轮应该：",
+    "q_en": "In a multi-player public goods game, everyone donated about 50% in the first two rounds. You see one player donated 0%. To maximize group welfare, you should this round:",
+    "a_zh": "也捐赠0%，惩罚搭便车者并促使其改变行为",
+    "a_en": "Also donate 0% to punish the free-rider and push them to change",
+    "b_zh": "继续捐赠50%，保持合作氛围并避免群体崩溃",
+    "b_en": "Continue donating 50% to maintain cooperation and avoid group collapse"
+  },
+  {
+    "q_zh": "你参与一个拍卖，标的物实际价值100元，你和对手各出价一次，最高价者赢得标的但需要支付自己的出价（全支付拍卖）。从博弈论角度，你的出价应该：",
+    "q_en": "You are in an all-pay auction for an item worth 100 yuan. Highest bid wins but both pay their bids. Game theory suggests your bid should:",
+    "a_zh": "积极出价到接近100元，因为胜利者可以获得实际利润",
+    "a_en": "Bid aggressively close to 100 yuan since the winner still gets profit",
+    "b_zh": "适当降低出价比如50元，避免陷入出价过高的陷阱",
+    "b_en": "Bid conservatively around 50 yuan to avoid the curse of overbidding"
+  },
+  {
+    "q_zh": "在信号博弈中，你是高能力求职者。一个低能力求职者可能会模仿你。为了可信地区分自己，你应该：",
+    "q_en": "In a signaling game, you are a high-ability job seeker. Low-ability ones may imitate you. To credibly differentiate yourself, you should:",
+    "a_zh": "接受略低于市场的薪资，显示你不在乎短期收入",
+    "a_en": "Accept a slightly below-market salary to show you don't care about short-term income",
+    "b_zh": "要求一份对低能力者来说成本很高的证书或任务",
+    "b_en": "Demand a certification or task that is costly for low-ability people"
+  },
+  {
+    "q_zh": "在懦夫博弈（Chicken）中，两辆车相向而行。你确信对方是理性人，且你已将方向盘锁死并给对方看到。此时你的最佳策略是：",
+    "q_en": "In the game of Chicken, two cars drive toward each other. You are certain the other is rational and you have visibly locked your steering wheel. Your best move is:",
+    "a_zh": "保持直行，因为你的承诺已迫使对方躲避",
+    "a_en": "Keep going straight, as your commitment forces the other to swerve",
+    "b_zh": "在最后一刻转向，避免真实碰撞造成双输",
+    "b_en": "Swerve at the last moment to avoid a real crash and mutual loss"
+  },
+  {
+    "q_zh": "在一个重复博弈中，你希望建立『以牙还牙』的声誉。上一轮你合作，对方背叛了你。这一轮你应该：",
+    "q_en": "In a repeated game, you want to build a 'tit-for-tat' reputation. Last round you cooperated and the other defected. This round you should:",
+    "a_zh": "选择背叛，直接复制对方上一轮的策略",
+    "a_en": "Choose defect, directly mirroring the opponent's previous move",
+    "b_zh": "继续合作一次，给对方最后的信任以示宽容",
+    "b_en": "Cooperate one more time to show forgiveness and give them a final chance"
+  },
+  {
+    "q_zh": "在博弈论实验中，你被告知对手是计算机程序，它采用随机选择。你的目标是最大化你的总得分，你应该：",
+    "q_en": "In a game theory experiment, you are told your opponent is a computer program using random choices. Your goal is to maximize your total score. You should:",
+    "a_zh": "分析所有可能的概率分布，采用对应最优混合策略",
+    "a_en": "Analyze all possible probability distributions and adopt the optimal mixed strategy",
+    "b_zh": "找出并利用程序随机数生成器的任何模式或偏见",
+    "b_en": "Find and exploit any pattern or bias in the program's random number generator"
   }
 ]
