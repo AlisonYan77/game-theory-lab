@@ -7175,5 +7175,85 @@
     "a_en": "Analyze all possible probability distributions and adopt the optimal mixed strategy",
     "b_zh": "找出并利用程序随机数生成器的任何模式或偏见",
     "b_en": "Find and exploit any pattern or bias in the program's random number generator"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对手连续三次背叛你。你会如何应对？",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent has betrayed you three times in a row. How do you respond?",
+    "a_zh": "继续选择合作，希望对方能被感化",
+    "a_en": "Continue cooperating, hoping to reform them",
+    "b_zh": "果断选择背叛，以牙还牙",
+    "b_en": "Firmly defect, tit for tat"
+  },
+  {
+    "q_zh": "谈判中，对方先提出了一个对你非常有利的报价。你怀疑这是陷阱。你会？",
+    "q_en": "In a negotiation, the other side makes a very favorable offer for you. You suspect a trap. What do you do?",
+    "a_zh": "接受，因为机会难得且对手可能真诚",
+    "a_en": "Accept, because opportunities are rare and they might be sincere",
+    "b_zh": "拒绝，并提出一个更合理的折中方案",
+    "b_en": "Reject it and propose a more balanced compromise"
+  },
+  {
+    "q_zh": "在一个拍卖游戏中，你的对手只剩少量筹码，但仍在疯狂加价。你会？",
+    "q_en": "In an auction game, your opponent has few chips left but keeps bidding aggressively. What do you do?",
+    "a_zh": "继续跟随加价，迫使对方破产出局",
+    "a_en": "Keep following the bids to force them bankrupt",
+    "b_zh": "主动放弃，让对手赢下这一轮，保存实力",
+    "b_en": "Fold actively, let them win this round, save your strength"
+  },
+  {
+    "q_zh": "你和对手同时要选择一个数字（1-10），总和越大双方奖励越高，但太接近会导致惩罚。对手上一轮选了7。这轮你会选？",
+    "q_en": "You and your opponent pick a number (1-10). Higher sum yields higher reward, but too close triggers penalty. Last round they picked 7. What do you pick?",
+    "a_zh": "选8，稍微逼近但仍有安全边际",
+    "a_en": "Pick 8, slightly close but still safe",
+    "b_zh": "选3，故意拉开差距，确保奖励",
+    "b_en": "Pick 3, intentionally widen the gap to secure reward"
+  },
+  {
+    "q_zh": "在“懦夫博弈”中，你开车直冲向对手，但对方丝毫没有减速的意思。你会？",
+    "q_en": "In a Chicken Game, you drive straight at your opponent, but they show no sign of slowing. What do you do?",
+    "a_zh": "坚持直行，相信对方最后会转方向",
+    "a_en": "Stay straight, believing they will swerve at the last moment",
+    "b_zh": "立即转向避开，认输但保全面子",
+    "b_en": "Swerve immediately, concede but save face"
+  },
+  {
+    "q_zh": "在一个多回合信任游戏中，你发现对手在背后与第三方串通。你会？",
+    "q_en": "In a multi-round trust game, you discover your opponent is colluding with a third party behind your back. What do you do?",
+    "a_zh": "公开揭发，破坏他们的同盟",
+    "a_en": "Expose them publicly to break their alliance",
+    "b_zh": "假装不知，暗中收集证据并用其反制",
+    "b_en": "Pretend ignorance, secretly gather evidence and counter"
+  },
+  {
+    "q_zh": "你和对手共享一个资源池，每人每次可取0-5单位。若总和超过10，双方都无收益。对手上次拿了4。这轮你取？",
+    "q_en": "You share a resource pool with an opponent, each can take 0-5 per round. If total > 10, both get nothing. Last round they took 4. What do you take?",
+    "a_zh": "取4，与对手维持对等策略，建立稳定合作",
+    "a_en": "Take 4, mirror the opponent to build stable cooperation",
+    "b_zh": "取5，最大化自己收益，赌对手会减少",
+    "b_en": "Take 5, maximize your gain, gamble they will reduce"
+  },
+  {
+    "q_zh": "在“选美比赛”博弈中，你要选一个0-100的数字，最接近所有玩家平均数的2/3者胜。你会选？",
+    "q_en": "In the Beauty Contest game, pick a number 0-100, closest to 2/3 of all players' average wins. What do you pick?",
+    "a_zh": "选33，假设多数人会随机均匀分布",
+    "a_en": "Pick 33, assuming most people will distribute randomly",
+    "b_zh": "选22，基于更低层次的推理循环",
+    "b_en": "Pick 22, based on deeper levels of reasoning recursion"
+  },
+  {
+    "q_zh": "一个对手在游戏中一直表现得极其冲动且情绪化。你该如何利用这一点？",
+    "q_en": "An opponent in the game has been extremely impulsive and emotional. How do you exploit this?",
+    "a_zh": "故意刺激他犯错，然后利用他的非理性反击",
+    "a_en": "Deliberately provoke him into mistakes, then exploit his irrationality",
+    "b_zh": "以温和包容的态度对待，让他放松警惕",
+    "b_en": "Treat him gently and tolerantly to lower his guard"
+  },
+  {
+    "q_zh": "最后一轮博弈，双方都只剩一次出招机会。你们之前一直合作，但背叛能让你获得额外三倍收益。你会？",
+    "q_en": "Final round, both have one last move. You've cooperated so far, but betrayal gives you triple extra payoff. What do you do?",
+    "a_zh": "坚持合作，维护长期信誉和共赢关系",
+    "a_en": "Stick with cooperation, maintain long-term trust and win-win",
+    "b_zh": "果断背叛，最大化单次收益，反正游戏结束",
+    "b_en": "Betray decisively to maximize one-time gain, since the game ends"
   }
 ]
