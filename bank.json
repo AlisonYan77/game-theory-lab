@@ -7255,5 +7255,85 @@
     "a_en": "Stick with cooperation, maintain long-term trust and win-win",
     "b_zh": "果断背叛，最大化单次收益，反正游戏结束",
     "b_en": "Betray decisively to maximize one-time gain, since the game ends"
+  },
+  {
+    "q_zh": "在谈判中，你是会优先透露自己的底线，还是坚持让对方先提出条件？",
+    "q_en": "In a negotiation, would you prefer to reveal your bottom line first, or insist that the other party state their terms first?",
+    "a_zh": "透露底线以建立信任，争取快速达成协议",
+    "a_en": "Reveal the bottom line to build trust and try to reach a quick agreement",
+    "b_zh": "坚持让对方先出牌，以摸清对方底牌",
+    "b_en": "Insist the other side goes first, to probe their position"
+  },
+  {
+    "q_zh": "在零和博弈中，你倾向于选择合作还是背叛？",
+    "q_en": "In a zero-sum game, do you tend to choose cooperation or defection?",
+    "a_zh": "合作，即使风险高也愿意赌对方善良",
+    "a_en": "Cooperate, even at high risk, betting on the other's goodwill",
+    "b_zh": "背叛，因为理性的选择是确保自身利益最大化",
+    "b_en": "Defect, because the rational choice is to maximize own gain"
+  },
+  {
+    "q_zh": "面对一个反复进行多次的博弈，你的策略更倾向于？",
+    "q_en": "In a repeated game, which strategy do you lean towards?",
+    "a_zh": "以牙还牙：一开始合作，之后复制对方上一轮行为",
+    "a_en": "Tit-for-tat: cooperate first, then mimic the other's last move",
+    "b_zh": "永远欺骗：利用对方可能的善良逐次获利",
+    "b_en": "Always defect: exploit the other's possible kindness repeatedly"
+  },
+  {
+    "q_zh": "当公开承诺可以影响对方时，你更愿意？",
+    "q_en": "When a public commitment can influence the other party, are you more likely to?",
+    "a_zh": "做出不可撤回的强硬承诺，逼对方让步",
+    "a_en": "Make an irrevocable tough commitment to force their concession",
+    "b_zh": "保持灵活，留有余地以应对变化",
+    "b_en": "Stay flexible, keeping options open to adapt"
+  },
+  {
+    "q_zh": "在信息不对称的博弈中，你会如何掩饰自己的真实意图？",
+    "q_en": "In a game with asymmetric information, how would you conceal your true intention?",
+    "a_zh": "故意释放虚假信号，扰乱对方判断",
+    "a_en": "Deliberately send false signals to confuse the opponent",
+    "b_zh": "保持沉默和模棱两可，避免暴露任何信息",
+    "b_en": "Stay silent and ambiguous, avoiding any information leakage"
+  },
+  {
+    "q_zh": "当对手表现出非理性情绪时，你通常？",
+    "q_en": "When an opponent displays irrational emotions, you usually?",
+    "a_zh": "利用其情绪制定陷阱，引导其犯更大错误",
+    "a_en": "Exploit their emotions to set a trap and lead them into bigger mistakes",
+    "b_zh": "保持理性，尝试安抚情绪以达成双赢",
+    "b_en": "Stay rational and try to calm them down for a win-win outcome"
+  },
+  {
+    "q_zh": "在多人博弈中，你倾向于扮演什么角色？",
+    "q_en": "In a multi-player game, what role do you tend to play?",
+    "a_zh": "联络者：主动结盟，协调各方利益",
+    "a_en": "Mediator: actively form alliances and coordinate interests",
+    "b_zh": "独狼：保持独立，仅在有利时临时合作",
+    "b_en": "Lone wolf: stay independent, cooperate only when profitable"
+  },
+  {
+    "q_zh": "当你面临巨大压力却时间紧迫时，你会怎么决策？",
+    "q_en": "When under high pressure with limited time, how do you decide?",
+    "a_zh": "依靠直觉快速行动，抢占先机",
+    "a_en": "Rely on intuition and act quickly to seize the initiative",
+    "b_zh": "强行冷静计算，哪怕拖延也要全面分析",
+    "b_en": "Force calm calculation, even if it means delaying, for full analysis"
+  },
+  {
+    "q_zh": "在博弈中，你觉得“声誉”的价值有多大？",
+    "q_en": "In a game, how much value do you place on 'reputation'?",
+    "a_zh": "至关重要，为维护声誉不惜短期损失",
+    "a_en": "Crucial; willing to incur short-term losses to maintain it",
+    "b_zh": "虚名而已，每一局都应从零开始计算利益",
+    "b_en": "Just a facade; each round should be evaluated from scratch"
+  },
+  {
+    "q_zh": "如果你在博弈中明显处于劣势，你首先会？",
+    "q_en": "If you are in a clearly disadvantaged position, you would first?",
+    "a_zh": "示弱求饶，试图让对方产生同情而让利",
+    "a_en": "Show weakness and plead, trying to evoke sympathy for concessions",
+    "b_zh": "制造混乱或意外，乱中求胜",
+    "b_en": "Create chaos or surprises to win amid confusion"
   }
 ]
