@@ -7335,5 +7335,85 @@
     "a_en": "Show weakness and plead, trying to evoke sympathy for concessions",
     "b_zh": "制造混乱或意外，乱中求胜",
     "b_en": "Create chaos or surprises to win amid confusion"
+  },
+  {
+    "q_zh": "你发现对手在上一轮合作中背叛了你。这一轮，你会选择：",
+    "q_en": "You discovered your opponent betrayed you in the last round. This round, you will choose:",
+    "a_zh": "仍然选择合作，希望修复关系",
+    "a_en": "Still choose to cooperate, hoping to repair the relationship",
+    "b_zh": "立即背叛报复，确保自己不再次受损",
+    "b_en": "Immediately retaliate by betraying, to ensure you don't suffer again"
+  },
+  {
+    "q_zh": "游戏进入最后一轮，双方没有任何后续互动机会。此时你的最佳策略是：",
+    "q_en": "The game enters the final round, with no future interactions. Your best strategy now is:",
+    "a_zh": "继续合作，维持一贯的信誉",
+    "a_en": "Continue cooperating to maintain consistent reputation",
+    "b_zh": "选择背叛，争取一次性最大收益",
+    "b_en": "Choose to betray for a one-time maximum payoff"
+  },
+  {
+    "q_zh": "对手前两局都选择了合作，但他一直在观察你的表情和反应。你的决策是：",
+    "q_en": "Your opponent cooperated in the first two rounds, but has been closely watching your facial expressions. Your decision is:",
+    "a_zh": "第三次重复合作，建立长期信任信号",
+    "a_en": "Cooperate for the third time to build a long-term trust signal",
+    "b_zh": "突然背叛，利用对方的信任预期差获利",
+    "b_en": "Suddenly betray to profit from the opponent's expectation of trust"
+  },
+  {
+    "q_zh": "你和对手之前互有背叛，关系紧张。现在你有一个机会公开传递一次信号，你会：",
+    "q_en": "You and your opponent have betrayed each other, and the relationship is tense. You now have a chance to send a public signal. You will:",
+    "a_zh": "传递宽容信号，主动选择合作打破僵局",
+    "a_en": "Send a forgiving signal by actively choosing to cooperate to break the deadlock",
+    "b_zh": "传递强硬信号，继续背叛以威慑对方",
+    "b_en": "Send a tough signal by continuing to betray to deter the opponent"
+  },
+  {
+    "q_zh": "对手的策略完全随机，毫无规律。为了最大化你的最终收益，你应该：",
+    "q_en": "Your opponent's strategy is completely random with no pattern. To maximize your final payoff, you should:",
+    "a_zh": "固定选择合作，避免因猜测而失误",
+    "a_en": "Fixed choice of cooperation to avoid errors from guessing",
+    "b_zh": "先背叛一局试探，再根据结果调整",
+    "b_en": "Betray first to test, then adjust based on outcome"
+  },
+  {
+    "q_zh": "游戏中你可以看到对手过去的决策历史，他从未背叛过。这一轮你会：",
+    "q_en": "You can see your opponent's past decision history; he has never betrayed. This round you will:",
+    "a_zh": "选择合作，利用对方的一致性获利",
+    "a_en": "Choose cooperation to profit from the opponent's consistency",
+    "b_zh": "选择背叛，因为对方过于信任反而易被利用",
+    "b_en": "Choose betrayal, because his over-trust makes him easy to exploit"
+  },
+  {
+    "q_zh": "对手在上一局背叛后，立刻给你发了一条道歉信息。你如何回应？",
+    "q_en": "After betraying you last round, your opponent immediately sent an apology message. How do you respond?",
+    "a_zh": "接受道歉，本轮继续合作恢复关系",
+    "a_en": "Accept the apology and cooperate this round to restore the relationship",
+    "b_zh": "忽略道歉，本轮继续背叛以示不接受轻易原谅",
+    "b_en": "Ignore the apology and continue to betray to show you won't forgive easily"
+  },
+  {
+    "q_zh": "你们约定一起对抗第三方庄家，但背叛庄家能获得额外奖励。你会：",
+    "q_en": "You and your opponent agreed to fight against a third-party dealer, but betraying the dealer gives extra rewards. You will:",
+    "a_zh": "遵守约定，和对手一起合作对抗庄家",
+    "a_en": "Keep the agreement and cooperate with your opponent against the dealer",
+    "b_zh": "秘密背叛庄家，独自获取额外奖励并假装合作",
+    "b_en": "Secretly betray the dealer, gain extra reward alone, and pretend to cooperate"
+  },
+  {
+    "q_zh": "系统显示，如果这一轮两人都背叛，双方都会受到严重惩罚。你最可能的选择是：",
+    "q_en": "The system shows that if both betray this round, both will suffer severe penalties. Your most likely choice is:",
+    "a_zh": "选择合作，避免双输局面",
+    "a_en": "Choose cooperation to avoid a lose-lose situation",
+    "b_zh": "选择背叛，赌对手会因害怕而选择合作",
+    "b_en": "Choose betrayal, betting the opponent will cooperate out of fear"
+  },
+  {
+    "q_zh": "你是一位以德报怨型选手，但对手的背叛成功率很高。面对该对手，你的策略是：",
+    "q_en": "You are a 'return good for evil' type player, but your opponent has a high success rate in betraying. Facing this opponent, your strategy is:",
+    "a_zh": "坚持以德报怨，用持续合作感化对方",
+    "a_en": "Persist in returning good for evil, using continuous cooperation to influence them",
+    "b_zh": "改变策略，用一次强烈背叛让对手明白你的底线",
+    "b_en": "Change strategy, using one strong betrayal to show your bottom line"
   }
 ]
