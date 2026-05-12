@@ -7415,5 +7415,85 @@
     "a_en": "Persist in returning good for evil, using continuous cooperation to influence them",
     "b_zh": "改变策略，用一次强烈背叛让对手明白你的底线",
     "b_en": "Change strategy, using one strong betrayal to show your bottom line"
+  },
+  {
+    "q_zh": "你在一个谈判中，对方表现出强烈的对抗情绪。你会选择：",
+    "q_en": "In a negotiation, the other party shows strong antagonism. Would you:",
+    "a_zh": "暂时退让，以缓和气氛，寻找对方真实需求",
+    "a_en": "Temporarily give in to ease tension and uncover their true needs",
+    "b_zh": "以更强硬的态度施压，迫使对方让步",
+    "b_en": "Apply stronger pressure to force them to compromise"
+  },
+  {
+    "q_zh": "在一次合作中，你发现对方可能在说谎。你会：",
+    "q_en": "In a collaboration, you suspect the other party might be lying. Would you:",
+    "a_zh": "不动声色地收集证据，等待最佳拆穿时机",
+    "a_en": "Quietly gather evidence and wait for the optimal moment to expose them",
+    "b_zh": "直接当面质问，以施压使其慌乱",
+    "b_en": "Confront them directly to pressure them into panic"
+  },
+  {
+    "q_zh": "在多人博弈中，你处于弱势位置。你会选择：",
+    "q_en": "In a multiplayer game, you are in a weak position. Would you:",
+    "a_zh": "主动与其他弱者结盟，共同对抗强者",
+    "a_en": "Proactively ally with other weak players against the strong",
+    "b_zh": "表面上臣服于强者，暗中分化对手",
+    "b_en": "Outwardly submit to the strong while secretly dividing opponents"
+  },
+  {
+    "q_zh": "对方在公共场合对你进行羞辱式攻击。你会：",
+    "q_en": "Someone publicly humiliates you with an attack. Would you:",
+    "a_zh": "冷静自嘲，将焦点转移至对方的不当行为",
+    "a_en": "Coolly self-deprecate and shift focus to their inappropriate behavior",
+    "b_zh": "立刻以同样激烈的方式回击，捍卫尊严",
+    "b_en": "Immediately retaliate with equal intensity to defend your honor"
+  },
+  {
+    "q_zh": "你有一个秘密计划，但需要他人协助。你会：",
+    "q_en": "You have a secret plan but need someone's help. Would you:",
+    "a_zh": "只透露必要信息，并观察对方忠诚度再渐次放权",
+    "a_en": "Reveal only essential info, observe loyalty, then gradually delegate",
+    "b_zh": "完全信任对方，以诚相待来换取对方全心投入",
+    "b_en": "Trust them fully and be completely open to win full commitment"
+  },
+  {
+    "q_zh": "在竞争激烈的情境下，对手突然示好。你会：",
+    "q_en": "In a highly competitive situation, your rival suddenly shows friendliness. Would you:",
+    "a_zh": "表面接受，但暗中提高警惕，预设陷阱",
+    "a_en": "Accept outwardly but double vigilance and lay traps secretly",
+    "b_zh": "真诚回应，或许对方确实想化敌为友",
+    "b_en": "Respond sincerely, believing they may truly want to turn enemies into friends"
+  },
+  {
+    "q_zh": "你发现自己犯了错，可能会被对手利用。你会：",
+    "q_en": "You find you have made a mistake that could be exploited by opponents. Would you:",
+    "a_zh": "主动公开承认错误，并引导话题至更大的战略目的",
+    "a_en": "Proactively admit the mistake publicly, steering the narrative toward a larger strategic goal",
+    "b_zh": "极力掩盖，同时制造假象转移对手注意力",
+    "b_en": "Desperately cover up while creating distractions to mislead opponents"
+  },
+  {
+    "q_zh": "在一次关键博弈中，你手中有一张王牌，但时机未到。你会：",
+    "q_en": "In a key game, you hold a trump card but the timing isn't right. Would you:",
+    "a_zh": "故意泄露部分信息，引诱对手做出错误布局",
+    "a_en": "Deliberately leak partial info to lure opponents into wrong moves",
+    "b_zh": "完全隐藏底牌，直到最后一刻突然亮出",
+    "b_en": "Completely hide it until the very last moment to spring a surprise"
+  },
+  {
+    "q_zh": "面对一个情绪化且冲动的对手，你会：",
+    "q_en": "Facing an emotional and impulsive opponent, would you:",
+    "a_zh": "故意挑衅，加速其做出非理性决策",
+    "a_en": "Deliberately provoke to accelerate their irrational decisions",
+    "b_zh": "保持温和理性，用逻辑使其情绪平复",
+    "b_en": "Stay calm and rational to help them calm down with logic"
+  },
+  {
+    "q_zh": "你与合作伙伴存在长期利益冲突。你会：",
+    "q_en": "You and a long-term partner have conflicting interests. Would you:",
+    "a_zh": "建立双赢框架，将冲突转化为共同收益",
+    "a_en": "Establish a win-win framework to transform conflict into mutual gain",
+    "b_zh": "逐步削弱对方筹码，准备在本轮博弈中彻底压制",
+    "b_en": "Gradually weaken their leverage, aiming to crush them in the current game"
   }
 ]
