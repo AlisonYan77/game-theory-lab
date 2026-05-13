@@ -7495,5 +7495,85 @@
     "a_en": "Establish a win-win framework to transform conflict into mutual gain",
     "b_zh": "逐步削弱对方筹码，准备在本轮博弈中彻底压制",
     "b_en": "Gradually weaken their leverage, aiming to crush them in the current game"
+  },
+  {
+    "q_zh": "你和一个陌生人进行一次性囚徒困境博弈。对方选择合作，而你选择背叛，你会因此获得最高收益。你选择：",
+    "q_en": "In a one-shot prisoner's dilemma with a stranger, they choose to cooperate. You would gain the highest payoff by defecting. What do you choose?",
+    "a_zh": "背叛，追求个人利益最大化",
+    "a_en": "Defect, to maximize personal gain",
+    "b_zh": "合作，维护信任与互惠原则",
+    "b_en": "Cooperate, to uphold trust and reciprocity"
+  },
+  {
+    "q_zh": "在连续五轮的重复博弈中，对手在前四轮始终背叛你。最后一轮，你选择：",
+    "q_en": "In a five-round repeated game, your opponent has defected in all four previous rounds. In the final round, you:",
+    "a_zh": "报复性背叛，让他付出代价",
+    "a_en": "Defect in retaliation to make them pay",
+    "b_zh": "尝试合作，以示宽容可能带来转变",
+    "b_en": "Try cooperating to show leniency might elicit change"
+  },
+  {
+    "q_zh": "谈判中，对方提出一个对你极其有利但对对方不公平的方案。你担心对方日后反悔或报复。你选择：",
+    "q_en": "In a negotiation, the other party proposes a deal highly favorable to you but unfair to them. You worry about future retaliation or reneging. You choose:",
+    "a_zh": "接受，抓住当前最大利益",
+    "a_en": "Accept it, seizing the maximum immediate gain",
+    "b_zh": "拒绝并寻求更均衡的方案，维持长期关系",
+    "b_en": "Reject it and seek a more balanced deal to preserve the long-term relationship"
+  },
+  {
+    "q_zh": "在一个匿名捐款游戏中，你知道如果自己捐出100元，集体将获得500元，但你会损失100元。你选择：",
+    "q_en": "In an anonymous donation game, you know that if you donate $100, the group gains $500, but you personally lose $100. You:",
+    "a_zh": "不捐，避免个人损失",
+    "a_en": "Don't donate, to avoid personal loss",
+    "b_zh": "捐出，为了集体利益做出牺牲",
+    "b_en": "Donate, to make a sacrifice for the group's benefit"
+  },
+  {
+    "q_zh": "在拍卖会上，你与另一人争夺一件物品，目前竞价已经远超其实际价值。如果你继续加价，对手可能放弃，但你将蒙受损失。你选择：",
+    "q_en": "At an auction, you are bidding against another person for an item; the current bid far exceeds its real value. If you raise the bid, your opponent may drop out, but you will suffer a loss. You:",
+    "a_zh": "继续加价，试图迫使对手退出",
+    "a_en": "Continue bidding, trying to force the opponent out",
+    "b_zh": "停止加价，接受沉没成本，退出竞争",
+    "b_en": "Stop bidding, accept the sunk cost, and exit the competition"
+  },
+  {
+    "q_zh": "在“胆小鬼博弈”中，你和对手相向而行。如果谁先转向，谁就丢面子；如果都不转向，双方将相撞受伤。你选择：",
+    "q_en": "In a game of chicken, you and your opponent drive toward each other. Whoever swerves first loses face; if neither swerves, both crash and get hurt. You:",
+    "a_zh": "坚持不转向，展示更强决心",
+    "a_en": "Hold your course, showing stronger resolve",
+    "b_zh": "及时转向，避免两败俱伤",
+    "b_en": "Swerve in time to avoid mutual destruction"
+  },
+  {
+    "q_zh": "在一场信任投资游戏中，你作为投资人，把资金交给对方打理。对方可以选择诚信返还利润，也可以卷款跑路。你选择：",
+    "q_en": "In a trust investment game, as the investor, you entrust funds to the other party who can either return the profit honestly or abscond with the money. You:",
+    "a_zh": "小额投资，试探对方是否可信",
+    "a_en": "Invest a small amount to test the other's trustworthiness",
+    "b_zh": "大额投资，表达充分信任以换取更大回报",
+    "b_en": "Invest a large amount to show full trust and seek greater returns"
+  },
+  {
+    "q_zh": "在多人公共物品贡献中，你发现小组多数成员都在搭便车不贡献。你选择：",
+    "q_en": "In a multi-person public goods game, you notice that most group members are free-riding and not contributing. You:",
+    "a_zh": "同样不贡献，避免单方面吃亏",
+    "a_en": "Stop contributing as well, to avoid being the only sucker",
+    "b_zh": "继续贡献，希望维持公共物品的最低水平",
+    "b_en": "Continue contributing, hoping to maintain a minimal level of the public good"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你作为分配者，拥有100元可以分给另一方。如果你分得太少，对方可能拒绝导致双方都一无所获。你选择：",
+    "q_en": "In an ultimatum game, as the proposer, you have $100 to split with the other player. If you offer too little, they may reject, leaving both with nothing. You:",
+    "a_zh": "分给对方极少（如1元），试探对方理性程度",
+    "a_en": "Offer a very small amount (e.g., $1) to test the other's rationality",
+    "b_zh": "分给对方较公平份额（如40-50元），确保接受",
+    "b_en": "Offer a fair share (e.g., $40-50) to ensure acceptance"
+  },
+  {
+    "q_zh": "在信息不对称的“柠檬市场”中，你出售一辆质量尚可的二手车，但买家无法分辨质量好坏。市场均价只适用于劣质车。你选择：",
+    "q_en": "In a 'lemon market' with asymmetric information, you are selling a decent used car, but buyers cannot tell quality. The market price only reflects poor-quality cars. You:",
+    "a_zh": "按市场均价出售，快速脱手",
+    "a_en": "Sell at the market average price to unload quickly",
+    "b_zh": "索要更高价格并主动提供质量保证或检测报告",
+    "b_en": "Ask for a higher price and proactively offer a quality guarantee or inspection report"
   }
 ]
