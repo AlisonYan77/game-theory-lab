@@ -7575,5 +7575,85 @@
     "a_en": "Sell at the market average price to unload quickly",
     "b_zh": "索要更高价格并主动提供质量保证或检测报告",
     "b_en": "Ask for a higher price and proactively offer a quality guarantee or inspection report"
+  },
+  {
+    "q_zh": "在最后一轮博弈中，你发现对手一直在模仿你的选择。你该如何应对？",
+    "q_en": "In the final round, you realize your opponent has been mirroring your choices. How should you respond?",
+    "a_zh": "故意选择合作，诱导对手模仿，从而确保互惠，拿到高分",
+    "a_en": "Deliberately choose cooperation to bait mirroring, securing mutual high payoff",
+    "b_zh": "选择背叛，因为这是最后机会攫取最大利益，无需考虑后续影响",
+    "b_en": "Choose defection, as this is the last chance to maximize gains with no future consequences"
+  },
+  {
+    "q_zh": "你身处重复囚徒困境，对手历史行为显示合作率仅为30%。你应该采取什么初始策略？",
+    "q_en": "In an iterated Prisoner's Dilemma, your opponent's history shows only 30% cooperation. What initial strategy should you adopt?",
+    "a_zh": "首轮合作，传递善意信号后再根据对方反应调整",
+    "a_en": "Cooperate in the first round to send a goodwill signal, then adjust based on response",
+    "b_zh": "首轮直接背叛，测试对方是否因被背叛而改变策略",
+    "b_en": "Defect in the first round to test if the opponent will change strategy when betrayed"
+  },
+  {
+    "q_zh": "在讨价还价博弈中，对方开局报出明显不合理的低价，你的最优应对是？",
+    "q_en": "In a negotiation game, your opponent opens with an unreasonably low offer. What is your best response?",
+    "a_zh": "立刻还以同样过激的低价，展示强硬姿态",
+    "a_en": "Immediately counter with an equally aggressive low offer to show toughness",
+    "b_zh": "冷静地提出接近底线的合理报价，并解释依据",
+    "b_en": "Calmly propose a reasonable offer near your reservation price, with explanation"
+  },
+  {
+    "q_zh": "你与对手进行‘信任投资’游戏：你决定投资金额，对手将决定返还比例。你了解对手是利己主义者，你会投多少钱？",
+    "q_en": "In a trust investment game: you decide investment amount, opponent decides return rate. Knowing they are self-interested, how much do you invest?",
+    "a_zh": "一分不投，避免被对方完全利用",
+    "a_en": "Invest nothing to avoid being completely exploited",
+    "b_zh": "投入少量金额试探对方的返还意愿",
+    "b_en": "Invest a small amount to test their willingness to reciprocate"
+  },
+  {
+    "q_zh": "在多轮公共物品博弈中，你发现组内其他三人全部选择‘免费搭车’（不出资但享受成果）。此时你的最佳行动是？",
+    "q_en": "In a multi-round public goods game, the other three members all free-ride. What is your best move?",
+    "a_zh": "也选择不出资，减少个人损失，实现‘以牙还牙’式对等",
+    "a_en": "Also free-ride to minimize personal loss, implementing tit-for-tat equity",
+    "b_zh": "继续出资，用表率行为试图唤醒他人的合作意识",
+    "b_en": "Continue contributing, modeling cooperation in hopes of inspiring others"
+  },
+  {
+    "q_zh": "博弈中，对手向你暗示‘如果你背叛，我也会背叛到底’。但此信息毫无承诺约束。你应该信任这个威胁吗？",
+    "q_en": "Your opponent hints 'if you defect, I'll defect forever.' This threat has no binding commitment. Should you trust it?",
+    "a_zh": "不信任，因为缺乏约束的威胁往往是虚张声势，可利用对方理性获利",
+    "a_en": "No, as unenforceable threats are often bluffs; exploit the opponent's rationality",
+    "b_zh": "信任，因为即使是虚假威胁，一旦激发对方情绪也可能演变成真实报复",
+    "b_en": "Yes, because even a bluff can turn real if it triggers the opponent's emotions"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你对物品的估值是100元，当前最高竞价为80元，你的竞争者看起来很急切。你会怎么做？",
+    "q_en": "In an auction, you value the item at $100, current bid is $80, and your rival appears eager. What do you do?",
+    "a_zh": "直接加价到100元，以高价吓退对手",
+    "a_en": "Jump to $100 immediately to intimidate the opponent",
+    "b_zh": "只加价1元，通过微小加价试探对手的真实支付意愿",
+    "b_en": "Raise by only $1 to probe the rival's true willingness to pay"
+  },
+  {
+    "q_zh": "你和对手各选两个数字，和等于某个目标则双方得分，否则惩罚。你知道对手是完美理性的。你会选择什么数字？",
+    "q_en": "You and opponent pick numbers summing to a target for joint reward, else penalty. Knowing opponent is perfectly rational, what number do you pick?",
+    "a_zh": "选择‘纳什均衡点’的对应值，追求风险最小化",
+    "a_en": "Pick the Nash equilibrium value to minimize risk",
+    "b_zh": "选择非对称数字，试图打破理性预期获得意外优势",
+    "b_en": "Pick an asymmetric number to break rational expectations and gain surprise advantage"
+  },
+  {
+    "q_zh": "在‘消耗战’博弈中，双方持续对峙，你已投入大量沉没成本。对手也显得疲惫不堪。你应该？",
+    "q_en": "In a war of attrition, both sides have invested huge sunk costs and seem exhausted. What should you do?",
+    "a_zh": "继续对峙，因为对方可能比你更早崩溃",
+    "a_en": "Continue, as the opponent may collapse sooner",
+    "b_zh": "立即让步止损，避免进一步损失",
+    "b_en": "Concede immediately to cut losses"
+  },
+  {
+    "q_zh": "在信号博弈中，你作为‘低质量’类型，想通过发送昂贵信号冒充‘高质量’来获取长期合作。对方是理性识别者。你会？",
+    "q_en": "In a signaling game as a 'low-quality' type, you want to send a costly signal to pose as 'high-quality' for long-term cooperation. The opponent is a rational screener. You:",
+    "a_zh": "发送足够昂贵的、高质量类型也愿意发送的信号，保持可信",
+    "a_en": "Send a signal costly enough that high-quality types would also send, maintaining credibility",
+    "b_zh": "发送低成本的信号，因为对方无法分辨信号真伪",
+    "b_en": "Send a low-cost signal, because the opponent cannot distinguish signal authenticity"
   }
 ]
