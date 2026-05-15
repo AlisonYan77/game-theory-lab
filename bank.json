@@ -7655,5 +7655,85 @@
     "a_en": "Send a signal costly enough that high-quality types would also send, maintaining credibility",
     "b_zh": "发送低成本的信号，因为对方无法分辨信号真伪",
     "b_en": "Send a low-cost signal, because the opponent cannot distinguish signal authenticity"
+  },
+  {
+    "q_zh": "在囚徒困境中，对方选择合作，你会选择？",
+    "q_en": "In the Prisoner's Dilemma, if the other player cooperates, what do you choose?",
+    "a_zh": "合作（信任对方，共同获益）",
+    "a_en": "Cooperate (trust each other, mutual benefit)",
+    "b_zh": "背叛（出卖对方，获取最大利益）",
+    "b_en": "Defect (betray the other, gain maximum benefit)"
+  },
+  {
+    "q_zh": "在重复博弈中，对方连续背叛你三次，下一次你会？",
+    "q_en": "In a repeated game, after the opponent betrays you three times in a row, what do you do next?",
+    "a_zh": "继续合作（尝试感化对方）",
+    "a_en": "Keep cooperating (try to reform the opponent)",
+    "b_zh": "以牙还牙（也选择背叛）",
+    "b_en": "Tit-for-tat (also betray)"
+  },
+  {
+    "q_zh": "面对一个完全理性的对手，你会优先选择？",
+    "q_en": "Facing a perfectly rational opponent, which strategy do you prioritize?",
+    "a_zh": "利他策略（牺牲自己成全对方）",
+    "a_en": "Altruistic strategy (sacrifice yourself for the other)",
+    "b_zh": "纳什均衡策略（确保自身利益最大化）",
+    "b_en": "Nash equilibrium strategy (maximize your own payoff)"
+  },
+  {
+    "q_zh": "在零和博弈中，你发现对方有固定模式，你会？",
+    "q_en": "In a zero-sum game, you discover your opponent has a fixed pattern. What do you do?",
+    "a_zh": "利用该模式持续获利",
+    "a_en": "Exploit the pattern for continuous gain",
+    "b_zh": "随机行动以迷惑对方",
+    "b_en": "Act randomly to confuse the opponent"
+  },
+  {
+    "q_zh": "当惩罚机制足够严厉时，你会选择？",
+    "q_en": "When the punishment mechanism is sufficiently severe, what do you choose?",
+    "a_zh": "合作（避免被惩罚）",
+    "a_en": "Cooperate (to avoid punishment)",
+    "b_zh": "试探性背叛（评估惩罚执行概率）",
+    "b_en": "Tentative defection (assess the probability of punishment enforcement)"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你与对手实力悬殊，你会？",
+    "q_en": "In an auction game with a huge power imbalance, what do you do?",
+    "a_zh": "虚张声势（假装有更多资源）",
+    "a_en": "Bluff (pretend to have more resources)",
+    "b_zh": "理性退出（避免亏损）",
+    "b_en": "Rational exit (avoid losses)"
+  },
+  {
+    "q_zh": "面对一个爱报复的对手，首次博弈你会？",
+    "q_en": "Facing a vengeful opponent in the first round, what do you do?",
+    "a_zh": "示好（选择合作建立关系）",
+    "a_en": "Start friendly (choose cooperation to build rapport)",
+    "b_zh": "强硬先发制人（先背叛）",
+    "b_en": "Preemptively strike (betray first)"
+  },
+  {
+    "q_zh": "在合作博弈中，对方表现出明显焦虑，你会？",
+    "q_en": "In a cooperative game, if the opponent shows obvious anxiety, what do you do?",
+    "a_zh": "安抚对方（降低敌意以促进合作）",
+    "a_en": "Reassure them (reduce hostility to foster cooperation)",
+    "b_zh": "施压（利用对方弱点迫使其让步）",
+    "b_en": "Apply pressure (exploit their weakness to force concessions)"
+  },
+  {
+    "q_zh": "在博弈中，你猜测对方会模仿你的上一轮行为，你会？",
+    "q_en": "In a game, you suspect the opponent will imitate your previous move. What do you do?",
+    "a_zh": "先合作（引导良性循环）",
+    "a_en": "Cooperate first (to trigger a virtuous cycle)",
+    "b_zh": "先背叛（诱导对方失误后获利）",
+    "b_en": "Betray first (induce the opponent's mistake for gain)"
+  },
+  {
+    "q_zh": "面对一个完全随机行动的对手，你选择？",
+    "q_en": "Facing a completely random opponent, what do you choose?",
+    "a_zh": "固定策略（减少不确定性）",
+    "a_en": "Fixed strategy (reduce uncertainty)",
+    "b_zh": "学习并适应（尝试寻找隐含规律）",
+    "b_en": "Learn and adapt (try to find hidden patterns)"
   }
 ]
