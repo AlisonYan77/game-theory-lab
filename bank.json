@@ -7735,5 +7735,85 @@
     "a_en": "Fixed strategy (reduce uncertainty)",
     "b_zh": "学习并适应（尝试寻找隐含规律）",
     "b_en": "Learn and adapt (try to find hidden patterns)"
+  },
+  {
+    "q_zh": "在一个重复博弈中，如果你发现对手始终选择背叛，你的最优策略是？",
+    "q_en": "In a repeated game, if you find your opponent always chooses to defect, what is your optimal strategy?",
+    "a_zh": "永远背叛，以最大化短期收益",
+    "a_en": "Always defect to maximize short-term gains",
+    "b_zh": "尝试一两次合作后，再长期背叛",
+    "b_en": "Try cooperation once or twice, then defect long-term"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，作为提议者，你给出一个明显不公平的分配（如9:1），理性回应者最可能的行为是？",
+    "q_en": "In an ultimatum game as the proposer, if you offer a clearly unfair split (e.g., 9:1), what is the rational responder most likely to do?",
+    "a_zh": "拒绝，即使自己一无所获也要惩罚不公平",
+    "a_en": "Reject, punishing unfairness even at personal cost",
+    "b_zh": "接受，因为获得一点总比没有好",
+    "b_en": "Accept, because getting something is better than nothing"
+  },
+  {
+    "q_zh": "在囚徒困境中，对方承诺一定会合作，但你知道对方是理性人，你应该？",
+    "q_en": "In a prisoner's dilemma, your opponent promises to cooperate, but you know they are rational. What should you do?",
+    "a_zh": "相信承诺，选择合作",
+    "a_en": "Trust the promise and cooperate",
+    "b_zh": "选择背叛，因为背叛是理性占优策略",
+    "b_en": "Defect, as defection is the rational dominant strategy"
+  },
+  {
+    "q_zh": "在懦夫博弈中，如果你希望对方先退缩，最佳策略是？",
+    "q_en": "In a chicken game, if you want the opponent to swerve first, what is the best strategy?",
+    "a_zh": "展示你完全疯狂、绝不退缩的信号",
+    "a_en": "Signal that you are completely crazy and will never swerve",
+    "b_zh": "发送模棱两可的信号，让对方猜疑",
+    "b_en": "Send ambiguous signals to keep the opponent guessing"
+  },
+  {
+    "q_zh": "在讨价还价博弈中，你的时间成本低于对方，应该采取的策略是？",
+    "q_en": "In a bargaining game, if your time cost is lower than your opponent's, what strategy should you adopt?",
+    "a_zh": "主动提出妥协，快速达成协议节省时间",
+    "a_en": "Propose a compromise to reach a quick agreement and save time",
+    "b_zh": "坚持更有利的条款，利用对方不耐心的优势",
+    "b_en": "Insist on more favorable terms, leveraging the opponent's impatience"
+  },
+  {
+    "q_zh": "在志愿者困境中，只需要一人牺牲即可集体获益，如果每个人都等待别人行动，结果会？",
+    "q_en": "In a volunteer's dilemma, only one sacrifice is needed for collective gain. If everyone waits for others to act, what happens?",
+    "a_zh": "有人最终会无法忍受而主动牺牲",
+    "a_en": "Someone will eventually break down and volunteer",
+    "b_zh": "所有人都不行动，导致集体失败",
+    "b_en": "No one acts, leading to collective failure"
+  },
+  {
+    "q_zh": "在不对称信息博弈中，你知道自己占有信息优势，对方表现出过度自信，你应？",
+    "q_en": "In an asymmetric information game, you have an information advantage and your opponent appears overconfident. What should you do?",
+    "a_zh": "主动透露部分真实信息，诱导对方犯错",
+    "a_en": "Reveal some truthful information to induce the opponent into mistakes",
+    "b_zh": "完全隐藏信息，等待对手自行暴露弱点",
+    "b_en": "Hide all information and wait for the opponent to expose weaknesses"
+  },
+  {
+    "q_zh": "在重复囚徒困境中，以牙还牙策略的最大弱点是什么？",
+    "q_en": "In a repeated prisoner's dilemma, what is the biggest weakness of the tit-for-tat strategy?",
+    "a_zh": "无法从持续的互相背叛循环中自行恢复合作",
+    "a_en": "It cannot recover from a cycle of mutual defection on its own",
+    "b_zh": "太容易原谅对手的初次背叛",
+    "b_en": "It forgives the opponent's first defection too easily"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你非常想要某件拍品，但预算有限，最佳策略是？",
+    "q_en": "In an auction game, you really want an item but have a limited budget. What is the best strategy?",
+    "a_zh": "从一开始就出最高预算，吓退竞拍者",
+    "a_en": "Bid your maximum budget from the start to scare off other bidders",
+    "b_zh": "缓慢加价，观察对手反应再决策",
+    "b_en": "Increment slowly, observe opponents' reactions, then decide"
+  },
+  {
+    "q_zh": "在协调博弈中，你和对方需要在两种方案中选一，但无法沟通，最理性的做法是？",
+    "q_en": "In a coordination game where you and your opponent must choose between two options without communication, what is the most rational approach?",
+    "a_zh": "选择更显眼、更常见的默认选项",
+    "a_en": "Choose the more salient, common default option",
+    "b_zh": "随机选择，因为双方完全对称",
+    "b_en": "Choose randomly, as both options are perfectly symmetric"
   }
 ]
