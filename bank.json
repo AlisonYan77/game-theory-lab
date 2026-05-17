@@ -7815,5 +7815,85 @@
     "a_en": "Choose the more salient, common default option",
     "b_zh": "随机选择，因为双方完全对称",
     "b_en": "Choose randomly, as both options are perfectly symmetric"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，你的对手在过去五轮中连续合作。你更倾向于：",
+    "q_en": "In a repeated prisoner's dilemma, your opponent has cooperated for the last five rounds. You are more inclined to:",
+    "a_zh": "继续合作，以维持互惠关系",
+    "a_en": "Continue cooperating to maintain mutual reciprocity",
+    "b_zh": "选择背叛，以获取单次最大收益",
+    "b_en": "Defect to gain maximum payoff in the single round"
+  },
+  {
+    "q_zh": "在一次一次性的拍卖博弈中，你发现其他所有竞拍者都出价很低。你的策略是：",
+    "q_en": "In a one-shot auction game, you find all other bidders are placing low bids. Your strategy is:",
+    "a_zh": "跟随低价，避免陷入赢家诅咒",
+    "a_en": "Follow low bids to avoid winner's curse",
+    "b_zh": "大幅提高出价，赌对手会退缩",
+    "b_en": "Bid significantly higher, betting opponents will fold"
+  },
+  {
+    "q_zh": "在谈判博弈中，对方一开始就提出一个极端的分配方案（90%给自己）。你的反应是：",
+    "q_en": "In a negotiation game, your counterpart opens with an extreme proposal (90% for themselves). Your response is:",
+    "a_zh": "提出一个同样极端的反方案作为威慑",
+    "a_en": "Propose an equally extreme counteroffer as deterrence",
+    "b_zh": "提出一个接近公平的方案，展示合作意愿",
+    "b_en": "Propose a near-fair split to show willingness to cooperate"
+  },
+  {
+    "q_zh": "在一个资源争夺游戏中，你和对手都只能获取有限的公共资源。你观察到对手正在快速消耗资源。你会：",
+    "q_en": "In a resource dilemma game, both you and your opponent can only access limited common resources. You observe your opponent is rapidly consuming. You will:",
+    "a_zh": "同时加速攫取，防止被对方耗尽",
+    "a_en": "Also accelerate extraction to prevent being depleted",
+    "b_zh": "主动减慢消耗，期望带动对方合作",
+    "b_en": "Intentionally slow down, hoping to induce cooperation"
+  },
+  {
+    "q_zh": "在信号博弈中，你需要向对方传递一个可信的承诺类型。你选择：",
+    "q_en": "In a signaling game, you need to convey a credible commitment type. You choose:",
+    "a_zh": "付出高昂成本的行为作为抵押（如提前支付押金）",
+    "a_en": "A costly action as a bond (e.g., prepaying a deposit)",
+    "b_zh": "口头承诺，不付出实际代价",
+    "b_en": "A verbal promise without incurring actual cost"
+  },
+  {
+    "q_zh": "在猜硬币博弈中，对手已经连续三次出同一面。你相信他这次会：",
+    "q_en": "In a matching pennies game, your opponent has chosen the same side three times in a row. You believe this time he will:",
+    "a_zh": "换边，因为人们会自然避免规律",
+    "a_en": "Switch sides, as people naturally avoid patterns",
+    "b_zh": "继续同边，因为他在测试你是否会随机化",
+    "b_en": "Stay same side, because he is testing your randomization"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你是提议者，只能用一笔小额金钱（10元）来分。你给对方的金额是：",
+    "q_en": "In an ultimatum game as the proposer with only a small sum ($10) to split, you offer:",
+    "a_zh": "5元（公平平分），确保对方接受",
+    "a_en": "$5 (even split) to ensure acceptance",
+    "b_zh": "1元（最小单位），赌对方理性接受",
+    "b_en": "$1 (minimum unit), betting on the recipient's rationality"
+  },
+  {
+    "q_zh": "在多方协作博弈中，其他人都在搭便车。你的策略是：",
+    "q_en": "In a collective action game, others are free-riding. Your strategy is:",
+    "a_zh": "也停止贡献，惩罚搭便车者",
+    "a_en": "Stop contributing too, to punish free-riders",
+    "b_zh": "继续贡献，希望有人良心发现带头改变",
+    "b_en": "Keep contributing, hoping someone else initiates change"
+  },
+  {
+    "q_zh": "在一个不完全信息博弈中，你掌握一个对双方都有利的秘密信息，但向对方全盘托出会使你失去优势。你选择：",
+    "q_en": "In a game of incomplete information, you have private information that benefits both sides, but revealing all makes you lose advantage. You choose:",
+    "a_zh": "选择性披露部分信息，诱导对方先让步",
+    "a_en": "Partially disclose to induce concession first",
+    "b_zh": "完全公开信息，建立长期信任",
+    "b_en": "Fully disclose to build long-term trust"
+  },
+  {
+    "q_zh": "在博弈的最后阶段，你处于微弱领先。对手突然表现出明显的焦虑。你会：",
+    "q_en": "In the final stage of a game, you have a slim lead. Your opponent suddenly shows clear anxiety. You will:",
+    "a_zh": "采取保守策略，稳扎稳打保持领先",
+    "a_en": "Adopt conservative strategy to safely maintain lead",
+    "b_zh": "采取激进策略，利用对方心理弱点扩大优势",
+    "b_en": "Adopt aggressive strategy to exploit psychological weakness"
   }
 ]
