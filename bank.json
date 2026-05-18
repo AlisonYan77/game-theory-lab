@@ -7895,5 +7895,85 @@
     "a_en": "Adopt conservative strategy to safely maintain lead",
     "b_zh": "采取激进策略，利用对方心理弱点扩大优势",
     "b_en": "Adopt aggressive strategy to exploit psychological weakness"
+  },
+  {
+    "q_zh": "你是一名“黑鹰”特工，上级命令你处决一名被捕的叛徒以保组织安全。但叛徒是你昔日的战友，曾在任务中救过你的命。你要如何选择？",
+    "q_en": "You are a 'Black Hawk' agent ordered to execute a captured traitor for the organization's safety. However, the traitor is your former comrade who once saved your life on a mission. What do you choose?",
+    "a_zh": "A. 执行命令，处决叛徒",
+    "a_en": "A. Carry out the order and execute the traitor",
+    "b_zh": "B. 违抗命令，放走叛徒",
+    "b_en": "B. Disobey the order and let the traitor go"
+  },
+  {
+    "q_zh": "你在一个秘密拍卖会上，以匿名方式竞拍一幅被盗名画。竞争对手是冷酷无情的犯罪集团头目。你已知对方会出价不低于真实价值，而你的资金有限。你是选择出价，还是放弃？",
+    "q_en": "You are at a secret auction bidding anonymously for a stolen masterpiece. Your rival is a ruthless crime boss. You know he will bid no less than the true value, but your funds are limited. Do you bid or walk away?",
+    "a_zh": "A. 出价，争取得到画作",
+    "a_en": "A. Bid to try to win the painting",
+    "b_zh": "B. 放弃，避免冲突和损失",
+    "b_en": "B. Walk away to avoid conflict and loss"
+  },
+  {
+    "q_zh": "你的国家面临恐怖分子威胁：他们劫持了一所小学，要求释放被关押的同伙。你是谈判专家，情报显示如果不妥协，他们会杀害人质；但妥协又会鼓励更多袭击。你选择？",
+    "q_en": "Your country faces a terrorist threat: they have taken an elementary school hostage and demand the release of their jailed comrades. As a negotiator, intel says refusing will lead to hostages killed, but giving in encourages more attacks. What do you choose?",
+    "a_zh": "A. 拒绝妥协，尝试强攻救人",
+    "a_en": "A. Refuse to compromise and attempt a rescue raid",
+    "b_zh": "B. 妥协释放囚犯，保全人质",
+    "b_en": "B. Give in to save the hostages"
+  },
+  {
+    "q_zh": "你是赌场老板，发现一位顶级老千正在你赌场疯狂赢钱，且没有留下证据。你可以选择暗中打断他的手脚，或者假装没看见，但可能失去更多资金。你选择？",
+    "q_en": "You are a casino boss who discovers a top cheater is winning huge sums at your casino without leaving evidence. You can have him beaten up secretly, or ignore him and risk losing more money. What do you choose?",
+    "a_zh": "A. 暗中惩罚他，确保赌场利益",
+    "a_en": "A. Secretly punish him to protect the casino's interests",
+    "b_zh": "B. 假装没看见，避免法律风险",
+    "b_en": "B. Pretend not to see, to avoid legal trouble"
+  },
+  {
+    "q_zh": "你被绑架并关在密室，绑匪要求你指认同伙的真实身份。如果你指认，自己可以获释，但同伙会被杀；如果你拒绝，你和同伙都会死。你知道同伙绝不会出卖你。你如何选择？",
+    "q_en": "You are kidnapped and locked in a room. The kidnapper demands you reveal your partner's real identity. If you do, you go free but your partner dies; if you refuse, both of you die. You know your partner would never betray you. What do you choose?",
+    "a_zh": "A. 指认同伙，保全自己",
+    "a_en": "A. Reveal your partner to save yourself",
+    "b_zh": "B. 拒绝指认，同生共死",
+    "b_en": "B. Refuse to reveal, die together"
+  },
+  {
+    "q_zh": "你是一名卧底，潜伏在黑帮高层多年。警方即将收网，但你发现自己爱上了一个黑帮成员。你可以提前通知警方改变计划保护她，但可能暴露身份；或保持沉默，看着她被捕。你如何选择？",
+    "q_en": "You are an undercover agent who has infiltrated the mafia for years. The police are about to arrest everyone, but you have fallen in love with a mafia member. You can tip off the police to protect her, but risk exposure; or stay silent and watch her get arrested. What do you choose?",
+    "a_zh": "A. 通知警方保护她，即使可能暴露",
+    "a_en": "A. Tip off the police to protect her, even if it risks exposure",
+    "b_zh": "B. 保持沉默，让她被捕",
+    "b_en": "B. Stay silent and let her be arrested"
+  },
+  {
+    "q_zh": "你负责核电站安全，发现一名工程师故意篡改冷却系统参数。你可以在不惊动外界的情况下悄悄处理掉他，也可以报告上级，但可能导致核电站被暂时关闭和巨大经济损失。你选择？",
+    "q_en": "You are in charge of nuclear plant safety and discover an engineer is deliberately tampering with coolant parameters. You can quietly neutralize him without alerting others, or report it, which may shut down the plant and cause huge economic loss. What do you choose?",
+    "a_zh": "A. 悄悄处理掉他",
+    "a_en": "A. Quietly neutralize him",
+    "b_zh": "B. 按流程报告上级",
+    "b_en": "B. Report it through proper channels"
+  },
+  {
+    "q_zh": "你被困在荒岛，与另一名幸存者争夺仅有的一瓶淡水。你们都濒临脱水，但对方有刀。你相信如果合作均分，两人能多活几天，但对方可能会偷袭你抢走水。你选择？",
+    "q_en": "You are stranded on a desert island, competing with another survivor for the only bottle of fresh water. Both of you are near dehydration. He has a knife. You believe sharing would let both survive longer, but he might ambush you for the water. What do you choose?",
+    "a_zh": "A. 提议合作均分淡水",
+    "a_en": "A. Propose to share the water equally",
+    "b_zh": "B. 先下手为强，抢夺水并控制对方",
+    "b_en": "B. Strike first, grab the water and subdue him"
+  },
+  {
+    "q_zh": "你是一名战地医生，敌方伤员被送入你的野战医院。如果你救治他，可以利用他的感激获取情报，但会占用本就不足的医疗资源；如果放弃治疗，能救更多己方士兵。你如何选择？",
+    "q_en": "You are a battlefield doctor. An enemy wounded soldier is brought to your field hospital. If you treat him, you may gain intel out of gratitude, but it uses scarce medical supplies. If you let him die, you can save more of your own. What do you choose?",
+    "a_zh": "A. 救治他，以获取情报",
+    "a_en": "A. Treat him to gain intelligence",
+    "b_zh": "B. 放弃治疗，优先救治己方",
+    "b_en": "B. Let him die and prioritize your own soldiers"
+  },
+  {
+    "q_zh": "你是一个大毒枭，警方已经盯上你的组织。你可以放弃所有生意，带着家人隐姓埋名，但会失去财富和权力；也可以贿赂警方高层，继续经营，但风险极大。你选择？",
+    "q_en": "You are a major drug lord, and the police are closing in on your organization. You can abandon everything and go into hiding with your family, losing wealth and power; or bribe high-ranking police to continue the business, with huge risk. What do you choose?",
+    "a_zh": "A. 放弃生意，隐姓埋名",
+    "a_en": "A. Abandon the business and go into hiding",
+    "b_zh": "B. 贿赂警方，继续冒险经营",
+    "b_en": "B. Bribe the police and continue the risky operation"
   }
 ]
