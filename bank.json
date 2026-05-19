@@ -7975,5 +7975,85 @@
     "a_en": "A. Abandon the business and go into hiding",
     "b_zh": "B. 贿赂警方，继续冒险经营",
     "b_en": "B. Bribe the police and continue the risky operation"
+  },
+  {
+    "q_zh": "在一次零和拍卖中，对手的出价已经明显超过物品实际价值。你会？",
+    "q_en": "In a zero-sum auction, your opponent's bid clearly exceeds the item's actual value. What do you do?",
+    "a_zh": "停止出价，接受损失，避免更大亏损。",
+    "a_en": "Stop bidding, accept the loss, avoid greater loss.",
+    "b_zh": "继续出价，试图迫使对手亏损更多。",
+    "b_en": "Continue bidding, trying to force your opponent to lose more."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，对方第一轮选择了背叛。你会在第二轮选择？",
+    "q_en": "In a repeated Prisoner's Dilemma, the opponent defected in the first round. What do you choose in the second round?",
+    "a_zh": "背叛，以牙还牙。",
+    "a_en": "Defect, tit for tat.",
+    "b_zh": "合作，试图重建信任。",
+    "b_en": "Cooperate, attempting to rebuild trust."
+  },
+  {
+    "q_zh": "在公共物品博弈中，其他人都在搭便车。你会？",
+    "q_en": "In a public goods game, others are free-riding. What do you do?",
+    "a_zh": "仍然贡献，维护集体利益。",
+    "a_en": "Still contribute, maintain the collective good.",
+    "b_zh": "停止贡献，避免被利用。",
+    "b_en": "Stop contributing, avoid being exploited."
+  },
+  {
+    "q_zh": "在谈判博弈中，对方提出了一个对你极为不利但可能被接受的方案。你会？",
+    "q_en": "In a negotiation game, the opponent proposes a deal that is very unfavorable to you but might be accepted. What do you do?",
+    "a_zh": "接受，见好就收。",
+    "a_en": "Accept, take what you can get.",
+    "b_zh": "拒绝，等待更好的机会出现。",
+    "b_en": "Refuse, wait for a better opportunity."
+  },
+  {
+    "q_zh": "在猜硬币博弈中，你预测对方会选正面。你会选？",
+    "q_en": "In a coin-guessing game, you predict the opponent will choose heads. What do you choose?",
+    "a_zh": "正面，利用对手的从众心理。",
+    "a_en": "Heads, exploiting the opponent's conformity bias.",
+    "b_zh": "反面，假设对手会猜你会选正面。",
+    "b_en": "Tails, assuming the opponent expects you to choose heads."
+  },
+  {
+    "q_zh": "在消耗战中，你和对手都已投入了大量资源。你会？",
+    "q_en": "In a war of attrition, both you and the opponent have invested heavily. What do you do?",
+    "a_zh": "坚持到底，直到对方退出。",
+    "a_en": "Persist until the opponent gives up.",
+    "b_zh": "主动退出，止损离场。",
+    "b_en": "Quit voluntarily, cut losses and exit."
+  },
+  {
+    "q_zh": "在一次博弈中，你可以选择透露自己即将做出的选择。你会？",
+    "q_en": "In a game where you can reveal your upcoming choice, what do you do?",
+    "a_zh": "透露，以建立承诺或威慑。",
+    "a_en": "Reveal, to create commitment or deterrence.",
+    "b_zh": "不透露，保持信息优势。",
+    "b_en": "Not reveal, maintain information advantage."
+  },
+  {
+    "q_zh": "在三人博弈中，如果你与另一人结盟可以压倒第三个人，但结盟伙伴可能背叛。你会？",
+    "q_en": "In a three-player game, allying with one can overwhelm the third, but the ally may betray. What do you do?",
+    "a_zh": "主动结盟，并设计反制背叛的机制。",
+    "a_en": "Proactively ally and design mechanisms against betrayal.",
+    "b_zh": "保持中立，扮演均衡者角色。",
+    "b_en": "Stay neutral, act as a balancer."
+  },
+  {
+    "q_zh": "在最终通牒博弈中，对方给你一个极不公平的分成（如90%给自己）。你会？",
+    "q_en": "In an ultimatum game, the opponent proposes a very unfair split (e.g., 90% to themselves). What do you do?",
+    "a_zh": "拒绝，惩罚不公平行为。",
+    "a_en": "Reject, punish the unfair behavior.",
+    "b_zh": "接受，拿到一点总比没有好。",
+    "b_en": "Accept, getting something is better than nothing."
+  },
+  {
+    "q_zh": "在信号博弈中，对方发出了一个高成本的昂贵信号。你会？",
+    "q_en": "In a signaling game, the opponent sends a costly signal. What do you do?",
+    "a_zh": "相信信号，调整策略与对方合作。",
+    "a_en": "Believe the signal, adjust strategy to cooperate.",
+    "b_zh": "怀疑信号，对方可能在虚张声势。",
+    "b_en": "Doubt the signal, the opponent may be bluffing."
   }
 ]
