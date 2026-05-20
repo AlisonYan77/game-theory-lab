@@ -8055,5 +8055,85 @@
     "a_en": "Believe the signal, adjust strategy to cooperate.",
     "b_zh": "怀疑信号，对方可能在虚张声势。",
     "b_en": "Doubt the signal, the opponent may be bluffing."
+  },
+  {
+    "q_zh": "在一个重复囚徒困境游戏中，你的对手在上轮选择了背叛。你相信对手是理性且自利的。这一轮，你会选择？",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent defected last round. You believe they are rational and self-interested. This round, do you?",
+    "a_zh": "合作（尝试宽恕，希望恢复互惠）",
+    "a_en": "Cooperate (attempt forgiveness, hoping to restore reciprocity)",
+    "b_zh": "背叛（报复性背叛，防止被持续利用）",
+    "b_en": "Defect (retaliatory defection to prevent continued exploitation)"
+  },
+  {
+    "q_zh": "你和对手正在玩一个“分蛋糕”的提议-回应博弈。你可以提议分给自己10元，给对手0元；或分给自己6元，给对手4元。对手接受则按提议分配，拒绝则双方都得0元。你的提议是？",
+    "q_en": "In an ultimatum game, you can propose: $10 for you, $0 for opponent; or $6 for you, $4 for opponent. If opponent accepts, it's split; if rejects, both get $0. What do you propose?",
+    "a_zh": "10元给自己，0元给对手（贪婪但冒险）",
+    "a_en": "$10 for me, $0 for opponent (greedy but risky)",
+    "b_zh": "6元给自己，4元给对手（公平但少得）",
+    "b_en": "$6 for me, $4 for opponent (fair but less for me)"
+  },
+  {
+    "q_zh": "你参加一个拍卖：你和对手竞拍一张100元钞票。你们轮流出价，每次加价10元。最终出价最高者付自己的出价并得100元，但次高者也要付自己的出价却一无所获。你目前是次高，出价70元，对手出价80元。轮到你了，你会？",
+    "q_en": "In a dollar auction: you and a rival bid for a $100 bill. Bid increments $10. Winner pays their bid, gets $100; loser pays their bid, gets nothing. You're second at $70, opponent at $80. Your turn?",
+    "a_zh": "放弃，损失70元离场",
+    "a_en": "Quit, lose $70 and leave",
+    "b_zh": "加价到90元，试图竞争下去",
+    "b_en": "Raise to $90, try to continue competing"
+  },
+  {
+    "q_zh": "在“懦夫博弈”中，你和对手驾车相向而行。如果你打方向盘转向，你会被嘲笑为“小鸡”；如果你坚持直行，对方转向你就赢了；但如果都直行，则车毁人亡。此时你看到对方蒙上了眼睛（表示他绝不转向），你会？",
+    "q_en": "In a Chicken game, you and opponent drive towards each other. If you swerve, you're 'chicken'; if you stay straight and they swerve, you win; if both stay straight, you crash. Opponent blindfolds themselves (signaling no swerve). You?",
+    "a_zh": "自己转向（保命）",
+    "a_en": "Swerve (save yourself)",
+    "b_zh": "照样直行（赌对方最后会怕死而转向）",
+    "b_en": "Stay straight (bet they'll flinch at the last moment)"
+  },
+  {
+    "q_zh": "你和对手进行一个“信任博弈”：你作为投资者，有10元。你可以选择：全留给自己，或者将10元托付给受托人。若托付，金额会翻倍成20元，然后由对手决定返还给你多少钱。对方是个陌生人，你了解人性平均。你会？",
+    "q_en": "Trust game: As investor, you have $10. Keep it all, or entrust to trustee? If entrusted, it becomes $20, and trustee decides repayment. Opponent is a stranger. Average human nature. You?",
+    "a_zh": "毫不信任，全留给自己",
+    "a_en": "No trust, keep all $10 for myself",
+    "b_zh": "托付10元，寄望于对方回报一些",
+    "b_en": "Entrust $10, hoping they return something"
+  },
+  {
+    "q_zh": "你和对手正在玩一个“猎鹿博弈”——你们各自选择猎鹿或猎兔。如果两人都猎鹿，各得5分；如果一人猎鹿一人猎兔，猎鹿者得0分，猎兔者得3分；如果两人都猎兔，各得3分。你预计对手会选猎兔，你会？",
+    "q_en": "Stag hunt: both hunt stag = 5 each; one hunts stag, other hunts hare = 0 for stag, 3 for hare; both hunt hare = 3 each. You expect opponent to hunt hare. You?",
+    "a_zh": "也选猎兔（安全但低分）",
+    "a_en": "Also hunt hare (safe but low payoff)",
+    "b_zh": "仍选猎鹿（试图引导合作，但高风险）",
+    "b_en": "Still hunt stag (try to induce cooperation, but high risk)"
+  },
+  {
+    "q_zh": "在“选美比赛博弈”中，每个人需要从0到100之间选一个数字。最接近平均数的2/3的人获胜。你需要选一个数字。其他玩家都是理性且知道这个规则。你会选？",
+    "q_en": "Beauty contest: pick a number 0-100. The person closest to 2/3 of the average wins. All players are rational and know the rule. Your pick?",
+    "a_zh": "22（预期别人会选33，2/3约22）",
+    "a_en": "22 (expect others to pick 33, 2/3 of that is ~22)",
+    "b_zh": "0（最强推理：所有人都会无限递推）",
+    "b_en": "0 (deepest reasoning: infinite recursion leads to 0)"
+  },
+  {
+    "q_zh": "你参加一个“公共物品博弈”：小组4人，每人初始有20元。你可以往公共池出资任意金额。总出资额乘以2后平均分给4人。如果你不出资，其他人都出资20元，你最终会有多少钱？但如果你出资，其他人可能不出资。你的策略是？",
+    "q_en": "Public goods game: 4 players, each has $20. Contribute any amount to pool. Total pool x2 divided equally. If you contribute $0 and others each give $20, what's your final? But if you give, others might free-ride. Your move?",
+    "a_zh": "出0元（搭便车，最大化个人收益）",
+    "a_en": "Contribute $0 (free-ride, maximize personal gain)",
+    "b_zh": "出20元（促进集体利益，但可能损失）",
+    "b_en": "Contribute $20 (promote group interest, but risk loss)"
+  },
+  {
+    "q_zh": "你和对手进行一个“消耗战博弈”：双方持续为某个奖品付费，每次付1元成本。谁先退出谁输；如果都坚持到最后，奖品归先撑不住的人？实际上，奖品价值10元，你已付了6元，对手已付了5元。你发现对手目前没有退出迹象。接下来你会？",
+    "q_en": "War of attrition: you both pay $1 each round for a prize. Prize = $10. You've paid $6, opponent $5. No one is quitting. Next move?",
+    "a_zh": "继续付1元（沉没成本谬误，期望对手先撑不住）",
+    "a_en": "Pay another $1 (sunk cost fallacy, hope opponent cracks)",
+    "b_zh": "立即退出，止损（接受损失6元）",
+    "b_en": "Quit now, cut losses (accept losing $6)"
+  },
+  {
+    "q_zh": "你和对手玩一个“囚徒困境”一次（非重复）。以下是收益矩阵（你，对手）：双方合作各得3分；你合作对方背叛：你得0，对方得5；你背叛对方合作：你得5，对方得0；双方背叛各得1分。对方是陌生人，无法沟通。你会选择？",
+    "q_en": "One-shot Prisoner's Dilemma: (You, Opponent). Both cooperate: (3,3). You cooperate, opponent defect: (0,5). You defect, opponent cooperate: (5,0). Both defect: (1,1). Stranger, no communication. You?",
+    "a_zh": "合作（道德或理想主义）",
+    "a_en": "Cooperate (moral or idealistic)",
+    "b_zh": "背叛（理性自利，保证不低于1分）",
+    "b_en": "Defect (rational self-interest, ensure at least 1)"
   }
 ]
