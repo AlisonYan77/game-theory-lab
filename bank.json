@@ -8135,5 +8135,85 @@
     "a_en": "Cooperate (moral or idealistic)",
     "b_zh": "背叛（理性自利，保证不低于1分）",
     "b_en": "Defect (rational self-interest, ensure at least 1)"
+  },
+  {
+    "q_zh": "在囚徒困境中，你更倾向于选择哪种策略？",
+    "q_en": "In a Prisoner's Dilemma, which strategy would you be more inclined to choose?",
+    "a_zh": "合作：信任对方，共同获得中等奖励",
+    "a_en": "Cooperate: trust the other, share a moderate reward",
+    "b_zh": "背叛：优先确保自身利益，避免最大损失",
+    "b_en": "Defect: prioritize self-interest to avoid the worst loss"
+  },
+  {
+    "q_zh": "在一个重复博弈中，对方前5轮全部选择合作，第六轮突然背叛。你会怎么做？",
+    "q_en": "In a repeated game, your opponent cooperated for 5 rounds and then suddenly defected in the 6th round. What would you do?",
+    "a_zh": "以牙还牙：同样背叛对方，维护公平",
+    "a_en": "Tit-for-tat: defect back to maintain fairness",
+    "b_zh": "宽容：继续合作一次，看对方是否恢复善意",
+    "b_en": "Forgive: cooperate one more time to see if they return to goodwill"
+  },
+  {
+    "q_zh": "在一场拍卖最后时刻，你手里的筹码刚好比对手多一点。对手突然加价到超出你预算。你如何应对？",
+    "q_en": "In an auction's final moment, you have slightly more chips than your opponent. They suddenly bid beyond your budget. How do you respond?",
+    "a_zh": "放弃：保持理性，避免陷入价格战",
+    "a_en": "Fold: stay rational, avoid a bidding war",
+    "b_zh": "梭哈：用所有剩余筹码反击，迫使对方认输",
+    "b_en": "All-in: counter with all remaining chips to force them to back down"
+  },
+  {
+    "q_zh": "你发现对手在私下协商中欺骗了你但当时没暴露。在接下来的公开谈判中，你如何处理？",
+    "q_en": "You discover your opponent deceived you in private but it wasn't exposed. How do you handle the upcoming public negotiation?",
+    "a_zh": "暗中留一手：假装不知情，在关键时刻反制",
+    "a_en": "Secretly hold back: pretend ignorance, then counter at the crucial moment",
+    "b_zh": "直接摊牌：当面揭穿对方，迫使对方让步",
+    "b_en": "Call them out: expose the deception to force concessions"
+  },
+  {
+    "q_zh": "在一场博弈中，对手不断对你表达善意和让步。你认为这是？",
+    "q_en": "In a game, your opponent repeatedly shows kindness and makes concessions. How do you interpret this?",
+    "a_zh": "真诚示好：信任对方，建立长期合作",
+    "a_en": "Sincere goodwill: trust them and build long-term cooperation",
+    "b_zh": "伪装陷阱：对方可能在麻痹你，准备致命一击",
+    "b_en": "Disguised trap: they might be lulling you into a false sense of security"
+  },
+  {
+    "q_zh": "你和对手都需要争夺一个资源，平分双方都得利，但一人独占则得利最大。你倾向于？",
+    "q_en": "You and your opponent both need a resource. Sharing benefits both, but taking it all gives maximum gain. Which do you prefer?",
+    "a_zh": "主动提出平分，形成双赢局面",
+    "a_en": "Propose a split to create a win-win situation",
+    "b_zh": "先下手为强，争取独占",
+    "b_en": "Act first to seize it all"
+  },
+  {
+    "q_zh": "对方在博弈中用情绪化的语言指责你。你会？",
+    "q_en": "Your opponent accuses you with emotional language in the game. What do you do?",
+    "a_zh": "冷静分析：忽略情绪，专注核心利益",
+    "a_en": "Stay analytical: ignore emotions, focus on core interests",
+    "b_zh": "激烈回应：用同样的方式震慑对方，夺回主动权",
+    "b_en": "Respond fiercely: match their tone to regain control"
+  },
+  {
+    "q_zh": "你有一张公开的底牌价值100分，对手也有同等底牌，但你们轮流公开。你先手，你如何选？",
+    "q_en": "You and your opponent each have a hidden hand worth 100 points, which will be revealed alternately. You go first. What do you choose?",
+    "a_zh": "诚实公开：建立信用，希望对方也诚实",
+    "a_en": "Reveal honestly: build trust, hoping for reciprocity",
+    "b_zh": "虚报低分：误导对方，在下一轮占据优势",
+    "b_en": "Falsify a low score: mislead them to gain advantage in the next round"
+  },
+  {
+    "q_zh": "在一场零和博弈快结束时，你小比分落后。对手突然提供和局（平手）。你接受吗？",
+    "q_en": "Near the end of a zero-sum game, you're slightly behind. Your opponent suddenly offers a draw. Do you accept?",
+    "a_zh": "接受：保住现有分数，避免全部输掉",
+    "a_en": "Accept: secure current points, avoid total loss",
+    "b_zh": "拒绝：冒险一搏，争取绝地翻盘",
+    "b_en": "Refuse: take the risk for a comeback win"
+  },
+  {
+    "q_zh": "你的对手连续三轮选择完全相同的行动。你会如何调整？",
+    "q_en": "Your opponent has taken the exact same action for three consecutive rounds. How do you adjust?",
+    "a_zh": "预测并利用其重复模式进行反制",
+    "a_en": "Predict and exploit the repeated pattern to counter them",
+    "b_zh": "自己也重复相同行动，看谁会先改变",
+    "b_en": "Mirror the same action to see who flinches first"
   }
 ]
