@@ -8215,5 +8215,85 @@
     "a_en": "Predict and exploit the repeated pattern to counter them",
     "b_zh": "自己也重复相同行动，看谁会先改变",
     "b_en": "Mirror the same action to see who flinches first"
+  },
+  {
+    "q_zh": "你与对方在游戏中各有一张卡片，可选择‘合作’或‘背叛’。若双方都合作，各得3分；若都背叛，各得1分；若一方背叛一方合作，背叛者得5分，合作者得0分。你相信对方是理性且自利的，你会选？",
+    "q_en": "In a game, you and the opponent each have a card. You can choose 'Cooperate' or 'Betray'. If both cooperate, each gets 3 points; if both betray, each gets 1 point; if one betrays and the other cooperates, the betrayer gets 5 points and the cooperator gets 0. You believe the opponent is rational and self-interested. What do you choose?",
+    "a_zh": "合作（赌对方也选合作，追求双赢）",
+    "a_en": "Cooperate (gambling that opponent will also cooperate for mutual benefit)",
+    "b_zh": "背叛（避免被背叛的风险，确保最少得1分）",
+    "b_en": "Betray (avoid the risk of being betrayed, guarantee at least 1 point)"
+  },
+  {
+    "q_zh": "你是一个小偷的同伙，两人被分别审讯。若你们都沉默，各判1年。若你揭发对方而对方沉默，你无罪释放，对方判10年；若双方都揭发，各判5年。对方可能已经动摇，你会如何选择？",
+    "q_en": "You are an accomplice to a theft, both interrogated separately. If both remain silent, each serves 1 year. If you testify against the other and they remain silent, you go free and they serve 10 years; if both testify, each serves 5 years. The opponent may already be wavering. What do you choose?",
+    "a_zh": "保持沉默（相信对方也会讲义气）",
+    "a_en": "Stay silent (trust the opponent will be loyal)",
+    "b_zh": "揭发对方（先下手为强，争取无罪）",
+    "b_en": "Testify against the opponent (strike first to gain freedom)"
+  },
+  {
+    "q_zh": "你与对手进行重复博弈，已知最后一轮即将到来。此前双方一直合作，但对手可能会在最后一轮背叛。你们没有未来的合作机会，你会选？",
+    "q_en": "You are in a repeated game with the opponent, and the final round is approaching. You have cooperated so far, but the opponent might betray in the last round. There is no future cooperation. What do you choose?",
+    "a_zh": "继续合作（维持体面，希望对方也如此）",
+    "a_en": "Continue to cooperate (maintain dignity, hoping the opponent does the same)",
+    "b_zh": "背叛（既然没有以后，不如最大化单次收益）",
+    "b_en": "Betray (since there is no future, maximize single-round gain)"
+  },
+  {
+    "q_zh": "在‘胆小鬼博弈’中，你与对手驾车相向而行。若双方都不转向，两败俱伤；若你转向而对方不转，你算‘懦夫’；若双方都转向，平局无伤。你认为对方是疯狂且不计后果的，你会？",
+    "q_en": "In the 'Chicken Game', you and the opponent drive toward each other. If neither swerves, both are harmed; if you swerve and they don't, you are the 'chicken'; if both swerve, it's a draw with no injury. You believe the opponent is crazy and reckless. What do you do?",
+    "a_zh": "坚持不转向（赌对方最终会害怕）",
+    "a_en": "Hold your ground (bet the opponent will eventually fear)",
+    "b_zh": "转向（保命要紧，避免灾难）",
+    "b_en": "Swerve (safety first, avoid disaster)"
+  },
+  {
+    "q_zh": "你是一名投资者，与另一个人在市场中竞争同一标的。若两人都买入，价格虚高各亏20%；若你买入而对方卖出，你赚20%，对方亏20%；若两人都卖出，各亏5%。你认为对方很可能模仿你的行为，你会选？",
+    "q_en": "You are an investor competing with another for the same asset. If both buy, the price inflates and each loses 20%; if you buy and they sell, you gain 20% and they lose 20%; if both sell, each loses 5%. You think the opponent is likely to mimic your behavior. What do you do?",
+    "a_zh": "买入（诱导对方跟随，但预期会反转）",
+    "a_en": "Buy (lure the opponent to follow, but expect a reversal)",
+    "b_zh": "卖出（避免被对方反向操作套牢）",
+    "b_en": "Sell (avoid being trapped by the opponent's counter-move)"
+  },
+  {
+    "q_zh": "你和对方分一块蛋糕，你提议分割方案，对方接受则执行，拒绝则两人都得不到。你希望公平，但对方可能因贪婪而拒绝合理的方案，你会提议？",
+    "q_en": "You and the opponent are splitting a cake. You propose a division; if accepted, it's executed; if rejected, both get nothing. You want fairness, but the opponent might reject a reasonable offer out of greed. What do you propose?",
+    "a_zh": "五五分（公平，但可能被拒绝）",
+    "a_en": "50-50 split (fair, but may be rejected)",
+    "b_zh": "六四分（给对手多一些，确保被接受）",
+    "b_en": "60-40 split (give the opponent more to ensure acceptance)"
+  },
+  {
+    "q_zh": "你与对方各有一张牌，可出红或蓝。若双方都出红，你赢100对方输100；若都出蓝，你赢10对方输10；若不同色，你输50对方赢50。对方是激进型，喜欢大输赢，你会出？",
+    "q_en": "You and the opponent each have a card, can play Red or Blue. If both play Red, you win 100 and they lose 100; if both play Blue, you win 10 and they lose 10; if different colors, you lose 50 and they win 50. The opponent is aggressive and prefers high stakes. What do you play?",
+    "a_zh": "红色（赌对方也会选红色，追求大胜）",
+    "a_en": "Red (bet the opponent also chooses Red, aiming for big win)",
+    "b_zh": "蓝色（保守选择，避免大败）",
+    "b_en": "Blue (conservative choice, avoid big loss)"
+  },
+  {
+    "q_zh": "你与对手玩‘消耗战’，双方持续支付成本直到一人退出。退出方认输，留下方获得全部奖励。对方看似意志坚定，但你可能更擅长持久战。你会？",
+    "q_en": "You and the opponent play 'War of Attrition', both paying costs until one quits. The quitter loses, the one who stays gets all the reward. The opponent seems determined, but you may be better at endurance. What do you do?",
+    "a_zh": "坚持到底（相信对方会先撑不住）",
+    "a_en": "Hold out to the end (believe the opponent will crack first)",
+    "b_zh": "尽早退出（避免长期消耗，止损）",
+    "b_en": "Quit early (avoid long-term cost, cut losses)"
+  },
+  {
+    "q_zh": "你和对方各自拥有一个数字，可以公开或隐藏。若双方都公开，则数字大的赢；若一方公开一方隐藏，公开者赢；若都隐藏，平局。对方很神秘，经常隐藏信息，你会？",
+    "q_en": "You and the opponent each have a number, can reveal or hide it. If both reveal, the higher number wins; if one reveals and the other hides, the revealer wins; if both hide, it's a draw. The opponent is secretive and often hides information. What do you do?",
+    "a_zh": "公开（用透明策略施加压力）",
+    "a_en": "Reveal (use transparency to apply pressure)",
+    "b_zh": "隐藏（效仿对方，避免暴露弱点）",
+    "b_en": "Hide (mimic the opponent, avoid revealing weakness)"
+  },
+  {
+    "q_zh": "你与对手进行‘拍卖游戏’，对一件价值100元的物品投标。出价高者得物品，但需支付自己的出价（无论输赢）。若双方出价相同，各支付一半但无人获得物品。对方是理性但可能非理性的，你会出价多少？",
+    "q_en": "You and the opponent play an 'Auction Game' bidding on an item worth 100 yuan. The highest bidder wins the item but must pay their bid (win or lose). If bids are equal, both pay half but no one gets the item. The opponent is rational but may be irrational. What do you bid?",
+    "a_zh": "出价80元（低于物品价值，有利润空间）",
+    "a_en": "Bid 80 yuan (below the item's value, leaving profit margin)",
+    "b_zh": "出价100元（全力一搏，但可能陷入赢家诅咒）",
+    "b_en": "Bid 100 yuan (go all-in, but risk winner's curse)"
   }
 ]
