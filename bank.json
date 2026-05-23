@@ -8295,5 +8295,85 @@
     "a_en": "Bid 80 yuan (below the item's value, leaving profit margin)",
     "b_zh": "出价100元（全力一搏，但可能陷入赢家诅咒）",
     "b_en": "Bid 100 yuan (go all-in, but risk winner's curse)"
+  },
+  {
+    "q_zh": "你发现一个合作对手在关键时刻背叛了你。你会选择：",
+    "q_en": "You discover a partner betrayed you at a critical moment. Do you:",
+    "a_zh": "立即报复，让他付出代价",
+    "a_en": "Retaliate immediately to make them pay",
+    "b_zh": "假装不知，日后寻找机会利用他",
+    "b_en": "Pretend unaware, wait for a chance to exploit them later"
+  },
+  {
+    "q_zh": "在一场重复博弈中，对方一直选择合作。你会：",
+    "q_en": "In a repeated game, your opponent has always cooperated. Do you:",
+    "a_zh": "继续合作，建立长期信任",
+    "a_en": "Keep cooperating to build long-term trust",
+    "b_zh": "在最后一轮背叛，获得最大收益",
+    "b_en": "Defect in the final round for maximum gain"
+  },
+  {
+    "q_zh": "对手表现出明显的非理性愤怒。你的策略是：",
+    "q_en": "Your opponent shows clear irrational anger. Your strategy is:",
+    "a_zh": "以强硬对强硬，不示弱",
+    "a_en": "Match their toughness, show no weakness",
+    "b_zh": "先退一步，等待对方冷静后谈判",
+    "b_en": "Step back first, wait for them to calm down for negotiation"
+  },
+  {
+    "q_zh": "你知道对方掌握了你的把柄。你会：",
+    "q_en": "You know the opponent holds leverage over you. Do you:",
+    "a_zh": "先发制人，公开自己的弱点以减少威胁",
+    "a_en": "Preempt by publicly revealing your weakness to reduce threat",
+    "b_zh": "收集对方更多把柄，形成核威慑平衡",
+    "b_en": "Collect more leverage on them, creating a nuclear deterrent balance"
+  },
+  {
+    "q_zh": "在囚徒困境中，你确信对方会选择合作。你选择：",
+    "q_en": "In a Prisoner's Dilemma, you are sure your partner will cooperate. Do you:",
+    "a_zh": "也选择合作，追求双赢",
+    "a_en": "Also cooperate, seeking mutual benefit",
+    "b_zh": "选择背叛，因为背叛的收益最高",
+    "b_en": "Defect, because defection yields the highest payoff"
+  },
+  {
+    "q_zh": "面对一个永远模仿你上一轮行动的策略（以牙还牙），你第一轮会：",
+    "q_en": "Facing a Tit-for-Tat strategy, your first move is:",
+    "a_zh": "选择合作，展示善意",
+    "a_en": "Cooperate to signal goodwill",
+    "b_zh": "选择背叛，先获取一次优势",
+    "b_en": "Defect to gain an initial advantage"
+  },
+  {
+    "q_zh": "谈判中，对方给出了一个看似公平但实际对你不利的方案。你：",
+    "q_en": "In a negotiation, the opponent offers a seemingly fair but actually unfavorable deal. You:",
+    "a_zh": "当场拒绝，并指出其不公平之处",
+    "a_en": "Reject on the spot, pointing out the unfairness",
+    "b_zh": "假装接受，暗中准备替代方案",
+    "b_en": "Pretend to accept, secretly prepare an alternative"
+  },
+  {
+    "q_zh": "你与对手实力悬殊，正面对抗必败。你选择：",
+    "q_en": "You are in a highly asymmetric matchup, direct confrontation means defeat. Do you:",
+    "a_zh": "寻求结盟或引入第三方制衡",
+    "a_en": "Seek alliance or introduce a third-party to balance",
+    "b_zh": "低调示弱，等待对方犯错",
+    "b_en": "Lie low and show weakness, wait for their mistake"
+  },
+  {
+    "q_zh": "你怀疑对方在测试你的底线。最佳反应是：",
+    "q_en": "You suspect the opponent is testing your boundaries. The best response is:",
+    "a_zh": "立即强硬回应，让对方知道你的红线",
+    "a_en": "Respond firmly immediately, letting them know your red line",
+    "b_zh": "故意让步一次，观察对方是否得寸进尺",
+    "b_en": "Deliberately concede once to see if they push further"
+  },
+  {
+    "q_zh": "在博弈的最后阶段，双方都只剩下一次行动机会。且你们之前一直合作。你会：",
+    "q_en": "In the final stage, both sides have one move left, and you have cooperated so far. Do you:",
+    "a_zh": "继续合作，维护信誉",
+    "a_en": "Continue cooperating to maintain reputation",
+    "b_zh": "背叛，因为这是理性自利的最后选择",
+    "b_en": "Defect, as it's the rational self-interested final choice"
   }
 ]
