@@ -8375,5 +8375,85 @@
     "a_en": "Continue cooperating to maintain reputation",
     "b_zh": "背叛，因为这是理性自利的最后选择",
     "b_en": "Defect, as it's the rational self-interested final choice"
+  },
+  {
+    "q_zh": "你发现对手在上一轮合作中背叛了你。本轮开始前，你会：",
+    "q_en": "You discovered that your opponent betrayed you in the last round. Before this round starts, you will:",
+    "a_zh": "直接背叛，报复对方的不合作。",
+    "a_en": "Betray directly to retaliate against their non-cooperation.",
+    "b_zh": "仍选择合作，试图用善意感化对方。",
+    "b_en": "Still choose to cooperate, trying to reform them with goodwill."
+  },
+  {
+    "q_zh": "当你确信双方都选择合作能获得最大共同收益时，但单次背叛收益更高，你会：",
+    "q_en": "When you are sure mutual cooperation yields the highest joint payoff, but a single betrayal yields higher individual payoff, you will:",
+    "a_zh": "选择合作，建立长期信任关系。",
+    "a_en": "Choose cooperation to build long-term trust.",
+    "b_zh": "选择背叛，追求短期利益最大化。",
+    "b_en": "Choose betrayal to maximize short-term gain."
+  },
+  {
+    "q_zh": "对手连续三轮都选择背叛，但你们的总分落后很多。你会：",
+    "q_en": "Your opponent has betrayed for three consecutive rounds, and your total score is far behind. You will:",
+    "a_zh": "切换成背叛模式，以牙还牙。",
+    "a_en": "Switch to betrayal mode, tit for tat.",
+    "b_zh": "突然合作，打破对方的预期。",
+    "b_en": "Suddenly cooperate to break the opponent's expectation."
+  },
+  {
+    "q_zh": "博弈进入最后一轮，没有任何后续互动。你的选择是：",
+    "q_en": "The game enters the final round with no future interactions. Your choice is:",
+    "a_zh": "背叛，因为对方也没有理由再合作。",
+    "a_en": "Betray, since the opponent has no reason to cooperate either.",
+    "b_zh": "合作，保持道德感和策略的连续性。",
+    "b_en": "Cooperate, to maintain moral sense and strategic consistency."
+  },
+  {
+    "q_zh": "对方是一位看似冲动、不理智的玩家，但实力很强。你的第一轮策略是：",
+    "q_en": "Your opponent seems impulsive and irrational but is very strong. Your first-round strategy is:",
+    "a_zh": "先合作，试探对方的真实策略。",
+    "a_en": "Cooperate first to test the opponent's true strategy.",
+    "b_zh": "先背叛，给对方一个下马威。",
+    "b_en": "Betray first to intimidate the opponent."
+  },
+  {
+    "q_zh": "过去五轮中，你们形成“合作-合作”的默契节奏。但你怀疑对方可能变招。本轮你会：",
+    "q_en": "In the past five rounds, you and your opponent have established a 'cooperate-cooperate' rhythm. But you suspect they might change. This round you will:",
+    "a_zh": "继续合作，维持现有默契。",
+    "a_en": "Continue cooperating to maintain the current tacit agreement.",
+    "b_zh": "突然背叛，抢在对方变招前获利。",
+    "b_en": "Betray suddenly to profit before the opponent changes."
+  },
+  {
+    "q_zh": "你发现对手明显在模仿你的上一步行动（镜像策略）。此时你会：",
+    "q_en": "You notice your opponent is clearly mirroring your previous move. You will:",
+    "a_zh": "连续两次合作，诱导对方一起进入合作循环。",
+    "a_en": "Cooperate twice in a row to lure the opponent into a cooperation loop.",
+    "b_zh": "连续两次背叛，利用对方的机械性赚取分数。",
+    "b_en": "Betray twice consecutively to exploit their mechanical pattern and gain points."
+  },
+  {
+    "q_zh": "总轮数未知，但目前已进行到中段，双方得分非常接近。你会：",
+    "q_en": "The total number of rounds is unknown, but you are at the midpoint with very close scores. You will:",
+    "a_zh": "保持合作或背叛的随机混合，让对方无法预测。",
+    "a_en": "Maintain a random mix of cooperation and betrayal to keep the opponent unpredictable.",
+    "b_zh": "采用固定策略（比如永远合作），以稳定建立优势。",
+    "b_en": "Adopt a fixed strategy (e.g., always cooperate) to steadily build an advantage."
+  },
+  {
+    "q_zh": "对方是一名精于计算的老手，你判断他大概率会在本轮背叛。你会：",
+    "q_en": "Your opponent is a seasoned calculator. You judge they will likely betray this round. You will:",
+    "a_zh": "也选择背叛，避免被单方面利用。",
+    "a_en": "Also betray to avoid being unilaterally exploited.",
+    "b_zh": "选择合作，试图用意外善意打乱他的计算。",
+    "b_en": "Choose cooperation, trying to disrupt their calculation with unexpected goodwill."
+  },
+  {
+    "q_zh": "游戏中出现第三方惩罚机制（双方都背叛时扣分加倍）。此时你的首轮选择是：",
+    "q_en": "The game introduces a third-party penalty (double deduction if both betray). Your first-round choice is:",
+    "a_zh": "合作，避免触发双重惩罚。",
+    "a_en": "Cooperate to avoid triggering the dual penalty.",
+    "b_zh": "背叛，赌对方会合作以避免惩罚。",
+    "b_en": "Betray, betting that the opponent will cooperate to avoid the penalty."
   }
 ]
