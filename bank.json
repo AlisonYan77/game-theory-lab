@@ -8455,5 +8455,85 @@
     "a_en": "Cooperate to avoid triggering the dual penalty.",
     "b_zh": "背叛，赌对方会合作以避免惩罚。",
     "b_en": "Betray, betting that the opponent will cooperate to avoid the penalty."
+  },
+  {
+    "q_zh": "你发现对手在连续三轮中都选择了合作。你会如何选择下一轮的行动？",
+    "q_en": "You notice your opponent has chosen to cooperate for the last three rounds. What will you do in the next round?",
+    "a_zh": "继续合作，建立信任以换取长期利益。",
+    "a_en": "Continue to cooperate, building trust for long-term gains.",
+    "b_zh": "突然背叛，最大化本轮收益并测试对方反应。",
+    "b_en": "Suddenly defect, maximizing immediate gain and testing their reaction."
+  },
+  {
+    "q_zh": "在一个零和博弈中，对手明显在虚张声势。你会如何应对？",
+    "q_en": "In a zero-sum game, your opponent is clearly bluffing. How do you respond?",
+    "a_zh": "直接揭穿，采取强硬措施逼对方退让。",
+    "a_en": "Call the bluff directly with an aggressive move to force a concession.",
+    "b_zh": "假装被吓到，诱使对方在后续暴露更多弱点。",
+    "b_en": "Pretend to be intimidated, baiting them to reveal more weaknesses later."
+  },
+  {
+    "q_zh": "你与一个理性但信息不全的对手博弈，你手中有一张次优牌。你如何行动？",
+    "q_en": "You are playing against a rational but misinformed opponent, holding a suboptimal card. What do you do?",
+    "a_zh": "果断加注，利用对方的认知偏差制造压力。",
+    "a_en": "Raise decisively to exploit their cognitive bias and create pressure.",
+    "b_zh": "保守跟注，等待后续机会减少损失。",
+    "b_en": "Call conservatively, waiting for a later opportunity to minimize losses."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，对方的策略是‘一报还一报’（以牙还牙）。你当前是背叛状态，如何扭转局势？",
+    "q_en": "In a repeated prisoner's dilemma, your opponent uses 'Tit for Tat' (eye for an eye). You are currently defecting. How do you turn things around?",
+    "a_zh": "立即转向合作，主动释放和解信号，引导对方也合作。",
+    "a_en": "Immediately switch to cooperation, sending a clear peace signal to trigger mutual cooperation.",
+    "b_zh": "继续背叛一轮，测试对方是否真的严格执行‘一报还一报’策略。",
+    "b_en": "Defect one more round to test if they strictly enforce the 'Tit for Tat' strategy."
+  },
+  {
+    "q_zh": "拍卖博弈中，你和对手都对同一物品出价，已知对手有强烈的‘厌恶损失’倾向。你的策略是？",
+    "q_en": "In an auction game, both you and your opponent bid for the same item, and you know they have strong 'loss aversion'. What's your strategy?",
+    "a_zh": "小幅加价，利用其恐惧损失的心理使其过度出价。",
+    "a_en": "Bid incrementally, exploiting their fear of loss to force them into overbidding.",
+    "b_zh": "一开始就大幅加价，直接威慑使其退赛。",
+    "b_en": "Start with a massive bid, intimidating them into dropping out immediately."
+  },
+  {
+    "q_zh": "在信号博弈中，对方发出了一个可疑的高成本信号。你该如何解读和回应？",
+    "q_en": "In a signaling game, your opponent sends a suspiciously costly signal. How do you interpret and respond?",
+    "a_zh": "相信信号，认为只有强者才敢消耗这种成本，选择妥协。",
+    "a_en": "Believe the signal, assuming only a strong player would incur such cost, and back down.",
+    "b_zh": "怀疑信号，认为对方在虚张声势，用更低的成本试探对方底线。",
+    "b_en": "Distrust the signal, suspecting bluff, and probe their limits with a lower-cost move."
+  },
+  {
+    "q_zh": "在‘懦夫博弈’（Chicken）中，你正高速冲向对方。你如何最大化胜率？",
+    "q_en": "In a 'Chicken Game', you are racing towards your opponent at high speed. How do you maximize your winning chances?",
+    "a_zh": "在最后一刻突然转向，确保自身安全同时期望对方先认输。",
+    "a_en": "Swerve at the last moment, ensuring safety while hoping the opponent concedes first.",
+    "b_zh": "固定方向盘并直视对方视线，用不可逆转的姿态逼迫对方转向。",
+    "b_en": "Lock the steering wheel and stare them down, using an irreversible commitment to force their swerve."
+  },
+  {
+    "q_zh": "在非对称信息博弈中，你拥有私人信息但对手非常自信。你如何行动？",
+    "q_en": "In an asymmetric information game, you hold private information but your opponent is overconfident. How do you act?",
+    "a_zh": "故意泄露虚假信息，引导过度自信的对手做出错误决策。",
+    "a_en": "Leak false information deliberately, leading the overconfident opponent into making wrong decisions.",
+    "b_zh": "保持沉默，利用信息优势静待对手犯错。",
+    "b_en": "Stay silent, leveraging your information advantage to wait for their mistakes."
+  },
+  {
+    "q_zh": "你和对手都面临‘协调博弈’，但沟通渠道不可靠。你如何确保协调成功？",
+    "q_en": "You and your opponent face a 'coordination game' with an unreliable communication channel. How do you ensure coordination?",
+    "a_zh": "选择最显眼的‘焦点解’策略，如选择默认选项或常见文化惯例。",
+    "a_en": "Pick a prominent 'focal point' strategy, such as the default option or a common cultural convention.",
+    "b_zh": "重复发送多轮信息，用冗余提高对方正确解读的概率。",
+    "b_en": "Send redundant information over multiple rounds, increasing the chance of correct interpretation."
+  },
+  {
+    "q_zh": "在最终谈判中，对方给出了一个‘要么接受，要么放弃’的提议。你如何应对？",
+    "q_en": "In final negotiations, your opponent gives a 'take-it-or-leave-it' offer. How do you respond?",
+    "a_zh": "立即接受，确保至少获得部分收益，避免全面破裂的风险。",
+    "a_en": "Accept immediately to secure at least partial gains and avoid total breakdown risk.",
+    "b_zh": "拒绝并给出一个略低的还价，测试对方是否有真实底线。",
+    "b_en": "Reject and counter with a slightly lower offer, testing if they have a real bottom line."
   }
 ]
