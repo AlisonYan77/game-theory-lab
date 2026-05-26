@@ -8535,5 +8535,85 @@
     "a_en": "Accept immediately to secure at least partial gains and avoid total breakdown risk.",
     "b_zh": "拒绝并给出一个略低的还价，测试对方是否有真实底线。",
     "b_en": "Reject and counter with a slightly lower offer, testing if they have a real bottom line."
+  },
+  {
+    "q_zh": "在囚徒困境中，如果你不确定对方的选择，为了最大化个人利益，你会选择：",
+    "q_en": "In a Prisoner's Dilemma, to maximize your personal gain when unsure of the other's choice, you would:",
+    "a_zh": "背叛（认罪）",
+    "a_en": "Defect (confess)",
+    "b_zh": "合作（保持沉默）",
+    "b_en": "Cooperate (remain silent)"
+  },
+  {
+    "q_zh": "在重复博弈中，为了建立长期合作声誉，你更倾向于采用哪种策略？",
+    "q_en": "In a repeated game, to build long-term cooperative reputation, which strategy do you prefer?",
+    "a_zh": "以牙还牙（首次合作，之后复制对方上轮行为）",
+    "a_en": "Tit-for-tat (cooperate first, then copy opponent's last move)",
+    "b_zh": "始终背叛（无论对方如何都选择背叛）",
+    "b_en": "Always defect (betray regardless of opponent)"
+  },
+  {
+    "q_zh": "当对方在上一轮选择了背叛，而你想在本次博弈中传达「我可以原谅但不可欺」的信号，你会选择：",
+    "q_en": "If the opponent defected last round and you want to signal 'I can forgive but not be exploited,' you would:",
+    "a_zh": "本次合作（给予对方修复关系的机会）",
+    "a_en": "Cooperate this round (give a chance to repair)",
+    "b_zh": "本次背叛（惩罚对方的背叛行为）",
+    "b_en": "Defect this round (punish the betrayal)"
+  },
+  {
+    "q_zh": "在具有退出选项的博弈中，发现对方长期采取「占便宜」策略，最理性的反应是：",
+    "q_en": "In a game with an exit option, the most rational response to a long-term exploitative opponent is:",
+    "a_zh": "立即退出博弈，避免更大损失",
+    "a_en": "Exit immediately to avoid further losses",
+    "b_zh": "继续合作并尝试以德报怨",
+    "b_en": "Continue cooperating and try kindness"
+  },
+  {
+    "q_zh": "在「懦夫博弈」（谁先转向谁输）中，为了让对方相信你绝不退缩，你应当：",
+    "q_en": "In a Chicken game (who swerves first loses), to convince the opponent you will never yield, you should:",
+    "a_zh": "提前扔掉方向盘（自断退路）",
+    "a_en": "Throw away the steering wheel (remove your own exit)",
+    "b_zh": "缓慢减速，等待对方转向",
+    "b_en": "Slow down gradually, waiting for the other to swerve"
+  },
+  {
+    "q_zh": "在「拍卖博弈」中，出价最高的两人都要付钱，但只有第一名得到奖品。为了遏制过度竞价，你应该：",
+    "q_en": "In an auction where top two bidders both pay but only the first wins, to deter overbidding you should:",
+    "a_zh": "一开始就出一个极低的试探价",
+    "a_en": "Start with a very low probing bid",
+    "b_zh": "与对手结盟，约定只出低价",
+    "b_en": "Collude with the opponent to only bid low"
+  },
+  {
+    "q_zh": "在「公共物品博弈」中，每个人可以自愿贡献一部分资金，最终总数翻倍后平分。最符合集体利益的行为是：",
+    "q_en": "In a public goods game (contributions are doubled and shared equally), the best action for collective benefit is:",
+    "a_zh": "全额贡献自己的所有资金",
+    "a_en": "Contribute all your funds",
+    "b_zh": "零贡献，等待他人贡献后坐享其成",
+    "b_en": "Contribute zero and freeride on others"
+  },
+  {
+    "q_zh": "对方在博弈中突然表现出极度友善（如完全顺从你的所有要求），最合理的怀疑是：",
+    "q_en": "If the opponent suddenly shows extreme kindness (e.g., fully complying with all demands), the most reasonable suspicion is:",
+    "a_zh": "对方可能在为后续一次性的巨大背叛做铺垫（诱骗陷阱）",
+    "a_en": "They may be setting up a one-time massive betrayal (honeypot trap)",
+    "b_zh": "对方真心想建立长期友好关系",
+    "b_en": "They genuinely want a long-term friendly relationship"
+  },
+  {
+    "q_zh": "在「最后通牒博弈」中，你作为提议方分配100元，对方可以接受或拒绝（拒绝则双方0元）。为了高概率通过，你应该：",
+    "q_en": "In an Ultimatum Game (you split $100, opponent can accept or reject), to ensure high acceptance you should:",
+    "a_zh": "给对方50元（完全公平）",
+    "a_en": "Offer $50 (perfectly fair)",
+    "b_zh": "给对方30元（略高于公平感底线）",
+    "b_en": "Offer $30 (slightly above fairness threshold)"
+  },
+  {
+    "q_zh": "当你发现对手在博弈中使用了「混合策略」（随机化选择），最有效的应对方式是：",
+    "q_en": "When you detect the opponent uses a mixed strategy (randomized choices), the most effective response is:",
+    "a_zh": "也采用混合策略，使对方无法预测",
+    "a_en": "Also use a mixed strategy to remain unpredictable",
+    "b_zh": "坚持单一最优纯策略，利用对方的随机性",
+    "b_en": "Stick to one optimal pure strategy to exploit their randomness"
   }
 ]
