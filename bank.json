@@ -8615,5 +8615,85 @@
     "a_en": "Also use a mixed strategy to remain unpredictable",
     "b_zh": "坚持单一最优纯策略，利用对方的随机性",
     "b_en": "Stick to one optimal pure strategy to exploit their randomness"
+  },
+  {
+    "q_zh": "你在一个合作游戏中，对手连续两次选择了背叛。现在这一轮，你会选择：",
+    "q_en": "In a cooperation game, your opponent has betrayed you twice in a row. This round, you will choose:",
+    "a_zh": "A. 继续合作，希望对方因愧疚而改变",
+    "a_en": "A. Continue cooperating, hoping guilt will change them",
+    "b_zh": "B. 背叛，以惩罚对方并防止自己被利用",
+    "b_en": "B. Betray, to punish them and prevent being exploited"
+  },
+  {
+    "q_zh": "在一次性博弈中，双方都不知道对方的底线。你的首要目标是最大化个人收益，你会：",
+    "q_en": "In a one-shot game where neither knows the other's底线, your priority is maximizing personal gain. You will:",
+    "a_zh": "A. 先展示善意，尝试合作",
+    "a_en": "A. Show goodwill and attempt cooperation",
+    "b_zh": "B. 直接采取利己策略，不考虑对方反应",
+    "b_en": "B. Adopt a purely self-interested strategy, ignoring the other's reaction"
+  },
+  {
+    "q_zh": "对方在上一轮主动牺牲了自己的利益来帮你。这一轮，你应该：",
+    "q_en": "Your opponent sacrificed their own gain to help you in the last round. This round, you should:",
+    "a_zh": "A. 回报对方的善意，选择合作",
+    "a_en": "A. Reciprocate goodwill by choosing cooperation",
+    "b_zh": "B. 利用对方的善良，趁机背叛以获得更大利益",
+    "b_en": "B. Exploit their kindness by betraying for greater gain"
+  },
+  {
+    "q_zh": "游戏设定为多轮重复博弈，且双方都有记忆。你希望建立长期合作关系，最稳妥的开局是：",
+    "q_en": "The game is a multi-round repeated game with memory. To build long-term cooperation, the safest opening is:",
+    "a_zh": "A. 第一次就背叛，展示强硬姿态",
+    "a_en": "A. Betray on the first move to show toughness",
+    "b_zh": "B. 第一次选择合作，观察对方反应",
+    "b_en": "B. Cooperate on the first move to observe their response"
+  },
+  {
+    "q_zh": "你发现对手是一个随机行动（完全不理性）的玩家。最佳策略是：",
+    "q_en": "You discover your opponent is a random (irrational) player. The best strategy is:",
+    "a_zh": "A. 固定合作，试图用善意感化对方",
+    "a_en": "A. Always cooperate, trying to influence them with kindness",
+    "b_zh": "B. 固定背叛，因为对方的行为无法预测且不可信任",
+    "b_en": "B. Always betray, since their behavior is unpredictable and untrustworthy"
+  },
+  {
+    "q_zh": "在最后一轮博弈中（双方都知道这是最后一次），理性的选择是：",
+    "q_en": "In the final round (both know it's the last), the rational choice is:",
+    "a_zh": "A. 合作，维护之前的信任关系",
+    "a_en": "A. Cooperate, to preserve the trust built earlier",
+    "b_zh": "B. 背叛，因为不会再有未来回合的惩罚",
+    "b_en": "B. Betray, as there are no future rounds to punish you"
+  },
+  {
+    "q_zh": "对方公开承诺‘我永远会合作’，但你知道他可能说谎。你会：",
+    "q_en": "Your opponent publicly promises 'I will always cooperate', but you know they might lie. You will:",
+    "a_zh": "A. 相信承诺，合作并测试其诚意",
+    "a_en": "A. Trust the promise, cooperate and test their sincerity",
+    "b_zh": "B. 预先背叛，防止对方实际执行背叛策略",
+    "b_en": "B. Preemptively betray, to guard against their possible betrayal"
+  },
+  {
+    "q_zh": "双方都已经连续合作了5轮，但你的优势正在减弱。此时你会：",
+    "q_en": "Both have cooperated for 5 rounds, but your advantage is shrinking. Now you will:",
+    "a_zh": "A. 继续合作，维持稳定双赢局面",
+    "a_en": "A. Continue cooperating to maintain a stable win-win",
+    "b_zh": "B. 试探性背叛一次，看能否重新获得优势",
+    "b_en": "B. Attempt a one-time betrayal to see if you can regain advantage"
+  },
+  {
+    "q_zh": "对手主动提出‘我们轮流背叛与合作’的方案，你认为：",
+    "q_en": "Your opponent proposes 'let's take turns betraying and cooperating'. You think:",
+    "a_zh": "A. 信任这个方案，按约定轮流执行",
+    "a_en": "A. Trust the plan and follow the rotation",
+    "b_zh": "B. 怀疑是陷阱，全程选择背叛",
+    "b_en": "B. Suspect a trap, betray every round"
+  },
+  {
+    "q_zh": "你发现对手非常情绪化，容易因背叛而报复。最优解是：",
+    "q_en": "You find your opponent very emotional and prone to retaliate against betrayal. The optimal move is:",
+    "a_zh": "A. 永远不要背叛，即使损失一些利益",
+    "a_en": "A. Never betray, even at some cost",
+    "b_zh": "B. 偶尔背叛，但要确保对方无法立刻报复",
+    "b_en": "B. Betray occasionally, but ensure they can't retaliate immediately"
   }
 ]
