@@ -8695,5 +8695,85 @@
     "a_en": "A. Never betray, even at some cost",
     "b_zh": "B. 偶尔背叛，但要确保对方无法立刻报复",
     "b_en": "B. Betray occasionally, but ensure they can't retaliate immediately"
+  },
+  {
+    "q_zh": "你与对手进行分配游戏，你可以选择平分100元，或者选择只给自己留80元并给对手20元。但对手会猜测你的选择，如果对手猜中你的选择且你选择了‘只留80元’，对手有权拒绝并让两人都得到0元。你会如何选择？",
+    "q_en": "You and an opponent play a distribution game. You can split 100 yuan equally, or keep 80 and give them 20. However, if they guess your choice and you chose 'keep 80', they can veto it, and both get 0. What do you choose?",
+    "a_zh": "平分100元",
+    "a_en": "Split 100 yuan equally",
+    "b_zh": "只给自己留80元，给对手20元",
+    "b_en": "Keep 80 and give them 20"
+  },
+  {
+    "q_zh": "在连续博弈中，对方第一轮选择背叛。已知后续如果继续背叛，双方长期收益都会降低。你会选择在第二轮原谅对方并合作，还是坚决报复也选择背叛？",
+    "q_en": "In a repeated game, your opponent defected in round 1. Continued mutual defection will harm both in the long run. Do you forgive and cooperate in round 2, or retaliate by defecting?",
+    "a_zh": "原谅对方，选择合作",
+    "a_en": "Forgive and cooperate",
+    "b_zh": "报复，选择背叛",
+    "b_en": "Retaliate and defect"
+  },
+  {
+    "q_zh": "你与对手同时选择是否向一个公共基金池中投钱。如果两人都投，每人获得20元收益；如果都不投，每人获得0元；如果一人投一人不投，投入者损失10元，不投者获得30元。你会如何选择？",
+    "q_en": "You and your opponent simultaneously decide whether to contribute to a public fund. Both contribute: each earns 20. Neither contributes: each gets 0. One contributes, the other doesn't: contributor loses 10, the other gains 30. What do you choose?",
+    "a_zh": "投钱",
+    "a_en": "Contribute",
+    "b_zh": "不投钱",
+    "b_en": "Do not contribute"
+  },
+  {
+    "q_zh": "你得到一个承诺：如果你选择‘合作’，对手保证也选择‘合作’，双方都将获得100元。但如果你选择‘背叛’，而对手仍然选择‘合作’，你将获得150元，对手只会获得0元。你相信对手的承诺吗？",
+    "q_en": "You are promised: if you choose 'cooperate', your opponent will also cooperate, both earn 100. If you defect while they cooperate, you earn 150 and they earn 0. Do you trust the promise?",
+    "a_zh": "相信承诺，选择合作",
+    "a_en": "Trust the promise, cooperate",
+    "b_zh": "理性背叛，选择背叛",
+    "b_en": "Rationally defect, choose to defect"
+  },
+  {
+    "q_zh": "在‘分蛋糕’博弈中，你先提出分配方案。如果对手拒绝，双方都得到0元。已知对手非常在意公平，会坚决拒绝任何低于40%的份额。你会提出怎样的分配方案？",
+    "q_en": "In a 'cake-cutting' game, you propose a split first. If the opponent refuses, both get 0. You know they care strongly about fairness and will reject any share below 40%. What split do you propose?",
+    "a_zh": "给自己60%，给对手40%",
+    "a_en": "You 60%, opponent 40%",
+    "b_zh": "给自己70%，给对手30%",
+    "b_en": "You 70%, opponent 30%"
+  },
+  {
+    "q_zh": "囚徒困境中，你与同伙被分开审讯。若双方都抵赖，各判1年；若双方都招供，各判3年；若一人招供一人抵赖，招供者立即释放，抵赖者判5年。你会如何选择？",
+    "q_en": "In a prisoner's dilemma, you and your accomplice are interrogated separately. Both deny: 1 year each. Both confess: 3 years each. One confesses, the other denies: confessor goes free, denier gets 5 years. What do you choose?",
+    "a_zh": "抵赖",
+    "a_en": "Deny",
+    "b_zh": "招供",
+    "b_en": "Confess"
+  },
+  {
+    "q_zh": "你参加一个拍卖，标的是一个20元钱钞票。你和对手轮流出价，每次加价必须至少1元。最终出价最高的人得到钞票，但两人都要支付自己的最终出价给拍卖方（即使输家也要付钱）。初始出价从1元开始，你会参与出价吗？",
+    "q_en": "You join an auction for a 20 yuan note. You and opponent bid alternately, minimum raise 1 yuan. Highest bidder wins the note, but both pay their final bid to the auctioneer (even the loser pays). Starting bid is 1 yuan. Do you enter the bidding?",
+    "a_zh": "不参与，让对手出价",
+    "a_en": "Do not bid, let opponent bid first",
+    "b_zh": "参与，出价1元",
+    "b_en": "Enter and bid 1 yuan"
+  },
+  {
+    "q_zh": "在‘最后通牒博弈’中，你作为提议者可以分配100元。如果对方拒绝你的分配方案，则两人都得到0元。对方是理性人，但你会假设对方会因不公平而拒绝。你能接受的最小对方份额是多少？",
+    "q_en": "In an ultimatum game, you as the proposer can split 100 yuan. If the opponent rejects, both get 0. The opponent is rational, but you assume they may reject unfair offers. What minimum share do you offer them?",
+    "a_zh": "给对方30元（30%）",
+    "a_en": "Offer them 30 yuan (30%)",
+    "b_zh": "给对方1元（1%）",
+    "b_en": "Offer them 1 yuan (1%)"
+  },
+  {
+    "q_zh": "你与对手进行‘懦夫博弈’。如果双方都选择‘勇猛’，车毁人亡，两人都损失100分；若一人勇猛一人退缩，勇猛者得50分，退缩者损失50分；若双方都退缩，各得0分。你会选择？",
+    "q_en": "In a chicken game, if both go 'brave', both crash and lose 100 points. If one brave and one chicken, brave gains 50, chicken loses 50. If both chicken, both get 0. What do you choose?",
+    "a_zh": "勇猛",
+    "a_en": "Brave",
+    "b_zh": "退缩",
+    "b_en": "Chicken"
+  },
+  {
+    "q_zh": "你与对手玩一个‘信号博弈’：你可以发出一个友好信号（成本2元）或不发信号。对手根据你的信号决定是否与你合作。合作能带来双方各10元收益，不合作则双方各0元。对手很可能会信任发出信号的人。你会发出信号吗？",
+    "q_en": "In a signaling game, you can send a friendly signal (cost 2 yuan) or not. Based on your signal, the opponent decides to cooperate (each gets 10) or not (each gets 0). The opponent is likely to trust signalers. Do you send the signal?",
+    "a_zh": "发出信号",
+    "a_en": "Send the signal",
+    "b_zh": "不发信号",
+    "b_en": "Do not send signal"
   }
 ]
