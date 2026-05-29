@@ -8775,5 +8775,85 @@
     "a_en": "Send the signal",
     "b_zh": "不发信号",
     "b_en": "Do not send signal"
+  },
+  {
+    "q_zh": "在谈判中，你发现对方明显在虚张声势。你应该：",
+    "q_en": "In a negotiation, you realize your opponent is clearly bluffing. What should you do?",
+    "a_zh": "当场揭穿对方，展示你的洞察力，迫使其让步。",
+    "a_en": "Call their bluff immediately to demonstrate your insight and force a concession.",
+    "b_zh": "假装相信对方，在后续细节中设置陷阱，暗中反制。",
+    "b_en": "Pretend to believe them, then set traps in the details to counterattack covertly."
+  },
+  {
+    "q_zh": "在重复博弈中，对方曾背叛过你一次。你的最优策略是：",
+    "q_en": "In a repeated game, your opponent once betrayed you. Your optimal strategy is:",
+    "a_zh": "直接报复一次，然后恢复合作，采用‘以牙还牙’策略。",
+    "a_en": "Retaliate once, then return to cooperation, following a 'tit-for-tat' strategy.",
+    "b_zh": "持续惩罚直到对方主动求和，以确立威慑力。",
+    "b_en": "Punish them continuously until they sue for peace, to establish a credible deterrent."
+  },
+  {
+    "q_zh": "当你手握稀缺资源，而对手急需时，最佳要价策略是：",
+    "q_en": "When you hold a scarce resource and your opponent urgently needs it, the best pricing strategy is:",
+    "a_zh": "直接开出最高价，利用急迫性攫取最大利益。",
+    "a_en": "Name the highest price directly, exploiting their urgency for maximum gain.",
+    "b_zh": "先开出中等价格，留出议价空间，防止对方彻底退出谈判。",
+    "b_en": "Start with a moderate price, leaving room to negotiate, to prevent them from walking away entirely."
+  },
+  {
+    "q_zh": "在多人博弈中，你应该最先淘汰哪一种类型的对手？",
+    "q_en": "In a multi-player game, which type of opponent should you eliminate first?",
+    "a_zh": "最强且最有威胁的对手，避免后患。",
+    "a_en": "The strongest and most threatening opponent, to avoid future trouble.",
+    "b_zh": "最弱且容易被操控的对手，先积累资源。",
+    "b_en": "The weakest and most manipulable opponent, to accumulate resources first."
+  },
+  {
+    "q_zh": "对方表现出非理性愤怒时，你最好的应对是：",
+    "q_en": "When your opponent displays irrational anger, your best response is:",
+    "a_zh": "以强硬对强硬，展示你不会被情绪胁迫。",
+    "a_en": "Respond with toughness to show that you won't be intimidated by emotions.",
+    "b_zh": "假装退让，利用对方的情绪失控使其做出错误决策。",
+    "b_en": "Pretend to yield, exploiting their emotional失控 to make them commit errors."
+  },
+  {
+    "q_zh": "在一个零和博弈中，你得知对手有70%的胜率。你应该：",
+    "q_en": "In a zero-sum game, you learn your opponent has a 70% win rate. You should:",
+    "a_zh": "全力求胜，搏小概率翻盘，因为放弃等于必败。",
+    "a_en": "Go all out for victory, betting on a low-probability comeback, as giving up guarantees defeat.",
+    "b_zh": "调整目标为尽量减少损失，为后续轮次保存实力。",
+    "b_en": "Adjust your goal to minimize losses, preserving strength for subsequent rounds."
+  },
+  {
+    "q_zh": "对方在合作中突然提出附加条件。你应：",
+    "q_en": "Your opponent suddenly adds a new condition during cooperation. You should:",
+    "a_zh": "坚决拒绝，警告对方任何修改均视为破坏协议。",
+    "a_en": "Refuse firmly, warning that any modification will be considered a breach of agreement.",
+    "b_zh": "表面接受，但同时暗中准备一个更不利于对方的反制条款。",
+    "b_en": "Accept on the surface, but secretly prepare a counter-clause that is even less favorable to them."
+  },
+  {
+    "q_zh": "你最有效的谈判让步策略是：",
+    "q_en": "Your most effective negotiation concession strategy is:",
+    "a_zh": "每次让步幅度递减，显示底线即将达到。",
+    "a_en": "Decrease the concession size each time, signaling that your bottom line is near.",
+    "b_zh": "突然做出一次大让步，换取对方在关键议题上永久妥协。",
+    "b_en": "Suddenly make a large concession in exchange for their permanent compromise on a key issue."
+  },
+  {
+    "q_zh": "对手在公共场合向你发出挑战，你该怎么办？",
+    "q_en": "Your opponent challenges you publicly. What should you do?",
+    "a_zh": "立即应战，维护面子与威慑力。",
+    "a_en": "Accept immediately to save face and maintain deterrence.",
+    "b_zh": "微笑回避，将对方的挑战转化为‘私下再谈’，剥夺其表演舞台。",
+    "b_en": "Smile and deflect, turning the challenge into 'let's discuss privately,' depriving them of a stage."
+  },
+  {
+    "q_zh": "在最后通牒博弈中，对方给出极端不公平分配（90:10）。你应该：",
+    "q_en": "In an ultimatum game, your opponent offers an extremely unfair split (90:10). You should:",
+    "a_zh": "拒绝接受，以示宁为玉碎不为瓦全，惩罚贪婪者。",
+    "a_en": "Reject it to show you'd rather have nothing than accept greed, punishing the exploiter.",
+    "b_zh": "接受10%，但明确表示这是最后一次，并利用这次记录在后续博弈中建立信誉。",
+    "b_en": "Accept the 10%, but make it clear this is the last time, using this record to build credibility in future games."
   }
 ]
