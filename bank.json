@@ -8935,5 +8935,85 @@
     "a_en": "A. 1 yuan, because a rational person would not refuse any positive gain.",
     "b_zh": "B. 30-40元，因为现实中的回应者会因不公平而惩罚你",
     "b_en": "B. 30-40 yuan, because real responders often punish unfairness."
+  },
+  {
+    "q_zh": "你被分配到一笔意外之财，金额为100元。你需要和一位陌生人分这笔钱，且只有一次提议机会。若对方拒绝你的分配方案，双方都得不到钱。你会提议给对方多少？",
+    "q_en": "You receive a windfall of $100 that must be split with a stranger. You make a one-time offer. If they reject, both get nothing. How much do you offer?",
+    "a_zh": "A. 30-40元",
+    "a_en": "A. $30-$40",
+    "b_zh": "B. 50元或以上",
+    "b_en": "B. $50 or more"
+  },
+  {
+    "q_zh": "在一个公开的博弈中，你要与对方进行十轮“信任投资”。你发现对方在前三轮中都选择了背叛。第四轮开始时，你会如何选择？",
+    "q_en": "In a public trust investment game lasting ten rounds, you notice your opponent has defected in the first three rounds. At round four, what do you do?",
+    "a_zh": "A. 继续选择信任，希望对方改变",
+    "a_en": "A. Continue trusting, hoping they change",
+    "b_zh": "B. 选择背叛，以惩罚或自保",
+    "b_en": "B. Defect to punish or protect yourself"
+  },
+  {
+    "q_zh": "你和对手各持有100枚代币，进行一场零和博弈：你们同时选择“进攻”或“防守”。若双方都进攻，各损失50；都防守，各得25；一方进攻一方防守，进攻方得50，防守方失50。你会选什么？",
+    "q_en": "You and your opponent each have 100 tokens in a zero-sum game: simultaneous choice of 'Attack' or 'Defend'. If both Attack, both lose 50; both Defend, both gain 25; one Attacks while the other Defends, Attacker gains 50, Defender loses 50. What do you choose?",
+    "a_zh": "A. 进攻",
+    "a_en": "A. Attack",
+    "b_zh": "B. 防守",
+    "b_en": "B. Defend"
+  },
+  {
+    "q_zh": "在一场多轮重复博弈中，你的对手目前采用“以牙还牙”策略（第一回合合作，之后复制你上一回合的行为）。你发现这一模式后，第一回合你会如何行动？",
+    "q_en": "In a repeated game, your opponent is using a 'Tit for Tat' strategy (cooperates first round, then mirrors your previous move). After identifying this, what do you do on the first move?",
+    "a_zh": "A. 第一回合合作，建立友好基础",
+    "a_en": "A. Cooperate on the first move to build goodwill",
+    "b_zh": "B. 第一回合背叛，先占一次便宜",
+    "b_en": "B. Defect on the first move to gain an advantage"
+  },
+  {
+    "q_zh": "你参加一个拍卖：你和另一位竞拍者要争夺一张100元的钞票，拍卖是出价最高者得，且出价最高者和次高者都要支付自己的出价（即使输了也要付钱）。当前对方出价30元，轮到你了，你会出价多少？",
+    "q_en": "In an auction for a $100 bill, the highest bidder wins, but both the highest and second-highest bidders must pay their bids. The opponent has bid $30. What do you bid?",
+    "a_zh": "A. 出价31元，尝试小步取胜",
+    "a_en": "A. Bid $31, aiming for a small win",
+    "b_zh": "B. 放弃，避免陷入竞价陷阱",
+    "b_en": "B. Drop out to avoid the bidding trap"
+  },
+  {
+    "q_zh": "你和对手各控制一半的公共资源池。你们都可以选择“少量开采”或“过量开采”。如果都少量开采，资源可持续，每人长期获利共100；如果一方过量，另一方少量，过量方获利150，少量方仅30；都过量则资源枯竭，每人获利10。你如何选择？",
+    "q_en": "You and an opponent control half of a common pool resource. Each can choose 'sustainable harvest' or 'overharvest'. If both harvest sustainably, long-term gain = 100 each. One overharvests while the other is sustainable: overharvester gets 150, the other gets 30. Both overharvest: resource collapses, 10 each. What do you choose?",
+    "a_zh": "A. 少量开采（可持续）",
+    "a_en": "A. Sustainable harvest",
+    "b_zh": "B. 过量开采",
+    "b_en": "B. Overharvest"
+  },
+  {
+    "q_zh": "在一场博弈中，你相信对手是完全理性的（追求个人利益最大化）。游戏规则是：你们同时说一个介于1-10之间的整数，若两数相加为奇数，你赢；若偶数，对手赢。你会选什么数？",
+    "q_en": "In a game where your opponent is perfectly rational (maximizing own payoff), you simultaneously pick an integer 1-10. If the sum is odd, you win; if even, opponent wins. What number do you pick?",
+    "a_zh": "A. 选奇数（如1,3,5…），试图制造奇数",
+    "a_en": "A. Pick an odd number (1,3,5…) to try for an odd sum",
+    "b_zh": "B. 选偶数（如2,4,6…），反向思考或随机",
+    "b_en": "B. Pick an even number (2,4,6…) to counter-think or randomize"
+  },
+  {
+    "q_zh": "你与对手进行“胆小鬼博弈”：两人开车相向而行，谁先转向谁就是“胆小鬼”。如果你确信对方是理性且不想死的，你会如何选择？",
+    "q_en": "You're playing 'Chicken': two cars drive toward each other; the first to swerve is the 'chicken'. If you believe your opponent is rational and fears death, what do you do?",
+    "a_zh": "A. 坚持直行，赌对方会先转向",
+    "a_en": "A. Stay straight, betting they will swerve",
+    "b_zh": "B. 主动转向，避免碰撞",
+    "b_en": "B. Swerve to avoid collision"
+  },
+  {
+    "q_zh": "你和对手被要求完成一项合作任务，每个人秘密选择“付出高努力”或“付出低努力”。若两人都高努力，各自得80；一高一低，高努力者得10，低努力者得90；都低努力，各自得40。你会怎么选？",
+    "q_en": "You and your opponent secretly choose 'high effort' or 'low effort' for a joint task. Both high: 80 each. One high, one low: high gets 10, low gets 90. Both low: 40 each. What do you choose?",
+    "a_zh": "A. 付出高努力",
+    "a_en": "A. High effort",
+    "b_zh": "B. 付出低努力",
+    "b_en": "B. Low effort"
+  },
+  {
+    "q_zh": "在一项“最后通牒博弈”中，你收到一个匿名的随机分配角色：你是提议者，需要将100元分给自己和回应者。如果回应者拒绝，双方都要交回所有钱。你认为回应者会拒绝低于多少的分配？",
+    "q_en": "In an anonymous Ultimatum Game, you are assigned as the proposer. You must split $100 with the responder. If they reject, both return the money. What minimum offer do you think the responder would accept?",
+    "a_zh": "A. 20-30元，大多数人会因公平感拒绝更低",
+    "a_en": "A. $20-$30, as most reject lower offers out of fairness",
+    "b_zh": "B. 10元或更低，理性人应该接受任何正数",
+    "b_en": "B. $10 or less, since a rational person would accept any positive amount"
   }
 ]
