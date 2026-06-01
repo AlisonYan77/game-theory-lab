@@ -9015,5 +9015,85 @@
     "a_en": "A. $20-$30, as most reject lower offers out of fairness",
     "b_zh": "B. 10元或更低，理性人应该接受任何正数",
     "b_en": "B. $10 or less, since a rational person would accept any positive amount"
+  },
+  {
+    "q_zh": "在囚徒困境中，如果对方选择背叛，你最理性的选择是什么？",
+    "q_en": "In a Prisoner's Dilemma, if the other player chooses to betray, what is the most rational choice for you?",
+    "a_zh": "背叛，以减少自身损失",
+    "a_en": "Betray, to minimize your own loss",
+    "b_zh": "合作，期望对方改变策略",
+    "b_en": "Cooperate, hoping the other changes strategy"
+  },
+  {
+    "q_zh": "在重复博弈中，为了长期利益最大化，你应首先采取什么策略？",
+    "q_en": "In a repeated game, to maximize long-term benefits, what strategy should you initially adopt?",
+    "a_zh": "先合作，然后以牙还牙",
+    "a_en": "Start with cooperation, then tit-for-tat",
+    "b_zh": "先背叛，获取短期高收益",
+    "b_en": "Start with betrayal for short-term high gain"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你对一个物品估值100元，当前最高报价80元，你的最优出价是多少？",
+    "q_en": "In an auction game, you value an item at $100, and the current highest bid is $80. What is your optimal bid?",
+    "a_zh": "出价81元，确保获利空间",
+    "a_en": "Bid $81 to secure profit margin",
+    "b_zh": "出价100元，确保赢得物品",
+    "b_en": "Bid $100 to guarantee winning the item"
+  },
+  {
+    "q_zh": "在协调博弈中，你和对方选择相同位置才能得100分，否则得0分，你会选择哪个？",
+    "q_en": "In a coordination game, you and the other player both get 100 points only if you choose the same spot, otherwise 0. Which spot do you choose?",
+    "a_zh": "选择约定俗成的中心点",
+    "a_en": "Choose the conventional center point",
+    "b_zh": "选择随机位置，赌对方运气",
+    "b_en": "Choose a random spot, gambling on luck"
+  },
+  {
+    "q_zh": "在懦夫博弈中，你与对手相向而行，谁先转向谁输面子，你的最佳策略是什么？",
+    "q_en": "In a Chicken game, you and an opponent drive toward each other; whoever swerves loses face. What is your best strategy?",
+    "a_zh": "假装疯狂，让对方先转向",
+    "a_en": "Pretend to be crazy, forcing the other to swerve",
+    "b_zh": "自己先转向，确保安全",
+    "b_en": "Swerve first to ensure safety"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你分100元给对方，对方拒绝则双方都得0，你会分给对方多少？",
+    "q_en": "In an Ultimatum game, you divide $100 with another person; if they reject, both get $0. How much do you offer?",
+    "a_zh": "分给对方50元，公平合理",
+    "a_en": "Offer $50 for fairness",
+    "b_zh": "分给对方30元，自己拿70元",
+    "b_en": "Offer $30, keeping $70"
+  },
+  {
+    "q_zh": "在鹰鸽博弈中，争夺一块资源，鹰派战斗，鸽派分享，你该怎么做？",
+    "q_en": "In a Hawk-Dove game, two players compete for a resource: Hawks fight, Doves share. What should you do?",
+    "a_zh": "扮演鹰派，先发制人",
+    "a_en": "Play Hawk, strike first",
+    "b_zh": "扮演鸽派，避免冲突",
+    "b_en": "Play Dove to avoid conflict"
+  },
+  {
+    "q_zh": "在猎鹿博弈中，猎鹿需要合作得5分，猎兔单干得2分，你应如何选择？",
+    "q_en": "In a Stag Hunt game, hunting a stag together yields 5 points, but hunting a hare alone yields 2. What do you choose?",
+    "a_zh": "选择猎鹿，信任同伴合作",
+    "a_en": "Hunt stag, trusting your partner to cooperate",
+    "b_zh": "选择猎兔，确保稳定收益",
+    "b_en": "Hunt hare for guaranteed payoff"
+  },
+  {
+    "q_zh": "在零和博弈中，你和对手同时选择数字1或2，若数字相同你赢10元，不同则对手赢10元，你选什么？",
+    "q_en": "In a zero-sum game, you and the opponent pick 1 or 2 simultaneously. If same, you win $10; if different, opponent wins $10. What do you pick?",
+    "a_zh": "选择1，纯随机策略",
+    "a_en": "Pick 1, using a random strategy",
+    "b_zh": "选择2，避免被猜中",
+    "b_en": "Pick 2 to avoid being predicted"
+  },
+  {
+    "q_zh": "在消耗战中，双方不断加码，直到一方放弃，你应该怎么做？",
+    "q_en": "In a War of Attrition, both players keep adding costs until one quits. What should you do?",
+    "a_zh": "设定底线，一旦到达就立刻放弃",
+    "a_en": "Set a limit and quit immediately when reached",
+    "b_zh": "永不放弃，拖垮对方",
+    "b_en": "Never quit, wear the opponent down"
   }
 ]
