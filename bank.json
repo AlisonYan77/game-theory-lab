@@ -9095,5 +9095,85 @@
     "a_en": "Set a limit and quit immediately when reached",
     "b_zh": "永不放弃，拖垮对方",
     "b_en": "Never quit, wear the opponent down"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，你认为长期最优策略是什么？",
+    "q_en": "In a repeated Prisoner's Dilemma, what do you think is the optimal long-term strategy?",
+    "a_zh": "以牙还牙，先合作再模仿对方上一次的行为",
+    "a_en": "Tit-for-Tat: cooperate first, then mimic opponent's last move",
+    "b_zh": "始终背叛，因为每个人最终都会自私",
+    "b_en": "Always defect, because everyone will ultimately act selfishly"
+  },
+  {
+    "q_zh": "面对一个不确定的对手，你更愿意选择哪种谈判开局策略？",
+    "q_en": "When facing an uncertain opponent, which opening strategy would you prefer in a negotiation?",
+    "a_zh": "提出一个极端的要求，为后续让步留空间",
+    "a_en": "Make an extreme demand to leave room for concessions",
+    "b_zh": "提出一个合理且接近底线的要求，建立信任",
+    "b_en": "Make a reasonable and near-bottom-line offer to build trust"
+  },
+  {
+    "q_zh": "在多人公共物品博弈中，你更倾向于哪种贡献方式？",
+    "q_en": "In a multiplayer public goods game, which contribution method do you lean towards?",
+    "a_zh": "刚开始贡献较多，以激励他人也贡献",
+    "a_en": "Contribute more at the start to encourage others to contribute",
+    "b_zh": "贡献较少，先观察他人是否可靠",
+    "b_en": "Contribute less initially to observe if others are reliable"
+  },
+  {
+    "q_zh": "在零和博弈中，假如你可以向对手透露一条虚假信息，你会怎么做？",
+    "q_en": "In a zero-sum game, if you could leak one piece of false information to your opponent, what would you do?",
+    "a_zh": "透露一个看似真实的假弱点，诱使对手攻击错误方向",
+    "a_en": "Leak a seemingly real fake weakness to lure the opponent into attacking the wrong direction",
+    "b_zh": "不透露任何信息，避免对方反向利用你的谎言",
+    "b_en": "Leak nothing, to avoid the opponent reverse-engineering your lie"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你认为最稳妥的出价策略是？",
+    "q_en": "In an auction game, what do you think is the safest bidding strategy?",
+    "a_zh": "根据物品真实价值出价，不超预算",
+    "a_en": "Bid according to the item's true value, without exceeding your budget",
+    "b_zh": "轻微低报价格，利用别人可能过度支付的心理",
+    "b_en": "Slightly underbid, exploiting others' tendency to overpay"
+  },
+  {
+    "q_zh": "在信任博弈中，你作为先手会转多少钱给对方？",
+    "q_en": "In a trust game, as the first mover, how much money would you send to the other player?",
+    "a_zh": "转出一半以上，期望对方回报更多",
+    "a_en": "Send more than half, expecting a reciprocal larger return",
+    "b_zh": "只转出很少一部分，以防对方独吞",
+    "b_en": "Send only a small portion, in case the opponent keeps everything"
+  },
+  {
+    "q_zh": "当发现对手在博弈中使用非理性情绪化策略时，你如何应对？",
+    "q_en": "When you find your opponent using an irrational, emotional strategy in a game, how do you respond?",
+    "a_zh": "同样以情绪化反击，威慑对方回到理性",
+    "a_en": "Fight back emotionally to deter them back to rationality",
+    "b_zh": "保持高度理性，抓住对方情绪化失误获利",
+    "b_en": "Stay hyper-rational and profit from the opponent's emotional mistakes"
+  },
+  {
+    "q_zh": "在协和谬误（沉没成本）情境中，你倾向于怎么做？",
+    "q_en": "In a Concorde fallacy (sunk cost) situation, what do you tend to do?",
+    "a_zh": "继续投资，试图挽回已经投入的成本",
+    "a_en": "Continue investing to try to recover sunk costs",
+    "b_zh": "果断止损，忽略已投入的成本，只考虑未来收益",
+    "b_en": "Cut losses decisively, ignore sunk costs, and consider only future returns"
+  },
+  {
+    "q_zh": "在博弈开始前，你更倾向于如何设定自己的声誉？",
+    "q_en": "Before a game begins, how do you prefer to set your reputation?",
+    "a_zh": "建立极度强硬、绝不妥协的形象",
+    "a_en": "Build an image of extreme toughness and no compromise",
+    "b_zh": "建立公平但有原则的理性形象",
+    "b_en": "Build an image of fairness but with clear principles"
+  },
+  {
+    "q_zh": "如果对手在多次博弈中始终选择合作，你会改变策略吗？",
+    "q_en": "If your opponent consistently chooses cooperation in repeated games, would you change your strategy?",
+    "a_zh": "继续合作，因为对方值得信赖，长期互利",
+    "a_en": "Keep cooperating, because the opponent is trustworthy for long-term mutual benefit",
+    "b_zh": "偶尔背叛一次，测试对方底线并获取短期利益",
+    "b_en": "Defect once in a while to test their boundaries and gain short-term profit"
   }
 ]
