@@ -9175,5 +9175,85 @@
     "a_en": "Keep cooperating, because the opponent is trustworthy for long-term mutual benefit",
     "b_zh": "偶尔背叛一次，测试对方底线并获取短期利益",
     "b_en": "Defect once in a while to test their boundaries and gain short-term profit"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对方连续三次选择了背叛。下一轮，你会选择？",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent has defected three times in a row. What will you choose next round?",
+    "a_zh": "继续选择合作，尝试用善意感化对方",
+    "a_en": "Continue to cooperate, trying to reform them with goodwill",
+    "b_zh": "选择背叛，以牙还牙，惩罚对方的背叛",
+    "b_en": "Defect, tit-for-tat, to punish their betrayal"
+  },
+  {
+    "q_zh": "你正在参与一场拍卖，竞拍一张价值100元的钞票。当前出价最高为80元，且出价第二高的玩家必须支付其出价（无论是否获胜）。你会？",
+    "q_en": "You are in an auction for a $100 bill. Current highest bid is $80, and the second-highest bidder must pay their bid (whether they win or not). What do you do?",
+    "a_zh": "出价90元，争取获利10元",
+    "a_en": "Bid $90 to secure a $10 profit",
+    "b_zh": "停止出价，避免陷入恶性竞价陷阱",
+    "b_en": "Stop bidding to avoid falling into a bidding trap"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你作为提议者，有100元可分配。对方会拒绝低于30元的方案。你会提议？",
+    "q_en": "In an Ultimatum Game, you are the proposer with $100 to split. The responder will reject any offer under $30. What do you propose?",
+    "a_zh": "给对方30元，自己留70元",
+    "a_en": "Give $30 to them, keep $70 for yourself",
+    "b_zh": "给对方50元，追求公平以避免对方情绪化拒绝",
+    "b_en": "Give $50 to them, aiming for fairness to avoid emotional rejection"
+  },
+  {
+    "q_zh": "在多人公共物品博弈中，每人初始有20元，公共池资金翻倍后均分。你认为其他三人都会慷慨捐助，你会？",
+    "q_en": "In a public goods game, each player starts with $20, the pool is doubled and split equally. You suspect the other three will donate generously. What do you do?",
+    "a_zh": "捐助全部20元，最大化公共收益",
+    "a_en": "Donate all $20 to maximize group gain",
+    "b_zh": "一毛不拔，坐享其成搭便车",
+    "b_en": "Donate nothing, free-riding on others' contributions"
+  },
+  {
+    "q_zh": "你得知同事在项目汇报中抢了你的功劳，但即将有一个新项目需要你俩合作。你的策略是？",
+    "q_en": "You learn a colleague took credit for your work in a report, but a new project requires your collaboration. Your strategy?",
+    "a_zh": "当面质问并拒绝合作，维护自身权益",
+    "a_en": "Confront them directly and refuse to cooperate, protecting your rights",
+    "b_zh": "暂时隐忍，在合作中设置边界让对方付出代价",
+    "b_en": "Tolerate for now, but set boundaries in the collaboration to make them pay"
+  },
+  {
+    "q_zh": "你正在进行一次‘背叛-信任’游戏：你先行动，对方会知道你的选择后再决定。你会先？",
+    "q_en": "You are playing a trust game: you move first, and the opponent will see your choice before deciding. What do you do first?",
+    "a_zh": "选择信任，期待对方也回报以信任",
+    "a_en": "Choose trust, hoping for reciprocal trust",
+    "b_zh": "选择背叛，先下手为强确保安全",
+    "b_en": "Choose betrayal, striking first to ensure safety"
+  },
+  {
+    "q_zh": "在一种非零和游戏中，你们双方都可以选择‘鹰派’或‘鸽派’。如果双方都选鸽派，各得10分；一鹰一鸽，鹰得15分，鸽得0分；双鹰各得-5分。你会？",
+    "q_en": "In a non-zero-sum game, both can choose 'Hawk' or 'Dove'. Both Dove: +10 each; One Hawk, one Dove: Hawk +15, Dove 0; Both Hawk: -5 each. What do you choose?",
+    "a_zh": "选鸽派，希望对方也选鸽派共赢",
+    "a_en": "Choose Dove, hoping for mutual cooperation",
+    "b_zh": "选鹰派，争取获得15分哪怕冒风险",
+    "b_en": "Choose Hawk, aiming for +15 even at risk"
+  },
+  {
+    "q_zh": "你和对手各握有一枚硬币，同时展示正面或反面。若相同你赢10元，不同则对手赢10元。你认为对手可能会猜你出正面，你会出？",
+    "q_en": "You and an opponent each show heads or tails. Same: you win $10; different: opponent wins $10. You suspect the opponent will guess you show heads. What do you show?",
+    "a_zh": "出正面，利用对方的预期诱导其出错",
+    "a_en": "Show heads, exploiting their expectation to make them err",
+    "b_zh": "出反面，利用反向心理赢得博弈",
+    "b_en": "Show tails, using reverse psychology to win"
+  },
+  {
+    "q_zh": "经过多轮博弈，你发现对手总是模仿你上一轮的动作（镜像策略）。这一轮你希望最终双方都合作，你会？",
+    "q_en": "After several rounds, you notice the opponent always mimics your last move (mirror strategy). You want both to cooperate eventually. What do you do this round?",
+    "a_zh": "先选择背叛，展示强硬态度，迫使对方未来妥协",
+    "a_en": "Defect first to show toughness, forcing future compromise",
+    "b_zh": "先选择合作，树立榜样引导互惠合作",
+    "b_en": "Cooperate first, setting an example to guide reciprocal cooperation"
+  },
+  {
+    "q_zh": "在掮客博弈中，你可以选择‘真诚’（如实报价）或‘狡猾’（虚报高价）。若对方也选真诚，双方各得5元；一方狡猾一方真诚，狡猾方得10元，真诚方得0元；双方狡猾各得1元。你会？",
+    "q_en": "In a Broker game, you choose 'Honest' (fair quote) or 'Sly' (inflated price). Both Honest: +5 each; One Sly, one Honest: Sly +10, Honest 0; Both Sly: +1 each. What do you choose?",
+    "a_zh": "选择真诚，建立长期声誉吸引未来合作",
+    "a_en": "Choose Honest to build long-term reputation for future cooperation",
+    "b_zh": "选择狡猾，争取一次性高收益",
+    "b_en": "Choose Sly, aiming for a one-time high payoff"
   }
 ]
