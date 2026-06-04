@@ -9255,5 +9255,85 @@
     "a_en": "Choose Honest to build long-term reputation for future cooperation",
     "b_zh": "选择狡猾，争取一次性高收益",
     "b_en": "Choose Sly, aiming for a one-time high payoff"
+  },
+  {
+    "q_zh": "你发现竞争对手正在抄袭你的商业创意，你应该：",
+    "q_en": "You discover a competitor is copying your business idea. You should:",
+    "a_zh": "立即公开谴责，用舆论压力迫使其停止",
+    "a_en": "Publicly condemn them immediately, using media pressure to force them to stop.",
+    "b_zh": "隐瞒愤怒，假装没发现，同时偷偷加速迭代抢占市场",
+    "b_en": "Hide your anger, pretend not to notice, and secretly accelerate iterations to capture the market."
+  },
+  {
+    "q_zh": "在谈判中，对方开出了一个明显低于底线的报价，你的最佳反应是：",
+    "q_en": "In a negotiation, the other party makes an offer clearly below your bottom line. Your best response is:",
+    "a_zh": "当场强硬拒绝，并用离席威胁来施压",
+    "a_en": "Firmly reject it on the spot and threaten to walk away to pressure them.",
+    "b_zh": "沉默片刻后微笑着说需要内部商量，然后三天不回复以制造焦虑",
+    "b_en": "Smile, say you need internal discussion, then stay silent for three days to create anxiety."
+  },
+  {
+    "q_zh": "你刚发现一个同事在领导面前抢了你的功劳，你会：",
+    "q_en": "You just found out a colleague took credit for your work in front of the boss. You will:",
+    "a_zh": "当场在领导面前揭穿他，并展示证据",
+    "a_en": "Expose him immediately in front of the boss by presenting evidence.",
+    "b_zh": "不揭穿，但在下一次关键项目中故意不配合让他失败",
+    "b_en": "Don't expose him, but deliberately fail to cooperate in the next key project to let him fail."
+  },
+  {
+    "q_zh": "合作方突然提出苛刻附加条款，否则终止合作，你应当：",
+    "q_en": "Your partner suddenly demands harsh additional terms or threatens to terminate the partnership. You should:",
+    "a_zh": "妥协接受，以保住现有合作收益",
+    "a_en": "Give in and accept, to preserve current cooperation benefits.",
+    "b_zh": "反向提出更苛刻条件，并暗示已有其他备选合作方",
+    "b_en": "Counter with even harsher conditions, implying you have alternative partners ready."
+  },
+  {
+    "q_zh": "你发现朋友在社交场合故意贬低你，最佳策略是：",
+    "q_en": "You find a friend is deliberately belittling you in social settings. The best strategy is:",
+    "a_zh": "以其人之道还治其人之身，当场贬低他",
+    "a_en": "Return the favor by belittling him on the spot.",
+    "b_zh": "完全不反击，反而加倍对他友善，让他感到内疚失控",
+    "b_en": "Don't retaliate at all; instead be extra friendly to make him feel guilty and lose control."
+  },
+  {
+    "q_zh": "拍卖中，你非常想要一件物品但预算有限。你应该：",
+    "q_en": "At an auction, you want an item badly but have a limited budget. You should:",
+    "a_zh": "一开始就报出最高预算，吓退其他竞拍者",
+    "a_en": "Bid your maximum budget right away to scare off other bidders.",
+    "b_zh": "缓慢加价并频繁犹豫，假装预算紧张来误导对手",
+    "b_en": "Bid slowly with frequent hesitation, pretending to be budget-strapped to mislead opponents."
+  },
+  {
+    "q_zh": "面对一个反复欺骗你的商业伙伴，你的最优行动是：",
+    "q_en": "Faced with a business partner who has repeatedly deceived you, your best move is:",
+    "a_zh": "收集所有证据后一次性举报或起诉，彻底断绝关系",
+    "a_en": "Collect all evidence, then report or sue him in one stroke, cutting ties completely.",
+    "b_zh": "假装信任但暗中设局，引诱他下次犯错时人赃俱获",
+    "b_en": "Pretend to trust but secretly set a trap, luring him into making a mistake caught red-handed."
+  },
+  {
+    "q_zh": "考试或比赛中，你发现对手使用了违规手段但尚未被发现，你会：",
+    "q_en": "During an exam or competition, you find an opponent has used unfair means undetected. You will:",
+    "a_zh": "立刻向裁判或权威机构举报",
+    "a_en": "Report it immediately to the referee or authority.",
+    "b_zh": "不举报，但用同样手段反击以保证公平",
+    "b_en": "Don't report, but fight back using the same methods to ensure fairness."
+  },
+  {
+    "q_zh": "你处于弱势时，对方试图用威胁逼迫你服从，最佳回应是：",
+    "q_en": "When you are in a weak position and the opponent tries to coerce you into submission, the best response is:",
+    "a_zh": "示弱并全部满足对方要求，避免更大损失",
+    "a_en": "Show weakness and comply with all demands to avoid greater losses.",
+    "b_zh": "表现异常冷静，并微笑说出对方最不愿被公开的秘密",
+    "b_en": "Remain unusually calm and smile while revealing a secret the opponent least wants disclosed."
+  },
+  {
+    "q_zh": "在多人游戏中，你是暂时领先者，其他玩家开始联手对付你。你应：",
+    "q_en": "In a multiplayer game, you are the temporary leader and others start ganging up on you. You should:",
+    "a_zh": "全力进攻最弱的玩家以杀鸡儆猴",
+    "a_en": "Aggressively attack the weakest player to make an example of them.",
+    "b_zh": "故意示弱，让最强两个玩家互相猜忌并内斗",
+    "b_en": "Deliberately show weakness to make the two strongest players suspicious and fight each other."
   }
 ]
