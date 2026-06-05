@@ -9335,5 +9335,85 @@
     "a_en": "Aggressively attack the weakest player to make an example of them.",
     "b_zh": "故意示弱，让最强两个玩家互相猜忌并内斗",
     "b_en": "Deliberately show weakness to make the two strongest players suspicious and fight each other."
+  },
+  {
+    "q_zh": "你与一个陌生人仅能通过文字交流一次，你需要决定是否信任他。你会选择？",
+    "q_en": "You can only communicate with a stranger once via text. You need to decide whether to trust him. What do you choose?",
+    "a_zh": "A. 主动透露自己的弱点，以换取对方可能的坦诚",
+    "a_en": "A. Reveal your own weakness first to potentially gain his honesty.",
+    "b_zh": "B. 保持警惕，只分享无关紧要的表面信息",
+    "b_en": "B. Stay guarded, share only trivial surface information."
+  },
+  {
+    "q_zh": "在一场多人匿名投票中，你的选择将直接影响群体利益。你更倾向于？",
+    "q_en": "In a multi-player anonymous vote, your choice directly affects the group's welfare. Which do you prefer?",
+    "a_zh": "A. 选择对集体最优但可能牺牲个人小利的方案",
+    "a_en": "A. Choose the option best for the group, even if it slightly harms your own gain.",
+    "b_zh": "B. 选择确保自己利益最大化的方案，无论集体结果",
+    "b_en": "B. Choose the option that maximizes your own gain, regardless of the group outcome."
+  },
+  {
+    "q_zh": "对方连续三次选择了背叛你的策略，第四次你们再次博弈。你会？",
+    "q_en": "The opponent has betrayed you three times in a row. You face them again in a fourth round. What do you do?",
+    "a_zh": "A. 以牙还牙，同样背叛对方以示惩罚",
+    "a_en": "A. Tit-for-tat: betray them as punishment.",
+    "b_zh": "B. 突然选择合作，试图打破仇恨循环",
+    "b_en": "B. Suddenly choose cooperation to try to break the cycle of hostility."
+  },
+  {
+    "q_zh": "你知道对方是一个习惯性虚张声势的玩家，但此刻他表现得异常自信。你会？",
+    "q_en": "You know the opponent is a habitual bluffer, but right now they seem unusually confident. What do you do?",
+    "a_zh": "A. 反向推理，认定他这次实则心虚而选择对抗",
+    "a_en": "A. Reverse-reason: assume he is actually insecure and choose to confront.",
+    "b_zh": "B. 认为他可能在改变策略，选择暂时退缩观察",
+    "b_en": "B. Think he might be changing his strategy and temporarily back off to observe."
+  },
+  {
+    "q_zh": "在公开协商环节，你有一个强势话语权的对手，但你的提议更公平。你会？",
+    "q_en": "In a public negotiation round, your opponent has strong speaking power, but your proposal is fairer. What do you do?",
+    "a_zh": "A. 坚持用数据和逻辑说服其他参与者支持你",
+    "a_en": "A. Insist on using data and logic to persuade other participants to support you.",
+    "b_zh": "B. 先假意赞成对方，私下拉拢中立者形成隐秘联盟",
+    "b_en": "B. Pretend to agree with him first, then secretly form a hidden alliance with neutrals."
+  },
+  {
+    "q_zh": "游戏进入最后一轮，双方积分相差极小，你手中有一次“加倍或归零”的机会。你会？",
+    "q_en": "It's the final round, scores are extremely close. You have a 'double or zero' chance. What do you do?",
+    "a_zh": "A. 稳妥选择不发动，保住现有积分",
+    "a_en": "A. Play safe, do not activate, secure current points.",
+    "b_zh": "B. 孤注一掷发动加倍，赌对手不敢跟你同样冒险",
+    "b_en": "B. Go all-in with the double, gambling that the opponent won't take the same risk."
+  },
+  {
+    "q_zh": "对手在游戏中途突然向你发送一段情感化的道歉文字。你怀疑这是策略，你会？",
+    "q_en": "The opponent suddenly sends you an emotional apology mid-game. You suspect this is a tactic. What do you do?",
+    "a_zh": "A. 相信道歉是真诚的，并相应调整合作姿态",
+    "a_en": "A. Believe the apology is genuine and adjust your cooperation accordingly.",
+    "b_zh": "B. 表面接受道歉，但内心继续按照原定竞争策略行动",
+    "b_en": "B. Accept the apology outwardly, but continue your original competitive strategy internally."
+  },
+  {
+    "q_zh": "你发现对方在博弈前观察了你的社交媒体信息，并据此调整策略。你会？",
+    "q_en": "You discover the opponent spied on your social media before the game and adjusted their strategy accordingly. What do you do?",
+    "a_zh": "A. 当场揭发其行为，要求裁判介入或重新开始",
+    "a_en": "A. Expose their behavior on the spot, ask for referee intervention or restart.",
+    "b_zh": "B. 将计就计，故意在社交媒体上释放虚假偏好信息",
+    "b_en": "B. Turn the tables: deliberately post fake preference info on social media to mislead them."
+  },
+  {
+    "q_zh": "你与对手实力相当，且都擅长心理战。你会采取哪种核心策略？",
+    "q_en": "You and your opponent are evenly matched and both skilled in psychological warfare. Which core strategy do you adopt?",
+    "a_zh": "A. 极端不可预测，每次随机选择以打乱对方模型",
+    "a_en": "A. Be extremely unpredictable, randomize each choice to break their model.",
+    "b_zh": "B. 建立一个稳定的合作信号，故意偶尔背叛来制造混淆",
+    "b_en": "B. Establish a stable cooperation signal, then deliberately betray occasionally to create confusion."
+  },
+  {
+    "q_zh": "在连续三场平局后，第四场你感到双方都在等待对方先让步。你会？",
+    "q_en": "After three consecutive draws, you feel both sides are waiting for the other to give in. What do you do in the fourth round?",
+    "a_zh": "A. 继续保持僵持，通过沉默让对方先承受不住压力",
+    "a_en": "A. Keep stalemating, use silence to make the opponent crack under pressure first.",
+    "b_zh": "B. 突然做出一个小的让步以打破僵局，重新夺回主动权",
+    "b_en": "B. Suddenly make a small concession to break the deadlock and regain initiative."
   }
 ]
