@@ -9415,5 +9415,85 @@
     "a_en": "A. Keep stalemating, use silence to make the opponent crack under pressure first.",
     "b_zh": "B. 突然做出一个小的让步以打破僵局，重新夺回主动权",
     "b_en": "B. Suddenly make a small concession to break the deadlock and regain initiative."
+  },
+  {
+    "q_zh": "你发现了一个稳定的合作对象，但你的利益可以通过一次背叛大幅提升。你会选择：",
+    "q_en": "You have a stable cooperative partner, but betraying them once could greatly increase your profit. What do you choose?",
+    "a_zh": "继续合作，维持长期信任。",
+    "a_en": "Continue cooperating to maintain long-term trust.",
+    "b_zh": "背叛一次，获取短期高回报。",
+    "b_en": "Betray once for a short-term high payoff."
+  },
+  {
+    "q_zh": "在零和博弈中，对手似乎露出了一个破绽。你的最佳应对是：",
+    "q_en": "In a zero-sum game, your opponent seems to have shown a weakness. Your best response is:",
+    "a_zh": "假装没看见，引诱对方更大失误。",
+    "a_en": "Pretend not to see it, luring them into a bigger mistake.",
+    "b_zh": "立即利用破绽，快速得分。",
+    "b_en": "Exploit the weakness immediately for a quick gain."
+  },
+  {
+    "q_zh": "你与对手同时选择策略，且无法沟通。你预计对方会选‘合作’，你会：",
+    "q_en": "You and your opponent choose strategies simultaneously, with no communication. You expect them to choose 'cooperate'. You will:",
+    "a_zh": "同样选择合作，追求双赢。",
+    "a_en": "Also choose cooperate, aiming for mutual benefit.",
+    "b_zh": "选择背叛，确保自身利益最大化。",
+    "b_en": "Choose betray to maximize your own payoff."
+  },
+  {
+    "q_zh": "在重复博弈中，对方已经有多次背叛记录。你会：",
+    "q_en": "In a repeated game, your opponent has a history of multiple betrayals. You will:",
+    "a_zh": "以牙还牙，也选择背叛。",
+    "a_en": "Adopt tit-for-tat and also betray.",
+    "b_zh": "主动示好一次，测试对方是否转变。",
+    "b_en": "Offer an olive branch once to test if they have changed."
+  },
+  {
+    "q_zh": "你获得了一个不对称优势信息，该信息会让对手改变策略。你会：",
+    "q_en": "You have asymmetric advantage information that would make your opponent change their strategy. You will:",
+    "a_zh": "隐藏信息，维持自己的优势地位。",
+    "a_en": "Hide the information to maintain your advantage.",
+    "b_zh": "公开信息，寻求更公平的博弈环境。",
+    "b_en": "Disclose the information to seek a fairer game environment."
+  },
+  {
+    "q_zh": "对手表现出极端的情绪化决策，经常非理性攻击。你的策略应该是：",
+    "q_en": "Your opponent shows extremely emotional decision-making, often attacking irrationally. Your strategy should be:",
+    "a_zh": "保持理性冷静，用固定模式回应。",
+    "a_en": "Stay rational and calm, responding with a fixed pattern.",
+    "b_zh": "模仿对方的情绪波动，以乱制乱。",
+    "b_en": "Mirror their emotional swings, fighting chaos with chaos."
+  },
+  {
+    "q_zh": "博弈进入最后回合，双方都知道即将结束。你会如何选择？",
+    "q_en": "The game enters its final round, and both sides know it ends. What do you choose?",
+    "a_zh": "选择合作，留下完美结局的声誉。",
+    "a_en": "Choose cooperate to leave a reputation of a perfect ending.",
+    "b_zh": "选择背叛，因为再无未来博弈惩罚。",
+    "b_en": "Choose betray, as there is no future game penalty."
+  },
+  {
+    "q_zh": "你发现你的决策会被第三方‘裁判’观察并评价。你会倾向于：",
+    "q_en": "You find your decisions are observed and evaluated by a third-party 'judge'. You tend to:",
+    "a_zh": "选择更合作、更道德的策略以获得正面评价。",
+    "a_en": "Choose a more cooperative, moral strategy to gain a positive rating.",
+    "b_zh": "无视评价，只追求博弈的实际收益。",
+    "b_en": "Ignore the rating and only pursue the actual payoff of the game."
+  },
+  {
+    "q_zh": "在多方博弈中，你可以选择一个盟友，但盟友可能会背叛你。你会：",
+    "q_en": "In a multi-player game, you can choose an ally, but the ally might betray you. You will:",
+    "a_zh": "选择一个明显弱小的盟友，容易控制。",
+    "a_en": "Choose a clearly weaker ally, easy to control.",
+    "b_zh": "选择一个实力相当的盟友，共同对抗强敌。",
+    "b_en": "Choose an equally strong ally to jointly face a powerful opponent."
+  },
+  {
+    "q_zh": "对手似乎在故意示弱，引诱你激进攻击。你的反应是：",
+    "q_en": "Your opponent seems to be deliberately feigning weakness to lure you into an aggressive attack. Your response is:",
+    "a_zh": "谨慎试探，不轻易相信表象。",
+    "a_en": "Probe cautiously, not easily trusting the appearance.",
+    "b_zh": "全力攻击，抓住‘难得’的机会。",
+    "b_en": "Attack with full force to seize the 'rare' opportunity."
   }
 ]
