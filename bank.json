@@ -9495,5 +9495,85 @@
     "a_en": "Probe cautiously, not easily trusting the appearance.",
     "b_zh": "全力攻击，抓住‘难得’的机会。",
     "b_en": "Attack with full force to seize the 'rare' opportunity."
+  },
+  {
+    "q_zh": "在一场零和游戏中，你与对手都选择一个数字：0或1。如果你与对手选择相同，你赢；不同则对手赢。你预计对手会随机选择。你会选哪个数字？",
+    "q_en": "In a zero-sum game, you and your opponent each pick a number: 0 or 1. If you both pick the same, you win; if different, opponent wins. You expect your opponent to pick randomly. Which number do you pick?",
+    "a_zh": "选0",
+    "a_en": "Pick 0",
+    "b_zh": "选1",
+    "b_en": "Pick 1"
+  },
+  {
+    "q_zh": "你与对手要分100元，每人提出一个分配方案，若总额不超过100则通过，否则游戏失败。你提议如何分？你知道对手是理性自私的。",
+    "q_en": "You and your opponent split $100. Each proposes a split; if totals exceed $100, the game fails. Your opponent is rational and selfish. What is your proposal?",
+    "a_zh": "自己拿99元，给对方1元",
+    "a_en": "Take $99, give $1 to opponent",
+    "b_zh": "自己拿50元，给对方50元",
+    "b_en": "Take $50, give $50 to opponent"
+  },
+  {
+    "q_zh": "重复囚徒困境中，接下来最后一轮。前几轮你们一直相互合作。对手是理性的，想要最大化自己的总收益。你本轮的策略是？",
+    "q_en": "In a repeated prisoner's dilemma, this is the last round. You both have cooperated so far. Your opponent is rational and wants to maximize total payoff. Your move this round?",
+    "a_zh": "合作（沉默）",
+    "a_en": "Cooperate (stay silent)",
+    "b_zh": "背叛（指证对方）",
+    "b_en": "Defect (testify)"
+  },
+  {
+    "q_zh": "你和对手各选一个1到10的数字。谁选的数字大谁赢，但若数字相同则平局。对手很可能会选5。你选几？",
+    "q_en": "You and opponent each pick a number from 1 to 10. Higher number wins; tie is draw. Opponent is likely to pick 5. What do you pick?",
+    "a_zh": "选6",
+    "a_en": "Pick 6",
+    "b_zh": "选10",
+    "b_en": "Pick 10"
+  },
+  {
+    "q_zh": "拍卖游戏：一张20元钞票，你和对手出价，最高者得到钞票但需支付自己的出价，次高者也需支付出价但一无所获。起拍价1元，你率先出价，你会出多少？",
+    "q_en": "Auction game: a $20 bill. Highest bidder wins the bill but pays their bid; second-highest pays their bid too and gets nothing. Starting bid $1. You bid first. How much?",
+    "a_zh": "出价1元",
+    "a_en": "Bid $1",
+    "b_zh": "出价10元",
+    "b_en": "Bid $10"
+  },
+  {
+    "q_zh": "在“美分硬币博弈”中，你和对手同时宣称要选‘正面’还是‘反面’。如果你们选相同，你输1元；选不同，你赢1元。对手会尽力模仿你，你会选？",
+    "q_en": "In the 'Penny Matching' game, you and opponent say 'heads' or 'tails.' Same: you lose $1; different: you win $1. Opponent will try to match you. What do you choose?",
+    "a_zh": "选正面",
+    "a_en": "Heads",
+    "b_zh": "选反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你和对手共享一个公共鱼塘，每人可以捞1条或2条鱼。如果总捞鱼数不超过3，则鱼群能恢复；超过则枯竭，大家未来都没鱼。对手很可能会捞2条，你会捞几条？",
+    "q_en": "You share a public fish pond. Each can catch 1 or 2 fish. If total ≤ 3, stocks recover; if >3, pond collapses. Opponent will likely catch 2. How many do you catch?",
+    "a_zh": "捞1条",
+    "a_en": "Catch 1 fish",
+    "b_zh": "捞2条",
+    "b_en": "Catch 2 fish"
+  },
+  {
+    "q_zh": "博弈中，你有一个威胁：如果对手选A，你就选X（对双方都差）；如果对手选B，你就选Y（对双方都好）。对手十分理性，且相信你的威胁可信。你会如何承诺？",
+    "q_en": "You have a threat: if opponent picks A, you pick X (bad for both); if opponent picks B, you pick Y (good for both). Opponent is rational and believes your threat. What do you commit to?",
+    "a_zh": "承诺只选Y，无论对手选什么",
+    "a_en": "Commit to always pick Y regardless",
+    "b_zh": "承诺若对手选A就选X，否则选Y",
+    "b_en": "Commit to pick X if opponent picks A, otherwise Y"
+  },
+  {
+    "q_zh": "你和对手各自决定是否投资一个项目。如果都投资，每人赚10元；都不投，每人赚0元；一方投另一方不投，投资的人损失5元，不投的人赚5元。对手是一个喜欢风险的人，你很可能会？",
+    "q_en": "You and opponent decide to invest or not. Both invest: +$10 each. Neither: $0. One invests, other not: investor loses $5, other gains $5. Opponent is risk-seeking. You are likely to?",
+    "a_zh": "选择投资",
+    "a_en": "Invest",
+    "b_zh": "选择不投资",
+    "b_en": "Not invest"
+  },
+  {
+    "q_zh": "玩一个‘信任游戏’：你可以给对手0、5或10元，对手收到后会将金额乘以3，然后他可以选择返还你一部分。你知道对手是公平的，会给回一半。你会给他多少？",
+    "q_en": "In a trust game: you can give $0, $5, or $10 to opponent. Opponent receives triple, then can return some. You know opponent is fair and will return half. How much do you give?",
+    "a_zh": "给10元",
+    "a_en": "Give $10",
+    "b_zh": "给5元",
+    "b_en": "Give $5"
   }
 ]
