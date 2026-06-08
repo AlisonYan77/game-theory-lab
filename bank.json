@@ -9575,5 +9575,85 @@
     "a_en": "Give $10",
     "b_zh": "给5元",
     "b_en": "Give $5"
+  },
+  {
+    "q_zh": "在一次价格战中，你会选择：",
+    "q_en": "In a price war, you would choose:",
+    "a_zh": "主动降价，抢占市场份额",
+    "a_en": "Aggressively lower prices to capture market share",
+    "b_zh": "维持高价，等待对手耗竭",
+    "b_en": "Maintain high prices and wait for opponent to exhaust"
+  },
+  {
+    "q_zh": "面对背叛的合作伙伴，你的首选策略是：",
+    "q_en": "Facing a betraying partner, your preferred strategy is:",
+    "a_zh": "以牙还牙，立即报复",
+    "a_en": "Tit-for-tat, retaliate immediately",
+    "b_zh": "宽恕合作，重建信任",
+    "b_en": "Forgive and cooperate to rebuild trust"
+  },
+  {
+    "q_zh": "在多人博弈中，你最倾向于：",
+    "q_en": "In a multiplayer game, you most tend to:",
+    "a_zh": "暗中结盟，形成优势团体",
+    "a_en": "Form secret alliances to create an advantage group",
+    "b_zh": "独善其身，保持中立观望",
+    "b_en": "Stay independent and remain neutral"
+  },
+  {
+    "q_zh": "当你占有明显优势时，你会：",
+    "q_en": "When you have a clear advantage, you will:",
+    "a_zh": "乘胜追击，争取最大利益",
+    "a_en": "Press the advantage to maximize gains",
+    "b_zh": "见好就收，防止报复",
+    "b_en": "Take profits and avoid retaliation"
+  },
+  {
+    "q_zh": "面对对手的虚张声势，你更可能：",
+    "q_en": "Facing an opponent's bluff, you are more likely to:",
+    "a_zh": "直接揭穿，测试底线",
+    "a_en": "Call the bluff and test their limits",
+    "b_zh": "示弱退让，暗中观察",
+    "b_en": "Act weak and observe secretly"
+  },
+  {
+    "q_zh": "在资源争夺中，你选择的策略是：",
+    "q_en": "In a resource competition, your chosen strategy is:",
+    "a_zh": "抢先掠夺关键资源",
+    "a_en": "Preemptively seize key resources",
+    "b_zh": "与对手协商，分割资源",
+    "b_en": "Negotiate with opponents to split resources"
+  },
+  {
+    "q_zh": "如果你的盟友突然变得强大，你会：",
+    "q_en": "If your ally suddenly becomes powerful, you would:",
+    "a_zh": "保持合作，共享红利",
+    "a_en": "Maintain cooperation and share the benefits",
+    "b_zh": "暗中牵制，以防被吞并",
+    "b_en": "Covertly restrain them to avoid being absorbed"
+  },
+  {
+    "q_zh": "在长期博弈中，你最看重：",
+    "q_en": "In a long-term game, you value most:",
+    "a_zh": "即时利益最大化",
+    "a_en": "Maximizing immediate gains",
+    "b_zh": "建立可靠声誉",
+    "b_en": "Building a reliable reputation"
+  },
+  {
+    "q_zh": "面对一个完全理性的对手，你偏好：",
+    "q_en": "Facing a completely rational opponent, you prefer:",
+    "a_zh": "采用随机策略，使其无法预判",
+    "a_en": "Use random strategies to make them unpredictable",
+    "b_zh": "采用最优确定性策略",
+    "b_en": "Use optimal deterministic strategies"
+  },
+  {
+    "q_zh": "当游戏规则突然改变时，你首先会：",
+    "q_en": "When the game rules suddenly change, you first:",
+    "a_zh": "快速适应，寻找新漏洞",
+    "a_en": "Adapt quickly and look for new loopholes",
+    "b_zh": "坚持原计划，维持稳定",
+    "b_en": "Stick to the original plan for stability"
   }
 ]
