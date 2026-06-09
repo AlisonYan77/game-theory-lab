@@ -9655,5 +9655,85 @@
     "a_en": "Adapt quickly and look for new loopholes",
     "b_zh": "坚持原计划，维持稳定",
     "b_en": "Stick to the original plan for stability"
+  },
+  {
+    "q_zh": "你进入一个零和博弈，对手事先声明会100%选择合作。你选择：",
+    "q_en": "You enter a zero-sum game; your opponent pre-commits to 100% cooperation. What do you choose?",
+    "a_zh": "信任对手，选择合作",
+    "a_en": "Trust opponent and cooperate",
+    "b_zh": "欺骗对手，选择背叛",
+    "b_en": "Betray opponent and defect"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对方上一轮背叛了你。你本轮策略是：",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent defected last round. Your move this round is:",
+    "a_zh": "以牙还牙，继续合作以示宽容",
+    "a_en": "Tit-for-tat: cooperate to show forgiveness",
+    "b_zh": "以牙还牙，选择背叛惩罚对方",
+    "b_en": "Tit-for-tat: defect to punish"
+  },
+  {
+    "q_zh": "拍卖中你出价后，对手突然微笑。你的下一步是：",
+    "q_en": "After you bid in an auction, your opponent smiles suddenly. Your next move:",
+    "a_zh": "加价施压，认为对方在虚张声势",
+    "a_en": "Raise the bid to pressure, suspecting a bluff",
+    "b_zh": "停止出价，观察对手真实意图",
+    "b_en": "Stop bidding to observe opponent's true intent"
+  },
+  {
+    "q_zh": "你与陌生人玩一次性的“分钱游戏”，你可以决定分配比例。你会：",
+    "q_en": "In a one-shot 'split money' game with a stranger, you decide the split. You will:",
+    "a_zh": "给自己90%，留10%给对方（认为对方不会拒绝）",
+    "a_en": "Keep 90%, give 10% (assuming opponent won't reject)",
+    "b_zh": "给自己50%，公平分配以防对方报复性拒绝",
+    "b_en": "Keep 50%, split fairly to avoid spiteful rejection"
+  },
+  {
+    "q_zh": "谈判中，你得知对手有急需达成的KPI。你会：",
+    "q_en": "In a negotiation, you learn your opponent has a pressing KPI to meet. You:",
+    "a_zh": "利用对方压力，提出更苛刻的条件",
+    "a_en": "Exploit their pressure to demand harder terms",
+    "b_zh": "主动提供小让步，建立长期信誉",
+    "b_en": "Offer a small concession to build long-term trust"
+  },
+  {
+    "q_zh": "你发现对手在博弈中一直模仿你的选择。你的对策是：",
+    "q_en": "You notice your opponent is mimicking your choices in the game. Your counter-strategy:",
+    "a_zh": "故意做出随机选择，打破对方的模仿模式",
+    "a_en": "Intentionally make random choices to break the mimicry",
+    "b_zh": "保持稳定策略，让模仿变得可预测且无害",
+    "b_en": "Keep strategy stable so mimicry becomes predictable and harmless"
+  },
+  {
+    "q_zh": "多人博弈中，所有人准备集体背叛你。你选择：",
+    "q_en": "In a multi-player game, everyone is about to collude against you. You choose:",
+    "a_zh": "主动背叛所有人，先发制人",
+    "a_en": "Preemptively betray everyone",
+    "b_zh": "公开示弱，试图分化对方联盟",
+    "b_en": "Publicly show weakness to split their alliance"
+  },
+  {
+    "q_zh": "对手在博弈开始前提供了“不平等条约”式合作方案。你：",
+    "q_en": "Your opponent offers an 'unequal treaty' style cooperation before the game starts. You:",
+    "a_zh": "接受并默默发展自己的备选方案",
+    "a_en": "Accept while secretly developing your own backup plan",
+    "b_zh": "拒绝并准备直接对抗",
+    "b_en": "Refuse and prepare for direct confrontation"
+  },
+  {
+    "q_zh": "博弈中你发现自己处于信息劣势（对手知道你不知道的事）。你：",
+    "q_en": "You realize you have an information disadvantage (opponent knows something you don't). You:",
+    "a_zh": "采取激进冒险行为，迫使对手亮出底牌",
+    "a_en": "Take aggressive risky moves to force opponent to show their hand",
+    "b_zh": "保守行动，先收集更多信息再决策",
+    "b_en": "Act conservatively and gather more information first"
+  },
+  {
+    "q_zh": "最终轮博弈，胜负已定时对手突然提出重新谈判。你选择：",
+    "q_en": "In the final round, with the outcome already decided, your opponent suddenly proposes renegotiation. You choose:",
+    "a_zh": "拒绝重谈，坚持原定结果",
+    "a_en": "Refuse renegotiation, stick to the original result",
+    "b_zh": "接受重谈，但要求更大利益作为补偿",
+    "b_en": "Accept but demand a greater share as compensation"
   }
 ]
