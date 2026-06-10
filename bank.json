@@ -9735,5 +9735,85 @@
     "a_en": "Refuse renegotiation, stick to the original result",
     "b_zh": "接受重谈，但要求更大利益作为补偿",
     "b_en": "Accept but demand a greater share as compensation"
+  },
+  {
+    "q_zh": "你在游戏中发现对手连续三次选择合作，接下来你会选择什么？",
+    "q_en": "In the game, you find that your opponent has chosen cooperation three times in a row. What will you choose next?",
+    "a_zh": "继续合作，建立长期信任",
+    "a_en": "Continue cooperating to build long-term trust",
+    "b_zh": "突然背叛，最大化短期收益",
+    "b_en": "Suddenly betray to maximize short-term gains"
+  },
+  {
+    "q_zh": "如果对手在上一轮背叛了你，但承诺本轮会合作，你会怎么选？",
+    "q_en": "If your opponent betrayed you last round but promises to cooperate this round, what will you choose?",
+    "a_zh": "相信承诺，选择合作",
+    "a_en": "Trust the promise and cooperate",
+    "b_zh": "以牙还牙，继续背叛",
+    "b_en": "Tit-for-tat, continue to betray"
+  },
+  {
+    "q_zh": "游戏进入最后一轮，当前你领先对手，你会选择什么？",
+    "q_en": "The game enters the final round, and you are currently ahead of your opponent. What will you choose?",
+    "a_zh": "合作，保持友好结尾",
+    "a_en": "Cooperate to maintain a friendly ending",
+    "b_zh": "背叛，确保胜利不被动摇",
+    "b_en": "Betray to ensure the victory is not shaken"
+  },
+  {
+    "q_zh": "对手是出了名的‘冷酷报复者’（一旦你背叛，他会一直背叛），你该如何开局？",
+    "q_en": "Your opponent is a notorious 'grim trigger' (once you betray, they will retaliate forever). How do you start the game?",
+    "a_zh": "先合作，试探对方是否真的如此",
+    "a_en": "Start with cooperation to test if they are truly grim",
+    "b_zh": "先背叛，测试对方的反应模式",
+    "b_en": "Start with betrayal to test their reaction pattern"
+  },
+  {
+    "q_zh": "你连续两次背叛都获得了高收益，对手却没有报复，接下来怎么办？",
+    "q_en": "You have betrayed twice in a row and gained high payoffs, but your opponent hasn't retaliated. What next?",
+    "a_zh": "继续背叛，直到对方反抗",
+    "a_en": "Continue betraying until they fight back",
+    "b_zh": "转而合作，避免激怒对方导致长期损失",
+    "b_en": "Switch to cooperation to avoid provoking long-term losses"
+  },
+  {
+    "q_zh": "游戏中期，对手开始模仿你的每一次选择，你该如何应对？",
+    "q_en": "In mid-game, your opponent starts mimicking your every move. How do you respond?",
+    "a_zh": "故意连续背叛，测试其模仿策略的底线",
+    "a_en": "Deliberately betray repeatedly to test the limits of their mimicking strategy",
+    "b_zh": "保持合作，引导双方进入稳定共赢",
+    "b_en": "Stay cooperative to guide both sides into a stable win-win"
+  },
+  {
+    "q_zh": "你怀疑对手使用了随机策略，完全不可预测，此时最佳选择是？",
+    "q_en": "You suspect your opponent is using a random strategy, making them completely unpredictable. What is your best move?",
+    "a_zh": "固定选择合作，用稳定策略减少不确定性损失",
+    "a_en": "Always choose cooperation to reduce uncertainty losses with a stable strategy",
+    "b_zh": "固定选择背叛，从随机策略中获取平均优势",
+    "b_en": "Always choose betrayal to gain average advantage from a random strategy"
+  },
+  {
+    "q_zh": "如果你和对手的得分排名非常接近，只剩最后两轮，你应该如何规划？",
+    "q_en": "If you and your opponent are very close in scores with only two rounds left, how do you plan your moves?",
+    "a_zh": "两轮都合作，避免犯错失分",
+    "a_en": "Cooperate in both rounds to avoid costly mistakes",
+    "b_zh": "先合作后背叛，利用对方可能的信任差距",
+    "b_en": "Cooperate first then betray, exploiting the opponent's possible trust gap"
+  },
+  {
+    "q_zh": "对手在游戏中多次主动发送示好信号（比如游戏中聊天说‘我们合作吧’），你会怎么做？",
+    "q_en": "Your opponent repeatedly sends friendly signals in the game (e.g., chatting 'Let's cooperate'). What do you do?",
+    "a_zh": "口头答应合作，实际选择背叛利用对方善意",
+    "a_en": "Verbally agree to cooperate but actually betray to exploit their goodwill",
+    "b_zh": "言行一致，真诚合作建立长期互惠",
+    "b_en": "Walk the talk, genuinely cooperate to build long-term reciprocity"
+  },
+  {
+    "q_zh": "你发现自己陷入‘背叛恶性循环’（双方连续互相背叛），如何打破僵局？",
+    "q_en": "You find yourself in a 'betrayal spiral' (both sides keep betraying each other). How do you break the deadlock?",
+    "a_zh": "主动在下一轮合作，哪怕可能短期受损",
+    "a_en": "Take the initiative to cooperate in the next round, even at short-term cost",
+    "b_zh": "继续背叛，等待对方先示弱",
+    "b_en": "Continue betraying, waiting for the opponent to show weakness first"
   }
 ]
