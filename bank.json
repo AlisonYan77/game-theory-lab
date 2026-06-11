@@ -9815,5 +9815,85 @@
     "a_en": "Take the initiative to cooperate in the next round, even at short-term cost",
     "b_zh": "继续背叛，等待对方先示弱",
     "b_en": "Continue betraying, waiting for the opponent to show weakness first"
+  },
+  {
+    "q_zh": "在一场双人合作游戏中，对方已连续两次选择了背叛。你会如何选择？",
+    "q_en": "In a two-player cooperative game, your partner has betrayed you twice in a row. What do you choose?",
+    "a_zh": "选择合作，试图用善意感化对方",
+    "a_en": "Choose cooperate, trying to win them over with kindness",
+    "b_zh": "选择背叛，以牙还牙让对方付出代价",
+    "b_en": "Choose betray, giving them a taste of their own medicine"
+  },
+  {
+    "q_zh": "你发现对手在博弈中总是模仿你上一轮的选择。下一轮你会怎么做？",
+    "q_en": "You notice your opponent always copies your last move. What do you do next round?",
+    "a_zh": "故意选择合作，诱使对手也合作从而建立共赢",
+    "a_en": "Deliberately cooperate to lure them into mutual cooperation",
+    "b_zh": "选择背叛，利用对方模仿的惯性获取短期利益",
+    "b_en": "Betray, exploiting their copying habit for short-term gain"
+  },
+  {
+    "q_zh": "一场无限重复的囚徒困境中，你对长远收益更看重还是短期爆发更重要？",
+    "q_en": "In an infinitely repeated Prisoner's Dilemma, do you prioritize long-term gain or short-term burst?",
+    "a_zh": "坚持‘针锋相对’策略，保持可预测性与威慑力",
+    "a_en": "Stick to a tit-for-tat strategy, maintaining predictability and deterrence",
+    "b_zh": "偶尔随机背叛，打破对手的预判以制造机会",
+    "b_en": "Occasionally betray randomly to disrupt the opponent's predictions"
+  },
+  {
+    "q_zh": "如果你知道对手是一个完全理性的‘冷酷触发器’（一遭背叛就永远背叛），你首选策略是？",
+    "q_en": "If you know your opponent is a purely rational 'grim trigger' (betrays forever once betrayed), your first move is?",
+    "a_zh": "永远合作，避免触发对方的连锁背叛",
+    "a_en": "Always cooperate, avoiding triggering their chain betrayal",
+    "b_zh": "首轮就背叛，在对方反应过来前收割唯一一次利益",
+    "b_en": "Betray in the first round, reaping the only profit before retaliation"
+  },
+  {
+    "q_zh": "在一场零和博弈中，对手显得非常愤怒且情绪化。你会如何利用？",
+    "q_en": "In a zero-sum game, your opponent appears very angry and emotional. How do you exploit this?",
+    "a_zh": "故意示弱退让，让对手因轻敌而犯错",
+    "a_en": "Pretend to yield, making the opponent careless and error-prone",
+    "b_zh": "强硬施压，利用对方情绪失控快速击溃其判断",
+    "b_en": "Apply aggressive pressure, using their emotional breakdown to crush their judgment"
+  },
+  {
+    "q_zh": "当对方在博弈中突然表现出完全随机无规律的策略时，你该如何应对？",
+    "q_en": "When your opponent suddenly adopts a completely random, patternless strategy, how do you respond?",
+    "a_zh": "使用固定策略（如始终合作），避免被混乱带着走",
+    "a_en": "Stick to a fixed strategy (e.g., always cooperate) to avoid being dragged into chaos",
+    "b_zh": "也改为随机策略，试图从运气中找出破绽",
+    "b_en": "Switch to random as well, trying to find a gap through luck"
+  },
+  {
+    "q_zh": "博弈进行到最后一轮，双方都知道这是最后一次互动。你会怎么做？",
+    "q_en": "It's the final round of the game, and both sides know it's the last interaction. What do you do?",
+    "a_zh": "选择合作，维护自己长期声誉（假设博弈有外部观察者）",
+    "a_en": "Cooperate, to preserve your long-term reputation (assuming outer observers)",
+    "b_zh": "必定背叛，既然没有未来惩罚就最大化当前收益",
+    "b_en": "Definitely betray, since there's no future punishment, maximize immediate gain"
+  },
+  {
+    "q_zh": "你发现对手在社会困境博弈中表现出极强的利他倾向。你如何利用这个信息？",
+    "q_en": "You notice your opponent shows strong altruism in a social dilemma game. How do you use this info?",
+    "a_zh": "始终合作，借助对方的利他心建立长期共赢联盟",
+    "a_en": "Always cooperate, building a long-term win-win alliance on their altruism",
+    "b_zh": "偶尔背叛，利用对方不会报复的心理偷取利益",
+    "b_en": "Betray occasionally, exploiting their forgiveness to steal gains"
+  },
+  {
+    "q_zh": "在信号博弈中，你需要释放一个信号来影响对手的下一个决定。你选择？",
+    "q_en": "In a signaling game, you need to send a signal to influence your opponent's next decision. What do you choose?",
+    "a_zh": "发出模糊信号，让对手猜不透你的意图从而犹豫",
+    "a_en": "Send a vague signal, making your opponent hesitate from uncertainty",
+    "b_zh": "发出极其明确的强硬信号，直接震慑对手",
+    "b_en": "Send an extremely clear and tough signal to directly intimidate them"
+  },
+  {
+    "q_zh": "如果你发现对手似乎有‘模仿学习’倾向（输掉后会模仿你上一轮的策略），你首选？",
+    "q_en": "If you find your opponent tends to 'imitate learning' (copies your last move after losing), your first move is?",
+    "a_zh": "首轮合作，诱使对手进入良性循环后建立长期合作",
+    "a_en": "Cooperate first, luring them into a positive cycle for long-term cooperation",
+    "b_zh": "首轮背叛，利用模仿机制让对手也背叛从而锁死他的利益",
+    "b_en": "Betray first, using the imitation to force them into betraying and lock their loss"
   }
 ]
