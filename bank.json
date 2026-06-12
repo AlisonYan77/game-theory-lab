@@ -9895,5 +9895,85 @@
     "a_en": "Cooperate first, luring them into a positive cycle for long-term cooperation",
     "b_zh": "首轮背叛，利用模仿机制让对手也背叛从而锁死他的利益",
     "b_en": "Betray first, using the imitation to force them into betraying and lock their loss"
+  },
+  {
+    "q_zh": "你发现合作方在谈判中隐瞒了关键信息。你会？",
+    "q_en": "You discover your partner concealed key info in negotiations. Do you?",
+    "a_zh": "当面拆穿，逼其让步",
+    "a_en": "Confront directly and force concessions",
+    "b_zh": "假装不知，暗中布局反制",
+    "b_en": "Feign ignorance and set counter-trap secretly"
+  },
+  {
+    "q_zh": "对手突然提出一个看似慷慨但时间紧迫的方案。你？",
+    "q_en": "The opponent proposes a generous but urgent offer. You?",
+    "a_zh": "立即接受，抢占先机",
+    "a_en": "Accept immediately to seize the advantage",
+    "b_zh": "要求延期，防止被套牢",
+    "b_en": "Request extension to avoid being trapped"
+  },
+  {
+    "q_zh": "在多人博弈中，弱方主动向你示好结盟。你？",
+    "q_en": "A weak player seeks alliance with you. Do you?",
+    "a_zh": "答应结盟，利用其资源",
+    "a_en": "Accept alliance and use their resources",
+    "b_zh": "拒绝结盟，以免被拖累",
+    "b_en": "Refuse alliance to avoid being dragged down"
+  },
+  {
+    "q_zh": "你确定自己的底牌被对手通过第三方获知。你会？",
+    "q_en": "You confirm your hand was leaked to opponent via a third party. You?",
+    "a_zh": "主动亮出新底牌，威慑对方",
+    "a_en": "Reveal a new hidden card to intimidate",
+    "b_zh": "故意放出假信息，混淆视听",
+    "b_en": "Leak false info to confuse the opponent"
+  },
+  {
+    "q_zh": "博弈进入最后阶段，双方均剩最后一枚筹码。你？",
+    "q_en": "Endgame: both sides have one chip left. You?",
+    "a_zh": "全押，赌对方不敢跟",
+    "a_en": "Go all-in, betting they won't call",
+    "b_zh": "放弃，留筹码等待对方犯错",
+    "b_en": "Fold and wait for their mistake"
+  },
+  {
+    "q_zh": "合作方私下向你透露，若你退出他可以给你补偿。你？",
+    "q_en": "Partner privately offers you compensation to withdraw. You?",
+    "a_zh": "接受补偿，见好就收",
+    "a_en": "Accept compensation and exit profitably",
+    "b_zh": "拒绝并加倍下注，反将一军",
+    "b_en": "Refuse and double down to counterattack"
+  },
+  {
+    "q_zh": "对手在公开场合羞辱你，试图激你冲动决策。你？",
+    "q_en": "Opponent humiliates you publicly to provoke impulsive moves. You?",
+    "a_zh": "当场激烈回击，树立威慑",
+    "a_en": "Retort fiercely to establish deterrence",
+    "b_zh": "保持冷静，用行动证明其错误",
+    "b_en": "Stay calm and let actions disprove them"
+  },
+  {
+    "q_zh": "你偶然发现对手有不可告人的违规操作证据。你会？",
+    "q_en": "You find evidence of opponent's hidden violation. You?",
+    "a_zh": "立即公开，正大光明打击",
+    "a_en": "Disclose immediately for a clear strike",
+    "b_zh": "私密保留，关键时刻要挟",
+    "b_en": "Keep secretly for leverage at critical moment"
+  },
+  {
+    "q_zh": "博弈规则突然被裁判修改，明显对你不利。你？",
+    "q_en": "Rules suddenly change to your disadvantage by the referee. You?",
+    "a_zh": "当场抗议，要求公正",
+    "a_en": "Protest on the spot for fairness",
+    "b_zh": "表面上服从，私下用规则漏洞反击",
+    "b_en": "Act compliant secretly exploit rule loopholes"
+  },
+  {
+    "q_zh": "你只有一次与完全理性的对手博弈的机会。你选择？",
+    "q_en": "You have one chance against a perfectly rational opponent. You choose?",
+    "a_zh": "采用完全理性的经典最优策略",
+    "a_en": "Use classic optimal rational strategy",
+    "b_zh": "故意非理性出招，使对手不可预测",
+    "b_en": "Act irrationally on purpose to be unpredictable"
   }
 ]
