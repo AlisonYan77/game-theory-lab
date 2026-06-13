@@ -9975,5 +9975,85 @@
     "a_en": "Use classic optimal rational strategy",
     "b_zh": "故意非理性出招，使对手不可预测",
     "b_en": "Act irrationally on purpose to be unpredictable"
+  },
+  {
+    "q_zh": "在一次拍卖中，你和对方竞拍一张价值100元的钞票。你们轮流叫价，每次加价5元，最终出价高者得到钞票，但双方都要支付自己的最后一次叫价。你会如何选择？",
+    "q_en": "In an auction for a $100 bill, you and another bidder take turns raising the bid by $5. The highest bidder wins the bill, but both must pay their final bids. What do you do?",
+    "a_zh": "从低价开始试探，一旦对方加价超过80元，我立刻退出，防止陷入恶性竞争。",
+    "a_en": "Start with low bids and immediately drop out if the opponent bids over $80 to avoid a bidding war.",
+    "b_zh": "我不参与拍卖，因为这是一个典型的陷阱，最终双方都会亏损。",
+    "b_en": "I refuse to participate, as this is a classic trap where both parties end up losing."
+  },
+  {
+    "q_zh": "你和对手玩一个游戏：每人秘密选择一个数字（0-100），谁选的数字更接近对方数字的一半，谁就获胜。你会选哪个数字？",
+    "q_en": "You and an opponent each secretly pick a number (0-100). Whoever’s number is closer to half of the opponent’s number wins. What number do you pick?",
+    "a_zh": "选择 33，因为如果对方选 66，我正好接近其一半；此策略平衡了攻防。",
+    "a_en": "Pick 33, since if the opponent picks 66, I’m close to half; this balances offense and defense.",
+    "b_zh": "选择 0，因为对方可能选一个较大的数，0 最有可能接近任何正数的一半。",
+    "b_en": "Pick 0, because the opponent may choose a large number, and 0 is closest to half of any positive number."
+  },
+  {
+    "q_zh": "你和陌生人进行一次性合作：你们各自有一张牌，牌上写有“合作”或“背叛”。如果双方都选合作，各得3分；如果一方背叛，背叛者得5分，合作者得0分；如果双方都背叛，各得1分。你怎么选？",
+    "q_en": "In a one-shot game with a stranger, you each have a card marked 'Cooperate' or 'Defect.' If both cooperate, you each get 3 points; if one defects, the defector gets 5 and the cooperator gets 0; if both defect, each gets 1. What’s your choice?",
+    "a_zh": "选背叛，因为一次性博弈中没有后续惩罚，背叛能最大化我的期望收益。",
+    "a_en": "Choose Defect, since in a one-shot game there is no future punishment, and defection maximizes my expected payoff.",
+    "b_zh": "选合作，即使对方背叛，我至少尝试了建立信任，万一对方也合作能获得最佳结果。",
+    "b_en": "Choose Cooperate, because even if the other betrays, I try to build trust; if they also cooperate, we both get the best outcome."
+  },
+  {
+    "q_zh": "你和对方进行多轮囚徒困境，每轮结果影响后续信任。你会采取什么策略？",
+    "q_en": "You face an opponent in repeated Prisoner’s Dilemma; each round affects future trust. What strategy do you adopt?",
+    "a_zh": "一开始选择合作，然后始终模仿对方的上一轮选择（以牙还牙）。",
+    "a_en": "Start with cooperation, then always mirror the opponent’s last move (tit-for-tat).",
+    "b_zh": "始终选择背叛，因为只有这样才能避免被对方利用，长期收益可能更高。",
+    "b_en": "Always defect, because this avoids being exploited and may yield higher long-term gains."
+  },
+  {
+    "q_zh": "你和对手分一笔钱，规则：你提出分配方案，对方如果同意则按方案分，不同意则双方都得不到钱。你会怎么分？",
+    "q_en": "You and an opponent split a sum of money: you propose a split; if they agree, it’s accepted; if not, both get nothing. How do you split?",
+    "a_zh": "给对方30%，自己拿70%，因为对方理性的话也会接受，避免空手而归。",
+    "a_en": "Offer 30% to the opponent and keep 70%, because a rational opponent would accept to avoid getting nothing.",
+    "b_zh": "给对方50%，确保公平，减少对方因愤怒而拒绝的风险。",
+    "b_en": "Offer 50% to ensure fairness and reduce the risk of rejection due to anger or spite."
+  },
+  {
+    "q_zh": "在投资博弈中，你和对方各选一个投资项目：高风险高收益或低风险低收益。如果你们选择相同，则收益不变；如果不同，高风险方赚低风险方的部分本金。你选哪个？",
+    "q_en": "In an investment game, you and an opponent each choose a project: high risk/high reward or low risk/low reward. If both choose same, payoffs are as stated; if different, the high-risk player takes some of the low-risk player’s capital. Which do you pick?",
+    "a_zh": "选高风险项目，因为对方很可能选低风险，这样我能获利。",
+    "a_en": "Choose the high-risk project, because the opponent is likely to pick low-risk, letting me profit.",
+    "b_zh": "选低风险项目，因为如果对方也选低风险，双方稳定获利；若对方选高风限，损失也有限。",
+    "b_en": "Choose the low-risk project, because if both pick it, we both profit steadily; and if the opponent goes high-risk, my loss is limited."
+  },
+  {
+    "q_zh": "你和对手进行“抢数字”游戏：1至10的数字，每人轮流选择一个未选数字，最终拥有数字之和更大的一方获胜。你先手，会选哪个数？",
+    "q_en": "In a 'number grab' game with numbers 1–10, you and an opponent take turns picking an unchosen number. The one with the higher sum wins. You go first. Which number do you pick?",
+    "a_zh": "选 10，因为先手拿到最大数能奠定优势，迫使对手追赶。",
+    "a_en": "Pick 10, because taking the largest number first gives a strong lead and forces the opponent to chase.",
+    "b_zh": "选 6，因为这样能保持对称后手策略，更容易控制总和。",
+    "b_en": "Pick 6, because this allows for a symmetric follow-up strategy and better control of the total sum."
+  },
+  {
+    "q_zh": "你和对方各有一张扑克牌，分别是红心和黑桃。你们轮流亮牌，若同色则各赢1元，若异色则你输给对手2元。你会选择亮什么颜色的牌？",
+    "q_en": "You and an opponent each have a card: heart or spade. You reveal simultaneously: if same suit, each wins $1; if different suits, you lose $2 to the opponent. What suit do you reveal?",
+    "a_zh": "随机亮牌，比如50%概率红心、50%黑桃，让对手无法预测。",
+    "a_en": "Use a random mix, e.g., 50% heart and 50% spade, to make your move unpredictable.",
+    "b_zh": "固定亮红心，因为如果对手也想赢，更可能迎合我而选同色，这样双方共赢。",
+    "b_en": "Always reveal heart, because if the opponent also wants to win, they will likely match for mutual gain."
+  },
+  {
+    "q_zh": "你们两人同时选择是否公开一个秘密。如果你公开，对方也公开，各得5分；你公开对方隐藏，你得0分对方得3分；都隐藏各得2分。你选什么？",
+    "q_en": "You and another person simultaneously decide whether to reveal a secret. If both reveal, each gets 5 points; if you reveal and they hide, you get 0 and they get 3; if both hide, each gets 2. What do you choose?",
+    "a_zh": "选择隐藏，因为隐藏至少保证2分，且如果对方也隐藏，收益不错；若对方公开，我也不会得0。",
+    "a_en": "Choose to hide, because hiding guarantees at least 2 points; if the other also hides, it’s a decent payoff; if they reveal, I don’t get 0.",
+    "b_zh": "选择公开，因为如果对方也公开，我们都能得到最高分（5分），值得一赌。",
+    "b_en": "Choose to reveal, because if the other also reveals, we both get the highest payoff (5 points); it’s worth the gamble."
+  },
+  {
+    "q_zh": "你和对手各有一罐硬币，各自选择一个面额（1元或2元）投入公共池。如果你们总投入是偶数，则平分池中所有钱；如果是奇数，则对手独吞。你怎么选？",
+    "q_en": "You and an opponent each have a jar of coins, and you each choose a coin denomination (1 or 2) to put into a common pot. If the total is even, you split the pot equally; if odd, the opponent takes all. What do you choose?",
+    "a_zh": "投2元，因为这样即使对方投1元导致奇数，对方赢走所有但总损失不大；若对方也投2元，偶数平分局则获利。",
+    "a_en": "Put in 2, because if the opponent puts 1 (odd total), they take all but the loss is small; if you both put 2 (even), you share the pot equally and profit.",
+    "b_zh": "投1元，因为这样可以诱使对手投2元（他以为能独吞），但实际是偶数，你能平分。",
+    "b_en": "Put in 1, because this tempts the opponent to put 2 (thinking they’ll get odd total), but the sum becomes even and you split."
   }
 ]
