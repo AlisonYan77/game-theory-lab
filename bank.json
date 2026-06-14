@@ -10055,5 +10055,85 @@
     "a_en": "Put in 2, because if the opponent puts 1 (odd total), they take all but the loss is small; if you both put 2 (even), you share the pot equally and profit.",
     "b_zh": "投1元，因为这样可以诱使对手投2元（他以为能独吞），但实际是偶数，你能平分。",
     "b_en": "Put in 1, because this tempts the opponent to put 2 (thinking they’ll get odd total), but the sum becomes even and you split."
+  },
+  {
+    "q_zh": "你正在参加一个囚徒困境式的合作实验。对方上一轮背叛了你，你现在会怎么做？",
+    "q_en": "In a prisoner's dilemma cooperation experiment, your partner betrayed you last round. What do you do now?",
+    "a_zh": "继续合作，试图感化对方建立长期信任。",
+    "a_en": "Continue cooperating, trying to inspire mutual trust over time.",
+    "b_zh": "立即背叛报复，以免被再次利用。",
+    "b_en": "Retaliate by betraying immediately, to avoid being exploited again."
+  },
+  {
+    "q_zh": "在一场零和博弈中，你与对手同时选择“进攻”或“防守”。若你选择进攻且对方防守，你得分。你怀疑对方会预判你的策略，你会：",
+    "q_en": "In a zero-sum game, you and your opponent simultaneously choose 'Attack' or 'Defend'. If you attack and they defend, you score. You suspect they will anticipate your move. You:",
+    "a_zh": "随机选择，完全不可预测。",
+    "a_en": "Choose randomly, to be completely unpredictable.",
+    "b_zh": "故意选择与上一次相同的策略，利用对方的逆向思维。",
+    "b_en": "Intentionally repeat your last move, leveraging their counter-thinking."
+  },
+  {
+    "q_zh": "在拍卖博弈中，你为了赢得一件奖品已投入大量沉没成本，但目前出价已经超过物品实际价值。你会：",
+    "q_en": "In an auction game, you have already invested heavily in sunk costs to win an item, but the current bid exceeds its actual value. You:",
+    "a_zh": "果断退出，及时止损。",
+    "a_en": "Quit decisively, cutting losses.",
+    "b_zh": "继续加价，因为不能忍受前功尽弃。",
+    "b_en": "Raise the bid, unable to bear losing all previous investment."
+  },
+  {
+    "q_zh": "在一个信号传递博弈中，你是一个低能力者，但高能力者才会说真话。面试官相信“只有高能力者说真话”，你会：",
+    "q_en": "In a signaling game, you are low-ability. High-ability types always tell the truth, and the interviewer believes they do. You:",
+    "a_zh": "模仿高能力者说谎，争取录取机会。",
+    "a_en": "Mimic high-ability by lying, to get the job.",
+    "b_zh": "说实话，因为低成本信号更容易被识破。",
+    "b_en": "Tell the truth, since cheap signals are easily exposed."
+  },
+  {
+    "q_zh": "在公共物品博弈中，每人都可决定往公共池中放钱。如果总贡献达到目标，大家都会获得回报，否则全部损失。你发现其他人都在搭便车，你会：",
+    "q_en": "In a public goods game, everyone can contribute to a common pool. If total reaches a target, all get a reward; otherwise, all lose. Others are free-riding. You:",
+    "a_zh": "也停止贡献，惩罚搭便车者。",
+    "a_en": "Stop contributing too, to punish the free-riders.",
+    "b_zh": "坚持贡献，希望最后一刻有人改变。",
+    "b_en": "Keep contributing, hoping someone changes at the last moment."
+  },
+  {
+    "q_zh": "在“猜数字”博弈中，你要猜一个1-100之间的数字，最接近平均数的1/2的人获胜。其他玩家都很理性，你会猜：",
+    "q_en": "In a 'guess the number' game, you guess a number from 1 to 100. The winner is the one closest to half of the average. Other players are rational. You guess:",
+    "a_zh": "很低的数字（如1），利用多层次推理的极限。",
+    "a_en": "A very low number (e.g., 1), exploiting deepest levels of reasoning.",
+    "b_zh": "中等偏低的数字（如22），因为大多数人都只会推理一两层。",
+    "b_en": "A moderately low number (e.g., 22), because most only reason one or two levels deep."
+  },
+  {
+    "q_zh": "在一次谈判中，对方提出了一个对你明显不利的初始报价，但表示这是最终报价。你怀疑对方在虚张声势，你会：",
+    "q_en": "In a negotiation, the other side makes an obviously unfavorable final offer. You suspect they are bluffing. You:",
+    "a_zh": "当场拒绝并离开谈判桌，制造可信威胁。",
+    "a_en": "Reject it on the spot and walk away, creating a credible threat.",
+    "b_zh": "接受报价，希望建立友好关系为后续合作铺路。",
+    "b_en": "Accept the offer, hoping to build goodwill for future cooperation."
+  },
+  {
+    "q_zh": "在演化博弈中，你发现周围所有人都在使用“以牙还牙”策略。为了获得更高收益，你会：",
+    "q_en": "In an evolutionary game, everyone around you uses Tit-for-Tat. To achieve higher payoffs, you:",
+    "a_zh": "也采用以牙还牙，因为它是演化稳定策略。",
+    "a_en": "Use Tit-for-Tat too, since it's an evolutionarily stable strategy.",
+    "b_zh": "偶尔尝试无条件合作或背叛，试探环境中的变异机会。",
+    "b_en": "Occasionally try unconditional cooperation or defection, to test for mutations."
+  },
+  {
+    "q_zh": "在一个多轮讨价还价中，你们轮流报价。你是先手且知道对方耐心无限，而你有些急躁。你最优策略是：",
+    "q_en": "In a multi-round bargaining game where you bid alternately, you move first and know the opponent is infinitely patient while you are impatient. Your optimal strategy is:",
+    "a_zh": "第一次报价就给出非常慷慨的分配（接近平分），避免拖延。",
+    "a_en": "Make a very generous first offer (close to 50-50) to avoid delay.",
+    "b_zh": "第一次报价尽量倾向于自己，利用先动优势。",
+    "b_en": "Make a self-benefiting first offer, exploiting first-mover advantage."
+  },
+  {
+    "q_zh": "在“勇气博弈”(Chicken)中，你们开车相向而行。如果你选择转向，你就是“小鸡”。对方看起来非常疯狂，你会：",
+    "q_en": "In the game of Chicken, you drive toward each other. If you swerve, you are 'chicken'. The other driver looks totally insane. You:",
+    "a_zh": "坚持直行，因为对方可能是虚张声势，而且你不想丢面子。",
+    "a_en": "Stay straight, because they might be bluffing and you don't want to lose face.",
+    "b_zh": "主动转向，因为与疯子对抗的结果可能是共同毁灭。",
+    "b_en": "Swerve to avoid mutual destruction, since fighting an insane person risks catastrophe."
   }
 ]
