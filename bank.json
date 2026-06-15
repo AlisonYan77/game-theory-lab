@@ -10135,5 +10135,85 @@
     "a_en": "Stay straight, because they might be bluffing and you don't want to lose face.",
     "b_zh": "主动转向，因为与疯子对抗的结果可能是共同毁灭。",
     "b_en": "Swerve to avoid mutual destruction, since fighting an insane person risks catastrophe."
+  },
+  {
+    "q_zh": "你在一个谈判中，对方提出了一个看似合理的条件，但你怀疑其中隐藏了陷阱。你会如何选择？",
+    "q_en": "In a negotiation, the other party offers a seemingly reasonable condition, but you suspect a hidden trap. How would you choose?",
+    "a_zh": "接受条件，但暗中准备反制策略，以便在陷阱触发时挽回损失。",
+    "a_en": "Accept the condition but secretly prepare a counter-strategy to recover losses if the trap triggers.",
+    "b_zh": "直接拒绝条件，并主动提出一个更透明的替代方案，以试探对方的真实意图。",
+    "b_en": "Directly reject the condition and proactively propose a more transparent alternative to test the other party's true intentions."
+  },
+  {
+    "q_zh": "在一场零和游戏中，对手连续三次选择了同一策略，且每次都获胜。你接下来会怎么做？",
+    "q_en": "In a zero-sum game, your opponent has chosen the same strategy three times in a row and won each time. What would you do next?",
+    "a_zh": "选择克制该策略的招数，认为对手会因惯性继续使用此策略。",
+    "a_en": "Choose a move that counters the repeated strategy, assuming the opponent will continue due to inertia.",
+    "b_zh": "随机选择一个策略，因为对手可能已经预料到你的反制，并准备变招。",
+    "b_en": "Choose a random strategy, because the opponent might have anticipated your counter and is ready to change."
+  },
+  {
+    "q_zh": "你被分配与一个陌生玩家进行合作游戏，但你们只能通过一次性匿名信息交流。你会发送什么？",
+    "q_en": "You are paired with a stranger in a cooperative game, and you can only communicate via a one-time anonymous message. What would you send?",
+    "a_zh": "发送一句温和的威胁，暗示如果对方背叛，你一定会报复。",
+    "a_en": "Send a mild threat, hinting that you will retaliate if the other defects.",
+    "b_zh": "发送一句诚恳的合作承诺，希望建立互信。",
+    "b_en": "Send a sincere promise of cooperation, hoping to build mutual trust."
+  },
+  {
+    "q_zh": "在一场拍卖中，你发现对手的出价策略非常激进，但你的预算有限。你该如何应对？",
+    "q_en": "In an auction, you notice your opponent's bidding strategy is very aggressive, but your budget is limited. How would you respond?",
+    "a_zh": "故意在一个无价值的物品上虚张声势，迫使对手浪费预算。",
+    "a_en": "Bluff aggressively on a worthless item to force the opponent to waste their budget.",
+    "b_zh": "隐藏实力，只在最关键的一轮使用全部预算突袭。",
+    "b_en": "Hide your strength and only launch a full-budget surprise attack in the most critical round."
+  },
+  {
+    "q_zh": "在多人博弈中，你被孤立，其他玩家形成了一个针对你的联盟。你的最优策略是？",
+    "q_en": "In a multiplayer game, you are isolated and other players have formed an alliance against you. What is your optimal strategy?",
+    "a_zh": "暗中向联盟中最弱的一环提供利益，试图瓦解联盟。",
+    "a_en": "Secretly offer benefits to the weakest link in the alliance, attempting to break it apart.",
+    "b_zh": "公开投降或示弱，让联盟因失去共同目标而内讧。",
+    "b_en": "Publicly surrender or show weakness, causing the alliance to fall into internal conflict due to the loss of a common goal."
+  },
+  {
+    "q_zh": "你和对手同时选择一个数字，目标是使两个数字之和最接近10。你猜测对方会选5，你会选什么？",
+    "q_en": "You and your opponent simultaneously choose a number, aiming to make the sum of the two numbers as close to 10 as possible. You guess the opponent will choose 5. What would you choose?",
+    "a_zh": "选5，确保和等于10，追求完美平局。",
+    "a_en": "Choose 5 to make the sum exactly 10, aiming for a perfect tie.",
+    "b_zh": "选2或8，赌对方可能不是选5而实际选其他数字，从而获得更大优势。",
+    "b_en": "Choose 2 or 8, betting that the opponent might not actually choose 5, to gain a greater advantage."
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对方前两轮都背叛了你。你第三轮会怎么做？",
+    "q_en": "In a repeated prisoner's dilemma, your opponent has betrayed you in the first two rounds. What would you do in the third round?",
+    "a_zh": "继续合作一次，给对方一个改过的机会，彰显宽恕策略。",
+    "a_en": "Cooperate once more to give the opponent a chance to reform, demonstrating a forgiveness strategy.",
+    "b_zh": "立即背叛，以牙还牙，让对方明白背叛的代价。",
+    "b_en": "Immediately defect, tit-for-tat, to make the opponent understand the cost of betrayal."
+  },
+  {
+    "q_zh": "在谈判中，你掌握了一个秘密信息，但透露它可能带来短期优势，也可能让对手以后防着你。你会？",
+    "q_en": "In a negotiation, you hold a secret piece of information. Revealing it could bring short-term advantages, but it might also make the opponent wary of you in the future. What would you do?",
+    "a_zh": "部分透露信息，故意留有余地，让对手猜不透你的底牌。",
+    "a_en": "Partially reveal the information, deliberately leaving room for ambiguity, so the opponent cannot guess your full hand.",
+    "b_zh": "完全保密，并利用对手对信息不对称的焦虑来施压。",
+    "b_en": "Keep it completely secret and use the opponent's anxiety over information asymmetry to exert pressure."
+  },
+  {
+    "q_zh": "在一款心理游戏中，对手突然做出一个完全不合常理的非理性举动。你的反应是？",
+    "q_en": "In a psychological game, your opponent suddenly makes a completely irrational move that defies common sense. What is your reaction?",
+    "a_zh": "假定对方是在高级心理战术，用最理性和保守的应对方式。",
+    "a_en": "Assume the opponent is using advanced psychological tactics and respond in the most rational and conservative way.",
+    "b_zh": "反过来也做出一个非理性举动，迫使对方也陷入不确定的混乱局面。",
+    "b_en": "Respond with an equally irrational move, forcing the opponent into a state of uncertain chaos."
+  },
+  {
+    "q_zh": "你与对手进行多轮投票，每一轮得票少的人被淘汰。你发现暗中结盟最有利，但没人主动提议。你会？",
+    "q_en": "You and your opponents are in a multi-round voting game, where the person with the fewest votes each round is eliminated. You realize that a secret alliance would be most beneficial, but no one initiates it. What would you do?",
+    "a_zh": "主动向最强对手提议秘密联盟，因为他生存概率高，合作价值大。",
+    "a_en": "Proactively propose a secret alliance to the strongest opponent, because they have a high survival probability and great cooperative value.",
+    "b_zh": "主动向最弱对手提议秘密联盟，因为他更可能接受并忠诚。",
+    "b_en": "Proactively propose a secret alliance to the weakest opponent, because they are more likely to accept and remain loyal."
   }
 ]
