@@ -10215,5 +10215,85 @@
     "a_en": "Proactively propose a secret alliance to the strongest opponent, because they have a high survival probability and great cooperative value.",
     "b_zh": "主动向最弱对手提议秘密联盟，因为他更可能接受并忠诚。",
     "b_en": "Proactively propose a secret alliance to the weakest opponent, because they are more likely to accept and remain loyal."
+  },
+  {
+    "q_zh": "你发现同事在打探你的薪资，而公司禁止讨论薪资。你更倾向：",
+    "q_en": "You catch a colleague probing your salary, which is against company policy. Do you tend to:",
+    "a_zh": "A. 模糊回答并转移话题，保护自己但保留关系",
+    "a_en": "A. Answer vaguely and change the subject, protecting yourself while preserving the relationship",
+    "b_zh": "B. 直接反问其动机，施加心理压力使其停止",
+    "b_en": "B. Directly question their motive, applying psychological pressure to make them stop"
+  },
+  {
+    "q_zh": "在双人谈判中，对方给出了一个看似公平但实际对你非常不利的方案。你的第一反应是：",
+    "q_en": "In a two-party negotiation, the other side offers a seemingly fair but actually unfavorable deal. Your initial move is:",
+    "a_zh": "A. 立刻指出陷阱并要求重新优化利益分配",
+    "a_en": "A. Immediately point out the trap and demand a re-optimized split",
+    "b_zh": "B. 表面接受，同时暗中布局，在后续环节反击",
+    "b_en": "B. Pretend to accept, while secretly setting up a countermove in later rounds"
+  },
+  {
+    "q_zh": "你被对手在公开场合故意激怒，周围有很多旁观者。你会：",
+    "q_en": "Your opponent deliberately provokes you in public with many onlookers. You will:",
+    "a_zh": "A. 冷静地用逻辑拆穿他的把戏，让旁观者看清他的低劣",
+    "a_en": "A. Stay calm and logically expose their trick, letting the audience see their cheap play",
+    "b_zh": "B. 用幽默自嘲化解攻击，之后寻找私下报复的机会",
+    "b_en": "B. Defuse the attack with self-deprecating humor, then seek a private chance for payback"
+  },
+  {
+    "q_zh": "合作游戏中，你的搭档连续两次背叛了你。第三次合作前，你选择：",
+    "q_en": "In a cooperation game, your partner has betrayed you twice in a row. Before the third round, you choose:",
+    "a_zh": "A. 以牙还牙，这次先背叛他，让他尝到苦头",
+    "a_en": "A. Tit-for-tat: betray first this time to teach them a lesson",
+    "b_zh": "B. 主动释放合作信号，测试他是否愿意重建信任",
+    "b_en": "B. Proactively signal cooperation to test if they are willing to rebuild trust"
+  },
+  {
+    "q_zh": "你掌握了一个能极大损害对手但也会伤及自身的秘密武器。你更可能：",
+    "q_en": "You possess a secret weapon that can severely harm your opponent but also backfire on you. You are more likely to:",
+    "a_zh": "A. 公开宣称拥有此武器，靠威慑来不战而屈人之兵",
+    "a_en": "A. Publicly claim to possess it, using deterrence to win without fighting",
+    "b_zh": "B. 秘而不宣，等关键时机作为奇招突然使用",
+    "b_en": "B. Keep it secret, saving it as a surprise move for a critical moment"
+  },
+  {
+    "q_zh": "在多人博弈中，你发现两个对手正在密谋针对你。你最佳策略是：",
+    "q_en": "In a multi-player game, you discover two opponents colluding against you. Your best strategy is:",
+    "a_zh": "A. 故意泄露假情报离间他们，让他们内部先互斗",
+    "a_en": "A. Leak false intel to drive a wedge between them, making them fight each other first",
+    "b_zh": "B. 联合第三方势力，形成新联盟以平衡力量",
+    "b_en": "B. Ally with a third party to form a new coalition and balance the power"
+  },
+  {
+    "q_zh": "拍卖/竞价游戏中，你的预算比对手少，但对手不知道。你如何开局？",
+    "q_en": "In an auction/bidding game, you have a smaller budget than your opponent, who doesn't know it. How do you start?",
+    "a_zh": "A. 首次出价就表现得极度强势，虚张声势吓退对手",
+    "a_en": "A. Open with an extremely aggressive bid to bluff and scare off the opponent",
+    "b_zh": "B. 初期故意示弱出低价，诱导对手轻敌并消耗预算",
+    "b_en": "B. Initially bid low to appear weak, luring the opponent into being overconfident and draining their budget"
+  },
+  {
+    "q_zh": "你在游戏最后关头落后，只剩一次行动机会。最高风险的行动同时具有最高收益。你会：",
+    "q_en": "You are behind at the final moment of the game with only one move left. The highest-risk action also has the highest reward. You:",
+    "a_zh": "A. 孤注一掷，选择最高风险的策略，放手一搏",
+    "a_en": "A. Go all-in, choosing the highest-risk strategy for a final gamble",
+    "b_zh": "B. 选择安全保守的策略，至少保住第二名的位置",
+    "b_en": "B. Opt for a safe, conservative strategy to at least secure second place"
+  },
+  {
+    "q_zh": "对方经常用情绪化发言来扰乱你的思路。你反制的方法是：",
+    "q_en": "Your opponent frequently uses emotional outbursts to disrupt your thinking. Your countermeasure is:",
+    "a_zh": "A. 比他更情绪化，用更夸张的反应迫使他冷静思考",
+    "a_en": "A. Out-emotionalize them with an even more exaggerated reaction to force them into冷静思考",
+    "b_zh": "B. 完全无视其情绪，用机械重复的逻辑框架覆盖对话",
+    "b_en": "B. Completely ignore their emotion, overriding the conversation with a mechanically repetitive logical framework"
+  },
+  {
+    "q_zh": "一场连续多轮的信任博弈中，你发现对方始终在模仿你上一轮的动作。你下一步：",
+    "q_en": "In a multi-round trust game, you notice the opponent always mirrors your previous move. Your next step:",
+    "a_zh": "A. 连续两轮合作建立善意，然后在第三轮背叛获取大利",
+    "a_en": "A. Cooperate for two rounds to build goodwill, then betray on round three for a big gain",
+    "b_zh": "B. 故意先背叛一次，观察他是否还会继续模仿你",
+    "b_en": "B. Deliberately betray once to see if they will still mirror you"
   }
 ]
