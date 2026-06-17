@@ -10295,5 +10295,85 @@
     "a_en": "A. Cooperate for two rounds to build goodwill, then betray on round three for a big gain",
     "b_zh": "B. 故意先背叛一次，观察他是否还会继续模仿你",
     "b_en": "B. Deliberately betray once to see if they will still mirror you"
+  },
+  {
+    "q_zh": "在一个匿名囚徒困境中，你的对手在过去几轮中一直选择合作（沉默）。你会选择：",
+    "q_en": "In an anonymous iterated Prisoner's Dilemma, your opponent has cooperated (stayed silent) for the past several rounds. Do you:",
+    "a_zh": "继续合作，以建立长期的互惠信任",
+    "a_en": "Continue cooperating, to build long-term reciprocal trust",
+    "b_zh": "背叛（告密），抓住这次机会获取最大个人利益",
+    "b_en": "Defect (betray), seizing this chance for maximum personal gain"
+  },
+  {
+    "q_zh": "你参与一场最后通牒博弈：你（提议方）需要分100元，对方接受则按方案分，拒绝则双方都得0。你会提出：",
+    "q_en": "In an Ultimatum Game where you are the proposer of $100, and rejection means both get $0, you offer:",
+    "a_zh": "50元或更多，以保证对方大概率接受、维持公平感",
+    "a_en": "$50 or more, to ensure a high chance of acceptance and maintain fairness",
+    "b_zh": "30元或更少，赌对方理性接受任何正数金额",
+    "b_en": "$30 or less, gambling that the opponent will rationally accept any positive amount"
+  },
+  {
+    "q_zh": "在一场多人公共物品博弈中，每人初始资金20元，每人投入公共池的金额会翻倍并平分。你发现其他人平均投入了15元。你会：",
+    "q_en": "In a multi-player public goods game (each starts with $20; pool is doubled and split equally), you see others have contributed an average of $15. You:",
+    "a_zh": "投入15元，做合作者，维持公平共赢",
+    "a_en": "Contribute $15, being a cooperator to maintain fairness and mutual benefit",
+    "b_zh": "投入0元，做搭便车者，享受他人的贡献成果",
+    "b_en": "Contribute $0, free-riding on others' contributions"
+  },
+  {
+    "q_zh": "你和对手进行50轮重复博弈，最后一轮到来时，你们之前一直互相合作。你会在最后一轮：",
+    "q_en": "In a 50-round repeated game where you and your opponent have cooperated throughout, on the final round you:",
+    "a_zh": "仍然合作，坚持一贯的策略避免心理负担",
+    "a_en": "Still cooperate, sticking to your consistent strategy to avoid psychological burden",
+    "b_zh": "背叛，因为反正没有未来回合可以报复",
+    "b_en": "Defect, since there are no future rounds for retaliation"
+  },
+  {
+    "q_zh": "在一场零和鸡（Chicken）游戏中，你和对手高速相向而行。如果你相信自己表现得更疯狂，对方会先转向。你会：",
+    "q_en": "In a zero-sum game of Chicken, you and your opponent drive toward each other. If you believe you seem crazier, the other will swerve. You:",
+    "a_zh": "保持直线行驶，赌对方不敢撞上",
+    "a_en": "Stay straight, gambling the opponent won't dare to crash",
+    "b_zh": "稍微展示转向意图，诱惑对方也转向，避免两败俱伤",
+    "b_en": "Slightly signal a swerve, tempting the opponent to also swerve to avoid mutual destruction"
+  },
+  {
+    "q_zh": "在一个拍卖博弈中，你和另一个玩家竞标一张100元钞票。出价最高者得钞票，但第二高者也要支付自己的出价（损失）。目前对方出价90元，你会：",
+    "q_en": "In an auction for a $100 bill where the highest bidder wins but the second-highest also pays their bid (loser's loss), the opponent has bid $90. You:",
+    "a_zh": "出价91元，争取以最小代价胜出",
+    "a_en": "Bid $91, aiming to win with minimal extra cost",
+    "b_zh": "果断放弃，避免陷入竞价陷阱双方都受损",
+    "b_en": "Drop out decisively, avoiding the bidding trap that harms both"
+  },
+  {
+    "q_zh": "在一场信任博弈中，你先给对手X元（1-10元），对手会收到3倍，然后他可以选择返还一部分。你认为对手是理性且自私的。你会寄出：",
+    "q_en": "In a Trust Game, you first send $X (1-10) to the opponent, which triples; then they may return some. You believe the opponent is rational and selfish. You send:",
+    "a_zh": "0元，不信任对方，避免损失",
+    "a_en": "$0, not trusting the opponent to avoid loss",
+    "b_zh": "5-10元，赌对方可能基于互惠或社会压力返还你一部分",
+    "b_en": "$5-10, gambling that reciprocity or social pressure may make them return some"
+  },
+  {
+    "q_zh": "你正在玩一个模仿博弈（跟风游戏）：你可以选择一项新技术或旧技术。如果多数人选旧技术，你选新技术会受损。目前60%选了新技术。你会：",
+    "q_en": "In a coordination game (bandwagon effect): you choose between new or old tech. If majority chooses old, new tech fails. Currently 60% choose new tech. You:",
+    "a_zh": "跟风选新技术，顺势而为",
+    "a_en": "Join the new tech bandwagon, following the majority",
+    "b_zh": "反向选择旧技术，赌那40%最终成为主流",
+    "b_en": "Go against the trend and pick old tech, betting the 40% will become the majority"
+  },
+  {
+    "q_zh": "在一个分饼博弈中，你可以提出分配比例，但对方可以提出反建议。如果两轮谈判未果则双方皆无。你第一轮会提出：",
+    "q_en": "In a bargaining game where you propose a split, the opponent can counter, and no deal after two rounds means zero for both. In the first round you propose:",
+    "a_zh": "60（你）对40（对方），给自己留更多",
+    "a_en": "60 (you) to 40 (them), keeping more for yourself",
+    "b_zh": "50对50，直接公平分配以免对方拖延报复",
+    "b_en": "50-50, a fair split to avoid delay and possible retaliation"
+  },
+  {
+    "q_zh": "你发现对手在博弈中采用了带有随机性的“以牙还牙”策略（有一定概率原谅背叛）。你之前背叛过一次，他随后惩罚了你一轮。你现在会：",
+    "q_en": "You discover your opponent is using a probabilistic Tit-for-Tat (may forgive defections). You defected once and he punished you for one round. You now:",
+    "a_zh": "立即恢复合作，试图重建信任让对方原谅你",
+    "a_en": "Immediately resume cooperation, trying to rebuild trust and trigger forgiveness",
+    "b_zh": "继续背叛两次，测试对方是否会因为随机性而停止惩罚",
+    "b_en": "Defect twice more, testing if the randomness will make him stop punishing"
   }
 ]
