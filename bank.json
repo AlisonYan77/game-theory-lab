@@ -10375,5 +10375,85 @@
     "a_en": "Immediately resume cooperation, trying to rebuild trust and trigger forgiveness",
     "b_zh": "继续背叛两次，测试对方是否会因为随机性而停止惩罚",
     "b_en": "Defect twice more, testing if the randomness will make him stop punishing"
+  },
+  {
+    "q_zh": "如果你在游戏中，对手选择合作一次后，你会选择？",
+    "q_en": "If your opponent cooperates once in the game, what do you choose?",
+    "a_zh": "继续合作，建立互信循环",
+    "a_en": "Continue cooperating to build a trust loop",
+    "b_zh": "立即背叛，获取短期利益",
+    "b_en": "Betray immediately for short-term gain"
+  },
+  {
+    "q_zh": "当游戏进入最后一轮（无未来惩罚），你会？",
+    "q_en": "When the game enters the final round (no future penalty), you will?",
+    "a_zh": "合作，维持道德感",
+    "a_en": "Cooperate to maintain moral integrity",
+    "b_zh": "背叛，因为这是理性最优解",
+    "b_en": "Betray, as it is the rational optimal choice"
+  },
+  {
+    "q_zh": "对手连续背叛三次后，你如何应对？",
+    "q_en": "After your opponent betrays three times in a row, how do you respond?",
+    "a_zh": "以牙还牙，立刻报复性背叛",
+    "a_en": "Tit-for-tat: immediately retaliate with betrayal",
+    "b_zh": "宽恕一次，测试对方是否改过",
+    "b_en": "Forgive once to test if the opponent changes"
+  },
+  {
+    "q_zh": "在一局多人博弈中，你注意到多数人选择背叛，你会？",
+    "q_en": "In a multi-player game, you notice most choose betrayal. What do you do?",
+    "a_zh": "随大流背叛，避免被剥削",
+    "a_en": "Follow the crowd to avoid being exploited",
+    "b_zh": "坚持合作，企图成为破局者",
+    "b_en": "Insist on cooperating to become a game-changer"
+  },
+  {
+    "q_zh": "对手声称会合作，但你知道他有欺骗史，你的选择是？",
+    "q_en": "Your opponent claims to cooperate, but you know they have a history of deception. Your choice?",
+    "a_zh": "先发制人背叛，防止被利用",
+    "a_en": "Preemptive betrayal to prevent being used",
+    "b_zh": "先信任一次，观察实际行动",
+    "b_en": "Trust once and observe their actual action"
+  },
+  {
+    "q_zh": "当博弈结果会公开给所有人看时，你会更倾向于？",
+    "q_en": "When the game result is made public to everyone, you will tend to?",
+    "a_zh": "合作，维护声誉以便未来收益",
+    "a_en": "Cooperate to maintain reputation for future gains",
+    "b_zh": "背叛，反正只是一次性名声损失",
+    "b_en": "Betray, as it's just a one-time reputation loss"
+  },
+  {
+    "q_zh": "你和对手有长期合作历史，最近一次他因误会背叛了你，你如何反应？",
+    "q_en": "You have a long history of cooperation, but your opponent betrayed you due to a misunderstanding. Your reaction?",
+    "a_zh": "停止合作，视为背叛信号",
+    "a_en": "Stop cooperating, treat it as a signal of betrayal",
+    "b_zh": "沟通并恢复合作，视其为偶然",
+    "b_en": "Communicate and resume cooperation, treat it as incidental"
+  },
+  {
+    "q_zh": "对手的决策模式是随机（50%合作），你的最优策略是？",
+    "q_en": "Your opponent's decision pattern is random (50% cooperation). Your optimal strategy?",
+    "a_zh": "始终背叛，因为无规律可循",
+    "a_en": "Always betray, since there's no pattern to exploit",
+    "b_zh": "模仿对方的上一轮动作，尝试引导",
+    "b_en": "Mimic opponent's last move to try and guide"
+  },
+  {
+    "q_zh": "游戏引入复仇机制：背叛者会损失额外分数，你会？",
+    "q_en": "The game introduces a revenge mechanism: betrayers lose extra points. You would?",
+    "a_zh": "减少背叛频率，风险太高",
+    "a_en": "Reduce betrayal frequency, as the risk is too high",
+    "b_zh": "寻找规则漏洞，选择性背叛",
+    "b_en": "Look for loopholes in the rules and betray selectively"
+  },
+  {
+    "q_zh": "你能看到对手过去五轮的决策历史，他呈现“交替背叛与合作”模式，你会？",
+    "q_en": "You can see opponent's last 5 rounds: they show an alternating betray-cooperate pattern. You?",
+    "a_zh": "在对方合作轮背叛，在对方背叛轮合作",
+    "a_en": "Betray on opponent's cooperative rounds, cooperate on their betrayal rounds",
+    "b_zh": "打破模式，连续合作两次观察反应",
+    "b_en": "Break the pattern by cooperating twice in a row to observe"
   }
 ]
