@@ -10455,5 +10455,85 @@
     "a_en": "Betray on opponent's cooperative rounds, cooperate on their betrayal rounds",
     "b_zh": "打破模式，连续合作两次观察反应",
     "b_en": "Break the pattern by cooperating twice in a row to observe"
+  },
+  {
+    "q_zh": "你和一个陌生人各有一个苹果，你可以选择交换或不交换。如果你选择交换，对方也会交换，你们最终各得一个苹果；如果你不交换，对方也不交换，你们仍然各得一个苹果。但如果你交换而他选择不交换，你将失去苹果。你会怎么做？",
+    "q_en": "You and a stranger each have one apple. You can choose to swap or not. If you both swap, you each keep one apple. If neither swaps, you each keep one apple. But if you swap and they don't, you lose your apple. What do you do?",
+    "a_zh": "交换，试图建立合作信任",
+    "a_en": "Swap, aiming to build cooperative trust",
+    "b_zh": "不交换，规避被背叛的风险",
+    "b_en": "Don't swap, to avoid the risk of betrayal"
+  },
+  {
+    "q_zh": "在拍卖中，你只有一次出价机会，对手也是。如果你出高价但对方出低价，你赢得物品但支付高价；如果双方都出低价，则随机胜出。你会怎么出价？",
+    "q_en": "In an auction with one bid each, if you bid high and they bid low, you win but pay high. If both bid low, winner is random. What do you bid?",
+    "a_zh": "出高价，确保赢得物品",
+    "a_en": "Bid high, to guarantee winning the item",
+    "b_zh": "出低价，赌对方也理性保守",
+    "b_en": "Bid low, gambling the opponent is also cautious"
+  },
+  {
+    "q_zh": "你和对手被要求同时选择“红”或“蓝”。若你选红，对方也选红，你得10分；红对蓝，你得0分；蓝对红，你得15分；蓝对蓝，你得5分。你选哪个？",
+    "q_en": "You and opponent choose Red or Blue simultaneously: Red-Red gives you 10, Red-Blue gives 0, Blue-Red gives 15, Blue-Blue gives 5. Which do you pick?",
+    "a_zh": "选红，追求稳定双赢",
+    "a_en": "Red, for a stable mutual win",
+    "b_zh": "选蓝，冒险博取更高收益",
+    "b_en": "Blue, risking for higher payoff"
+  },
+  {
+    "q_zh": "你可以提前向对方发送一条信息：“我会选合作”，但对方可能认为你在撒谎。如果你实际选择背叛，可能获得更高分数，但会失去信任。你会怎么做？",
+    "q_en": "You can send a message: 'I will cooperate', but they may think you lie. If you actually betray, you could score higher but lose trust. What do you do?",
+    "a_zh": "发送合作信息并真正合作，建立信誉",
+    "a_en": "Send cooperation message and truly cooperate, building credibility",
+    "b_zh": "发送合作信息但实际背叛，利用对方信任",
+    "b_en": "Send cooperation message but betray, exploiting their trust"
+  },
+  {
+    "q_zh": "游戏进行多轮，每轮你可以选择“报复”或“原谅”。若对方上次背叛了你，你选择报复则双方都受损；选择原谅则可能恢复合作。你倾向于？",
+    "q_en": "In a multi-round game, each round you choose Revenge or Forgive. If they betrayed you last round, revenge hurts both; forgive may restore cooperation. You lean towards?",
+    "a_zh": "报复，让对方为背叛付出代价",
+    "a_en": "Revenge, making them pay for betrayal",
+    "b_zh": "原谅，维持长期合作机会",
+    "b_en": "Forgive, to sustain long-term cooperation"
+  },
+  {
+    "q_zh": "对手声称自己一定会选择A选项，但你知道他可能是个心理战高手。你手里的信息显示选B的平均收益更高。你会怎么选？",
+    "q_en": "Opponent claims they will pick A, but they might be a psychological tactician. Your data shows B has higher average payoff. What do you choose?",
+    "a_zh": "相信数据，选B",
+    "a_en": "Trust the data, pick B",
+    "b_zh": "相信对方声明，选A以谋求双赢",
+    "b_en": "Trust their statement, pick A for mutual gain"
+  },
+  {
+    "q_zh": "在最后关头，你可以选择“坦白”或“沉默”。若你坦白、对方沉默，你获释而他判重刑；若两人都沉默，各判轻刑；都坦白，各判中刑。你选？",
+    "q_en": "At the final moment, choose Confess or Stay Silent. If you confess and they stay silent, you go free, they get heavy sentence. Both silent: light sentence. Both confess: medium. What do you choose?",
+    "a_zh": "坦白，避免被对方出卖的最坏情况",
+    "a_en": "Confess, to avoid worst-case betrayal",
+    "b_zh": "沉默，相信对方也会合作",
+    "b_en": "Stay silent, trusting opponent will cooperate"
+  },
+  {
+    "q_zh": "你能看到对手上一轮的选择，并决定自己本轮策略。对手上轮背叛了你，这一轮你倾向于？",
+    "q_en": "You can see opponent's last move and decide yours. They betrayed you last round. This round you tend to?",
+    "a_zh": "以牙还牙，同样背叛",
+    "a_en": "Tit-for-tat, also betray",
+    "b_zh": "宽容一次，尝试重新合作",
+    "b_en": "Forgive once, attempt to restart cooperation"
+  },
+  {
+    "q_zh": "游戏规则：若你选择“进攻”而对手“防守”，你得分；若对手也“进攻”，双方都受伤。你不知道对手风格。你选？",
+    "q_en": "Rule: if you choose Attack and they Defend, you score; if they also Attack, both get hurt. You don't know their style. What do you pick?",
+    "a_zh": "进攻，争取主动收益",
+    "a_en": "Attack, to seize proactive gain",
+    "b_zh": "防守，避免两败俱伤",
+    "b_en": "Defend, to avoid mutual damage"
+  },
+  {
+    "q_zh": "你和对手各有一张牌，可以展示给对方看。若双方展示相同颜色，你各得5分；不同颜色，你得0分，对手得10分。你已知对手可能会模仿你的选择。你会？",
+    "q_en": "You and opponent have cards, can reveal. If same color, each gets 5; if different, you get 0, they get 10. You know they might mimic you. What do you do?",
+    "a_zh": "先展示红色，诱导对方也选红色",
+    "a_en": "Show red first, to lure them into choosing red",
+    "b_zh": "先展示蓝色，以出其不意",
+    "b_en": "Show blue first, for surprise"
   }
 ]
