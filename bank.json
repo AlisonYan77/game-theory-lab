@@ -10535,5 +10535,85 @@
     "a_en": "Show red first, to lure them into choosing red",
     "b_zh": "先展示蓝色，以出其不意",
     "b_en": "Show blue first, for surprise"
+  },
+  {
+    "q_zh": "你被关押在审讯室，你的同伙也在另一房间接受审讯。你们都被指控犯有轻罪，但若一方背叛另一方，背叛者将获自由，而沉默者将获重刑。若两人都沉默，则各获轻罪；若互相背叛，则各获中刑。你会选择：",
+    "q_en": "You and your partner are interrogated separately. Both face a minor charge, but if one betrays the other, the betrayer goes free while the silent one gets a heavy sentence. If both stay silent, you both get a light sentence. If both betray, you both get a moderate sentence. What do you choose?",
+    "a_zh": "沉默（合作）",
+    "a_en": "Stay silent (cooperate)",
+    "b_zh": "背叛（告密）",
+    "b_en": "Betray (defect)"
+  },
+  {
+    "q_zh": "你是公司CEO，竞争对手抢先发布了一款类似产品。你必须在“大幅降价抢占市场”和“保持原价并升级宣传”之间做出选择。如果双方都降价，利润都会被削弱；如果只有你降价，你可能会先赢；如果只有对方降价，它会抢走你的客户。你会：",
+    "q_en": "You are a CEO. A competitor launches a similar product first. You must choose between 'aggressively cut price to dominate market' and 'keep price and boost marketing'. Both cutting leads to thin margins; only you cut could give you a win; only they cut steals your customers. What do you do?",
+    "a_zh": "大幅降价抢占市场",
+    "a_en": "Aggressively cut price",
+    "b_zh": "保持原价并升级宣传",
+    "b_en": "Keep price and boost marketing"
+  },
+  {
+    "q_zh": "你和一位陌生玩家各有一笔启动资金参与一个公共项目。每人可选择投入多少资金，项目总资金会翻倍后平均分配。但若你投入少而对方投入多，你赚更多；若双方都投入少，产出也低。你会：",
+    "q_en": "You and a stranger each have an endowment for a public project. Each decides how much to contribute; total contributions are doubled and split equally. If you contribute little and they contribute a lot, you gain more; if both contribute little, total payout is low. What do you do?",
+    "a_zh": "投入全部资金（合作）",
+    "a_en": "Contribute all (cooperate)",
+    "b_zh": "投入少量资金（搭便车）",
+    "b_en": "Contribute little (free ride)"
+  },
+  {
+    "q_zh": "在拍卖会上，你与另一人对一件稀有物品竞价。若双方都出高价，收益稀释；若你出低价而对方出高价，你失去物品；若你出高价而对方出低价，你赢但花销大。你会选择：",
+    "q_en": "In an auction, you and another bid on a rare item. If both bid high, profit is diluted; if you bid low and they bid high, you lose the item; if you bid high and they bid low, you win but pay a lot. What is your strategy?",
+    "a_zh": "出高价（志在必得）",
+    "a_en": "Bid high (determined to win)",
+    "b_zh": "出低价（保存资金）",
+    "b_en": "Bid low (save funds)"
+  },
+  {
+    "q_zh": "你和同事分别负责项目不同部分，但最终功劳共享。你可以选择“全力工作”或“偷懒摸鱼”。若都全力工作，项目出色，双方受益；若只你全力而对方偷懒，你吃亏；若都偷懒，项目失败。你会：",
+    "q_en": "You and a colleague work on separate parts of a project but share credit. You can choose 'work hard' or 'slack off'. Both working hard yields great results; only you work hard while they slack off hurts you; both slack off leads to failure. What do you choose?",
+    "a_zh": "全力工作",
+    "a_en": "Work hard",
+    "b_zh": "偷懒摸鱼",
+    "b_en": "Slack off"
+  },
+  {
+    "q_zh": "你和一位朋友约定在某个地点碰面，但你们可以提前或准时到。如果都准时，见面顺利；如果你准时他早到，他等你；如果他准时你早到，你等他；谁早到谁承担等待成本。你会选择：",
+    "q_en": "You and a friend agree to meet at a spot. You can arrive exactly on time or early. If both on time, meeting goes smoothly; if you are on time and they are early, they wait; if they are on time and you are early, you wait. Waiting costs time. What do you do?",
+    "a_zh": "准时到达",
+    "a_en": "Arrive on time",
+    "b_zh": "提前到达",
+    "b_en": "Arrive early"
+  },
+  {
+    "q_zh": "在双人游戏中，你们每人可出“鹰”或“鸽”。双鹰则两败俱伤；双鸽则和平各得中等收益；一方鹰一方鸽则鹰得大收益，鸽得小收益。你会出：",
+    "q_en": "In a two-player game, each chooses 'Hawk' or 'Dove'. Both Hawk leads to mutual damage; both Dove yields moderate gain for both; one Hawk one Dove gives Hawk big gain, Dove small gain. What do you choose?",
+    "a_zh": "鹰（攻击）",
+    "a_en": "Hawk (aggressive)",
+    "b_zh": "鸽（和平）",
+    "b_en": "Dove (peaceful)"
+  },
+  {
+    "q_zh": "你们两人玩一个游戏：每人可同时选数字1或2。若数字总和为奇数，则选2的人赢走对方的部分分数；若为偶数，则选1的人获胜。你会选：",
+    "q_en": "You play a game where each chooses 1 or 2 simultaneously. If the sum is odd, the player who chose 2 gains from the other; if even, the player who chose 1 wins. What number do you choose?",
+    "a_zh": "数字1",
+    "a_en": "Number 1",
+    "b_zh": "数字2",
+    "b_en": "Number 2"
+  },
+  {
+    "q_zh": "你是一名将领，敌军也可能发动突袭。你可以选择“强攻”或“防守”。若你强攻而敌军防守，你损失惨重；若你防守而敌军真正强攻，你防住；若双方都强攻，两败俱伤；若双方都防守，僵持不动。你会：",
+    "q_en": "You are a general. The enemy may also attack. You choose 'attack' or 'defend'. If you attack while they defend, you suffer heavy losses; if you defend while they attack, you hold; if both attack, mutual destruction; if both defend, stalemate. What do you do?",
+    "a_zh": "强攻",
+    "a_en": "Attack",
+    "b_zh": "防守",
+    "b_en": "Defend"
+  },
+  {
+    "q_zh": "你和另一人各有一张牌，上面写有“红”或“黑”。同时亮出牌面：若两张同色则你赢，若异色则对方赢。你会选哪张牌？",
+    "q_en": "You and another each have a card colored 'Red' or 'Black'. Reveal simultaneously: if same color, you win; if different, the other wins. Which color do you choose?",
+    "a_zh": "红色",
+    "a_en": "Red",
+    "b_zh": "黑色",
+    "b_en": "Black"
   }
 ]
