@@ -10615,5 +10615,85 @@
     "a_en": "Red",
     "b_zh": "黑色",
     "b_en": "Black"
+  },
+  {
+    "q_zh": "在一次零和谈判中，对方提出最后通牒：要么接受他的分配方案，要么双方都一无所获。你手中的底牌比对方稍弱，但对方不知道你清楚他的真实底线。你会如何选择？",
+    "q_en": "In a zero-sum negotiation, the opponent presents a final ultimatum: either accept their allocation proposal, or both sides get nothing. You hold slightly weaker cards, but they don't know you know their true bottom line. How do you choose?",
+    "a_zh": "A. 接受方案，保住部分收益，避免彻底失败。",
+    "a_en": "A. Accept the proposal to secure partial gains and avoid total failure.",
+    "b_zh": "B. 拒绝方案，赌对方会在最后关头让步，从而获得更大利益。",
+    "b_en": "B. Reject the proposal and gamble that the opponent will concede at the last moment for greater gain."
+  },
+  {
+    "q_zh": "在囚徒困境中，你被指控与同伙共同犯罪。如果你和同伙都选择沉默，只会被轻判1年；如果一方背叛另一方沉默，背叛者获释，沉默者判10年；如果双方都背叛，各判5年。你完全信任同伙吗？",
+    "q_en": "In a prisoner's dilemma, you and your accomplice are charged. If both remain silent, you get a light 1-year sentence. If one betrays and the other stays silent, the betrayer goes free and the silent one gets 10 years. If both betray, both get 5 years. Do you fully trust your accomplice?",
+    "a_zh": "A. 选择沉默，相信同伙也会坚守承诺。",
+    "a_en": "A. Choose silence, trusting your accomplice to keep the pact.",
+    "b_zh": "B. 选择背叛，避免同伙先背叛导致自己承受最坏结果。",
+    "b_en": "B. Choose to betray, avoiding the worst outcome if your accomplice betrays first."
+  },
+  {
+    "q_zh": "你参与一个公开竞价拍卖，拍品价值100元。你和另一位竞拍者轮流加价，每次至少加1元。拍到的人必须支付自己的出价，但第二高的人也要支付他的出价却一无所获。拍卖已进行到90元，对方突然加价。你会？",
+    "q_en": "You are in a public auction for an item worth $100. You and another bidder alternate raising the bid by at least $1. The winner pays their bid, but the second-highest bidder also pays their bid and gets nothing. The auction is at $90, and your opponent suddenly raises. What do you do?",
+    "a_zh": "A. 放弃竞拍，承认损失，避免陷入无限加价的陷阱。",
+    "a_en": "A. Quit the auction, accept the loss, and avoid falling into the escalation trap.",
+    "b_zh": "B. 加价到91元，赌对方会先撑不住，以此夺回主导权。",
+    "b_en": "B. Raise to $91, betting your opponent will crack first and you regain control."
+  },
+  {
+    "q_zh": "在反复进行的合作游戏中，对手在过去十轮中每一次都选择了背叛。根据“以牙还牙”策略，你现在应该怎么做？",
+    "q_en": "In a repeated cooperation game, your opponent has chosen to betray in every single one of the last ten rounds. According to the 'tit-for-tat' strategy, what should you do now?",
+    "a_zh": "A. 继续选择合作，试图用善意感化对方改变策略。",
+    "a_en": "A. Continue to cooperate, trying to influence the opponent to change their strategy with goodwill.",
+    "b_zh": "B. 立刻选择背叛，以惩罚对方的不合作行为，保持策略一致性。",
+    "b_en": "B. Immediately choose betrayal to punish the opponent's non-cooperative behavior and maintain strategy consistency."
+  },
+  {
+    "q_zh": "你是一个新市场的两个寡头之一。如果你们同时高价，各赚100万；同时低价，各赚50万；一方高价一方低价，高价方亏损20万，低价方赚150万。你预计对方会冒险求高利。你该定什么价？",
+    "q_en": "You are one of two oligopolists in a new market. If both set high prices, each earns $1M. If both set low prices, each earns $500K. If one is high and the other low, the high one loses $200K, and the low one earns $1.5M. You expect your rival to take a risk for high profit. What price do you set?",
+    "a_zh": "A. 定高价，赌对方也定高价，共同赚取最大利润。",
+    "a_en": "A. Set a high price, betting the opponent also sets high to jointly maximize profit.",
+    "b_zh": "B. 定低价，保证自己即使面对对方的高价也能赚取巨大收益，避免亏损。",
+    "b_en": "B. Set a low price, ensuring you earn huge profits even if the opponent goes high, and avoid losses."
+  },
+  {
+    "q_zh": "在一种赛中，你与对手各选1到10的一个数字。如果两人数字之和小于或等于10，两人各得所选的数字；如果和大于10，则双方得0。你认为对手会选择较大的数字。你选？",
+    "q_en": "In a game, you and your opponent each pick a number from 1 to 10. If the sum is 10 or less, each gets their own number. If the sum exceeds 10, both get 0. You believe your opponent will pick a large number. What number do you pick?",
+    "a_zh": "A. 选较小的数字（如2或3），确保总和不超过10，从而稳获收益。",
+    "a_en": "A. Pick a small number (e.g., 2 or 3) to guarantee the sum stays ≤10 and secure a payout.",
+    "b_zh": "B. 选5或6，折中平衡风险与收益，若对手选大数则仍有收益可能。",
+    "b_en": "B. Pick 5 or 6 as a middle ground, balancing risk and reward, in case the opponent picks a moderate number."
+  },
+  {
+    "q_zh": "你被要求与另一个陌生人分配100元。你提议一个分配方案，对方要么接受要么拒绝。如果拒绝，双方都得0元。你完全不了解对方是理性还是报复性。你会提出怎样的分成？",
+    "q_en": "You are asked to split $100 with a stranger. You propose a division, and the other either accepts or rejects. If rejected, both get $0. You have no idea if the other is rational or vengeful. What split do you propose?",
+    "a_zh": "A. 接近平分，比如55/45，避免因不公平而激怒对方导致拒绝。",
+    "a_en": "A. Propose a near-equal split, like 55/45, to avoid angering the other into rejection.",
+    "b_zh": "B. 给出明显有利于自己的方案，如80/20，希望对方理性接受任何正收益。",
+    "b_en": "B. Propose a clearly self-favorable split, like 80/20, hoping the other rationally accepts any positive gain."
+  },
+  {
+    "q_zh": "在连续博弈中，你已建立“绝不妥协”的强硬名声。一次新的谈判中，对方提出一个略低于你底线的方案，但同时威胁如果你拒绝，将终止所有未来合作。你应该？",
+    "q_en": "In a sequential game, you have built a reputation as 'never compromise'. In a new negotiation, the opponent proposes a deal slightly below your bottom line but threatens to end all future cooperation if you reject. What should you do?",
+    "a_zh": "A. 接受这个方案，以保住长期合作的可能性，避免关系破裂。",
+    "a_en": "A. Accept the deal to preserve the possibility of long-term cooperation and avoid relationship breakdown.",
+    "b_zh": "B. 坚决拒绝，维持强硬名声，让对手明白你的底线不可侵犯。",
+    "b_en": "B. Resolutely reject to maintain your tough reputation, signaling your bottom line is non-negotiable."
+  },
+  {
+    "q_zh": "你是一个游戏中的共同拥有者，关于是否增加公共资源。如果两人都投入，每个人收益增加10；只一人投入，投入者损失5，另一人收益增加15；都不投入，收益不变。你估计对方不会投入。你会？",
+    "q_en": "You are a co-owner in a game about contributing to a public resource. If both contribute, each gains +10. If only one contributes, that person loses 5, and the other gains +15. If neither contributes, no change. You estimate the other will not contribute. What do you do?",
+    "a_zh": "A. 选择投入，哪怕损失一点，也试图唤醒对方的责任感或改变未来局面。",
+    "a_en": "A. Choose to contribute, even at a small loss, hoping to awaken the other's sense of responsibility or change future dynamics.",
+    "b_zh": "B. 选择不投入，避免自己受损，只用搭便车获利的可能性，即使对方也不投入。",
+    "b_en": "B. Choose not to contribute, avoiding loss and taking the free-rider chance, even if the other also refrains."
+  },
+  {
+    "q_zh": "在名为“消耗战”的博弈中，你和对手轮流决定是否退出。坚持到最后的人赢得大奖（1000元），但每多坚持一轮，双方各自累积5元成本。你体力与对方相当，但对方似乎更急躁。到了第10轮时，你会？",
+    "q_en": "In a 'war of attrition' game, you and your opponent take turns deciding whether to quit. The one who holds out longest wins the grand prize ($1000), but each additional round costs both of you $5. You are evenly matched, but the opponent seems more impatient. Reaching round 10, what do you do?",
+    "a_zh": "A. 继续坚持，利用对方的急躁心理，逼他先退出以赢得大奖。",
+    "a_en": "A. Continue to hold out, using the opponent's impatience to force them to quit first and win the grand prize.",
+    "b_zh": "B. 在第10轮退出，止损，承认累积的50元成本已无法挽回，避免更大损失。",
+    "b_en": "B. Quit at round 10 to cut losses, acknowledging the sunk cost of $50, and avoid further damage."
   }
 ]
