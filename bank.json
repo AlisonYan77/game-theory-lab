@@ -10695,5 +10695,84 @@
     "a_en": "A. Continue to hold out, using the opponent's impatience to force them to quit first and win the grand prize.",
     "b_zh": "B. 在第10轮退出，止损，承认累积的50元成本已无法挽回，避免更大损失。",
     "b_en": "B. Quit at round 10 to cut losses, acknowledging the sunk cost of $50, and avoid further damage."
+  },
+  {
+    "q_zh": "如果在游戏中，你发现对方总是模仿你的上一次选择，你下一步会如何应对？",
+    "q_en": "If you notice that your opponent always imitates your last move, what will you do next?",
+    "a_zh": "故意选择对自己不利的选项，诱使对方模仿，然后下一轮转向最优策略。",
+    "a_en": "Deliberately choose a disadvantageous option to lure them into imitating, then switch to the optimal strategy next round.",
+    "b_zh": "坚持同一选择，让对方始终模仿你，从而掌控节奏。",
+    "b_en": "Stick to the same choice, letting them imitate you consistently, thereby controlling the rhythm."
+  },
+  {
+    "q_zh": "当你与对手进入‘囚徒困境’最后三回合，并且双方一直合作到现在，你会：",
+    "q_en": "In the final three rounds of a Prisoner's Dilemma, having cooperated up to now, you would:",
+    "a_zh": "在倒数第二轮突然背叛，试图在最后两轮最大化收益。",
+    "a_en": "Suddenly defect in the second-to-last round, trying to maximize gain in the final two rounds.",
+    "b_zh": "继续合作到最后，维持诚信形象，期待对方也如此。",
+    "b_en": "Continue cooperating to the end, maintaining a trustworthy image in hopes they do the same."
+  },
+  {
+    "q_zh": "The opponent defected last round (beneficial to you but costly to them), suggesting a random strategy. You would:",
+    "a_zh": "也随机选择，以最小化被预测的风险。",
+    "a_en": "Also choose randomly, to minimize the risk of being predicted.",
+    "b_zh": "默认选择合作，给予对方‘坦诚’的机会，观察模式。",
+    "b_en": "Default to cooperate, offering them a chance to show good faith, and observe the pattern."
+  },
+  {
+    "q_zh": "如果游戏是‘消耗战’模式（每轮同时出价，价高者赢，但双方都要支付出价），你会采取：",
+    "q_en": "In a war of attrition game (both bid each round, higher bid wins but both pay their bid), you would adopt:",
+    "a_zh": "第一轮直接出高价，震慑对手，使其不敢继续加价。",
+    "a_en": "Bid high in the first round to intimidate the opponent, discouraging them from raising further.",
+    "b_zh": "从最低价开始，逐步加价，试探对方底线。",
+    "b_en": "Start with the lowest bid, gradually increasing to probe their limit."
+  },
+  {
+    "q_zh": "在重复博弈中，对方连续三次背叛你，但每次背叛后他都表示歉意并承诺下次合作。你会：",
+    "q_en": "In a repeated game, the opponent has defected three times consecutively, each time apologizing and promising to cooperate next. You would:",
+    "a_zh": "立即背叛一次作为惩罚，然后恢复合作，采用‘以牙还牙’策略。",
+    "a_en": "Immediately defect once as punishment, then resume cooperation with a tit-for-tat strategy.",
+    "b_zh": "继续合作，因为道歉表明他可能有外部压力，而非恶意。",
+    "b_en": "Continue cooperating, because their apologies might indicate external pressure rather than malice."
+  },
+  {
+    "q_zh": "如果游戏公开所有历史记录，且对手非常在意声誉，你会利用这一点：",
+    "q_en": "If the game publishes all history and the opponent cares deeply about reputation, you would exploit this by:",
+    "a_zh": "在前几轮主动做出牺牲性合作，塑造利他形象，后面再收割。",
+    "a_en": "Making sacrificial cooperative moves in early rounds to build an altruistic image, then harvest later.",
+    "b_zh": "一开始就强势背叛，展示‘不可欺’的威慑力，让他不敢挑衅。",
+    "b_en": "Defecting aggressively from the start to show a 'don't mess with me' deterrence."
+  },
+  {
+    "q_zh": "在‘猜拳’式博弈中，对方前5轮一直出剪刀。你认为他最可能的下一个动作是：",
+    "q_en": "In a Rock-Paper-Scissors-style game, your opponent has played Scissors for the first 5 rounds. You think their next move is most likely:",
+    "a_zh": "继续出剪刀，因为他可能是一个‘固执’的单一策略者。",
+    "a_en": "Still Scissors, as they might be a stubborn single-strategy player.",
+    "b_zh": "改为出布，来反制你‘预期他会变而改出石头’的心理。",
+    "b_en": "Switch to Paper, to counter your expected psychological shift to Rock."
+  },
+  {
+    "q_zh": "双方都有一张‘核按钮’（同归于尽选项），但使用后双方都立即输掉所有积分。对方突然威胁要按按钮。你：",
+    "q_en": "Both players have a 'nuclear button' (mutual destruction option) that instantly zeroes both scores. The opponent suddenly threatens to press it. You:",
+    "a_zh": "也威胁按按钮，形成‘恐怖平衡’，迫使对方先退缩。",
+    "a_en": "Threaten to press it as well, creating a 'balance of terror' and forcing them to back down.",
+    "b_zh": "作出合作姿态，试图安抚对方，避免升级到毁灭。",
+    "b_en": "Make a cooperative gesture, trying to appease them and avoid escalation to mutual destruction."
+  },
+  {
+    "q_zh": "你发现对手在利用一个隐藏的‘读心’AI实时分析你的策略。你会如何反击？",
+    "q_en": "You discover the opponent is using a hidden 'mind-reading' AI to analyze your strategy in real time. How would you counter?",
+    "a_zh": "在脑中模拟随机数生成，让任何模式学习算法失效。",
+    "a_en": "Simulate a random number generator in your mind, defeating any pattern-learning algorithm.",
+    "b_zh": "故意在初期暴露虚假的清晰模式，诱其误判后再转向。",
+    "b_en": "Deliberately expose a clear false pattern early on, then switch after they mispredict."
+  },
+  {
+    "q_zh": "在最后一轮对决中，双方平局即共享大奖，但如果你背叛而对方合作，你能独吞。对方声称他一定会合作。你信吗？",
+    "q_en": "In the final round, a tie means both share a big prize, but if you defect while they cooperate, you win all. They claim they will definitely cooperate. Do you believe them?",
+    "a_zh": "不信，对方很可能在骗你合作以便自己背叛。选择背叛。",
+    "a_en": "No, they are likely bluffing to make you cooperate so they can defect. Choose to defect.",
+    "b_zh": "信，因为这是最后机会建立长期信任（如游戏有隐藏续集）。选择合作。",
+    "b_en": "Yes, because this is the last chance to build long-term trust (if the game has a hidden sequel). Choose cooperation."
   }
 ]
