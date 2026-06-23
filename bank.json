@@ -10774,5 +10774,85 @@
     "a_en": "No, they are likely bluffing to make you cooperate so they can defect. Choose to defect.",
     "b_zh": "信，因为这是最后机会建立长期信任（如游戏有隐藏续集）。选择合作。",
     "b_en": "Yes, because this is the last chance to build long-term trust (if the game has a hidden sequel). Choose cooperation."
+  },
+  {
+    "q_zh": "你收到一条匿名消息，声称掌握你的把柄并威胁公开，除非你支付封口费。你更可能怎么想？",
+    "q_en": "You receive an anonymous message claiming to have dirt on you and threatening to expose it unless you pay hush money. Which thought are you more likely to have?",
+    "a_zh": "一定是恶作剧或骗子，不理会，直接拉黑。",
+    "a_en": "It must be a prank or scam; I will ignore it and block the sender.",
+    "b_zh": "万一是真的呢？先试探对方底牌，再决定是否妥协。",
+    "b_en": "What if it's real? I'll probe their leverage first before deciding whether to give in."
+  },
+  {
+    "q_zh": "在合作游戏中，对方连续两次背叛了你。第三次合作机会来临，你会？",
+    "q_en": "In a cooperative game, the other player has betrayed you twice in a row. When a third chance to cooperate arises, you would:",
+    "a_zh": "以其人之道还治其人之身，也背叛他一次。",
+    "a_en": "Turn the tables and betray him once.",
+    "b_zh": "再相信他一次，也许他这次会改变。",
+    "b_en": "Trust him one more time; maybe he will change this round."
+  },
+  {
+    "q_zh": "拍卖会上，你对一件物品的出价已远超预算，对手还在加价。你更倾向？",
+    "q_en": "At an auction, your bid for an item has already far exceeded your budget, but your opponent is still raising. You are more inclined to:",
+    "a_zh": "果断放弃，避免更大的沉没成本。",
+    "a_en": "Resolutely back off to avoid greater sunk cost.",
+    "b_zh": "咬咬牙再加一次，也许对手这次会放弃。",
+    "b_en": "Grit your teeth and raise once more, hoping the opponent will quit this time."
+  },
+  {
+    "q_zh": "朋友向你借一大笔钱，说创业急需。但你知道他前两次创业都以失败告终。你会？",
+    "q_en": "A friend asks to borrow a large sum of money for a startup emergency. You know his previous two ventures both failed. You would:",
+    "a_zh": "婉拒并建议他先找风险投资或银行贷款。",
+    "a_en": "Politely decline and suggest he seek venture capital or bank loans first.",
+    "b_zh": "出于情谊借给他，但要求打借条并明确还款计划。",
+    "b_en": "Lend it out of friendship but ask for an IOU and a clear repayment plan."
+  },
+  {
+    "q_zh": "你正在参与一场“胆小鬼博弈”：你和对手各开一辆车相向而行，谁先转向谁就输。你更可能？",
+    "q_en": "You are in a 'Chicken Game': You and your opponent drive cars toward each other. Whoever swerves first loses. You are more likely to:",
+    "a_zh": "在最后一刻转向，保命要紧。",
+    "a_en": "Swerve at the last moment to save your life.",
+    "b_zh": "把方向盘扔出窗外，展示绝不转向的决心。",
+    "b_en": "Throw the steering wheel out the window to show your unwavering resolve."
+  },
+  {
+    "q_zh": "在一个零和博弈中，你发现对方似乎总是能预测你的选择。你会？",
+    "q_en": "In a zero-sum game, you notice your opponent seems to predict your choices every time. You would:",
+    "a_zh": "故意随机化自己的策略，让他无法预判。",
+    "a_en": "Deliberately randomize your strategy to make it unpredictable.",
+    "b_zh": "尝试反向思考，利用他的预测来设陷阱。",
+    "b_en": "Try reverse thinking, using his predictions to set a trap."
+  },
+  {
+    "q_zh": "谈判桌上，对方抛出了一个极低的起始报价。你更倾向？",
+    "q_en": "At the negotiation table, the other party throws out an extremely low initial offer. You are more inclined to:",
+    "a_zh": "立刻还一个同样离谱的高价，以示态度。",
+    "a_en": "Immediately counter with an equally outrageous high price to show your stance.",
+    "b_zh": "询问对方报价依据，试图先建立共识再谈价格。",
+    "b_en": "Ask about the basis of their offer, trying to build common ground before discussing price."
+  },
+  {
+    "q_zh": "一个陌生人向你提出一个“双赢方案”，但需要你预付一笔保证金。你的第一反应？",
+    "q_en": "A stranger proposes a 'win-win deal' to you, but it requires you to pay a deposit upfront. Your first reaction is:",
+    "a_zh": "拒绝，这很可能是典型的预付定金骗局。",
+    "a_en": "Refuse; this is likely a classic advance-fee scam.",
+    "b_zh": "仔细研究方案细节和对方背景，若合理可考虑。",
+    "b_en": "Carefully study the details and the person's background; if reasonable, consider it."
+  },
+  {
+    "q_zh": "在一个多元博弈中，你的盟友突然倒向了对手。你更可能？",
+    "q_en": "In a multiplayer game, your ally suddenly defects to the opponent. You are more likely to:",
+    "a_zh": "公开指责背叛，并联合其他玩家孤立他。",
+    "a_en": "Publicly denounce the betrayal and ally with other players to isolate him.",
+    "b_zh": "私下联系他，了解原因，看看是否有挽回余地。",
+    "b_en": "Contact him privately to understand the reason and see if the relationship can be salvaged."
+  },
+  {
+    "q_zh": "你手上有张王牌，但如果现在使用，会暴露你的底牌。对手步步紧逼，你？",
+    "q_en": "You hold a trump card, but using it now will reveal your hand. Your opponent is pressing hard. You:",
+    "a_zh": "忍耐，等待更关键的时刻再亮出王牌。",
+    "a_en": "Hold out and wait for a more critical moment to play it.",
+    "b_zh": "立即打出王牌，震慑对手，扭转局势。",
+    "b_en": "Play it immediately to intimidate the opponent and turn the tide."
   }
 ]
