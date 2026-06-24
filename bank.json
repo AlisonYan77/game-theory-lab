@@ -10854,5 +10854,85 @@
     "a_en": "Hold out and wait for a more critical moment to play it.",
     "b_zh": "立即打出王牌，震慑对手，扭转局势。",
     "b_en": "Play it immediately to intimidate the opponent and turn the tide."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，对方上一轮背叛了你，这一轮你倾向于如何选择？",
+    "q_en": "In a repeated prisoner's dilemma, your opponent defected last round. What do you lean towards this round?",
+    "a_zh": "背叛：以牙还牙，防止被再次利用",
+    "a_en": "Defect: Tit-for-tat to avoid being exploited again",
+    "b_zh": "合作：尝试重建信任，引导双赢",
+    "b_en": "Cooperate: Attempt to rebuild trust and steer toward mutual gain"
+  },
+  {
+    "q_zh": "在“海盗分金币”游戏中，你是最资深的海盗，你需要提议分配100枚金币给5名海盗（包括自己）。你的最优策略是：",
+    "q_en": "In the 'Pirate Gold' game, you are the senior pirate proposing how to split 100 gold coins among 5 pirates (including yourself). Your optimal strategy is:",
+    "a_zh": "给自己最多金币，仅给最低支持票数",
+    "a_en": "Take the most for yourself, give minimal to secure the lowest passing votes",
+    "b_zh": "相对公平分配，避免内部仇恨和报复",
+    "b_en": "Distribute relatively fairly to avoid internal grudges and revenge"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你和对手在竞拍一张价值100元的钞票，出价高者得但都要付出自己的出价。你当前出价90元，对手出价95元。你会：",
+    "q_en": "In an auction game, you and your opponent bid for a $100 bill; the higher bid wins but both pay their bids. You've bid $90, the opponent $95. You:",
+    "a_zh": "加价到100元，争取赢回损失",
+    "a_en": "Raise to $100 to try to recover your loss",
+    "b_zh": "立即停止，接受损失90元",
+    "b_en": "Stop immediately and accept the $90 loss"
+  },
+  {
+    "q_zh": "在“信任博弈”中，你先得到10元，可以决定交给对方多少（金额会翻三倍），然后对方会决定返还给你多少。你选择：",
+    "q_en": "In a 'Trust Game', you receive $10 and can send any amount to your partner (tripled), then your partner decides how to return. You:",
+    "a_zh": "全给（10元），期望对方回报更多",
+    "a_en": "Send all $10, hoping for a larger return",
+    "b_zh": "只给少量（如2元），减少风险",
+    "b_en": "Send a small amount (e.g., $2) to minimize risk"
+  },
+  {
+    "q_zh": "在信号博弈中，你想进入一个优质市场，但对手方先行动并发出“高成本信号”（如豪华广告）。你的最优反应是：",
+    "q_en": "In signaling game, you want to enter a premium market, but opponent moves first with a 'high-cost signal' (e.g., luxury ads). Your optimal response is:",
+    "a_zh": "同样发出高强度信号，证明自己实力",
+    "a_en": "Also send a strong signal to prove your capability",
+    "b_zh": "选择低成本模仿，观察对手反应",
+    "b_en": "Choose low-cost imitation and observe opponent's reaction"
+  },
+  {
+    "q_zh": "在博弈论中的“懦夫博弈”中，你和对手相向而行，如果两车都不转向就会相撞。你这时会：",
+    "q_en": "In the 'Chicken Game', you and opponent drive toward each other; both refuse to swerve will crash. You:",
+    "a_zh": "坚持直行，迫使对方转向",
+    "a_en": "Hold straight, forcing opponent to swerve",
+    "b_zh": "提前转向，确保安全但示弱",
+    "b_en": "Swerve early, guaranteeing safety but showing weakness"
+  },
+  {
+    "q_zh": "在“最后通牒博弈”中，分配者给你100元，提出一个分配方案（如给你30元，他得70元）。你会：",
+    "q_en": "In the 'Ultimatum Game', the proposer offers you $30 out of $100 (keeping $70). You:",
+    "a_zh": "接受，至少得到一些而不是零",
+    "a_en": "Accept, as $30 is better than nothing",
+    "b_zh": "拒绝，惩罚不公平的提议",
+    "b_en": "Reject to punish the unfair offer"
+  },
+  {
+    "q_zh": "在“公地悲剧”游戏中，你和另外两人共享一个共有牧场。每个人都可选择养羊数量，你的最优个人策略是：",
+    "q_en": "In the 'Tragedy of the Commons', you and two others share a common pasture. Each chooses how many sheep to graze. Your optimal personal strategy:",
+    "a_zh": "尽量多养，因个人收益远高于分担的损失",
+    "a_en": "Graze as many as possible since personal gain outweighs shared cost",
+    "b_zh": "限制自己养羊，维持牧场可持续",
+    "b_en": "Limit your own sheep to maintain pasture sustainability"
+  },
+  {
+    "q_zh": "在非对称信息谈判中，你有一辆二手汽车，你知道它有隐藏故障，但买家不知道。你的倾向是：",
+    "q_en": "In an asymmetric information negotiation, you sell a used car with hidden defects unknown to the buyer. You lean towards:",
+    "a_zh": "隐瞒故障，以更高价格成交",
+    "a_en": "Hide the defect to sell at a higher price",
+    "b_zh": "主动披露故障，但降低报价以建立信任",
+    "b_en": "Disclose the defect but lower the price to build trust"
+  },
+  {
+    "q_zh": "在动态博弈中，你在一场“消耗战”中已投入大量成本，对手也投入相似成本。你会：",
+    "q_en": "In a war of attrition, you have already sunk large costs and your opponent has similar sunk costs. You:",
+    "a_zh": "继续投入，因为放弃将损失全部沉没成本",
+    "a_en": "Continue investing, quitting means losing all sunk costs",
+    "b_zh": "立即退出，以止损，避免继续沉没",
+    "b_en": "Exit immediately to stop loss and avoid further sinking"
   }
 ]
