@@ -10934,5 +10934,85 @@
     "a_en": "Continue investing, quitting means losing all sunk costs",
     "b_zh": "立即退出，以止损，避免继续沉没",
     "b_en": "Exit immediately to stop loss and avoid further sinking"
+  },
+  {
+    "q_zh": "在一个零和博弈中，你发现对手总是倾向于模仿你上一轮的选择。你会采取什么策略？",
+    "q_en": "In a zero-sum game, you notice your opponent tends to mimic your previous move. What strategy do you adopt?",
+    "a_zh": "连续选择相同选项，诱使对手模仿后突然切换，利用其惯性获利。",
+    "a_en": "Keep choosing the same option, then suddenly switch after the opponent mimics, profiting from their inertia.",
+    "b_zh": "随机选择，让对手无法建立模仿模式，从而迫使对方暴露破绽。",
+    "b_en": "Choose randomly to prevent the opponent from establishing a mimic pattern, forcing them to reveal weaknesses."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，对方在前三轮都选择了合作。第四轮时，你最可能怎么做？",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent has cooperated for the first three rounds. What is your most likely move in round four?",
+    "a_zh": "继续合作，以建立长期互信，争取更高共同收益。",
+    "a_en": "Continue cooperating to build long-term mutual trust and higher joint payoff.",
+    "b_zh": "突然背叛，因为对方可能预期你合作，此时背叛收益最大。",
+    "b_en": "Suddenly defect, as the opponent may expect cooperation, maximizing your gain now."
+  },
+  {
+    "q_zh": "在一场拍卖博弈中，你和对手都有一件相同价值的物品（价值100元），你们同时出价，出价高者获得双方物品，并支付自己出价的金额。你推测对手会出价80元，你会出价多少？",
+    "q_en": "In an auction game, you and your opponent each have an identical item (value $100). You bid simultaneously; the higher bidder wins both items and pays their own bid. You suspect your opponent will bid $80. How much do you bid?",
+    "a_zh": "出价81元，以最小代价赢得双方物品，净赚119元。",
+    "a_en": "Bid $81 to win both items at minimal cost, netting $119 profit.",
+    "b_zh": "出价80元，故意平局，确保各自保留物品，避免冒险。",
+    "b_en": "Bid $80 to force a tie, ensuring each keeps their own item and avoiding risk."
+  },
+  {
+    "q_zh": "在“懦夫博弈”中，你和对手相向而行。如果你坚持直行，对手转向，你获得威望；如果你转向，你被视为懦夫。你看到对手的眼神充满恐惧，你会如何选择？",
+    "q_en": "In a Chicken game, you and your opponent drive toward each other. If you stay straight and they swerve, you gain prestige; if you swerve, you're seen as a coward. You see fear in your opponent's eyes. What do you do?",
+    "a_zh": "坚持直行，利用对方恐惧心理逼迫其转向，从而赢得博弈。",
+    "a_en": "Stay straight, exploiting the opponent's fear to force them to swerve and win the game.",
+    "b_zh": "提前转向，因为安全第一，且避免两败俱伤的灾难性结局。",
+    "b_en": "Swerve early, prioritizing safety and avoiding a catastrophic mutual disaster."
+  },
+  {
+    "q_zh": "在“最后通牒博弈”中，你作为提议者分配100元，如果对方拒绝则双方都得0元。你认为对方是一个理性但记仇的人，你会分配多少？",
+    "q_en": "In the Ultimatum Game, as the proposer you split $100. If the responder rejects, both get $0. You believe the responder is rational but holds grudges. How much do you offer?",
+    "a_zh": "分配50元给对方，公平分配以避免被拒绝，且能确保收益。",
+    "a_en": "Offer $50 for fairness, ensuring acceptance and securing half the money.",
+    "b_zh": "分配30元给对方，赌对方理性会接受任何正收益，从而自己得70元。",
+    "b_en": "Offer $30, gambling that a rational responder will accept any positive amount, leaving you $70."
+  },
+  {
+    "q_zh": "你和对手玩“剪刀石头布”，前五局你出了三次石头、两次布，对手出了两次剪刀、三次布。第六局，你最应该出什么？",
+    "q_en": "In Rock-Paper-Scissors, you played Rock 3 times and Paper 2 times in the first 5 rounds. Your opponent played Scissors 2 times and Paper 3 times. What should you choose in round 6?",
+    "a_zh": "出剪刀，因为对手可能根据你的历史偏向出石头，剪刀克制石头。",
+    "a_en": "Choose Scissors, as the opponent might play Rock based on your history; Scissors beats Rock.",
+    "b_zh": "出布，因为对手之前出布最多，可能会继续出布，布对布平局安全。",
+    "b_en": "Choose Paper, since the opponent has played Paper most often and may repeat, leading to a safe tie."
+  },
+  {
+    "q_zh": "在一场“消耗战”博弈中，双方轮流决定是否继续竞争，每轮成本递增。如果现在轮到对方决策，你希望对方继续还是退出？",
+    "q_en": "In a War of Attrition, players alternate deciding whether to continue, with escalating costs per round. If it's your opponent's turn, do you want them to continue or quit?",
+    "a_zh": "希望对方退出，因为对方退出你能立刻获得所有剩余价值，且避免后续成本。",
+    "a_en": "Want the opponent to quit, as you'd immediately gain all remaining value and avoid further costs.",
+    "b_zh": "希望对方继续，因为对方已投入高成本，容易在下一轮屈服，你能获得更大利益。",
+    "b_en": "Want the opponent to continue, as they've already sunk high costs and may fold next round, giving you a bigger payoff."
+  },
+  {
+    "q_zh": "在“猎鹿博弈”中，你和同伴需要合作才能猎到鹿（每人分5肉），但单独可抓兔子（每人得1肉）。你发现同伴正在犹豫，你应该做什么？",
+    "q_en": "In the Stag Hunt, you and a partner need to cooperate to catch a stag (5 meat each), but can catch a rabbit alone (1 meat each). You see your partner hesitating. What should you do?",
+    "a_zh": "发出明确的合作信号并坚持等待，鼓励同伴信任你，共同猎鹿换取高收益。",
+    "a_en": "Send a clear cooperation signal and wait, encouraging your partner to trust you for the high stag payoff.",
+    "b_zh": "立刻去抓兔子，确保至少得到1肉，避免同伴背叛导致你一无所获。",
+    "b_en": "Immediately go for the rabbit to secure at least 1 meat, avoiding the risk of your partner's defection leaving you with nothing."
+  },
+  {
+    "q_zh": "在“海盗分金币”博弈中，5个海盗要分100枚金币，按资历从高到低提出方案，半数以上（含自己）同意即通过，否则提出者被处死。如果你是资历最高的海盗，你会提出什么分配方案？",
+    "q_en": "In the Pirate Game, 5 pirates split 100 gold coins. The most senior proposes a plan; if at least half (including self) approve, it passes, otherwise the proposer dies. As the most senior, what plan do you propose?",
+    "a_zh": "自己拿98枚，给第三资历的海盗1枚，给最末资历的海盗1枚，其余0枚，争取这两票。",
+    "a_en": "Take 98 coins for yourself, give 1 coin to the third most senior and 1 coin to the least senior, zero to others, securing their votes.",
+    "b_zh": "公平分配每人20枚，确保所有人都同意，自己稳拿20枚且不冒风险。",
+    "b_en": "Split equally: 20 coins each, ensuring everyone agrees, securing 20 coins for yourself with zero risk."
+  },
+  {
+    "q_zh": "在“Blotto博弈”中，你和对手争夺三个战场的兵力资源。你有100兵力，对手也有100。每个战场兵力多者获胜，获胜战场多的一方赢得整体胜利。如果对手习惯平均分配兵力（约33-33-33），你会如何部署？",
+    "q_en": "In the Blotto game, you and your opponent allocate 100 troops across 3 battlefields. The side with more troops in a field wins that field; the side winning more fields wins overall. Your opponent tends to split evenly (~33-33-33). How do you deploy?",
+    "a_zh": "部署为50-50-0，稳赢两个战场，确保整体胜利。",
+    "a_en": "Deploy 50-50-0, guaranteeing wins on two fields and securing overall victory.",
+    "b_zh": "部署为34-33-33，在每个战场以微弱优势获胜，三战全胜。",
+    "b_en": "Deploy 34-33-33, aiming for a narrow win on every field, achieving a clean sweep."
   }
 ]
