@@ -11014,5 +11014,85 @@
     "a_en": "Deploy 50-50-0, guaranteeing wins on two fields and securing overall victory.",
     "b_zh": "部署为34-33-33，在每个战场以微弱优势获胜，三战全胜。",
     "b_en": "Deploy 34-33-33, aiming for a narrow win on every field, achieving a clean sweep."
+  },
+  {
+    "q_zh": "你与对手进行一场资源分配博弈。你面前有两堆资源：一堆多，一堆少。对手需要猜测你会如何分配。如果你选择平均分配，对手将获得更多资源；如果你选择不平均分配，则可能引发冲突。你会怎么做？",
+    "q_en": "You are in a resource allocation game with an opponent. Before you are two piles of resources: one large and one small. The opponent must guess how you will allocate. If you choose equal distribution, the opponent gains more resources; if you choose unequal distribution, it may trigger conflict. What do you do?",
+    "a_zh": "选择平均分配，获取短期和平但牺牲利益",
+    "a_en": "Choose equal distribution, gaining short-term peace but sacrificing benefits",
+    "b_zh": "选择不平均分配，承担冲突风险以期获得更大回报",
+    "b_en": "Choose unequal distribution, risking conflict for a potentially greater payoff"
+  },
+  {
+    "q_zh": "在一场重复囚徒困境中，对手在上一轮选择了背叛你。现在你需要决定本轮策略。你是选择也背叛报复，还是尝试合作修复关系？",
+    "q_en": "In a repeated prisoner's dilemma, your opponent defected against you in the last round. Now you must decide your strategy for this round. Do you retaliate by defecting, or try to cooperate to rebuild trust?",
+    "a_zh": "背叛，惩罚对手的背叛行为",
+    "a_en": "Defect, to punish the opponent's betrayal",
+    "b_zh": "合作，试图重建互信关系",
+    "b_en": "Cooperate, attempting to re-establish mutual trust"
+  },
+  {
+    "q_zh": "你正在参与一个拍卖游戏，出价最高的玩家赢得奖品，但所有出价者都要支付自己的出价（无论输赢）。你发现对手似乎非常想要这个奖品。你会如何出价？",
+    "q_en": "You are in an auction game where the highest bidder wins the prize, but all bidders must pay their own bid (win or lose). You notice the opponent seems desperate for the prize. How do you bid?",
+    "a_zh": "理智出价，不超出奖品价值，避免陷入价格战",
+    "a_en": "Bid rationally, not exceeding the prize's value, to avoid a bidding war",
+    "b_zh": "主动抬高出价，利用对手的渴望心理迫使对方付出更高代价",
+    "b_en": "Raise the bid aggressively, exploiting the opponent's desire to force them to pay a higher cost"
+  },
+  {
+    "q_zh": "你和对手被要求同时提出一个分钱方案（总金额固定）。如果双方方案相加超过总额，则双方都得不到钱。你会提出一个接近一半的方案，还是一个对自己更有利的方案？",
+    "q_en": "You and your opponent must simultaneously propose a division of a fixed sum of money. If the sum of both proposals exceeds the total, both get nothing. Do you propose a near-equal split, or a split more favorable to yourself?",
+    "a_zh": "提出接近一半的方案，增加双方达成共识的可能",
+    "a_en": "Propose a near-equal split to increase the chance of mutual agreement",
+    "b_zh": "提出对自己更有利的方案，并赌对方会选择妥协",
+    "b_en": "Propose a more favorable split, betting that the opponent will compromise"
+  },
+  {
+    "q_zh": "在一个协调博弈中，你与对手需要选择左右两侧的通道。如果你俩选择相同，则都能通过；如果不同，则双双失败。你怀疑对手会随机选择。你会怎么做？",
+    "q_en": "In a coordination game, you and your opponent must choose between a left or right passage. If you choose the same, both pass; if different, both fail. You suspect the opponent will choose randomly. What do you do?",
+    "a_zh": "选择常见的默认项（如左侧），赌对手也会这样选",
+    "a_en": "Choose a common default (e.g., left), betting the opponent will do the same",
+    "b_zh": "选择更冷门的选项，试图利用逆向思维出奇制胜",
+    "b_en": "Choose the less obvious option, attempting to use reverse psychology to win"
+  },
+  {
+    "q_zh": "你与对手玩一个“信任投资”游戏：你可以选择给对方一笔钱，这笔钱会翻三倍，但对方可以决定返还多少给你。你会选择完全信任，还是不信任而保留资金？",
+    "q_en": "You are playing a 'trust investment' game: you can send money to the opponent, which triples, but the opponent decides how much to return. Do you fully trust and send the money, or distrust and keep it?",
+    "a_zh": "完全不信任，保留自己的资金",
+    "a_en": "Distrust completely, keep your own money",
+    "b_zh": "先尝试小额投资，测试对方的可信度再决定后续",
+    "b_en": "Start with a small investment to test the opponent's trustworthiness before deciding further"
+  },
+  {
+    "q_zh": "在一场公开博弈中，你的每个选择都会被其他参与者围观，并影响你未来的声誉。此时你需要与一个新手对决。你会表现得非常强硬，还是表现出合作姿态以积累声望？",
+    "q_en": "In a public game, each of your choices is observed by other participants and affects your future reputation. Now you face a novice. Do you act tough, or show a cooperative stance to build a good reputation?",
+    "a_zh": "表现得强硬，即使牺牲长期合作机会也要建立威慑形象",
+    "a_en": "Act tough, establishing a deterrent image even at the cost of future cooperation",
+    "b_zh": "表现出合作姿态，积累良好声誉以利于未来博弈",
+    "b_en": "Show a cooperative stance, building a good reputation for future games"
+  },
+  {
+    "q_zh": "对手在上一局游戏结束时说了一句暗示性的话，威胁如果继续对抗会对你造成更大损失。你怀疑这只是虚张声势。你会如何应对？",
+    "q_en": "At the end of the last round, the opponent made a suggestive threat that continued confrontation would cause you more loss. You suspect it is just a bluff. How do you respond?",
+    "a_zh": "选择无视威胁，继续按原计划行动",
+    "a_en": "Ignore the threat and proceed with your original plan",
+    "b_zh": "选择暂时退让，给对手留出和解的台阶",
+    "b_en": "Temporarily concede, offering the opponent a chance to reconcile"
+  },
+  {
+    "q_zh": "你有一个可以观察对手历史行为的机会，发现对手在以往博弈中倾向于“以牙还牙”策略。现在你需要与对方进行首次博弈。你选择先合作还是先背叛？",
+    "q_en": "You have a chance to observe the opponent's past behavior and find they tend to use a 'tit-for-tat' strategy. Now you must play your first game with them. Do you start with cooperation or defection?",
+    "a_zh": "先选择合作，以建立信任的初始状态",
+    "a_en": "Start with cooperation to establish an initial state of trust",
+    "b_zh": "先选择背叛，测试对方的反应并抢占先机",
+    "b_en": "Start with defection to test the opponent's response and seize the initiative"
+  },
+  {
+    "q_zh": "游戏规则突然改变：现在你们双方必须同时决定是“进攻”还是“防守”。如果两人都进攻，两败俱伤；如果一人进攻一人防守，进攻者获胜；如果都防守，平局。你会如何选择？",
+    "q_en": "The game rules suddenly change: both of you must now decide simultaneously to 'attack' or 'defend'. If both attack, mutual destruction; if one attacks and the other defends, the attacker wins; if both defend, a draw. What do you choose?",
+    "a_zh": "选择防守，追求平局并避免风险",
+    "a_en": "Choose defense, seeking a draw and avoiding risk",
+    "b_zh": "选择进攻，赌对手会选择防守并趁机获胜",
+    "b_en": "Choose attack, betting the opponent will choose defense and you will win"
   }
 ]
