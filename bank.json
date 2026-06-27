@@ -11094,5 +11094,85 @@
     "a_en": "Choose defense, seeking a draw and avoiding risk",
     "b_zh": "选择进攻，赌对手会选择防守并趁机获胜",
     "b_en": "Choose attack, betting the opponent will choose defense and you will win"
+  },
+  {
+    "q_zh": "你是一名囚徒，你的同伙与你被分开审讯。检察官向你提出交易：如果你认罪并指控同伙，而对方保持沉默，你将立即获释，同伙判10年；如果你们互相沉默，各判1年；如果你们互相指控，各判5年。你认为同伙很聪明且自私。你会如何选择？",
+    "q_en": "You are a prisoner, interrogated separately from your partner. The prosecutor offers a deal: if you confess and implicate your partner while they stay silent, you go free and they get 10 years; if you both stay silent, you each get 1 year; if you both confess, you each get 5 years. You believe your partner is rational and selfish. What do you choose?",
+    "a_zh": "认罪并指控同伙",
+    "a_en": "Confess and implicate my partner",
+    "b_zh": "保持沉默",
+    "b_en": "Stay silent"
+  },
+  {
+    "q_zh": "你与对手进行‘最后通牒博弈’：你获得100元，需要分一部分给对方。如果对方接受，你们按此分配；如果对方拒绝，双方都一无所获。你预计对方会因公平感而拒绝低于30元的出价。如何分配？",
+    "q_en": "In an ultimatum game, you have $100 to split with an opponent. If they accept your offer, you both get that amount; if they reject, both get nothing. You anticipate the opponent will reject offers below $30 out of fairness. How do you split?",
+    "a_zh": "给自己70元，给对方30元",
+    "a_en": "Keep $70, give $30 to opponent",
+    "b_zh": "给自己50元，给对方50元",
+    "b_en": "Keep $50, give $50 to opponent"
+  },
+  {
+    "q_zh": "你参与一项‘公地悲剧’实验：你和另三人共享一片草场。每人可选择放牧1只羊（收益低但可持续）或2只羊（短期利益高但破坏草场）。若所有人都放2只，草场崩溃，每人零收益；若只有你放2只，其他人放1只，你收益最高。你无法与其他人协商。你会放几只羊？",
+    "q_en": "In a tragedy of the commons experiment, you and three others share a pasture. Each can graze 1 sheep (low but sustainable profit) or 2 sheep (high short-term profit but destroys the pasture). If all graze 2, the pasture collapses and everyone gets zero; if only you graze 2 while others graze 1, you get the highest profit. You cannot negotiate. How many sheep do you graze?",
+    "a_zh": "2只羊",
+    "a_en": "2 sheep",
+    "b_zh": "1只羊",
+    "b_en": "1 sheep"
+  },
+  {
+    "q_zh": "在一个‘重复性囚徒困境’中（总共10轮），你和对手之前合作良好。但到最后一轮时，你知道对方是理性的，且双方不会再有后续合作。你会如何行动？",
+    "q_en": "In a repeated prisoner's dilemma (10 rounds total), you and your opponent have cooperated well so far. On the final round, knowing your opponent is rational and there will be no future interactions, what do you do?",
+    "a_zh": "背叛（认罪），追求最后一轮的最大利益",
+    "a_en": "Defect (confess) to maximize gain in the last round",
+    "b_zh": "继续合作（保持沉默），维持信任",
+    "b_en": "Continue to cooperate (stay silent) to maintain trust"
+  },
+  {
+    "q_zh": "你被要求与一个完全随机行动的对手玩‘石头剪刀布’。你注意到对手在过去10轮中出了6次石头。你会如何调整策略？",
+    "q_en": "You are playing rock-paper-scissors against an opponent who acts completely randomly. You notice they have thrown rock 6 out of the last 10 rounds. How do you adjust your strategy?",
+    "a_zh": "出布，以对抗对方大概率出石头的惯性",
+    "a_en": "Throw paper to counter their seeming bias toward rock",
+    "b_zh": "仍保持随机出拳，因为对手是随机的",
+    "b_en": "Stay random, since the opponent is random"
+  },
+  {
+    "q_zh": "你参与一个‘拍卖’博弈：你和另一人对一张100元钞票出价，出价高者赢得钞票并支付自己的出价，出价低者也要支付自己的出价但什么都得不到。你估计对手会出价40元。你该出价多少？",
+    "q_en": "In an auction game, you and another bid for a $100 bill. The highest bidder wins the money and pays their bid; the loser also pays their bid but gets nothing. You estimate your opponent will bid $40. How much do you bid?",
+    "a_zh": "出价50元",
+    "a_en": "Bid $50",
+    "b_zh": "不参与出价，避免损失",
+    "b_en": "Do not bid to avoid loss"
+  },
+  {
+    "q_zh": "你与陌生人玩‘信任博弈’：你被告知对方先收到10元，他可以决定给你X元，然后这笔钱会翻3倍给你（你得到3X），你再决定给对方Y元。对方只给了你5元。此时你应该返还多少元给对方？",
+    "q_en": "In a trust game, the opponent gets $10 and can send you $X, which triples to $3X in your hands. They sent you $5. Now you can send back any amount $Y to them. How much do you send back?",
+    "a_zh": "返还5元，以保持互惠公平",
+    "a_en": "Return $5 to maintain reciprocal fairness",
+    "b_zh": "不返还任何钱，因为对方未给全部",
+    "b_en": "Return nothing, as they didn't give the full amount"
+  },
+  {
+    "q_zh": "你是一个理性的‘自私’玩家。在‘独裁者博弈’中，你突然获得100元，可以任意分配给一位陌生玩家。你无需担心报复或声誉。你会给对方多少钱？",
+    "q_en": "As a rational self-interested player in the dictator game, you are given $100 to split with a stranger, with no fear of retaliation or reputation loss. How much do you give?",
+    "a_zh": "0元，因为给钱不会带来任何好处",
+    "a_en": "$0, since giving offers no benefit",
+    "b_zh": "50元，出于良心或公平感",
+    "b_en": "$50, out of conscience or fairness"
+  },
+  {
+    "q_zh": "你与对手进行‘消耗战’：双方同时决定投入多少小时等待对方先放弃，胜利者获得50元，失败者一无所失。但你已投入了10小时，对手已投入了9小时。如果你现在退出，双方都损失所有投入；如果你继续，对方可能也会继续。你应该怎么做？",
+    "q_en": "In a war of attrition, both of you decide how many hours to wait before the other gives up. The winner gets $50, the loser loses nothing. You have already invested 10 hours, your opponent 9. If you quit now, you both lose your investment; if you continue, the opponent may also continue. What do you do?",
+    "a_zh": "继续等待，因为对方已投入9小时且可能先放弃",
+    "a_en": "Keep waiting, since the opponent has invested 9 hours and may give up first",
+    "b_zh": "立即退出，避免时间沉没成本继续增大",
+    "b_en": "Quit immediately to avoid further sunk cost"
+  },
+  {
+    "q_zh": "在‘猎鹿博弈’中，你和同伴需要共同合作才能猎到一只鹿（每人分得50元），但如果其中一人单独去抓兔子，可确保得到10元，而另一人一无所获。你相信同伴是理性的且追求最大化自身利益。你选择？",
+    "q_en": "In a stag hunt game, you and a partner need to cooperate to hunt a stag ($50 each). If one defects to hunt a hare, they get a guaranteed $10, while the other gets nothing. You believe your partner is rational and self-interest maximizing. What do you do?",
+    "a_zh": "选择猎鹿（合作），赌对方也选择合作",
+    "a_en": "Hunt the stag (cooperate), gambling that the partner also cooperates",
+    "b_zh": "选择抓兔子（背叛），保证自己至少有10元",
+    "b_en": "Hunt the hare (defect) to guarantee at least $10"
   }
 ]
