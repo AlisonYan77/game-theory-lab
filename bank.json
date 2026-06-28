@@ -11174,5 +11174,85 @@
     "a_en": "Hunt the stag (cooperate), gambling that the partner also cooperates",
     "b_zh": "选择抓兔子（背叛），保证自己至少有10元",
     "b_en": "Hunt the hare (defect) to guarantee at least $10"
+  },
+  {
+    "q_zh": "在一个两人囚徒困境中，你的对手上次背叛了你。这一轮，你会选择：",
+    "q_en": "In a two-player Prisoner's Dilemma, your opponent betrayed you last round. This round, you choose:",
+    "a_zh": "合作（给予信任，希望修复关系）",
+    "a_en": "Cooperate (give trust, hoping to repair the relationship)",
+    "b_zh": "背叛（报复性背叛，避免被再次利用）",
+    "b_en": "Defect (retaliate to avoid being exploited again)"
+  },
+  {
+    "q_zh": "你正在参加一次完全公开的多人拍卖，当前最高出价远超物品实际价值。你会：",
+    "q_en": "You are in a fully public multi-person auction. The current highest bid far exceeds the item's true value. You:",
+    "a_zh": "理性退出，避免陷入赢家诅咒",
+    "a_en": "Rationally exit to avoid the winner's curse",
+    "b_zh": "继续加价，因为已投入大量沉没成本",
+    "b_en": "Keep bidding because you've already invested significant sunk costs"
+  },
+  {
+    "q_zh": "在“懦夫博弈”中，你和对手相向而行。对方看起来非常鲁莽。你会：",
+    "q_en": "In a Chicken game, you and your opponent drive toward each other. The opponent seems very reckless. You:",
+    "a_zh": "坚持不转向，赌对方会先退缩",
+    "a_en": "Hold your course, betting the opponent will chicken out first",
+    "b_zh": "理性打方向盘，避免两败俱伤",
+    "b_en": "Rationally swerve to avoid mutual destruction"
+  },
+  {
+    "q_zh": "你是一位公司决策者，竞争对手正准备发布一款相似产品。你手中有一款未完善但可抢先发布的产品。你会：",
+    "q_en": "You are a corporate decision-maker. A competitor is about to launch a similar product. You have an unpolished but preemptive product. You:",
+    "a_zh": "抢先发布，抢占市场份额（先动优势）",
+    "a_en": "Launch first to capture market share (first-mover advantage)",
+    "b_zh": "延迟发布，完善质量后再竞争（后发优势）",
+    "b_en": "Delay to perfect quality before competing (late-mover advantage)"
+  },
+  {
+    "q_zh": "在一场连续谈判中，对方给出了一个“最终报价”，并表示绝不让步。你认为这个报价略低于你的底线。你会：",
+    "q_en": "In a continuous negotiation, the other party gives a 'final offer' and claims no further concessions. The offer is slightly below your bottom line. You:",
+    "a_zh": "接受，避免关系破裂与谈判失败风险",
+    "a_en": "Accept it to avoid relationship breakdown and negotiation failure",
+    "b_zh": "拒绝并离席，用沉默施压争取更好条件",
+    "b_en": "Reject and walk away, using silence as pressure for better terms"
+  },
+  {
+    "q_zh": "在多人互动游戏中，你注意到一位玩家总是模仿你上一轮的选择。这一轮你会：",
+    "q_en": "In a multiplayer interactive game, you notice a player always copies your last move. This round you:",
+    "a_zh": "选择合作，引导对方也形成合作循环",
+    "a_en": "Choose cooperate to guide them into a cooperative loop",
+    "b_zh": "选择背叛，利用对方的模仿机制获利一次",
+    "b_en": "Choose defect to exploit their copying mechanism for one-time gain"
+  },
+  {
+    "q_zh": "你即将参与一场“消耗战”博弈，双方持续投入资源等待对方退出。你评估自身资源略多于对手。你的策略是：",
+    "q_en": "You are about to enter a 'War of Attrition' game where both sides keep investing resources waiting for the other to quit. You estimate your resources are slightly higher. Your strategy:",
+    "a_zh": "一开始就展示强硬姿态，期望快速吓退对手",
+    "a_en": "Display a tough stance from the start, hoping to intimidate the opponent into quitting quickly",
+    "b_zh": "假装弱势，引诱对手持续消耗，再突然加大投入",
+    "b_en": "Pretend to be weak, lure the opponent to keep spending, then suddenly escalate"
+  },
+  {
+    "q_zh": "在一次零和博弈的最后一轮，你稍微领先。对手突然提出一个“平分奖金”的协议。你会：",
+    "q_en": "In the final round of a zero-sum game, you are slightly ahead. The opponent suddenly proposes a 'split the prize' deal. You:",
+    "a_zh": "接受协议，锁定双赢结局，避免最后反超风险",
+    "a_en": "Accept the deal, lock in a win-win outcome, avoiding the risk of being overtaken",
+    "b_zh": "拒绝协议，自信能凭领先优势最终获胜",
+    "b_en": "Reject the deal, confident of winning with your lead"
+  },
+  {
+    "q_zh": "你的团队正在做一个需要群策群力的项目，但成员们陷入“社会惰化”（出工不出力）。作为领导者，你会：",
+    "q_en": "Your team is working on a project requiring collective effort, but members show 'social loafing' (slacking off). As leader, you:",
+    "a_zh": "设立个人问责制与单独考核，消除搭便车空间",
+    "a_en": "Implement individual accountability and separate evaluations to eliminate free-riding",
+    "b_zh": "强化团队奖励，激发集体荣誉感与互惠合作",
+    "b_en": "Strengthen team rewards to inspire collective pride and reciprocal cooperation"
+  },
+  {
+    "q_zh": "在一场“海盗分金”博弈中，你是最资深的海盗，负责提出分配方案。其他海盗会理性投票，且杀人不眨眼。你提出的方案应当：",
+    "q_en": "In a 'Pirate Game', you are the most senior pirate and must propose a gold distribution. Others vote rationally and are ruthless. Your proposal should:",
+    "a_zh": "给自己绝大部分，用最少金币收买最可能叛变的少数关键票",
+    "a_en": "Take most for yourself, bribe the few key mutineers with minimal gold",
+    "b_zh": "相对公平分配，降低被集体否决并被杀的风险",
+    "b_en": "Distribute relatively fairly to reduce the risk of collective rejection and execution"
   }
 ]
