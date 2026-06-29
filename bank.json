@@ -11254,5 +11254,85 @@
     "a_en": "Take most for yourself, bribe the few key mutineers with minimal gold",
     "b_zh": "相对公平分配，降低被集体否决并被杀的风险",
     "b_en": "Distribute relatively fairly to reduce the risk of collective rejection and execution"
+  },
+  {
+    "q_zh": "在一次性囚徒困境中，你的对手过去从未背叛过你。你选择：",
+    "q_en": "In a one-shot Prisoner's Dilemma, your opponent has never betrayed you in the past. You choose:",
+    "a_zh": "A. 合作（信任对方）",
+    "a_en": "A. Cooperate (trust the other)",
+    "b_zh": "B. 背叛（确保自身利益最大化）",
+    "b_en": "B. Betray (maximize your own payoff)"
+  },
+  {
+    "q_zh": "在重复博弈中，对手第一轮选择了背叛。你接下来的最优策略是：",
+    "q_en": "In a repeated game, your opponent defected on the first move. Your optimal strategy next is:",
+    "a_zh": "A. 以牙还牙（立即背叛作为报复）",
+    "a_en": "A. Tit-for-tat (immediately defect as retaliation)",
+    "b_zh": "B. 宽容（继续合作，希望对方改正）",
+    "b_en": "B. Forgive (keep cooperating, hoping they reform)"
+  },
+  {
+    "q_zh": "拍卖中，你与对手都想要同一件稀有品，且双方报价成本不可回收。你会：",
+    "q_en": "In an auction for a rare item where both bids are non-refundable, you would:",
+    "a_zh": "A. 出价略高于物品真实价值，确保获胜",
+    "a_en": "A. Bid slightly above true value to secure the win",
+    "b_zh": "B. 出价低于价值，避免陷入赢家诅咒",
+    "b_en": "B. Bid below value to avoid the winner's curse"
+  },
+  {
+    "q_zh": "在协调博弈中，双方必须选择同一选项才能获利。你无法沟通，但对方是理性人。你选：",
+    "q_en": "In a coordination game where both must choose the same option to profit, with no communication but a rational opponent, you choose:",
+    "a_zh": "A. 选择显眼的‘聚点’（如选项A）",
+    "a_en": "A. Pick the salient 'focal point' (e.g., option A)",
+    "b_zh": "B. 随机选择，期待运气匹配",
+    "b_en": "B. Randomize, hoping luck matches"
+  },
+  {
+    "q_zh": "在懦夫博弈中，你开车冲向对方，若双方都不转向则车毁人亡。你会：",
+    "q_en": "In a Chicken game, you drive toward each other; if neither swerves, both crash. You would:",
+    "a_zh": "A. 坚持直行，展示不可动摇的决心",
+    "a_en": "A. Hold straight, showing irrevocable commitment",
+    "b_zh": "B. 在最后一刻转向，避免同归于尽",
+    "b_en": "B. Swerve at the last moment to avoid mutual destruction"
+  },
+  {
+    "q_zh": "你的对手在之前的博弈中总是模仿你的选择。这一轮你会：",
+    "q_en": "Your opponent has always copied your previous choices. This round you:",
+    "a_zh": "A. 选择合作，诱导长期互惠",
+    "a_en": "A. Cooperate to induce long-term reciprocity",
+    "b_zh": "B. 选择背叛，利用其模仿性占一次便宜",
+    "b_en": "B. Defect to exploit their mimicry for one gain"
+  },
+  {
+    "q_zh": "在‘拍卖美元’陷阱中，当前出价已达5美元，但仅第二名需支付。你会：",
+    "q_en": "In a dollar auction trap, current bid is $5, but only the second-place bidder pays. You:",
+    "a_zh": "A. 退出，接受损失",
+    "a_en": "A. Quit and accept the loss",
+    "b_zh": "B. 继续加价，试图挽回沉没成本",
+    "b_en": "B. Raise further to recover sunk cost"
+  },
+  {
+    "q_zh": "你被随机匹配到一位陌生人，仅玩一次‘猎鹿博弈’。你会选择：",
+    "q_en": "You are randomly paired with a stranger for a one-shot 'Stag Hunt.' You choose:",
+    "a_zh": "A. 猎鹿（高回报但需对方配合）",
+    "a_en": "A. Hunt stag (high reward but needs cooperation)",
+    "b_zh": "B. 猎兔（低但确定的收益）",
+    "b_en": "B. Hunt hare (low but secure payoff)"
+  },
+  {
+    "q_zh": "对方宣称‘无论你选什么，我都会背叛’。你会：",
+    "q_en": "The opponent declares, 'Whatever you choose, I will defect.' You:",
+    "a_zh": "A. 相信并也选择背叛，减少损失",
+    "a_en": "A. Believe them and also defect to minimize loss",
+    "b_zh": "B. 选择合作，试探其真实意图",
+    "b_en": "B. Cooperate to test their true intention"
+  },
+  {
+    "q_zh": "在‘最后通牒博弈’中，你需分配10元，对方若拒绝则双方都得0。你会分配：",
+    "q_en": "In an ultimatum game, you split $10; if the other rejects, both get $0. You offer:",
+    "a_zh": "A. 5元（公平平分）",
+    "a_en": "A. $5 (equal split)",
+    "b_zh": "B. 1元（最大化自己收益）",
+    "b_en": "B. $1 (maximize your own gain)"
   }
 ]
