@@ -11334,5 +11334,85 @@
     "a_en": "A. $5 (equal split)",
     "b_zh": "B. 1元（最大化自己收益）",
     "b_en": "B. $1 (maximize your own gain)"
+  },
+  {
+    "q_zh": "你在一个资源争夺游戏中，对手连续三次都选择了合作。接下来这一轮，你会选择？",
+    "q_en": "In a resource competition game, your opponent has cooperated for three consecutive rounds. What will you choose in the next round?",
+    "a_zh": "继续合作，建立长期信任",
+    "a_en": "Continue cooperating to build long-term trust",
+    "b_zh": "突然背叛，抓住机会获得最大利益",
+    "b_en": "Suddenly betray to seize the maximum gain"
+  },
+  {
+    "q_zh": "在一次性匿名交易中，对方先支付了货款，但你发现货物有瑕疵。你的选择是？",
+    "q_en": "In a one-time anonymous transaction, the other party paid first but you found a defect in the goods. What do you do?",
+    "a_zh": "诚实告知并退款，维护自己的声誉",
+    "a_en": "Honestly inform and refund to maintain your reputation",
+    "b_zh": "假装没看到，完成交易获取利润",
+    "b_en": "Pretend not to notice and complete the deal for profit"
+  },
+  {
+    "q_zh": "你和对手进行多轮博弈，对手在上轮背叛后，本轮又表示愿意合作。你会？",
+    "q_en": "In a multi-round game, your opponent betrayed last round but now signals willingness to cooperate. What do you do?",
+    "a_zh": "原谅并再次合作，给对手机会",
+    "a_en": "Forgive and cooperate again, giving the opponent a chance",
+    "b_zh": "以牙还牙，也选择背叛来惩罚对方",
+    "b_en": "Retaliate by betraying to punish them"
+  },
+  {
+    "q_zh": "你发现对手在博弈中使用了欺骗策略，但你的利益损失不大。你会？",
+    "q_en": "You discover your opponent used a deceptive strategy in the game, but your loss is minimal. What do you do?",
+    "a_zh": "公开揭露，让对方付出社交代价",
+    "a_en": "Publicly expose them to impose social cost",
+    "b_zh": "暗中记下，未来找机会报复",
+    "b_en": "Secretly record it and seek revenge later"
+  },
+  {
+    "q_zh": "在分蛋糕游戏中，你是提议者。对手知道你非常在意公平。你会提议？",
+    "q_en": "In the ultimatum game as the proposer, your opponent knows you care deeply about fairness. What do you propose?",
+    "a_zh": "50:50完全平分，避免任何拒绝风险",
+    "a_en": "50:50 equal split to avoid any rejection risk",
+    "b_zh": "60:40自己多拿，赌对方会理性接受",
+    "b_en": "60:40 in your favor, betting the opponent will rationally accept"
+  },
+  {
+    "q_zh": "你和对手正在竞争一个奖项，但你们发现合作可以双赢。然而对手是出名的『背叛者』。你会？",
+    "q_en": "You and your opponent are competing for an award but find cooperation could benefit both. However, the opponent is a notorious 'defector'. What do you do?",
+    "a_zh": "主动提出合作协议，并附加惩罚条款",
+    "a_en": "Propose a cooperation deal with a penalty clause",
+    "b_zh": "拒绝合作，选择独立争取最高奖项",
+    "b_en": "Refuse to cooperate, choose to compete independently"
+  },
+  {
+    "q_zh": "在拍卖中，对手突然加价到远超物品实际价值。你最合理的反应是？",
+    "q_en": "In an auction, your opponent suddenly bids far above the item's actual value. What is your most reasonable response?",
+    "a_zh": "冷静放弃，让对手承受过高代价",
+    "a_en": "Calmly drop out, letting the opponent overpay",
+    "b_zh": "继续加价，逼迫对手暴露真实意图",
+    "b_en": "Continue bidding to force the opponent's true intent"
+  },
+  {
+    "q_zh": "你被对方告警：如果再选择背叛，他会采取『无限报复』策略。但下轮你面临高额收益诱惑。你会？",
+    "q_en": "You are warned that if you betray again, your opponent will adopt 'infinite retaliation'. But next round offers high gain. What do you do?",
+    "a_zh": "无视威胁，背叛一次获取暴利再做好防御",
+    "a_en": "Ignore the threat, betray once for huge profit then prepare defense",
+    "b_zh": "相信威胁，暂时合作以观察后续",
+    "b_en": "Believe the threat, cooperate temporarily to observe"
+  },
+  {
+    "q_zh": "在一个需要双方共同保密的博弈中，对手主动向你透露了他的致命弱点。你会？",
+    "q_en": "In a game requiring mutual secrecy, your opponent voluntarily reveals his fatal weakness to you. What do you do?",
+    "a_zh": "也分享自己的一个秘密，建立高度互信",
+    "a_en": "Share one of your own secrets to build high trust",
+    "b_zh": "保守秘密但暗中利用该弱点获取优势",
+    "b_en": "Keep the secret but secretly exploit the weakness for advantage"
+  },
+  {
+    "q_zh": "最后一场博弈，双方实力完全相等，且没有后续。对手提议『和平结束，各取所需』。你会？",
+    "q_en": "In the final game, both sides have equal power and no future rounds. The opponent proposes 'peaceful end, each takes what they need'. What do you do?",
+    "a_zh": "接受和平，避免不必要的冲突损失",
+    "a_en": "Accept peace to avoid unnecessary conflict damage",
+    "b_zh": "突然偷袭，争取最后的总胜利",
+    "b_en": "Launch a surprise attack for the ultimate victory"
   }
 ]
