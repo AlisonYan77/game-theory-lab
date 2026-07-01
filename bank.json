@@ -11414,5 +11414,85 @@
     "a_en": "Accept peace to avoid unnecessary conflict damage",
     "b_zh": "突然偷袭，争取最后的总胜利",
     "b_en": "Launch a surprise attack for the ultimate victory"
+  },
+  {
+    "q_zh": "你在一场拍卖中与另一位竞拍者争夺一件宝物。你已知双方都会选择出价策略。如果你们选择合作（低出价），双方都能以低价平分宝物；如果一方背叛高出价而另一方合作低出价，背叛者独吞宝物；如果双方都背叛高出价，则双方都付出高价却只能平分价值更低的宝物。你会选择：",
+    "q_en": "In an auction, you and another bidder compete for a treasure. If you both cooperate (low bids), you share the treasure at a low cost. If one betrays (high bid) while the other cooperates, the betrayer takes all. If both betray, both pay high prices for a treasure of lower value. What do you choose?",
+    "a_zh": "选择合作低出价，相信对方也会合作",
+    "a_en": "Choose to cooperate with a low bid, trusting the other will also cooperate",
+    "b_zh": "选择背叛高出价，争取利益最大化",
+    "b_en": "Choose to betray with a high bid to maximize personal gain"
+  },
+  {
+    "q_zh": "你们小组需要在10天内完成一个项目，你和搭档分别负责不同模块。如果你提前完成所有工作，是否告知搭档你已经空闲？你们谁都可能把剩余时间用于休息或帮助对方。告知可能换来对方也帮你，也可能让你承担更多工作却得不到回报。你会：",
+    "q_en": "Your team has 10 days to finish a project. You and your partner handle different modules. If you finish early, do you inform your partner? They might help you or exploit your availability. What do you do?",
+    "a_zh": "不告知，自己悄悄休息，避免被分配额外任务",
+    "a_en": "Stay silent and rest, avoiding extra work",
+    "b_zh": "主动告知并提供帮助，期待日后互惠",
+    "b_en": "Voluntarily inform and offer help, expecting future reciprocity"
+  },
+  {
+    "q_zh": "你与对手玩家在密室进行一局谈判游戏。双方可以各自选择保留自己的秘密物品或与对方交换。如果一方选择交换而另一方保留，保留方将获得双方物品。如果都交换则公平交换，都保留则维持原状。你会：",
+    "q_en": "In a negotiation game, you and your opponent can keep your secret items or trade them. If you trade while they keep, they get both. If both trade, it's fair. If both keep, no change. What do you pick?",
+    "a_zh": "选择保留，以防对方欺骗",
+    "a_en": "Choose to keep, in case the other cheats",
+    "b_zh": "选择交换，表达合作诚意",
+    "b_en": "Choose to trade, showing good faith"
+  },
+  {
+    "q_zh": "你和竞争对手都要决定是否进行技术研发投入。如果双方都投入，市场被均分且利润正常；若你投入对方不投，你占市场优势；若双方都不投，市场现状维持但利润微薄。你会：",
+    "q_en": "You and a competitor decide whether to invest in R&D. Both invest = fair market. You invest alone = big advantage. Neither invests = status quo with low profit. What do you choose?",
+    "a_zh": "投入研发，争取领先",
+    "a_en": "Invest in R&D to gain an edge",
+    "b_zh": "不投入，节省成本，依赖现状",
+    "b_en": "Do not invest, save costs, stick with the status quo"
+  },
+  {
+    "q_zh": "在社交网络上，你发现一个可能引发争议的观点。你可以选择发声支持少数派，或保持沉默附和多数。如果多数人选择支持，则少数派意见会被淹没；如果多数保持沉默，那么少数派可能引导舆论。你会：",
+    "q_en": "On social media, a controversial opinion emerges. You can voice minority support or stay silent with the majority. If majority supports, minority is drowned out. If majority is silent, minority leads the discourse. What do you do?",
+    "a_zh": "发声支持少数派，做意见领袖",
+    "a_en": "Voice minority support, become an opinion leader",
+    "b_zh": "保持沉默，跟随多数以避免风险",
+    "b_en": "Stay silent, follow the majority to avoid risk"
+  },
+  {
+    "q_zh": "你和同事竞争一个升职名额。你们各自的工作成果将提交给上级。如果你们互相写好评推荐，则两人都受益；如果你写差评而对方写好评，你更可能晋升；如果互相差评，则两败俱伤。你会：",
+    "q_en": "You and a colleague compete for a promotion. You both write reviews for each other. Mutual praise = mutual benefit. You criticize, they praise = you win. Mutual criticism = both lose. What do you do?",
+    "a_zh": "给对方写好评，建立联盟",
+    "a_en": "Write a positive review to build an alliance",
+    "b_zh": "给对方写差评，争取独自晋升",
+    "b_en": "Write a negative review to secure the promotion alone"
+  },
+  {
+    "q_zh": "在囚徒困境游戏中，你和同伙被分别审讯。如果你认罪并指证对方，而对方沉默，你将被释放+对方重判；若双方都沉默，各判轻微；若都认罪，各判中等。警察暗示对方很可能认罪。你会：",
+    "q_en": "In a Prisoner's Dilemma, you and your partner are interrogated separately. If you confess and they stay silent, you go free. If both silent, light sentence. If both confess, medium sentence. Police hint the other might confess. What do you choose?",
+    "a_zh": "认罪，以防对方出卖我",
+    "a_en": "Confess, in case the other betrays me",
+    "b_zh": "保持沉默，赌对方也沉默",
+    "b_en": "Stay silent, betting the other stays silent too"
+  },
+  {
+    "q_zh": "你和对手进行多轮博弈。上一轮你们互相合作，本轮你考虑是否继续合作还是背叛。如果一直合作，双方收益稳定。但如果对方背叛一次，你将会损失惨重。为了试探对方的诚意，你会：",
+    "q_en": "You and an opponent play a multi-round game. Last round was mutual cooperation. This round, you consider whether to continue cooperating or defect. Consistent cooperation brings stable gains, but a single betrayal hurts you badly. What do you do to test their sincerity?",
+    "a_zh": "继续合作，维护信任关系",
+    "a_en": "Continue cooperating to maintain trust",
+    "b_zh": "选择一次背叛，看看对方反应",
+    "b_en": "Defect once, to test their reaction"
+  },
+  {
+    "q_zh": "你进入一个市场有两位竞争者。你可以选择进入高端市场或低端市场。如果你们选择不同市场，各占一方有利可图；如果都选高端，价格战导致利润低；如果都选低端，利润平平。对方的历史策略显示他喜欢跟风。你会：",
+    "q_en": "You enter a market with two competitors. You can target high-end or low-end. Different choices = each profitable. Both high-end = price war. Both low-end = low profit. The opponent historically follows trends. What do you pick?",
+    "a_zh": "选择高端市场，出其不意",
+    "a_en": "Choose high-end market to surprise them",
+    "b_zh": "选择低端市场，迎合可能的风向",
+    "b_en": "Choose low-end market, aligning with possible trend"
+  },
+  {
+    "q_zh": "你和队友在生存游戏中找到资源点。规则：你们可以在同一时间选择“平分”或“独占”。如果双方都选平分，资源对半分；一方独占另一方平分，独占者得全部资源；双方都选独占，资源全部损坏。你和队友有旧仇，彼此不信任。你会：",
+    "q_en": "You and a teammate find a resource cache. You can both choose 'share' or 'hoard'. Both share = half each. One hoards, other shares = hoarder gets all. Both hoard = resources destroyed. You two have a history of distrust. What do you do?",
+    "a_zh": "选择独占，抢夺资源控制权",
+    "a_en": "Choose to hoard, seize control of resources",
+    "b_zh": "选择平分，试图修复关系",
+    "b_en": "Choose to share, trying to rebuild trust"
   }
 ]
