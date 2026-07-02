@@ -11494,5 +11494,85 @@
     "a_en": "Choose to hoard, seize control of resources",
     "b_zh": "选择平分，试图修复关系",
     "b_en": "Choose to share, trying to rebuild trust"
+  },
+  {
+    "q_zh": "在一次谈判中，对方首先给出了一个极具诱惑但显然不合理的高价。你的最佳策略是什么？",
+    "q_en": "In a negotiation, the opponent first offers an extremely tempting but obviously unreasonable high price. What is your best strategy?",
+    "a_zh": "A. 立即接受，以免机会流失",
+    "a_en": "A. Immediately accept to avoid losing the opportunity",
+    "b_zh": "B. 拒绝并回一个更合理的低价，迫使对方重新评估",
+    "b_en": "B. Reject and counter with a more reasonable low price, forcing the opponent to reassess"
+  },
+  {
+    "q_zh": "在重复囚徒困境中，如果你的对手一直选择合作，你应该如何应对？",
+    "q_en": "In a repeated prisoner's dilemma, if your opponent always chooses to cooperate, how should you respond?",
+    "a_zh": "A. 持续合作，建立长期信任",
+    "a_en": "A. Keep cooperating to build long-term trust",
+    "b_zh": "B. 偶尔背叛，利用对方的善意获取额外收益",
+    "b_en": "B. Occasionally defect to exploit the opponent's goodwill for extra gains"
+  },
+  {
+    "q_zh": "在零和博弈中，你发现对手似乎有一个明显的弱点。你会怎么做？",
+    "q_en": "In a zero-sum game, you notice the opponent seems to have an obvious weakness. What do you do?",
+    "a_zh": "A. 立即猛烈攻击该弱点，力求速胜",
+    "a_en": "A. Immediately and aggressively exploit the weakness for a quick win",
+    "b_zh": "B. 故意示弱，诱导对手暴露更多信息，再一击致命",
+    "b_en": "B. Feign weakness to lure the opponent into revealing more, then strike decisively"
+  },
+  {
+    "q_zh": "在一个多人拍卖中，你的预算有限。当价格接近你的上限时，对手突然加价。你应该？",
+    "q_en": "In a multi-player auction with limited budget, the price nears your limit, and the opponent suddenly raises the bid. You should?",
+    "a_zh": "A. 孤注一掷，加价超过预算以震慑对手",
+    "a_en": "A. Go all-in and bid beyond your budget to intimidate the opponent",
+    "b_zh": "B. 理性放弃，让对手付出过高代价，保存实力",
+    "b_en": "B. Rationally withdraw, making the opponent overpay, and conserve resources"
+  },
+  {
+    "q_zh": "在心理博弈中，你希望对手认为你是个冲动的人，从而低估你的策略。你的最佳行动是？",
+    "q_en": "In a psychological game, you want the opponent to think you are impulsive, thus underestimating your strategy. The best move is?",
+    "a_zh": "A. 在关键时刻故意装作不经意地犯错，然后懊悔",
+    "a_en": "A. Deliberately make a seemingly careless mistake at a key moment, then show frustration",
+    "b_zh": "B. 直接声称自己很冲动，并用一系列冒险行动证明",
+    "b_en": "B. Directly claim you are impulsive and prove it with a series of risky moves"
+  },
+  {
+    "q_zh": "在合作博弈中，对方承诺事后平分利益，但你有机会独自获取全部。你会如何选择？",
+    "q_en": "In a cooperative game, the opponent promises to split the reward later, but you have a chance to take everything. What do you choose?",
+    "a_zh": "A. 相信承诺，合作共赢以维持长期关系",
+    "a_en": "A. Trust the promise and cooperate for a win-win to maintain long-term relations",
+    "b_zh": "B. 独自行动，最大化即时收益",
+    "b_en": "B. Act alone to maximize immediate gains"
+  },
+  {
+    "q_zh": "你的对手总是使用同一种开局模式。为了获得优势，你应该？",
+    "q_en": "Your opponent always uses the same opening pattern. To gain an advantage, you should?",
+    "a_zh": "A. 针对该模式制定一套完美的反制策略，并严格执行",
+    "a_en": "A. Develop a perfect counter-strategy for the pattern and strictly execute it",
+    "b_zh": "B. 偶尔故意输掉，让对手继续依赖该模式，然后关键局反制",
+    "b_en": "B. Occasionally lose on purpose to let the opponent keep relying on it, then counter in the crucial round"
+  },
+  {
+    "q_zh": "在一场信息不对称的博弈中，你拥有私人信息。最有效的利用方式是？",
+    "q_en": "In a game with information asymmetry, you have private information. The most effective way to use it is?",
+    "a_zh": "A. 隐瞒信息，在最后时刻突然揭示以取得最大效果",
+    "a_en": "A. Conceal the information and reveal it suddenly at the last moment for maximum impact",
+    "b_zh": "B. 部分透露信息，引导对手做出有利于你的决策",
+    "b_en": "B. Partially disclose the information to steer the opponent into making decisions favorable to you"
+  },
+  {
+    "q_zh": "你的对手在上一轮中背叛了你，但这一轮他表现出合作意愿。你的最优反应是？",
+    "q_en": "Your opponent betrayed you in the previous round but now shows willingness to cooperate. Your optimal response is?",
+    "a_zh": "A. 以牙还牙，也背叛一次以示惩戒",
+    "a_en": "A. Tit-for-tat, also betray once to punish the opponent",
+    "b_zh": "B. 宽容合作，给予修复关系的机会",
+    "b_en": "B. Forgive and cooperate, giving a chance to repair the relationship"
+  },
+  {
+    "q_zh": "在最终博弈前，你发现对手的决策风格极其理性冷静。你的最佳心理策略是？",
+    "q_en": "Before the final game, you find the opponent's decision-making style is extremely rational and calm. Your best psychological strategy is?",
+    "a_zh": "A. 同样以理性计算对抗，回避情绪化陷阱",
+    "a_en": "A. Counter with equally rational calculations, avoiding emotional traps",
+    "b_zh": "B. 故意引入非理性变量（如急躁、赌气），打乱对方的计算模型",
+    "b_en": "B. Intentionally introduce irrational variables (e.g., impatience, pettiness) to disrupt the opponent's calculation model"
   }
 ]
