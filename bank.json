@@ -11574,5 +11574,85 @@
     "a_en": "A. Counter with equally rational calculations, avoiding emotional traps",
     "b_zh": "B. 故意引入非理性变量（如急躁、赌气），打乱对方的计算模型",
     "b_en": "B. Intentionally introduce irrational variables (e.g., impatience, pettiness) to disrupt the opponent's calculation model"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对方连续三次都选择合作，你会选择？",
+    "q_en": "In a repeated prisoner's dilemma, your opponent has cooperated for three consecutive rounds. What do you choose?",
+    "a_zh": "A. 继续合作，维持信任",
+    "a_en": "A. Continue to cooperate to maintain trust",
+    "b_zh": "B. 背叛一次，争取短期利益",
+    "b_en": "B. Defect once to secure short-term gain"
+  },
+  {
+    "q_zh": "在谈判中，对方先提出了一个对你极不利的初始报价，你会？",
+    "q_en": "In a negotiation, the other side makes an extremely unfavorable initial offer. What do you do?",
+    "a_zh": "A. 立即拒绝并退出谈判",
+    "a_en": "A. Immediately reject and walk away",
+    "b_zh": "B. 提出一个极端的反报价作为锚定",
+    "b_en": "B. Counter with an extreme offer to re-anchor the negotiation"
+  },
+  {
+    "q_zh": "在多人博弈中，你发现自己处于明显劣势，最佳策略是？",
+    "q_en": "In a multi-player game, you find yourself at a clear disadvantage. What is the best strategy?",
+    "a_zh": "A. 主动联合其他弱者形成联盟",
+    "a_en": "A. Actively ally with other weaker players to form a coalition",
+    "b_zh": "B. 假装服从强者，暗中等待机会反扑",
+    "b_en": "B. Pretend to submit to the strongest player while secretly waiting for a chance to counterattack"
+  },
+  {
+    "q_zh": "在零和博弈中，对手表现出明显的情绪波动，比如愤怒，你会？",
+    "q_en": "In a zero-sum game, your opponent shows obvious emotional fluctuation, such as anger. What do you do?",
+    "a_zh": "A. 利用其情绪，故意激怒他让他犯错",
+    "a_en": "A. Exploit his emotion by deliberately provoking him to make mistakes",
+    "b_zh": "B. 保持理性冷静，以防他陷入非理性反击",
+    "b_en": "B. Stay calm and rational to avoid triggering an irrational retaliation"
+  },
+  {
+    "q_zh": "在长期博弈中，你发现对手总是模仿你上一轮的行动（以牙还牙），你会？",
+    "q_en": "In a long-term game, you notice your opponent always copies your last move (tit-for-tat). What do you do?",
+    "a_zh": "A. 永远选择合作，引导良性循环",
+    "a_en": "A. Always cooperate to guide a virtuous cycle",
+    "b_zh": "B. 偶尔背叛一次，测试其是否真的严格执行策略",
+    "b_en": "B. Defect occasionally to test if they strictly follow the strategy"
+  },
+  {
+    "q_zh": "在信息不对称博弈中，你拥有隐藏信息，对方要求你先行动，你会？",
+    "q_en": "In a game with asymmetric information, you have hidden information and the opponent demands you move first. What do you do?",
+    "a_zh": "A. 故意释放虚假信号迷惑对方",
+    "a_en": "A. Intentionally send a false signal to mislead the opponent",
+    "b_zh": "B. 通过模糊行动保留信息优势",
+    "b_en": "B. Use ambiguous actions to preserve the information advantage"
+  },
+  {
+    "q_zh": "当博弈进入最后阶段，双方都知道这是最后一轮，你会？",
+    "q_en": "When the game enters the final round, and both sides know it's the last move, what do you do?",
+    "a_zh": "A. 乘机背叛以获得最大单轮收益",
+    "a_en": "A. Seize the chance to defect for maximum single-round payoff",
+    "b_zh": "B. 仍然维持合作，建立声誉以便未来其他博弈",
+    "b_en": "B. Maintain cooperation to build reputation for potential future games"
+  },
+  {
+    "q_zh": "在同时出价的博弈中，你推测对手会出高价，你会？",
+    "q_en": "In a simultaneous-bid game, you suspect your opponent will bid high. What do you do?",
+    "a_zh": "A. 出低价，利用对手的激进获取差价",
+    "a_en": "A. Bid low to exploit the opponent's aggressiveness and capture the spread",
+    "b_zh": "B. 出略高一点的价格，确保成交但少赚",
+    "b_en": "B. Bid slightly higher to secure the deal but earn less"
+  },
+  {
+    "q_zh": "在心理博弈中，对方总是预测你的行动并提前应对，你会？",
+    "q_en": "In a psychological game, your opponent always predicts your moves and counters in advance. What do you do?",
+    "a_zh": "A. 随机化你的策略，使其无法预测",
+    "a_en": "A. Randomize your strategy so they cannot predict",
+    "b_zh": "B. 反过来预测他的预测，反设陷阱",
+    "b_en": "B. Predict his prediction in turn and set a reverse trap"
+  },
+  {
+    "q_zh": "在博弈中，对方突然变得非常友善并让出巨大利益，你最该怀疑？",
+    "q_en": "In a game, the opponent suddenly becomes extremely friendly and concedes huge benefits. What should you suspect most?",
+    "a_zh": "A. 这是一个陷阱，他在后续博弈中会加倍索取",
+    "a_en": "A. This is a trap; he will demand double later in the game",
+    "b_zh": "B. 他可能遇到了外部压力，真实想求和",
+    "b_en": "B. He might be under external pressure and genuinely wants peace"
   }
 ]
