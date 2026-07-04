@@ -11654,5 +11654,85 @@
     "a_en": "A. This is a trap; he will demand double later in the game",
     "b_zh": "B. 他可能遇到了外部压力，真实想求和",
     "b_en": "B. He might be under external pressure and genuinely wants peace"
+  },
+  {
+    "q_zh": "在一场资源有限的谈判中，你倾向于如何分配资源？",
+    "q_en": "In a negotiation with limited resources, how do you prefer to allocate them?",
+    "a_zh": "A. 确保自己获得最大份额，即使对方一无所获",
+    "a_en": "A. Secure the largest share for yourself, even if the other gets nothing",
+    "b_zh": "B. 追求公平分配，即使自己的收益减少",
+    "b_en": "B. Pursue a fair split, even if it reduces your own gain"
+  },
+  {
+    "q_zh": "当竞争对手做出非理性威胁时，你更可能如何反应？",
+    "q_en": "When a competitor makes an irrational threat, how are you more likely to react?",
+    "a_zh": "A. 无视威胁，坚持你的原有策略",
+    "a_en": "A. Ignore the threat and stick to your original strategy",
+    "b_zh": "B. 调整策略以避免冲突升级",
+    "b_en": "B. Adjust your strategy to avoid escalation of conflict"
+  },
+  {
+    "q_zh": "在重复博弈中，你更相信哪种策略能长期获益？",
+    "q_en": "In a repeated game, which strategy do you believe yields long-term gains?",
+    "a_zh": "A. 以牙还牙：首次合作，之后复制对方上一轮行为",
+    "a_en": "A. Tit-for-tat: cooperate first, then copy the opponent's last move",
+    "b_zh": "B. 始终背叛，抓住每一次短期利益",
+    "b_en": "B. Always defect, seize every short-term gain"
+  },
+  {
+    "q_zh": "面对一个可能欺骗你的对手，你最先会做什么？",
+    "q_en": "Facing an opponent who might deceive you, what do you do first?",
+    "a_zh": "A. 提前设置惩罚机制，威慑欺骗行为",
+    "a_en": "A. Set up a punishment mechanism in advance to deter deception",
+    "b_zh": "B. 先展示善意，试探对方是否值得信任",
+    "b_en": "B. Show goodwill first to test if the opponent is trustworthy"
+  },
+  {
+    "q_zh": "在博弈中，你的信息公开程度倾向于？",
+    "q_en": "In a game, what is your tendency regarding information disclosure?",
+    "a_zh": "A. 隐藏真实意图，放出虚假信号迷惑对手",
+    "a_en": "A. Hide true intentions and send false signals to mislead the opponent",
+    "b_zh": "B. 保持透明，避免误导造成信任崩塌",
+    "b_en": "B. Stay transparent to avoid trust collapse from misinformation"
+  },
+  {
+    "q_zh": "当对方连续多次选择背叛，你会？",
+    "q_en": "When the opponent chooses to defect repeatedly, you will?",
+    "a_zh": "A. 也转为永久背叛，不再合作",
+    "a_en": "A. Switch to permanent defection and stop cooperating",
+    "b_zh": "B. 偶尔原谅一次，给双方恢复合作的机会",
+    "b_en": "B. Occasionally forgive once, giving both sides a chance to restore cooperation"
+  },
+  {
+    "q_zh": "在竞争性博弈中，你最看重哪种能力？",
+    "q_en": "In a competitive game, which ability do you value most?",
+    "a_zh": "A. 精准预测对手下一步行动",
+    "a_en": "A. Accurately predicting the opponent's next move",
+    "b_zh": "B. 快速适应对手策略变化",
+    "b_en": "B. Quickly adapting to changes in the opponent's strategy"
+  },
+  {
+    "q_zh": "如果合作能带来更大总收益，但对方可能独吞，你会？",
+    "q_en": "If cooperation brings greater total gains but the opponent might keep all, you will?",
+    "a_zh": "A. 要求签订具有约束力的协议再合作",
+    "a_en": "A. Demand a binding agreement before cooperating",
+    "b_zh": "B. 先小幅度合作测试对方的诚信",
+    "b_en": "B. Cooperate on a small scale first to test the opponent's integrity"
+  },
+  {
+    "q_zh": "在信息不对称的博弈中，你的核心策略是？",
+    "q_en": "In a game with asymmetric information, your core strategy is?",
+    "a_zh": "A. 积极收集信息，同时阻断对方的信息渠道",
+    "a_en": "A. Actively gather information while blocking the opponent's information channels",
+    "b_zh": "B. 建立信息共享联盟，增加双方确定性",
+    "b_en": "B. Build an information-sharing alliance to increase mutual certainty"
+  },
+  {
+    "q_zh": "博弈接近尾声时，你更倾向于？",
+    "q_en": "As the game approaches its end, you are more inclined to?",
+    "a_zh": "A. 全力一搏，不计后果地追求最大收益",
+    "a_en": "A. Go all out, pursuing maximum payoff regardless of consequences",
+    "b_zh": "B. 保守收官，锁定已获得的利益",
+    "b_en": "B. Play conservatively to lock in the gains already achieved"
   }
 ]
