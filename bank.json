@@ -11734,5 +11734,85 @@
     "a_en": "A. Go all out, pursuing maximum payoff regardless of consequences",
     "b_zh": "B. 保守收官，锁定已获得的利益",
     "b_en": "B. Play conservatively to lock in the gains already achieved"
+  },
+  {
+    "q_zh": "在《博弈实验室》的猜硬币游戏中，你连续三次猜对后，对手开始皱眉。你会：",
+    "q_en": "In the coin-guessing game of 'Game Lab', after you guessed correctly three times in a row, your opponent starts frowning. What will you do?",
+    "a_zh": "坚持原策略，认为对方皱眉是诱饵试图让你改变。",
+    "a_en": "Stick to your original strategy, assuming the frown is bait to make you change.",
+    "b_zh": "立即改变策略，推测对方会利用你的侥幸心理。",
+    "b_en": "Immediately switch strategies, guessing the opponent will exploit your lucky streak."
+  },
+  {
+    "q_zh": "在拍卖博弈中，你和对手对同一件物品出价，最高者赢得物品但需支付自己的出价。你估计物品价值为50元。对手出价20元。你会：",
+    "q_en": "In an auction game, you and your opponent bid on the same item. The highest bidder wins but pays their bid. You value the item at $50. The opponent bids $20. What will you do?",
+    "a_zh": "出价21元，凭小额优势拿下。",
+    "a_en": "Bid $21 to win with a slight advantage.",
+    "b_zh": "放弃出价，认为对方可能有陷阱或估值更低。",
+    "b_en": "Forgo bidding, suspecting a trap or the opponent's lower valuation."
+  },
+  {
+    "q_zh": "在囚徒困境中，对手在上一轮背叛了你。本轮开始前，你们可以匿名留言。你会留什么？",
+    "q_en": "In the Prisoner's Dilemma, your opponent betrayed you last round. Before this round, you can leave an anonymous message. What will you leave?",
+    "a_zh": "“我本回合将合作，希望你也如此。”",
+    "a_en": "'I will cooperate this round. Hope you do too.'",
+    "b_zh": "“背叛者必将付出代价，你看着办。”",
+    "b_en": "'Betrayers will pay. It's your call.'"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你分配100元给对手。对手可以接受或拒绝，拒绝的话双方都为零。你担心对手非理性自尊心强。你会出价：",
+    "q_en": "In the Ultimatum game, you distribute $100 to your opponent. They can accept or reject; rejection means zero for both. You worry about the opponent's irrational pride. What offer will you make?",
+    "a_zh": "出价40元，兼顾风险与收益。",
+    "a_en": "Offer $40 to balance risk and profit.",
+    "b_zh": "出价50元，求稳避免拒绝。",
+    "b_en": "Offer $50 to ensure acceptance and avoid rejection."
+  },
+  {
+    "q_zh": "在胆小鬼博弈中，你和对手驾车对驶。你发现对方车内有摄像头，似乎在对直播。你会：",
+    "q_en": "In the Chicken game, you and your opponent drive toward each other. You spot a camera inside their car, as if they are live streaming. What will you do?",
+    "a_zh": "继续直行，赌对方为了面子不敢打方向盘。",
+    "a_en": "Keep going straight, betting they won't swerve to save face on stream.",
+    "b_zh": "先打方向盘，避免成为极端行为的受害者。",
+    "b_en": "Swerve first to avoid being a victim of extreme behavior."
+  },
+  {
+    "q_zh": "在合作游戏中，你们可以共同完成一个项目，总收益为100元。但如果你擅自增加自己的工作量，会导致合作瓦解。对手向你提议五五分成。你会：",
+    "q_en": "In a cooperative game, completing a project together yields a total of $100. But if you unilaterally increase your workload, it will cause cooperation to collapse. The opponent proposes a 50-50 split. What will you do?",
+    "a_zh": "接受五五分成，维持互信。",
+    "a_en": "Accept the 50-50 split to maintain mutual trust.",
+    "b_zh": "提出六四分成，称自己承担了更多风险。",
+    "b_en": "Propose a 60-40 split, claiming you take on more risk."
+  },
+  {
+    "q_zh": "在重复博弈中，对手是“以牙还牙”策略，即首次合作-后续复制你上一次的行为。你发现上一轮你误操作背叛了对方。本轮你会：",
+    "q_en": "In a repeated game, your opponent uses the 'Tit for Tat' strategy (cooperate first, then mirror your last move). You realize you accidentally betrayed them last round. What will you do this round?",
+    "a_zh": "主动合作，表明是误操作，开启和解。",
+    "a_en": "Proactively cooperate to signal the mistake and start reconciliation.",
+    "b_zh": "继续背叛一次，测试对方是否会原谅。",
+    "b_en": "Betray again to test if they will forgive."
+  },
+  {
+    "q_zh": "在寻宝游戏中，你们各自拥有地图碎片，可以交易也可独吞。对手提议交换碎片以便拼出完整地图。你先得到了对方碎片，现在轮到对方给你碎片。你会：",
+    "q_en": "In a treasure hunt game, you each own map fragments, which can be traded or hoarded. The opponent proposes swapping fragments to complete the map. You receive their fragment first; now it's their turn to give you yours. What will you do?",
+    "a_zh": "按约定交出碎片，相信对手互惠心理。",
+    "a_en": "Hand over your fragment as agreed, trusting the opponent's reciprocity.",
+    "b_zh": "扣下碎片，认为对方可能不会给，以免上当。",
+    "b_en": "Withhold your fragment, worried the opponent might not reciprocate and to avoid being tricked."
+  },
+  {
+    "q_zh": "在零和博弈中，你需要选择红或黑，对手同时选择。若同色，你赢10元；若不同，对手赢10元。过去五局你一直输，观察对手惯用左手，但表情放松。这轮你会选：",
+    "q_en": "In a zero-sum game, you pick Red or Black, while the opponent picks simultaneously. Same color means you win $10; different means they win $10. You have lost the last five rounds. The opponent is left-handed but looks relaxed. This round, you will pick:",
+    "a_zh": "选红，因为对手可能继续利用你的决策惯性。",
+    "a_en": "Red, because the opponent might keep exploiting your decision inertia.",
+    "b_zh": "选黑，根据左手习惯和放松表情推测对方心理。",
+    "b_en": "Black, based on the left-handed habit and relaxed expression to infer their psychology."
+  },
+  {
+    "q_zh": "在心理博弈的“说谎者测试”中，你被指控偷了东西。对手作为仲裁者有权让你自证清白，但如果你说真话可能暴露另一个秘密。你会：",
+    "q_en": "In the 'Liars Test' of psychological games, you are accused of theft. The opponent, as the arbiter, can make you prove your innocence, but telling the truth might expose another secret. What will you do?",
+    "a_zh": "说真话，声称偷窃是假指控，但承认无关的过错换取信任。",
+    "a_en": "Tell the truth, claiming the theft is a false accusation, but admit an unrelated fault to gain trust.",
+    "b_zh": "模糊回应，用反问转移焦点，比如‘证据在哪？’",
+    "b_en": "Give a vague response, redirecting the focus with a question like 'Where's the evidence?'"
   }
 ]
