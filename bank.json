@@ -11814,5 +11814,85 @@
     "a_en": "Tell the truth, claiming the theft is a false accusation, but admit an unrelated fault to gain trust.",
     "b_zh": "模糊回应，用反问转移焦点，比如‘证据在哪？’",
     "b_en": "Give a vague response, redirecting the focus with a question like 'Where's the evidence?'"
+  },
+  {
+    "q_zh": "你发现对手在游戏中经常做出风险极高的决策，接下来你会：",
+    "q_en": "You notice your opponent often makes high-risk decisions in the game. What will you do next?",
+    "a_zh": "模仿对手，也采取激进策略，试图以风险对冲风险。",
+    "a_en": "Imitate the opponent and adopt an aggressive strategy to counter risk with risk.",
+    "b_zh": "转为保守策略，等待对手因过度冒险而自取灭亡。",
+    "b_en": "Shift to a conservative strategy, waiting for the opponent to self-destruct due to excessive risk-taking."
+  },
+  {
+    "q_zh": "在最后一轮博弈中，你的分数落后，对手领先。此时你手上有一张可以改变局势的底牌，你会：",
+    "q_en": "In the final round, you are trailing and your opponent is ahead. You hold a game-changing card. What do you do?",
+    "a_zh": "展示底牌，试图与对手谈判分一部分分数，以避免双输。",
+    "a_en": "Reveal your card and attempt to negotiate a split of points with the opponent to avoid mutual loss.",
+    "b_zh": "隐藏底牌，突然使用它打对手一个措手不及，争取全胜。",
+    "b_en": "Conceal your card and use it suddenly to catch the opponent off guard, aiming for a complete victory."
+  },
+  {
+    "q_zh": "对手在前三轮连续选择了合作，你的最佳反应是：",
+    "q_en": "Your opponent has chosen cooperation for three consecutive rounds. Your best response is:",
+    "a_zh": "继续合作，建立长期信任，争取共赢最大化。",
+    "a_en": "Continue cooperating to build long-term trust and maximize mutual gains.",
+    "b_zh": "突然背叛一次，试探对手的忍耐底线，并从中获取短期利益。",
+    "b_en": "Suddenly betray once to test the opponent's tolerance and gain short-term benefits."
+  },
+  {
+    "q_zh": "当你知道对手是一个会报复的“以牙还牙”型玩家，你会：",
+    "q_en": "When you know your opponent is a 'tit-for-tat' player who retaliates, you will:",
+    "a_zh": "永远选择合作，避免触发任何报复行为。",
+    "a_en": "Always choose cooperation to avoid triggering any retaliatory actions.",
+    "b_zh": "先合作几次，然后在最后关头背叛，利用其模式获利。",
+    "b_en": "Cooperate a few times, then betray at the last moment to exploit their pattern."
+  },
+  {
+    "q_zh": "游戏规定如果双方都选择背叛，双方都扣分。你会如何开局？",
+    "q_en": "The game rule is that if both betray, both lose points. How will you start?",
+    "a_zh": "先选择合作，释放善意信号，希望引导对手合作。",
+    "a_en": "Start with cooperation to send a goodwill signal, hoping to guide the opponent to cooperate.",
+    "b_zh": "先选择背叛，展示强硬姿态，迫使对手因为害怕扣分而合作。",
+    "b_en": "Start with betrayal to show a tough stance, forcing the opponent to cooperate out of fear of losing points."
+  },
+  {
+    "q_zh": "在多次博弈中，你发现对手总是模仿你上一轮的策略。接下来你会：",
+    "q_en": "In repeated games, you find your opponent always copies your previous move. What will you do next?",
+    "a_zh": "设计一个周期性的策略，利用其模仿行为诱导其走入陷阱。",
+    "a_en": "Design a cyclical strategy to exploit their imitation behavior and lead them into a trap.",
+    "b_zh": "保持完全随机策略，使其无法预测和模仿，维持均势。",
+    "b_en": "Maintain a completely random strategy so they can't predict or copy, keeping the balance."
+  },
+  {
+    "q_zh": "你的对手明显是一个情绪化的玩家，上一轮失败后可能会冲动行动。你会：",
+    "q_en": "Your opponent is clearly emotional and may act impulsively after a loss. You will:",
+    "a_zh": "故意输掉一小轮，安抚其情绪，以便后续获得更大利益。",
+    "a_en": "Intentionally lose a small round to soothe their emotions, aiming for larger gains later.",
+    "b_zh": "趁其情绪不稳，加大压力迫使其连续犯错。",
+    "b_en": "Exploit their emotional instability by increasing pressure and forcing consecutive mistakes."
+  },
+  {
+    "q_zh": "如果你可以在游戏前私下与对手进行短暂沟通，你会：",
+    "q_en": "If you could have a brief private communication with your opponent before the game, you would:",
+    "a_zh": "实事求是地表达合作意愿，并明确惩罚背叛的条件。",
+    "a_en": "Honestly express your willingness to cooperate and clearly state the conditions for punishing betrayal.",
+    "b_zh": "假装软弱，谎称自己一定会合作，麻痹对手使其放松警惕。",
+    "b_en": "Pretend to be weak, falsely claiming you will always cooperate, to lull the opponent into complacency."
+  },
+  {
+    "q_zh": "游戏进入尾声，你和对手分数持平，最后三回合将决定胜负。你会：",
+    "q_en": "The game is nearing its end, and you are tied with your opponent. The last three rounds will decide the winner. You will:",
+    "a_zh": "连续三次选择合作，争取以平局收场，避免冒险。",
+    "a_en": "Choose cooperation for all three rounds, aiming for a draw to avoid risks.",
+    "b_zh": "在最后三回合中使用“背叛-合作-背叛”的交替模式，迷惑对手并最大化收益。",
+    "b_en": "Use a 'betray-cooperate-betray' alternating pattern in the last three rounds to confuse the opponent and maximize gains."
+  },
+  {
+    "q_zh": "如果你不确定对手是理性还是非理性，你会优先选择哪种策略？",
+    "q_en": "If you are unsure whether your opponent is rational or irrational, which strategy would you prioritize?",
+    "a_zh": "采用混合策略，用随机性抵御对手的所有可能行为。",
+    "a_en": "Adopt a mixed strategy, using randomness to guard against all possible opponent behaviors.",
+    "b_zh": "观察两轮后，选择对手在前两轮中更常使用的策略。",
+    "b_en": "Observe for two rounds, then adopt the strategy your opponent used more frequently in those rounds."
   }
 ]
