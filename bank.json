@@ -11894,5 +11894,85 @@
     "a_en": "Adopt a mixed strategy, using randomness to guard against all possible opponent behaviors.",
     "b_zh": "观察两轮后，选择对手在前两轮中更常使用的策略。",
     "b_en": "Observe for two rounds, then adopt the strategy your opponent used more frequently in those rounds."
+  },
+  {
+    "q_zh": "在零和博弈中，如果你知道对手是理性且自私的，你会选择什么策略？",
+    "q_en": "In a zero-sum game, if you know your opponent is rational and self-interested, which strategy do you choose?",
+    "a_zh": "选择最大最小策略（Maximin），优先保证自己的最低收益。",
+    "a_en": "Choose the maximin strategy, prioritizing your own minimum guaranteed payoff.",
+    "b_zh": "选择最大最大策略（Maximax），争取最高可能收益。",
+    "b_en": "Choose the maximax strategy, aiming for the highest possible payoff."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，为了诱导对方长期合作，你应采用哪种策略？",
+    "q_en": "In a repeated Prisoner's Dilemma, which strategy is best to induce long-term cooperation?",
+    "a_zh": "以牙还牙（Tit-for-Tat）：第一回合合作，之后模仿对方上一回合行为。",
+    "a_en": "Tit-for-Tat: cooperate first, then mirror the opponent's last move.",
+    "b_zh": "永远背叛（Always Defect），避免被占便宜。",
+    "b_en": "Always Defect, to avoid being exploited."
+  },
+  {
+    "q_zh": "在拍卖博弈中，如果你估价为100元，但对手出价未知，最佳策略是？",
+    "q_en": "In an auction game, if your valuation is 100 but the opponent's bid is unknown, the best strategy is?",
+    "a_zh": "出价略低于100元（如99元），保留利润空间。",
+    "a_en": "Bid slightly below 100 (e.g., 99), retaining profit margin.",
+    "b_zh": "出价100元，确保赢下物品但零利润。",
+    "b_en": "Bid 100, guarantee winning the item but with zero profit."
+  },
+  {
+    "q_zh": "在“懦夫博弈”（Chicken Game）中，你想避免碰撞但希望对方退缩，你会？",
+    "q_en": "In the Chicken Game, you want to avoid collision but hope the opponent backs down, what do you do?",
+    "a_zh": "率先表现出不可预测和疯狂（如提前扔掉方向盘），迫使对方让步。",
+    "a_en": "Pre-commit to irrationality (e.g., throw away the steering wheel), forcing the opponent to yield.",
+    "b_zh": "保持理性，期望对方因害怕而转向。",
+    "b_en": "Stay rational, hoping the opponent will swerve out of fear."
+  },
+  {
+    "q_zh": "在协调博弈中，你和搭档需要选择见面地点，但无法沟通。最稳妥的策略是？",
+    "q_en": "In a coordination game, you and your partner need to pick a meeting spot without communication. The safest strategy is?",
+    "a_zh": "选择显著性焦点（如城市中心地标），利用共同知识。",
+    "a_en": "Choose a salient focal point (e.g., a city center landmark), using common knowledge.",
+    "b_zh": "随机选择一个地点，增加匹配概率。",
+    "b_en": "Pick a location at random to increase the chance of matching."
+  },
+  {
+    "q_zh": "在“最后通牒博弈”中，如果你作为提议者，给对方的分配金额应为？",
+    "q_en": "In the Ultimatum Game as the proposer, what amount should you offer to the responder?",
+    "a_zh": "给出公平份额（约40%-50%），降低被拒绝的风险。",
+    "a_en": "Offer a fair share (about 40%-50%), minimizing the risk of rejection.",
+    "b_zh": "给出最小正数额（如1%），假设对方是理性经济人。",
+    "b_en": "Offer the smallest positive amount (e.g., 1%), assuming the responder is a rational economic agent."
+  },
+  {
+    "q_zh": "在“猎鹿博弈”（Stag Hunt）中，如果对方可能不可靠，你会选择？",
+    "q_en": "In the Stag Hunt, if your partner may be unreliable, which action do you take?",
+    "a_zh": "选择猎兔（安全但低回报），避免全部损失。",
+    "a_en": "Hare (safe but low payoff) to avoid total loss.",
+    "b_zh": "选择猎鹿（高回报但需合作），赌对方也会合作。",
+    "b_en": "Stag (high payoff but requires cooperation), betting on the partner's cooperation."
+  },
+  {
+    "q_zh": "在“消耗战”（War of Attrition）中，双方实力相当时，最佳策略是？",
+    "q_en": "In a War of Attrition with equal strength, the best strategy is?",
+    "a_zh": "随机化退出时间，让对方无法预测你的忍耐极限。",
+    "a_en": "Randomize your exit time, making your endurance unpredictable to the opponent.",
+    "b_zh": "坚持到底，相信对方会先放弃。",
+    "b_en": "Hold out to the end, believing the opponent will give up first."
+  },
+  {
+    "q_zh": "在“蜈蚣博弈”（Centipede Game）中，作为先手，你第一步应该？",
+    "q_en": "In the Centipede Game as the first mover, what should you do on the first turn?",
+    "a_zh": "选择“合作”（继续），期望通过互惠积累更大收益。",
+    "a_en": "Choose 'cooperate' (continue), expecting reciprocal gains over time.",
+    "b_zh": "选择“背叛”（停止），立即锁定当前收益避免后续被坑。",
+    "b_en": "Choose 'defect' (stop), locking in current payoff to avoid being exploited later."
+  },
+  {
+    "q_zh": "在博弈中，如果对手公开承诺“无论你做什么，我都会选择背叛”，你该如何应对？",
+    "q_en": "If your opponent publicly commits 'I will defect no matter what you do', how should you respond?",
+    "a_zh": "选择背叛，避免被利用，并将对方锁定在低效均衡中。",
+    "a_en": "Defect to avoid being exploited, locking the opponent into a low-efficiency equilibrium.",
+    "b_zh": "尝试合作，期待对方改变初衷。",
+    "b_en": "Try to cooperate, hoping the opponent changes their mind."
   }
 ]
