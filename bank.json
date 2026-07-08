@@ -11974,5 +11974,85 @@
     "a_en": "Defect to avoid being exploited, locking the opponent into a low-efficiency equilibrium.",
     "b_zh": "尝试合作，期待对方改变初衷。",
     "b_en": "Try to cooperate, hoping the opponent changes their mind."
+  },
+  {
+    "q_zh": "你发现同事在会议中抢了你的功劳。你会：",
+    "q_en": "You find a colleague taking credit for your work in a meeting. You will:",
+    "a_zh": "A. 当场揭穿他，让所有人知道真相",
+    "a_en": "A. Confront him immediately to reveal the truth to everyone",
+    "b_zh": "B. 暂时沉默，会后私下与他沟通并建立合作或威慑",
+    "b_en": "B. Stay silent for now, talk to him privately later to establish cooperation or deterrence"
+  },
+  {
+    "q_zh": "在囚徒困境博弈中，对面玩家第一次背叛了你。之后你会：",
+    "q_en": "In a Prisoner's Dilemma game, the other player betrayed you on the first move. You will:",
+    "a_zh": "A. 从此永远背叛，以牙还牙绝不原谅",
+    "a_en": "A. Defect forever from now on, tit-for-tat with no forgiveness",
+    "b_zh": "B. 先合作一次，观察对方是否悔改，再决定长期策略",
+    "b_en": "B. Cooperate once to test if they repent, then decide long-term strategy"
+  },
+  {
+    "q_zh": "你有一个稀缺资源，对手急需，但你们并非朋友。你会：",
+    "q_en": "You have a scarce resource that your opponent urgently needs, but you are not friends. You will:",
+    "a_zh": "A. 高价出售，榨取最大短期利益",
+    "a_en": "A. Sell at a high price to extract maximum short-term gain",
+    "b_zh": "B. 以合理价格交换，换取未来的人情或互惠机会",
+    "b_en": "B. Exchange at a fair price to gain future favors or reciprocity"
+  },
+  {
+    "q_zh": "在一场谈判中，对方提出了一个你无法接受的底价。你会：",
+    "q_en": "In a negotiation, the other side presents a bottom-line price you cannot accept. You will:",
+    "a_zh": "A. 立即离席，展示强硬立场，逼迫对方让步",
+    "a_en": "A. Walk away immediately to show a hard stance and force concession",
+    "b_zh": "B. 提出一个折中方案，并暗示如果不成则合作终止",
+    "b_en": "B. Propose a compromise and imply that if it fails, cooperation ends"
+  },
+  {
+    "q_zh": "你发现对手在背后散布关于你的谣言。你会：",
+    "q_en": "You discover your opponent is spreading rumors about you behind your back. You will:",
+    "a_zh": "A. 公开反击，揭露他的谎言并发动舆论战",
+    "a_en": "A. Retaliate publicly, expose his lies and start a war of words",
+    "b_zh": "B. 私下收集证据，在关键时机以静制动反制",
+    "b_en": "B. Gather evidence privately and counter at a critical moment with calm precision"
+  },
+  {
+    "q_zh": "在一次合作项目中，你已付出70%的努力，对方只付出30%。你会：",
+    "q_en": "In a joint project, you have contributed 70% effort while the other side only 30%. You will:",
+    "a_zh": "A. 减少自己投入，迫使对方增加贡献",
+    "a_en": "A. Reduce your own input to force them to contribute more",
+    "b_zh": "B. 继续维持高质量，但在完成后要求更多回报或声誉",
+    "b_en": "B. Maintain high quality, then demand more rewards or credit afterward"
+  },
+  {
+    "q_zh": "你知道对方有一个秘密弱点，但能帮你赢得博弈。你会：",
+    "q_en": "You know a secret weakness of your opponent that could help you win the game. You will:",
+    "a_zh": "A. 直接利用它，毫不留情地赢得博弈",
+    "a_en": "A. Exploit it directly and win the game without mercy",
+    "b_zh": "B. 先隐忍不发，作为最后底牌，以防对方背叛时使用",
+    "b_en": "B. Hold back and keep it as a last resort, in case of betrayal"
+  },
+  {
+    "q_zh": "在多次重复博弈中，对方一直选择合作。你会：",
+    "q_en": "In a repeated game, the other player has consistently cooperated. You will:",
+    "a_zh": "A. 继续合作，维持信任以获取长期最大收益",
+    "a_en": "A. Continue cooperating to maintain trust and maximize long-term gains",
+    "b_zh": "B. 偶尔背叛一次，试探对方反应或获取额外利益",
+    "b_en": "B. Defect occasionally to test their reaction or gain extra benefits"
+  },
+  {
+    "q_zh": "你与对手实力相当，但先手优势明显。你会：",
+    "q_en": "You and your opponent are evenly matched, but you have a clear first-mover advantage. You will:",
+    "a_zh": "A. 抢先行动，占据主动，迫使对方被动应对",
+    "a_en": "A. Act first to seize the initiative and force them into a passive response",
+    "b_zh": "B. 故意拖延，观察对方策略，再以情报优势后发制人",
+    "b_en": "B. Deliberately delay, observe their strategy, and use intelligence to counter later"
+  },
+  {
+    "q_zh": "博弈进入最后阶段，双方利益冲突尖锐。你会：",
+    "q_en": "The game enters its final stage with sharp conflicts of interest. You will:",
+    "a_zh": "A. 采取最极端手段，赌一把胜负，不留后路",
+    "a_en": "A. Take the most extreme measure, gamble on all-or-nothing with no retreat",
+    "b_zh": "B. 提出平分方案，争取双赢结局，避免双输",
+    "b_en": "B. Propose a split strategy to aim for a win-win outcome and avoid mutual loss"
   }
 ]
