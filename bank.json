@@ -12054,5 +12054,85 @@
     "a_en": "A. Take the most extreme measure, gamble on all-or-nothing with no retreat",
     "b_zh": "B. 提出平分方案，争取双赢结局，避免双输",
     "b_en": "B. Propose a split strategy to aim for a win-win outcome and avoid mutual loss"
+  },
+  {
+    "q_zh": "在一次合作博弈中，你的搭档背叛了你，你接下来会优先考虑什么？",
+    "q_en": "In a cooperative game, your partner betrays you. What will you prioritize next?",
+    "a_zh": "报复对方，确保其付出代价",
+    "a_en": "Retaliate to ensure they pay the price",
+    "b_zh": "分析原因，尝试修复关系或调整策略",
+    "b_en": "Analyze the reason and try to mend the relationship or adjust strategy"
+  },
+  {
+    "q_zh": "当你知道对手非常理性且自私时，在一次性博弈中你的最优选择是？",
+    "q_en": "When you know your opponent is highly rational and selfish in a one-shot game, what is your best move?",
+    "a_zh": "抢先合作以换取信任",
+    "a_en": "Offer cooperation first to gain trust",
+    "b_zh": "选择背叛以最大化自身收益",
+    "b_en": "Defect to maximize your own payoff"
+  },
+  {
+    "q_zh": "在重复博弈中，你希望建立长期合作关系，你的首轮行动最可能是？",
+    "q_en": "In a repeated game aiming for long-term cooperation, what is your most likely first move?",
+    "a_zh": "无条件合作",
+    "a_en": "Unconditional cooperation",
+    "b_zh": "先背叛一次再观察对方反应",
+    "b_en": "Defect once then observe the reaction"
+  },
+  {
+    "q_zh": "你和对手都面临“囚徒困境”，但你可以事先承诺一个行动，你会承诺什么？",
+    "q_en": "Both you and your opponent face a Prisoner's Dilemma, but you can pre-commit to an action. What do you promise?",
+    "a_zh": "承诺合作，并指望对方也信守承诺",
+    "a_en": "Promise to cooperate, hoping the other will honor it",
+    "b_zh": "承诺背叛，使对方被迫选择合作",
+    "b_en": "Promise to defect, forcing the other to cooperate"
+  },
+  {
+    "q_zh": "在一个“胆小鬼博弈”中（两人相向而行），你确信对方会坚持到底，你会怎么做？",
+    "q_en": "In a 'Chicken Game' (two drivers head-on), you are sure the other will not swerve. What do you do?",
+    "a_zh": "选择转向，避免两败俱伤",
+    "a_en": "Swerve to avoid mutual disaster",
+    "b_zh": "也坚持不转向，赌对方最后会怕",
+    "b_en": "Also refuse to swerve, betting the other will flinch"
+  },
+  {
+    "q_zh": "谈判中，对方提出了一个非常不公平的分配方案，最佳反应是？",
+    "q_en": "In a negotiation, the other party proposes a very unfair split. What is the best response?",
+    "a_zh": "断然拒绝，即使导致谈判破裂",
+    "a_en": "Flatly reject it, even if it causes a breakdown",
+    "b_zh": "接受小部分，保住底线收益",
+    "b_en": "Accept a small portion to secure some gain"
+  },
+  {
+    "q_zh": "在多人博弈中，你发现一个玩家总是“以牙还牙”，你会如何与他互动？",
+    "q_en": "In a multi-player game, you find a player always uses 'Tit-for-Tat'. How do you interact?",
+    "a_zh": "先合作，并持续保持友好策略",
+    "a_en": "Start with cooperation and maintain a friendly strategy",
+    "b_zh": "偶尔背叛试探，但及时弥补",
+    "b_en": "Occasionally defect to test, but quickly make amends"
+  },
+  {
+    "q_zh": "当你拥有可以改变游戏规则的“惩罚权”时，你倾向如何使用？",
+    "q_en": "When you have the power to change the game rules via punishment, how do you incline to use it?",
+    "a_zh": "威慑滥用，只在遭遇背叛后启用",
+    "a_en": "Use as deterrence, only after being betrayed",
+    "b_zh": "先发制人，主动惩罚不稳定因素",
+    "b_en": "Strike first, proactively punish unstable elements"
+  },
+  {
+    "q_zh": "在信息不对称的博弈中，你比对手更了解全局，你会？",
+    "q_en": "In an asymmetric information game, you know more about the overall situation than your opponent. What do you do?",
+    "a_zh": "利用信息优势为自己谋取最大利益",
+    "a_en": "Exploit the information advantage for maximum gain",
+    "b_zh": "适当分享部分信息，建立合作关系",
+    "b_en": "Share some information appropriately to build cooperation"
+  },
+  {
+    "q_zh": "对手在博弈中表现出非理性的愤怒，你的最优策略是？",
+    "q_en": "Your opponent shows irrational anger in the game. What is your optimal strategy?",
+    "a_zh": "避其锋芒，做出让步以安抚对方",
+    "a_en": "Avoid confrontation, make concessions to calm them",
+    "b_zh": "保持冷静，利用其情绪作出理性反制",
+    "b_en": "Stay calm and use their emotion to make a rational countermove"
   }
 ]
