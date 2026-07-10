@@ -12134,5 +12134,85 @@
     "a_en": "Avoid confrontation, make concessions to calm them",
     "b_zh": "保持冷静，利用其情绪作出理性反制",
     "b_en": "Stay calm and use their emotion to make a rational countermove"
+  },
+  {
+    "q_zh": "你发现对手在上一轮选择了合作。这一轮，你会选择？",
+    "q_en": "You discovered that your opponent cooperated in the last round. This round, you will choose?",
+    "a_zh": "继续合作，建立互信",
+    "a_en": "Continue cooperating to build trust",
+    "b_zh": "突然背叛，获取短期利益",
+    "b_en": "Defect suddenly for short-term gain"
+  },
+  {
+    "q_zh": "如果对手明确表示他一定会选择背叛，你会？",
+    "q_en": "If your opponent explicitly states he will definitely defect, you will?",
+    "a_zh": "提前背叛以保护自己",
+    "a_en": "Defect first to protect yourself",
+    "b_zh": "仍然选择合作，赌他撒谎",
+    "b_en": "Still cooperate, betting he is lying"
+  },
+  {
+    "q_zh": "游戏只剩最后两轮，你和对手分数非常接近。这一轮你会？",
+    "q_en": "Only two rounds left, and scores are very close. This round, you will?",
+    "a_zh": "选择合作，尝试维持友好到最后",
+    "a_en": "Choose cooperation, try to stay friendly until the end",
+    "b_zh": "选择背叛，赌博式拉大分差",
+    "b_en": "Choose defection, gamble to widen the gap"
+  },
+  {
+    "q_zh": "对手连续三次背叛了你，这一轮你会？",
+    "q_en": "Your opponent has defected three times in a row. This round, you will?",
+    "a_zh": "以牙还牙，也选择背叛",
+    "a_en": "Tit for tat, also choose to defect",
+    "b_zh": "原谅他一次，试探是否改变",
+    "b_en": "Forgive him once, test if he changes"
+  },
+  {
+    "q_zh": "你发现对手是个随机决策者（完全随机选择），你会？",
+    "q_en": "You found your opponent is a random decision-maker (completely random), you will?",
+    "a_zh": "一直选择背叛，利用其不可预测性",
+    "a_en": "Always defect, exploit his unpredictability",
+    "b_zh": "模仿他的随机，增加迷惑性",
+    "b_en": "Imitate his randomness for confusion"
+  },
+  {
+    "q_zh": "如果背叛能让你在本轮多得 3 分，但会导致对手永远不信任你。你选？",
+    "q_en": "If defecting gives you 3 extra points this round but makes your opponent never trust you again, you choose?",
+    "a_zh": "背叛，拿3分再说",
+    "a_en": "Defect, take the 3 points now",
+    "b_zh": "合作，维护长期关系",
+    "b_en": "Cooperate, maintain long-term relationship"
+  },
+  {
+    "q_zh": "对手在上一轮背叛了你，但事后他解释说这是误会。你信吗？",
+    "q_en": "Your opponent defected last round but later explained it was a misunderstanding. Do you believe him?",
+    "a_zh": "不信，继续用背叛惩罚他",
+    "a_en": "Don't believe, continue punishing with defection",
+    "b_zh": "信，再次给予合作机会",
+    "b_en": "Believe, give another chance to cooperate"
+  },
+  {
+    "q_zh": "游戏开始时，你不知道对手任何信息。第一轮你会选？",
+    "q_en": "At game start, you know nothing about your opponent. For the first round, you will pick?",
+    "a_zh": "先选择合作，主动释放善意",
+    "a_en": "Choose cooperation first, send goodwill",
+    "b_zh": "先选择背叛，以防万一",
+    "b_en": "Choose defection first, just in case"
+  },
+  {
+    "q_zh": "如果你和对手都选合作，双方得 3 分。如果你背叛而对手合作，你得 5 分。你预期对手会合作，你选？",
+    "q_en": "If both cooperate, each gets 3. If you defect and opponent cooperates, you get 5. You expect opponent to cooperate, you choose?",
+    "a_zh": "选择背叛，最大化自己分数",
+    "a_en": "Choose defection to maximize your score",
+    "b_zh": "选择合作，维持公平并可能长期获益",
+    "b_en": "Choose cooperation to stay fair and potentially gain long-term"
+  },
+  {
+    "q_zh": "你发现对手在用“一报还一报”策略（第一次合作，之后模仿你上一轮的行动）。你会？",
+    "q_en": "You found your opponent uses 'Tit for Tat' (first cooperates, then copies your last move). You will?",
+    "a_zh": "始终保持背叛，压榨他直到最后",
+    "a_en": "Always defect, exploit him to the end",
+    "b_zh": "先合作，然后偶尔背叛测试他的底线",
+    "b_en": "Cooperate first, then occasionally defect to test his limits"
   }
 ]
