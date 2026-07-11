@@ -12214,5 +12214,85 @@
     "a_en": "Always defect, exploit him to the end",
     "b_zh": "先合作，然后偶尔背叛测试他的底线",
     "b_en": "Cooperate first, then occasionally defect to test his limits"
+  },
+  {
+    "q_zh": "你在一个游戏中可以选择合作或背叛。如果双方都合作，各得3分；如果一方合作一方背叛，背叛者得5分，合作者得0分；如果双方都背叛，各得1分。你的对手是理性的，且只看重自己的得分。你会选择：",
+    "q_en": "In a game, you can choose to cooperate or defect. If both cooperate, each gets 3 points; if one cooperates and the other defects, the defector gets 5 and the cooperator gets 0; if both defect, each gets 1. Your opponent is rational and only cares about their own score. You choose:",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "在一个重复进行的囚徒困境中，你和对方都已经玩了10轮，且对方在前9轮都选择了合作，但在第10轮突然选择了背叛。你认为对方最有可能采用什么策略？",
+    "q_en": "In a repeated prisoner's dilemma, you and your opponent have played 10 rounds. Your opponent cooperated in the first 9 rounds but suddenly defected in round 10. Which strategy is your opponent most likely using?",
+    "a_zh": "以牙还牙（模仿你上一轮的行动）",
+    "a_en": "Tit-for-tat (copies your last move)",
+    "b_zh": "永远合作，但第10轮是一次随机失误",
+    "b_en": "Always cooperate, but round 10 was a random mistake"
+  },
+  {
+    "q_zh": "你是一名求职者，有两个职位可选。职位A：竞争激烈，但一旦入职，同事更可能合作；职位B：入职容易，但同事更可能自私竞争。你希望长期收益最大化，你会优先选择：",
+    "q_en": "You are a job seeker with two offers. Job A: fierce competition to get in, but colleagues are more cooperative once inside. Job B: easy to get in, but colleagues are more selfish and competitive. To maximize long-term gains, you prioritize:",
+    "a_zh": "职位A（高门槛，高合作）",
+    "a_en": "Job A (high barrier, high cooperation)",
+    "b_zh": "职位B（低门槛，低合作）",
+    "b_en": "Job B (low barrier, low cooperation)"
+  },
+  {
+    "q_zh": "在拍卖中，你与另一位买家竞拍一件物品，你们各自写下出价，出价高者赢得物品并支付自己的出价，出价低者什么也得不到且不付钱。你的估价是100元。对方出价策略未知。你应该出价：",
+    "q_en": "In an auction, you and another buyer bid for an item. The highest bidder wins and pays their own bid; the loser pays nothing. Your valuation is $100. Your opponent's strategy is unknown. You bid:",
+    "a_zh": "100元（诚实出价）",
+    "a_en": "100 (honest bid)",
+    "b_zh": "70元（保守出价）",
+    "b_en": "70 (conservative bid)"
+  },
+  {
+    "q_zh": "你和朋友玩一个游戏，每人同时选择‘红’或‘蓝’。如果你的选择和对方不同，你得1分，对方得0分；如果你的选择和对方相同，你得0分，对方得1分。你想最大化双方的总分，你会选：",
+    "q_en": "You and a friend play a game where each chooses 'Red' or 'Blue'. If you choose differently, you get 1 point, friend gets 0. If same, you get 0, friend gets 1. To maximize the total score for both, you choose:",
+    "a_zh": "红",
+    "a_en": "Red",
+    "b_zh": "蓝",
+    "b_en": "Blue"
+  },
+  {
+    "q_zh": "你要和陌生人进行一次性的‘信任博弈’：你先决定给TA多少钱（0-10元），然后TA会收到三倍的钱，TA再决定返还给你多少。你推测对方是理性自利的，你会：",
+    "q_en": "In a one-shot 'Trust Game' with a stranger: you decide how much to send (0-10), it triples for them, then they decide how much to return. You suspect the stranger is rational and self-interested. You:",
+    "a_zh": "发送大部分或全部钱（赌对方有互惠意识）",
+    "a_en": "Send most or all money (gamble on reciprocity)",
+    "b_zh": "发送很少或零（避免被剥削）",
+    "b_en": "Send little or nothing (avoid exploitation)"
+  },
+  {
+    "q_zh": "你和另一个玩家各有一张牌，牌上数字为1-10。你们同时亮牌，数字大者获胜并获得10元，数字小者得0元，数字相同则各得5元。对方是理性且聪明的，你会选择什么数字？",
+    "q_en": "You and another player each have a card numbered 1-10. You reveal simultaneously. Higher number wins $10; lower gets $0; tie gives each $5. Your opponent is rational and smart. You choose:",
+    "a_zh": "10（最大数字）",
+    "a_en": "10 (maximum)",
+    "b_zh": "5（中间数字）",
+    "b_en": "5 (middle number)"
+  },
+  {
+    "q_zh": "在‘美元拍卖’游戏中，你和另一位竞拍者竞拍1美元。出价最高者赢得1美元，但最高和第二高出价者都要支付自己的出价（即使没赢）。当前对方出价0.8美元。你应该：",
+    "q_en": "In a 'Dollar Auction,' you and another bidder bid for $1. The highest bidder wins $1 but both the highest and second-highest pay their bids. Your opponent's current bid is $0.80. You should:",
+    "a_zh": "出价0.9美元（继续竞拍）",
+    "a_en": "Bid $0.90 (continue bidding)",
+    "b_zh": "放弃，接受损失（0.8美元已损失）",
+    "b_en": "Quit and accept the loss (lose 0.80 bid)"
+  },
+  {
+    "q_zh": "你经营一家公司，对手公司也在同一市场。如果你们同时降价，双方利润都下降；如果都维持高价，双方利润都高。但一方降价可以抢走对方顾客以获短期暴利。你和对手的博弈是无限重复的，且你们都很看重未来。你会优先选择：",
+    "q_en": "You run a company in a market with one competitor. If both lower prices, both profits drop; if both keep high prices, both profit well. But one can undercut and gain short-term customers. The game repeats infinitely and you both care about the future. You prioritize:",
+    "a_zh": "维持高价，期待默契合作",
+    "a_en": "Maintain high price, hoping for tacit collusion",
+    "b_zh": "先降价抢占市场份额",
+    "b_en": "Lower price first to grab market share"
+  },
+  {
+    "q_zh": "在一个两轮博弈中：第一轮，你选择是否给对方一个‘善意’信号（不消耗资源）；第二轮，你们进行经典的囚徒困境。对方会在第一轮看到你的信号。你认为发送善意信号：",
+    "q_en": "In a two-round game: Round 1, you choose whether to send a 'kindness' signal (costless); Round 2, you play a classic prisoner's dilemma. Your opponent sees your signal in Round 1. Sending a kindness signal:",
+    "a_zh": "可能引发对方合作，值得发送",
+    "a_en": "May induce cooperation; worth sending",
+    "b_zh": "没有真实成本，对方可能忽略，不如不送",
+    "b_en": "Has no real cost; opponent may ignore; better not to send"
   }
 ]
