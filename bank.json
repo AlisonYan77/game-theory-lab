@@ -12294,5 +12294,85 @@
     "a_en": "May induce cooperation; worth sending",
     "b_zh": "没有真实成本，对方可能忽略，不如不送",
     "b_en": "Has no real cost; opponent may ignore; better not to send"
+  },
+  {
+    "q_zh": "在重复囚徒困境中，对方上一轮背叛了你，这一轮你更可能选择：",
+    "q_en": "In a repeated prisoner's dilemma, the other player betrayed you last round. This round you are more likely to:",
+    "a_zh": "合作——尝试修复关系，避免长期损失。",
+    "a_en": "Cooperate — try to repair the relationship and avoid long-term loss.",
+    "b_zh": "背叛——惩罚对方，防止被继续利用。",
+    "b_en": "Defect — punish the other to prevent further exploitation."
+  },
+  {
+    "q_zh": "在一场竞价拍卖中，你已为拍品投入了大量沉没成本，现在对手出价略高于你，你会：",
+    "q_en": "In an auction with sunk costs, a rival slightly outbids you. You would:",
+    "a_zh": "理性放弃，承认损失，避免恶性竞价。",
+    "a_en": "Rationally quit, accepting the loss to avoid a bidding war.",
+    "b_zh": "加价追赶，不甘心前功尽弃。",
+    "b_en": "Raise the bid, unwilling to let previous efforts go to waste."
+  },
+  {
+    "q_zh": "你和对手都隐藏了一张牌，你知道自己牌弱，但对手可能虚张声势，你会：",
+    "q_en": "You and your opponent have hidden cards; yours is weak but opponent may bluff. You would:",
+    "a_zh": "直接认输，避免损失更多筹码。",
+    "a_en": "Fold directly to avoid losing more chips.",
+    "b_zh": "假装强势，尝试吓退对方让对手弃牌。",
+    "b_en": "Act strong, try to bluff the opponent into folding."
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你作为提议者，分给对方总金额的20%，对方如果拒绝双方都一无所获，你预期对方会：",
+    "q_en": "In the ultimatum game, as proposer you offer 20% of the total. If rejected, both get nothing. You expect the responder to:",
+    "a_zh": "接受——理性人不会拒绝有胜于无的收益。",
+    "a_en": "Accept — a rational person wouldn't reject a positive offer.",
+    "b_zh": "拒绝——感觉被侮辱，宁可惩罚不公平。",
+    "b_en": "Reject — feeling insulted, preferring to punish unfairness."
+  },
+  {
+    "q_zh": "你和对手同时选择左右两条路，如果都选左边你赢小分，都选右边你输，你会更倾向于：",
+    "q_en": "You and opponent choose Left or Right simultaneously. Both Left wins you small; both Right loses. You tend to:",
+    "a_zh": "选择左边，追求稳健的小收益。",
+    "a_en": "Choose Left, seeking safe small gain.",
+    "b_zh": "选择右边，赌对手也选右边从而获得大回报。",
+    "b_en": "Choose Right, gambling opponent also picks it for big payoff."
+  },
+  {
+    "q_zh": "在公共品博弈中，每个人可向公共池投资，最终收益按投资比例分配，你会：",
+    "q_en": "In a public goods game, each can invest in a common pool; payoff split proportionally. You would:",
+    "a_zh": "全额投资，相信合作能最大化集体福利。",
+    "a_en": "Invest fully, trusting cooperation maximizes collective welfare.",
+    "b_zh": "零投资，搭便车享受他人贡献的好处。",
+    "b_en": "Invest zero, free-ride on others' contributions."
+  },
+  {
+    "q_zh": "对手连续多次选择与你相反的策略并获胜，现在轮到你先手，你会：",
+    "q_en": "Opponent has repeatedly chosen the opposite strategy and won. Now you move first. You will:",
+    "a_zh": "主动改变策略，尝试打破对方的模式。",
+    "a_en": "Change your strategy actively, trying to break the opponent's pattern.",
+    "b_zh": "继续原策略，赌对方不会连续猜中。",
+    "b_en": "Stick to original strategy, betting opponent won't keep guessing right."
+  },
+  {
+    "q_zh": "谈判中，对方强硬表态绝不会让步，你手中的牌其实比对方想象的要差，你会：",
+    "q_en": "In a negotiation, the opponent firmly states they won't concede, but you have a weaker hand than they think. You will:",
+    "a_zh": "虚张声势，寸步不让，赌对方先怂。",
+    "a_en": "Bluff, stand firm, and hope the opponent backs down first.",
+    "b_zh": "主动让步，争取达成一个尚可接受的协议。",
+    "b_en": "Concede first, aiming for an acceptable deal."
+  },
+  {
+    "q_zh": "在一场多轮博弈中，你发现对手的决策完全随机——没有任何模式，你会：",
+    "q_en": "In a multi-round game, you find the opponent's decisions are completely random with no pattern. You will:",
+    "a_zh": "采取固定最优策略，不受其随机性干扰。",
+    "a_en": "Adopt a fixed optimal strategy, unaffected by the randomness.",
+    "b_zh": "也采用随机策略，最大化不可预测性。",
+    "b_en": "Adopt a random strategy as well to maximize unpredictability."
+  },
+  {
+    "q_zh": "你与一个朋友进行非零和博弈，双方都获益的选项存在，但你若选自私策略可获得更多利益，你会：",
+    "q_en": "In a non-zero-sum game with a friend, a win-win exists but a selfish option gives you more. You would:",
+    "a_zh": "选择自私策略——博弈本来就是竞争。",
+    "a_en": "Choose the selfish option — the game is about competition.",
+    "b_zh": "选择共赢策略——维持友情与合作关系。",
+    "b_en": "Choose the win-win option — maintain friendship and cooperation."
   }
 ]
