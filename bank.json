@@ -12374,5 +12374,85 @@
     "a_en": "Choose the selfish option — the game is about competition.",
     "b_zh": "选择共赢策略——维持友情与合作关系。",
     "b_en": "Choose the win-win option — maintain friendship and cooperation."
+  },
+  {
+    "q_zh": "在一次性囚徒困境中，对方选择了背叛，你接下来会如何选择？",
+    "q_en": "In a one-shot Prisoner's Dilemma, your opponent chose to betray. What will you choose next?",
+    "a_zh": "也选择背叛，报复对方并确保自己不吃亏",
+    "a_en": "Also betray, to retaliate and ensure you don't lose out",
+    "b_zh": "选择合作，尝试感化对方或维持原则",
+    "b_en": "Choose cooperate, in an attempt to reform the opponent or uphold principles"
+  },
+  {
+    "q_zh": "在有限次重复博弈中，最后几轮对方频繁合作，你怀疑他在诱导你放松警惕，你会如何？",
+    "q_en": "In a finitely repeated game, your opponent cooperates frequently in the last few rounds, making you suspect a trap. What do you do?",
+    "a_zh": "继续合作，试图建立信任争取双赢",
+    "a_en": "Continue cooperating, trying to build trust for mutual benefit",
+    "b_zh": "提前背叛，利用对方的善意获取更大利益",
+    "b_en": "Defect early to exploit their goodwill for greater gain"
+  },
+  {
+    "q_zh": "对方连续三次背叛后突然转向合作，你的策略是？",
+    "q_en": "After three consecutive betrayals, your opponent suddenly switches to cooperation. What's your move?",
+    "a_zh": "原谅一次，给双方重新合作的机会",
+    "a_en": "Forgive once, giving both sides a chance to rebuild",
+    "b_zh": "不原谅，继续背叛以惩罚其机会主义行为",
+    "b_en": "Hold a grudge, continue betraying to punish their opportunism"
+  },
+  {
+    "q_zh": "在多人博弈中，有一个玩家通过承诺分给我额外利益拉拢我，但其他玩家都表示反对，我会？",
+    "q_en": "In a multi-player game, one player offers extra benefits to ally with me, but all others object. I will:",
+    "a_zh": "接受拉拢，获得短期实际利益",
+    "a_en": "Accept the offer, gaining short-term tangible benefits",
+    "b_zh": "拒绝拉拢，维护大多数玩家关系以获取长期博弈优势",
+    "b_en": "Reject the offer, maintaining relations with the majority for long-term advantage"
+  },
+  {
+    "q_zh": "对手在博弈开始前公开宣称“无论你做什么，我都会背叛”，你认为这最可能是？",
+    "q_en": "Before the game, your opponent publicly declares 'I will betray no matter what you do.' You think this is most likely:",
+    "a_zh": "真实的威胁，他意志坚决不会改变",
+    "a_en": "A genuine threat; their resolve is firm and unchangeable",
+    "b_zh": "反向心理诱导，实际希望我背叛他好获得道德优势",
+    "b_en": "Reverse psychology; they actually want me to defect and then claim moral high ground"
+  },
+  {
+    "q_zh": "在连续博弈中，你发现对方使用“以牙还牙”策略，你如何应对？",
+    "q_en": "In an iterated game, you detect that your opponent uses a 'tit-for-tat' strategy. How do you respond?",
+    "a_zh": "用同样策略对等互动，保持稳定合作",
+    "a_en": "Mirror with the same strategy to maintain stable cooperation",
+    "b_zh": "偶尔主动背叛一次，试探对方反应并借机获利",
+    "b_en": "Occasionally initiate a betrayal to test their response and profit"
+  },
+  {
+    "q_zh": "博弈进入最后倒数第二轮，目前总分你领先，对方落后较多，他会如何出牌？",
+    "q_en": "It's the second-to-last round. You're leading by a large margin; your opponent is far behind. What will they do?",
+    "a_zh": "他会孤注一掷选择背叛，赌一把翻盘",
+    "a_en": "They will go all-in with betrayal, gambling on a comeback",
+    "b_zh": "他会选择合作，放弃抵抗并避免结怨",
+    "b_en": "They will cooperate, conceding and avoiding hostility"
+  },
+  {
+    "q_zh": "在一场以声誉为核心价值的游戏中，对手私下贿赂我要求假装输给他，我会？",
+    "q_en": "In a game where reputation is paramount, an opponent secretly bribes me to pretend to lose. I will:",
+    "a_zh": "接受贿赂，获得金钱利益但损害声誉",
+    "a_en": "Accept the bribe, gaining money but damaging my reputation",
+    "b_zh": "拒绝贿赂并公开此事，维护声誉赢得未来信任",
+    "b_en": "Refuse the bribe and expose it, preserving reputation for future trust"
+  },
+  {
+    "q_zh": "对方上一轮合作后，本轮却犹豫不决，你从他微表情看出紧张，你会？",
+    "q_en": "After cooperating last round, your opponent now hesitates, and you catch nervous micro-expressions. You will:",
+    "a_zh": "先发制人选择背叛，利用他的犹豫获利",
+    "a_en": "Preemptively betray, exploiting their hesitation for gain",
+    "b_zh": "明确邀请他再次合作，缓解紧张建立互信",
+    "b_en": "Overtly invite cooperation again, easing tension and building trust"
+  },
+  {
+    "q_zh": "在你和对手都极度理性的短周期博弈中，对方突然选择了一个明显不理智的行为，你最合理的怀疑是？",
+    "q_en": "In a short-cycle game between two hyper-rational players, your opponent suddenly makes an obviously irrational move. Your most reasonable suspicion is:",
+    "a_zh": "他可能在犯错，我应抓住机会最大化自己收益",
+    "a_en": "They may be making a mistake; I should seize the chance to maximize my payoff",
+    "b_zh": "他在故意设陷阱，我应保守应对避免被算计",
+    "b_en": "They are setting a trap; I should play conservatively to avoid being tricked"
   }
 ]
