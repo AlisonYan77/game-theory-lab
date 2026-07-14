@@ -12454,5 +12454,85 @@
     "a_en": "They may be making a mistake; I should seize the chance to maximize my payoff",
     "b_zh": "他在故意设陷阱，我应保守应对避免被算计",
     "b_en": "They are setting a trap; I should play conservatively to avoid being tricked"
+  },
+  {
+    "q_zh": "在一场陌生的社交派对上，你注意到一个人独自站在角落。你会怎么做？",
+    "q_en": "At a social gathering where you know no one, you notice a person standing alone in a corner. What would you do?",
+    "a_zh": "主动上前打招呼，尝试聊天。",
+    "a_en": "Approach them proactively and start a conversation.",
+    "b_zh": "等待对方先主动接近你，或者保持距离观察。",
+    "b_en": "Wait for them to approach you first, or keep your distance and observe."
+  },
+  {
+    "q_zh": "你发现同事在背后说你坏话，但对方也是你完成关键项目需要合作的人。你如何应对？",
+    "q_en": "You discover a colleague has been speaking ill of you behind your back, but they are also essential for a key project. How do you respond?",
+    "a_zh": "当面冷静礼貌地指出问题，寻求和解与协作。",
+    "a_en": "Calmly and politely address the issue face-to-face, seeking reconciliation and cooperation.",
+    "b_zh": "假装不知情，但在合作中设法让自己掌握更多主动权。",
+    "b_en": "Pretend not to know, but subtly maneuver to gain more leverage in the collaboration."
+  },
+  {
+    "q_zh": "谈判中，对方给出了一个明显不合理的低报价，并声称这是最终条件。你的第一反应是？",
+    "q_en": "In a negotiation, the other party makes a clearly unreasonable low offer, claiming it’s their final condition. Your first reaction is?",
+    "a_zh": "立即反驳，并重新报价来锚定回合理区间。",
+    "a_en": "Immediately refute and counter-offer to anchor the discussion back to a reasonable range.",
+    "b_zh": "沉默或拖延，让对方先感到不安，再逐步透露你的底线。",
+    "b_en": "Stay silent or stall, making them feel uneasy first, then gradually reveal your bottom line."
+  },
+  {
+    "q_zh": "你最好的朋友公开投票时选择了与你对立的立场，而那个投票结果对你有重大影响。你会？",
+    "q_en": "Your best friend publicly votes against your stance in a decision that greatly affects you. What do you do?",
+    "a_zh": "直接质问朋友原因，并要求对方解释或改变立场。",
+    "a_en": "Directly confront your friend about the reason, demanding an explanation or a change of stance.",
+    "b_zh": "表面上不追究，但开始在关键时刻降低对朋友的信任程度。",
+    "b_en": "Outwardly let it go, but internally begin to reduce your level of trust in them at critical moments."
+  },
+  {
+    "q_zh": "为了赢得一场比赛，你有两个选择：快速但风险高的策略，或者缓慢但稳定的策略。对手很强。你选？",
+    "q_en": "To win a game, you have two choices: a fast but high-risk strategy, or a slow but steady one. Your opponent is strong. Which do you choose?",
+    "a_zh": "出奇制胜，采用高风险策略试图打乱对手节奏。",
+    "a_en": "Go for a surprise win with a high-risk strategy to disrupt the opponent’s rhythm.",
+    "b_zh": "稳扎稳打，用低风险的策略逼迫对方先犯错。",
+    "b_en": "Play it safe with a low-risk strategy, forcing the opponent to make the first mistake."
+  },
+  {
+    "q_zh": "有人在社交媒体上恶意扭曲你的言论，导致部分朋友疏远你。你首先会？",
+    "q_en": "Someone maliciously twists your words on social media, causing some friends to distance themselves. Your first move is?",
+    "a_zh": "公开发布澄清声明，详细说明原委并展示证据。",
+    "a_en": "Publish a public clarification, detailing the facts and presenting evidence.",
+    "b_zh": "私下联系那几位朋友，先修复关键的人际关系，暂时不理睬公众舆论。",
+    "b_en": "Privately contact those few friends first to repair key relationships, ignoring the public noise for now."
+  },
+  {
+    "q_zh": "在一个囚徒困境式的情境中（互相背叛则双输，合作则共赢，单独背叛可获大利），你会？",
+    "q_en": "In a Prisoner’s Dilemma scenario (mutual betrayal = both lose, mutual cooperation = win-win, alone betrayal = maximum gain), you would:",
+    "a_zh": "选择合作，并期待对方也有同样觉悟。",
+    "a_en": "Choose cooperation, hoping the other party has the same insight.",
+    "b_zh": "选择背叛，因为确保自己不被利用是最理性的。",
+    "b_en": "Choose betrayal, because ensuring you are not exploited is the most rational move."
+  },
+  {
+    "q_zh": "你怀疑搭档在暗中准备接替你的职位。你手中掌握着搭档的某些不致命把柄。你会？",
+    "q_en": "You suspect your partner is quietly preparing to take over your position. You hold some non-fatal leverage over them. You would:",
+    "a_zh": "直接找搭档摊牌，表示愿意共享成功，但要求忠诚。",
+    "a_en": "Confront your partner directly, offering to share success in exchange for loyalty.",
+    "b_zh": "暗中收集更多证据，并在关键时刻突然展示，迫使对方就范。",
+    "b_en": "Quietly gather more evidence, then suddenly reveal it at a critical moment to force compliance."
+  },
+  {
+    "q_zh": "在一个投资博弈中，对方承诺高回报但要求你无条件先投入资金，且项目模糊。你？",
+    "q_en": "In an investment game, someone promises high returns but demands you invest upfront with no clear project details. You:",
+    "a_zh": "要求对方提供可靠担保或逐步公开信息后再考虑投入。",
+    "a_en": "Demand reliable guarantees or step-by-step disclosure before considering investment.",
+    "b_zh": "先投入小额资金试探诚意，如果对方值得信赖再追加。",
+    "b_en": "First invest a small amount to test their sincerity, then add more if they prove trustworthy."
+  },
+  {
+    "q_zh": "比赛最后一轮，你领先但幅度很小。对手表现出极度自信，甚至暗示他藏了一手。你会？",
+    "q_en": "In the final round, you are narrowly ahead. Your opponent shows extreme confidence, hinting they have an ace up their sleeve. You:",
+    "a_zh": "不改变原有策略，坚持执行己方优势，不因对方虚张声势而动摇。",
+    "a_en": "Stick to your original strategy, executing your strength, and ignore their bluff.",
+    "b_zh": "临时调整策略，采取更保守或更冒险的举动来应对可能的陷阱。",
+    "b_en": "Temporarily adjust your strategy, adopting a more conservative or more aggressive move to counter potential traps."
   }
 ]
