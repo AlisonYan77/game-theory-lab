@@ -12534,5 +12534,85 @@
     "a_en": "Stick to your original strategy, executing your strength, and ignore their bluff.",
     "b_zh": "临时调整策略，采取更保守或更冒险的举动来应对可能的陷阱。",
     "b_en": "Temporarily adjust your strategy, adopting a more conservative or more aggressive move to counter potential traps."
+  },
+  {
+    "q_zh": "你发现你的对手在上一轮中选择了背叛。你会如何回应？",
+    "q_en": "You discovered that your opponent betrayed you in the last round. How would you respond?",
+    "a_zh": "同样背叛，以牙还牙",
+    "a_en": "Betray them back, tit for tat",
+    "b_zh": "继续合作，试图重建信任",
+    "b_en": "Continue cooperating to try to rebuild trust"
+  },
+  {
+    "q_zh": "在一场零和博弈中，你面临一个高风险决策。你更倾向于？",
+    "q_en": "In a zero-sum game, you face a high-stakes decision. Do you lean toward?",
+    "a_zh": "保守策略，确保不输",
+    "a_en": "A conservative strategy to avoid losing",
+    "b_zh": "激进冒险，追求最大收益",
+    "b_en": "Aggressive risk-taking for maximum gain"
+  },
+  {
+    "q_zh": "当对手表现出不确定和犹豫时，你会？",
+    "q_en": "When your opponent shows uncertainty and hesitation, you would?",
+    "a_zh": "施加压力，迫使其犯错",
+    "a_en": "Apply pressure to force them into a mistake",
+    "b_zh": "给出虚假信息，诱其误判",
+    "b_en": "Feed them false information to mislead them"
+  },
+  {
+    "q_zh": "在重复博弈中，对手一直选择合作。你会？",
+    "q_en": "In a repeated game, your opponent consistently cooperates. You would?",
+    "a_zh": "继续合作，维持互利",
+    "a_en": "Continue cooperating to maintain mutual benefit",
+    "b_zh": "偶尔背叛，测试其底线",
+    "b_en": "Occasionally betray to test their limits"
+  },
+  {
+    "q_zh": "你有一个隐藏的优势资源，但对手并不知道。你如何利用？",
+    "q_en": "You have a hidden advantage that your opponent doesn't know about. How do you use it?",
+    "a_zh": "突然亮出，制造震慑效果",
+    "a_en": "Reveal it suddenly for a shock effect",
+    "b_zh": "隐藏到最后，作为救命稻草",
+    "b_en": "Hide it until the end, as a last resort"
+  },
+  {
+    "q_zh": "对手提出了一个对你明显不利的谈判方案。你会？",
+    "q_en": "Your opponent proposes a deal clearly unfavorable to you. You would?",
+    "a_zh": "直接拒绝并给出强硬反提案",
+    "a_en": "Flatly reject and give a strong counterproposal",
+    "b_zh": "假装考虑，拖延时间观察其弱点",
+    "b_en": "Pretend to consider, buying time to find their weakness"
+  },
+  {
+    "q_zh": "在面对强势对手时，你的首选策略是？",
+    "q_en": "When facing a strong opponent, your preferred strategy is?",
+    "a_zh": "示弱以麻痹对方，随后突袭",
+    "a_en": "Feign weakness to lull them, then strike",
+    "b_zh": "正面硬刚，展示你的实力",
+    "b_en": "Confront head-on to show your strength"
+  },
+  {
+    "q_zh": "如果对手在博弈中表现出明显的情绪波动，你会？",
+    "q_en": "If your opponent shows clear emotional swings during the game, you would?",
+    "a_zh": "利用其情绪，引导其做出非理性选择",
+    "a_en": "Exploit their emotions to induce irrational choices",
+    "b_zh": "保持理性，不因对方情绪改变策略",
+    "b_en": "Stay rational, don't change strategy due to their emotions"
+  },
+  {
+    "q_zh": "在多方博弈中，你发现自己被孤立。你会？",
+    "q_en": "In a multi-player game, you find yourself isolated. You would?",
+    "a_zh": "主动投靠最强的联盟，寻求庇护",
+    "a_en": "Proactively join the strongest alliance for protection",
+    "b_zh": "挑拨离间，破坏其他联盟的团结",
+    "b_en": "Sow discord to break up other alliances"
+  },
+  {
+    "q_zh": "最后一轮博弈，你和对手都有机会达成双赢。你更可能？",
+    "q_en": "In the final round, both you and your opponent have a chance for mutual win. You are more likely to?",
+    "a_zh": "选择合作，共享胜利果实",
+    "a_en": "Choose cooperation to share the win",
+    "b_zh": "选择背叛，独揽所有奖励",
+    "b_en": "Choose betrayal to take all the rewards"
   }
 ]
