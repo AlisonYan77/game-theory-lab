@@ -12614,5 +12614,85 @@
     "a_en": "Choose cooperation to share the win",
     "b_zh": "选择背叛，独揽所有奖励",
     "b_en": "Choose betrayal to take all the rewards"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，如果你的对手在过去三轮中两次背叛了你，你的最佳策略是：",
+    "q_en": "In a repeated prisoner's dilemma, if your opponent has betrayed you twice in the last three rounds, your best strategy is:",
+    "a_zh": "继续合作，以善意感化对方",
+    "a_en": "Continue to cooperate, trying to reform the opponent with goodwill",
+    "b_zh": "立即实施一次背叛，给予惩罚性回应",
+    "b_en": "Immediately defect once as a punitive response"
+  },
+  {
+    "q_zh": "在谈判中，对方先报出一个极端的高价。你更倾向以下哪种应对？",
+    "q_en": "In a negotiation, the other side starts with an extremely high price. Which response do you prefer?",
+    "a_zh": "直接反驳并报出自己的低价底线",
+    "a_en": "Directly reject and state your low bottom line",
+    "b_zh": "假装吃惊，然后拖延时间，让对方先陷入焦虑",
+    "b_en": "Feign surprise, then delay to make the other side anxious first"
+  },
+  {
+    "q_zh": "当你发现对手在游戏中一直模仿你的选择时（镜面策略），你应该：",
+    "q_en": "When you find your opponent is mirroring your choices in the game (tit-for-tat), you should:",
+    "a_zh": "突然改变模式，用连续合作或背叛测试对方的反应速度",
+    "a_en": "Abruptly change pattern to test their reaction speed with consecutive cooperation or defection",
+    "b_zh": "保持完全随机，让对手无法建立镜像",
+    "b_en": "Stay completely random to prevent the opponent from establishing a mirror"
+  },
+  {
+    "q_zh": "在零和博弈中，对手表现出明显的愤怒情绪。作为理性玩家，你该：",
+    "q_en": "In a zero-sum game, the opponent shows obvious anger. As a rational player, you should:",
+    "a_zh": "利用对方的情绪，故意刺激使其犯更多错误",
+    "a_en": "Exploit their emotion by provoking them to make more mistakes",
+    "b_zh": "放缓节奏以示安抚，避免激化非理性对抗",
+    "b_en": "Slow down to appease, avoiding escalation into irrational conflict"
+  },
+  {
+    "q_zh": "在多人博弈（3人以上）中，你暂时处于弱势地位。最佳策略是：",
+    "q_en": "In a multiplayer game (3+ players), you are temporarily at a disadvantage. The best strategy is:",
+    "a_zh": "主动联合最强者，寻求庇护以分一杯羹",
+    "a_en": "Actively ally with the strongest to seek shelter and share gains",
+    "b_zh": "暗中联合其他弱势玩家，形成制衡联盟",
+    "b_en": "Secretly ally with other weak players to form a balancing coalition"
+  },
+  {
+    "q_zh": "博弈进入最后两轮时，你和对手一直相互合作。现在你该：",
+    "q_en": "When the game enters the last two rounds, you and your opponent have cooperated consistently. Now you should:",
+    "a_zh": "继续合作，维持信用以争取长期声誉",
+    "a_en": "Continue cooperating to maintain credibility for long-term reputation",
+    "b_zh": "在最后一轮背叛，获取一次性的最大收益",
+    "b_en": "Defect in the final round for a one-time maximum gain"
+  },
+  {
+    "q_zh": "对方在博弈中提出要私下沟通并“平分奖励”。你最安全的回应是：",
+    "q_en": "Your opponent proposes a private chat to 'split the reward equally.' Your safest response is:",
+    "a_zh": "欣然同意，相信口头承诺会促进合作",
+    "a_en": "Gladly agree, trusting oral promises to foster cooperation",
+    "b_zh": "在口头上同意，但实际准备应对可能的背叛",
+    "b_en": "Verbally agree, but prepare in reality for possible betrayal"
+  },
+  {
+    "q_zh": "在拍卖式博弈中，对手每次出价都只比你高一点。你应采取的战术是：",
+    "q_en": "In an auction-style game, your opponent always outbids you by just a small margin. The tactic you should adopt is:",
+    "a_zh": "大幅跳价，让对手承受心理压力并退出",
+    "a_en": "Jump the bid sharply to pressure the opponent psychologically into quitting",
+    "b_zh": "保持小额加价，消耗对手资金，等待其力竭",
+    "b_en": "Keep small increments to drain the opponent's funds until they exhaust"
+  },
+  {
+    "q_zh": "你发现对手正在使用“冷酷触发”策略（一次背叛即永久背叛）。你应：",
+    "q_en": "You discover your opponent is using a 'grim trigger' strategy (one defection leads to permanent defection). You should:",
+    "a_zh": "小心翼翼地永远不背叛，以换取持续合作",
+    "a_en": "Carefully never defect, in exchange for sustained cooperation",
+    "b_zh": "在前期偶尔背叛测试其触发阈值是否真实",
+    "b_en": "Occasionally defect in early rounds to test if the threshold is real"
+  },
+  {
+    "q_zh": "对手在博弈中多次示弱，但关键轮次突然全力反击。你的反制策略是：",
+    "q_en": "Your opponent plays weak repeatedly but suddenly strikes back in key rounds. Your counter-strategy is:",
+    "a_zh": "忽视其历史行为，专注于当前轮次的博弈树分析",
+    "a_en": "Ignore their history and focus on game tree analysis of the current round",
+    "b_zh": "模仿其模式，也隐藏实力并在最关键时刻反制",
+    "b_en": "Mimic their pattern by hiding your strength and countering at the most critical moment"
   }
 ]
