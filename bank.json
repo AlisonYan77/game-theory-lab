@@ -12694,5 +12694,85 @@
     "a_en": "Ignore their history and focus on game tree analysis of the current round",
     "b_zh": "模仿其模式，也隐藏实力并在最关键时刻反制",
     "b_en": "Mimic their pattern by hiding your strength and countering at the most critical moment"
+  },
+  {
+    "q_zh": "如果你在拍卖会上竞拍一张100元钞票，当前最高出价是80元，且你和另一个参与者必须同时决定是否加价1元。如果你加价而对方不加，你赢得100元；如果双方都加价，你们都会损失新的出价（即81元）；如果双方都不加价，当前最高出价者（对方）赢得钞票。你会选择？",
+    "q_en": "You are in an auction for a $100 bill. The current highest bid is $80, and you and another participant must simultaneously decide whether to raise by $1. If you raise and they don’t, you win the $100. If both raise, you both lose your new bid ($81). If neither raises, the current highest bidder (the other) wins. Do you?",
+    "a_zh": "加价到81元",
+    "a_en": "Raise to $81",
+    "b_zh": "不加价，退出",
+    "b_en": "Do not raise, drop out"
+  },
+  {
+    "q_zh": "你和对手玩一个‘分钱游戏’：你们各自秘密提出一个1到10之间的整数（代表自己希望留下的金额），如果两人提出的数字之和小于或等于10，则每人得到自己提出的金额；如果和大于10，则两人都得到0。你会选哪个数字？",
+    "q_en": "You and an opponent play a 'split money' game: each secretly chooses an integer from 1 to 10 (the amount you keep). If the sum of the two numbers is ≤ 10, each receives their chosen amount. If the sum > 10, both receive 0. Which number do you choose?",
+    "a_zh": "5",
+    "a_en": "5",
+    "b_zh": "3",
+    "b_en": "3"
+  },
+  {
+    "q_zh": "在一个‘信任投资’游戏中，你作为投资者，可以给受托人一笔10元资金，该资金会翻三倍变成30元到受托人手中。受托人随后可以返还任意金额（0-30元）给你。你会选择？",
+    "q_en": "In a 'trust investment' game, as the investor, you can give a trustee $10, which triples to $30 in the trustee's hands. The trustee can then return any amount (0-30) to you. Do you?",
+    "a_zh": "投资10元",
+    "a_en": "Invest $10",
+    "b_zh": "不投资，保留10元",
+    "b_en": "Do not invest, keep the $10"
+  },
+  {
+    "q_zh": "你参与一个‘非对称博弈’：你每次选择‘合作’或‘背叛’，对手也同时选择。如果你合作且对方合作，你得到3分；你合作对方背叛，你得0分；你背叛对方合作，你得5分；双方背叛各得1分。你会优先选择？",
+    "q_en": "In an asymmetric game, you choose 'cooperate' or 'defect' simultaneously with an opponent. Cooperate/cooperate: you get 3. Cooperate/defect: you get 0. Defect/cooperate: you get 5. Defect/defect: you get 1. Which action do you prioritize?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你与另一个陌生人将进行一次一次性的‘囚徒困境’（标准版本：合作/合作各得3年减刑，合作/背叛合作者得0年，背叛者得5年，相互背叛各得1年）。你会选择？",
+    "q_en": "You and a stranger play a one-shot 'Prisoner's Dilemma' (standard: both cooperate: 3 years off; you cooperate/they defect: you get 0 years off, they get 5; both defect: 1 year off each). What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "有一个‘公共物品’游戏：小组共4人，每人有20元。每人可以决定向公共池投入多少（0-20元），公共池总额乘以1.6后平均分给所有4人。假设其他人可能自私，你会投入多少？",
+    "q_en": "In a 'public goods' game: 4 players each have $20. Each decides how much to contribute to a common pool (0-20). The pool total is multiplied by 1.6 and divided equally among all 4. Assuming others may be selfish, how much do you contribute?",
+    "a_zh": "20元（全部投入）",
+    "a_en": "$20 (all in)",
+    "b_zh": "0元（一毛不拔）",
+    "b_en": "$0 (free-ride)"
+  },
+  {
+    "q_zh": "你参与一个‘最后通牒’博弈：你作为提议者，有100元要分给另一个回应者。你提议一个分配方案（你留多少，给对方多少），如果回应者拒绝，则两人都得0。你会提议给自己留多少？",
+    "q_en": "In an ultimatum game as the proposer, you have $100 to split with a responder. You propose a division (how much you keep, how much you give). If the responder rejects, both get $0. How much do you keep for yourself?",
+    "a_zh": "70元（给对方30元）",
+    "a_en": "$70 (give $30 to the other)",
+    "b_zh": "50元（给对方50元）",
+    "b_en": "$50 (split equally)"
+  },
+  {
+    "q_zh": "你参加一个‘伯川德竞争’游戏：你和另一家公司各自选择产品定价（整数元，从1至10），顾客会选择价格较低的公司购买。如果价格相同，则平分市场。每件产品成本为0，你追求利润最大化。你会选择定价多少？",
+    "q_en": "In a Bertrand competition game: you and a rival firm each choose a product price (integer from 1 to 10). Customers buy from the lower-price firm; if prices equal, market splits. Cost per unit is $0. You aim to maximize profit. What price do you set?",
+    "a_zh": "2元",
+    "a_en": "$2",
+    "b_zh": "1元",
+    "b_en": "$1"
+  },
+  {
+    "q_zh": "你是一个‘猎鹿博弈’的猎人：你和同伴分别选择去猎鹿（需要合作才能成功，每人得5）还是猎兔（单干总能成功，每人得2）。如果只有一人猎鹿，则一无所获。你会选择？",
+    "q_en": "In a 'Stag Hunt' game: you and a partner each choose to hunt stag (requires both, reward 5 each) or hunt hare (solo, always successful, reward 2 each). If only one hunts stag, they get 0. What do you choose?",
+    "a_zh": "猎鹿（合作）",
+    "a_en": "Hunt stag (cooperate)",
+    "b_zh": "猎兔（单干）",
+    "b_en": "Hunt hare (go solo)"
+  },
+  {
+    "q_zh": "你参与一个‘选数游戏’：你和对手同时从1到100中选一个整数。目标是使自己所选数字恰好比对手的数字大1（比如你选20，对手选19，则你赢；若对手选21，则他赢；若相等或差不为1，则平局）。你会倾向选？",
+    "q_en": "In a 'number game': you and an opponent each pick an integer from 1 to 100. The goal is to have your number be exactly one greater than theirs (e.g., you pick 20, they pick 19: you win. If they pick 21, they win. Equal or other differences: draw). Which range do you lean toward?",
+    "a_zh": "接近1的小数字",
+    "a_en": "Small numbers near 1",
+    "b_zh": "接近100的大数字",
+    "b_en": "Large numbers near 100"
   }
 ]
