@@ -12774,5 +12774,85 @@
     "a_en": "Small numbers near 1",
     "b_zh": "接近100的大数字",
     "b_en": "Large numbers near 100"
+  },
+  {
+    "q_zh": "你正在参与一场拍卖，规则是：双方同时出价，如果出价相同则都获得一半奖品，出价高者全得，但无论结果都要付出自己出的价格。你的对手是一个完全理性且知道你也会理性行动的人。你会选择？",
+    "q_en": "You are in an auction where both bid simultaneously. Equal bids split the prize equally; higher bid wins all; all pay their bid. Your opponent is fully rational and knows you are too. What do you choose?",
+    "a_zh": "出低价，诱导对手认为你非理性，从而获得低成本的胜利。",
+    "a_en": "Bid low, to signal irrationality and tempt the opponent into a low-cost win for you.",
+    "b_zh": "严格按照纳什均衡出价，即出价等于你对该物品的一半估值。",
+    "b_en": "Follow the Nash equilibrium by bidding exactly half your valuation."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，你和对方将进行恰好100轮博弈。双方都知道这是最后一次(第100轮) 的决策。你会如何在第100轮行动？",
+    "q_en": "In a repeated Prisoner's Dilemma of exactly 100 rounds, both know the 100th round is the last. How would you act in round 100?",
+    "a_zh": "背叛，因为最后一轮没有后续惩罚，理性选择是自私。",
+    "a_en": "Defect, because the last round has no future retaliation; rational choice is self-interest.",
+    "b_zh": "合作，期望通过最后一轮的合作建立长期信誉，让对手在之前的轮次中不敢背叛。",
+    "b_en": "Cooperate, hoping that final cooperation builds long-term trust, deterring earlier defections."
+  },
+  {
+    "q_zh": "在一场双人谈判中，你被随机分配为提议者，对方是回应者。你提议分一笔100元的钱，若回应者拒绝则双方都得0元。但对方是情绪化且可能因不公平而惩罚你。你会提议？",
+    "q_en": "In a two-person ultimatum game, you are the proposer for $100. If the responder rejects, both get $0. The responder is emotional and may punish you for unfairness. What do you propose?",
+    "a_zh": "70元给自己，30元给对方，确保对方虽然不满但理性上会接受。",
+    "a_en": "$70 for you, $30 for them—guaranteeing rational acceptance despite slight unfairness.",
+    "b_zh": "50元平分，完全公平以避免任何情绪化拒绝的风险。",
+    "b_en": "Split $50/$50, perfect fairness, eliminating any risk of emotional rejection."
+  },
+  {
+    "q_zh": "在一场匿名信任游戏中，你作为投资者，可以给受托人一笔钱(比如10元)，这笔钱会在路上增值3倍变为30元。之后受托人可以决定返还给你多少。你确信对方是一个利己主义者。你会投资多少？",
+    "q_en": "In an anonymous trust game, you as investor can send $10 to a trustee, which triples to $30. The trustee can then return any amount. You believe the trustee is a pure egoist. How much do you send?",
+    "a_zh": "一毛不拔，因为利己的受托人没有动力返还任何钱，投资必然亏损。",
+    "a_en": "Send nothing, because an egoist has no incentive to return anything; investment is guaranteed loss.",
+    "b_zh": "投资全部10元，希望激发对方的互惠心理，即使对方利己也可能因愧疚而返还一半。",
+    "b_en": "Send all $10, hoping to trigger reciprocity; even an egoist might feel guilt and return half."
+  },
+  {
+    "q_zh": "在一场“胆小鬼博弈”中，你和对手驾车相向而行。如果都不转向则两败俱伤；如果一方转向则成为“胆小鬼”；如果双方转向则平局且都丢面子。你预判对手是一个极端冒险且不肯丢脸的人。你的选择是？",
+    "q_en": "In a classic game of Chicken, two cars drive toward each other. Swerving loses face, no swerve = crash. Opponent is extremely risk-seeking and hates losing face. What do you do?",
+    "a_zh": "绝不转向，因为对手更怕死，他最终会让步。",
+    "a_en": "Never swerve; the opponent fears death more and will flinch first.",
+    "b_zh": "在最后一刻转向，保命要紧，面子可以以后找回来。",
+    "b_en": "Swerve at the last moment; survival matters more, face can be regained later."
+  },
+  {
+    "q_zh": "你和对手同时选择数字1到10。如果两人数字之和≤12，则双方都得该和的分数；如果和>12，双方都得0分。你会选择？",
+    "q_en": "You and an opponent pick a number 1-10 simultaneously. If sum ≤12, both receive that sum; if sum >12, both get 0. What number do you pick?",
+    "a_zh": "选6，这是一个安全的中位数，无论对方选什么，和一般不会超过12。",
+    "a_en": "Pick 6—a safe median that keeps the sum ≤12 regardless of the opponent's typical choice.",
+    "b_zh": "选10，赌对手会选一个很小的数字（比如2），从而获得12分的最高可能收益。",
+    "b_en": "Pick 10, gambling that the opponent picks a low number (e.g., 2) for the maximum possible payoff of 12."
+  },
+  {
+    "q_zh": "你是一位游戏主播，正在和粉丝玩“欺骗者骰子”游戏。你掷了一个骰子，只能自己看，然后可以声称任何点数。粉丝可以选择相信或质疑你；如果质疑且你撒谎，粉丝获胜；如果质疑且你诚实，粉丝输。你的目标是最大化被相信的概率以保持娱乐效果。你会？",
+    "q_en": "You are a streamer playing 'Liar's Dice' with fans. You roll a die (only you see it) and can claim any number. Fans choose to believe or challenge; if challenge & you lied, fan wins; if challenge & you told truth, fan loses. Your goal is max credibility for entertainment. You?",
+    "a_zh": "永远说实话，树立诚实形象，这样粉丝会被迫经常相信你，制造紧张气氛。",
+    "a_en": "Always tell the truth to build a reputation for honesty; fans will have to believe you often, creating tension.",
+    "b_zh": "混合策略：70%时候说实话，30%时候撒谎，让粉丝无法预判，增加博弈的动态趣味。",
+    "b_en": "Use a mixed strategy: 70% truth, 30% lies, keeping fans guessing for dynamic fun."
+  },
+  {
+    "q_zh": "在一个多人博弈中，5个玩家每轮可以投资0或1元到一个公共池。池中资金翻倍后平分给所有玩家。如果所有人投资1元则每人得到2元（净赚1）；但如果有一个人不投资，则池中只有4元分给5人，每人得0.8元（不投资者净赚0.8，投资者净亏0.2）。你会？",
+    "q_en": "In a 5-player public goods game, each can invest $0 or $1 per round. The pool doubles and splits equally. If all invest $1, each gets $2 (net +$1). If one free-rides, pool has $4 / 5 = $0.8 per person (free-rider nets +$0.8, investors net -$0.2). What do you do?",
+    "a_zh": "选择投资，希望带动合作，争取所有人都投资从而获得最大集体收益。",
+    "a_en": "Invest, hoping to foster cooperation and achieve the maximum collective benefit for all.",
+    "b_zh": "选择不投资，做一个搭便车者，因为即使别人都投资，你也能免费得到0.8元。",
+    "b_en": "Free-ride by not investing; even if others all invest, you get $0.8 for free."
+  },
+  {
+    "q_zh": "你正在玩一个“海盗分金”变体：5个海盗分100枚金币，提议顺序从最强到最弱。最弱的海盗是提议者时，他必须获得至少半数（包括自己）支持。如果提议被拒，提议者会被杀，然后由次弱的海盗重新提议。你假设所有海盗都是极端理性、嗜血且金币至上。你作为最强海盗（第一个提议），会如何分配？",
+    "q_en": "In a 'Pirate Gold' variant: 5 pirates split 100 gold, propose in order from strongest to weakest. The proposer needs ≥ half votes (including self) to pass, else killed and next pirate proposes. All pirates are hyper-rational, bloodthirsty, and gold-driven. As the strongest (first proposer), what split do you offer?",
+    "a_zh": "给自己98枚，给第三弱的海盗1枚，给最弱的海盗1枚，其余0枚，确保关键的支持。",
+    "a_en": "Take 98 for yourself, give 1 to the 3rd weakest and 1 to the weakest, zero to others, securing critical votes.",
+    "b_zh": "公平分配：每人20枚，避免任何海盗因不满而提前引发杀戮链。",
+    "b_en": "Split equally: 20 each, to avoid any pirate's resentment that could trigger the killing chain."
+  },
+  {
+    "q_zh": "你和一位对手玩“选数游戏”：两人同时选一个0-100之间的整数。谁选的数字最接近对方数字的一半，谁就赢（平局则重赛）。你不能提前沟通，但你知道对手是个擅长数学的理性人。你会选？",
+    "q_en": "You and an opponent simultaneously pick an integer 0-100. The winner is whose number is closest to half of the opponent's number (tie→redraw). No communication; opponent is a rational mathematician. What number do you pick?",
+    "a_zh": "选33，因为这是一个常见的“三分之一”锚定点，利用理性人对纳什均衡的惯性思维。",
+    "a_en": "Pick 33, a classic anchor point exploiting rational players' habit of converging to one-third Nash equilibrium.",
+    "b_zh": "选随机数，例如47，打破一切可预测性，让对手无法推演你的策略。",
+    "b_en": "Pick a random number, e.g., 47, to break all predictability and foil the opponent's deduction."
   }
 ]
