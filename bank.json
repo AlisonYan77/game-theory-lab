@@ -12854,5 +12854,85 @@
     "a_en": "Pick 33, a classic anchor point exploiting rational players' habit of converging to one-third Nash equilibrium.",
     "b_zh": "选随机数，例如47，打破一切可预测性，让对手无法推演你的策略。",
     "b_en": "Pick a random number, e.g., 47, to break all predictability and foil the opponent's deduction."
+  },
+  {
+    "q_zh": "你在一个重复博弈中，对方上一轮背叛了你。接下来，你会选择：",
+    "q_en": "In a repeated game, your opponent defected last round. What do you choose?",
+    "a_zh": "也背叛（以牙还牙）",
+    "a_en": "Defect (tit-for-tat)",
+    "b_zh": "合作（宽容一次）",
+    "b_en": "Cooperate (forgive once)"
+  },
+  {
+    "q_zh": "在一次性囚徒困境中，对方声称会合作，但你没有信任基础。你选择：",
+    "q_en": "In a one-shot Prisoner's Dilemma, the opponent claims to cooperate but you have no trust. What do you do?",
+    "a_zh": "背叛（利益最大）",
+    "a_en": "Defect (maximize gain)",
+    "b_zh": "合作（守信）",
+    "b_en": "Cooperate (keep word)"
+  },
+  {
+    "q_zh": "在博弈中，你发现对手明显实力较弱，但愿意与你共享资源。你会：",
+    "q_en": "In a game, you find your opponent weaker but willing to share resources. Do you:",
+    "a_zh": "与其平分（长期友谊）",
+    "a_en": "Share equally (long-term friendship)",
+    "b_zh": "压榨对方（短期利益）",
+    "b_en": "Exploit them (short-term gain)"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你作为提议者，对手是陌生人，你会给出：",
+    "q_en": "In an Ultimatum Game as the proposer, your opponent is a stranger. You offer:",
+    "a_zh": "合理分配（如60/40）",
+    "a_en": "A fair split (e.g., 60/40)",
+    "b_zh": "极端分配（如90/10）",
+    "b_en": "An extreme split (e.g., 90/10)"
+  },
+  {
+    "q_zh": "在多人公共品博弈中，每人需捐款维持池子，你发现偷懒者较多。你选择：",
+    "q_en": "In a public goods game, many free-ride. You choose to:",
+    "a_zh": "也偷懒（降低损失）",
+    "a_en": "Free-ride too (cut losses)",
+    "b_zh": "继续捐赠（维护公平）",
+    "b_en": "Keep donating (maintain fairness)"
+  },
+  {
+    "q_zh": "面对一个总是模仿你上一轮动作的对手，你第一轮会选择：",
+    "q_en": "Facing an opponent who copies your last move, your first-round choice is:",
+    "a_zh": "合作（诱导长期合作）",
+    "a_en": "Cooperate (induce long-term cooperation)",
+    "b_zh": "背叛（先发制人）",
+    "b_en": "Defect (preemptive strike)"
+  },
+  {
+    "q_zh": "在信号博弈中，你发送了一个廉价信号，对方相信了。你会：",
+    "q_en": "In a signaling game, you send a cheap-talk signal and they believe it. Do you:",
+    "a_zh": "说实话（维持信誉）",
+    "a_en": "Tell the truth (maintain credibility)",
+    "b_zh": "利用信任欺骗获利",
+    "b_en": "Exploit their trust for gain"
+  },
+  {
+    "q_zh": "在博弈中，你的对手已经连续合作了5轮，但之前数据表明他偶尔会突袭背叛。你第6轮选：",
+    "q_en": "Your opponent cooperated for 5 rounds but occasionally backstabbed historically. Round 6 you choose:",
+    "a_zh": "继续合作（赌稳定性）",
+    "a_en": "Cooperate (bet on stability)",
+    "b_zh": "背叛（预防突袭）",
+    "b_en": "Defect (prevent sneak attack)"
+  },
+  {
+    "q_zh": "你和对手都有报复能力，且游戏即将结束（最后一轮）。你选择：",
+    "q_en": "You and opponent both can retaliate, and it's the last round. You choose:",
+    "a_zh": "背叛（无后顾之忧）",
+    "a_en": "Defect (no future consequences)",
+    "b_zh": "合作（维持道德）",
+    "b_en": "Cooperate (maintain morality)"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你和对手互相报价竞标一件物品，但你们都能承受亏损。你会：",
+    "q_en": "In an auction game, you and a rival bid on an item, both able to sustain losses. You:",
+    "a_zh": "理性退出，避免恶性竞价",
+    "a_en": "Exit rationally to avoid bidding war",
+    "b_zh": "继续加价，争取赢下",
+    "b_en": "Keep raising to win at any cost"
   }
 ]
