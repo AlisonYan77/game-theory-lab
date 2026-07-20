@@ -12934,5 +12934,85 @@
     "a_en": "Exit rationally to avoid bidding war",
     "b_zh": "继续加价，争取赢下",
     "b_en": "Keep raising to win at any cost"
+  },
+  {
+    "q_zh": "你与对手合作完成一项任务，若双方都合作则各得5分；若你合作而对手背叛，你得0分对手得10分；若双方背叛则各得2分。对手已连续三次背叛你，这次你会选？",
+    "q_en": "You and your opponent are cooperating on a task. If both cooperate, each gets 5. If you cooperate and they betray, you get 0, they get 10. If both betray, each gets 2. Your opponent has betrayed you three times in a row. What do you choose this time?",
+    "a_zh": "合作，尝试重建信任",
+    "a_en": "Cooperate, try to rebuild trust",
+    "b_zh": "背叛，用一次报复警示对方",
+    "b_en": "Betray, send a retaliatory warning"
+  },
+  {
+    "q_zh": "你被要求公开选择金额：若选200元，对手只能得100元；若选100元，对手得200元。但对方可以之后用你的分数来惩罚你（双方分数对等扣减）。对手此前从未惩罚过任何人。你会选？",
+    "q_en": "You must publicly choose an amount: if you take $200, your opponent gets $100; if you take $100, they get $200. But afterward, they can spend points to punish you (equal deduction for both). Your opponent has never punished anyone before. What do you choose?",
+    "a_zh": "200元，赌对方不会惩罚",
+    "a_en": "$200, gamble that they won't punish",
+    "b_zh": "100元，主动示好以避免冲突",
+    "b_en": "$100, extend goodwill to avoid conflict"
+  },
+  {
+    "q_zh": "你们两人各有一枚硬币，可以同时展示正面或反面。若两面相同，你赢，对手付你100元；若不同，对手赢，你付他100元。你的对手从不看你的表情，但你注意到他上次出正面时赢了。你现在选？",
+    "q_en": "You each have a coin, show heads or tails simultaneously. If both match, you win $100 from them; if different, they win $100 from you. Your opponent never reads your face, but you noticed they showed heads last time and won. What's your play?",
+    "a_zh": "正面，利用对手可能重复赢面的惯性",
+    "a_en": "Heads, exploit their possible inertia from a win",
+    "b_zh": "反面，预测对手会变招",
+    "b_en": "Tails, anticipate they will switch"
+  },
+  {
+    "q_zh": "谈判中，你们轮流报价。现在轮到你出价，标的是100元。若你报价a元，对方接受则你得a元，对方得100-a元；若拒绝则双方0元，且结束。对方是完美理性的，你该报？",
+    "q_en": "In a negotiation, you alternate offers. It's your turn to bid for $100. If you bid $X, they accept: you get $X, they get $100-X. If they reject: both get $0 and it ends. Your opponent is perfectly rational. What's your bid?",
+    "a_zh": "50元，公平对半",
+    "a_en": "$50, fair split",
+    "b_zh": "99元，只留1元给对方（理性接受）",
+    "b_en": "$99, leave them $1 (they'll rationally accept)"
+  },
+  {
+    "q_zh": "你和一位陌生人玩“信任游戏”：你拥有10元，可以选择给陌生人0、5或10元。给的钱会变为三倍到他手里。然后他可以选择返还给你任意金额。陌生人眼神闪烁，不像大方的人。你给？",
+    "q_en": "In a trust game: you have $10. You can give $0, $5, or $10 to a stranger. The amount triples when they receive it. Then they can return any amount to you. The stranger's eyes dart around, not generous-looking. What do you give?",
+    "a_zh": "0元，不冒风险",
+    "a_en": "$0, take no risk",
+    "b_zh": "5元，试探对方诚意",
+    "b_en": "$5, test their goodwill"
+  },
+  {
+    "q_zh": "你们小组投票决定每个人是否自愿加班，加班者可得额外20元但会消耗体力。若超过一半人选加班则全员都能获得加班资格；否则无人加班。你觉得大多数人想加班，自己体力一般。你投票？",
+    "q_en": "Your team votes on overtime: each volunteer gets +$20 but consumes energy. If >50% vote yes, everyone gets overtime; otherwise, no one does. You suspect most want it, but your energy is average. How do you vote?",
+    "a_zh": "赞成，跟随多数",
+    "a_en": "Yes, follow the majority",
+    "b_zh": "反对，避免体力消耗",
+    "b_en": "No, avoid energy drain"
+  },
+  {
+    "q_zh": "你被随机分配到角色A，规则：A先拿走一笔钱中的任意数额，剩下的归B。B如果愿意，可以用自己的钱按1:2比例惩罚A（自己损失1，A损失2）。B是你最好的朋友，你该拿？",
+    "q_en": "You are randomly assigned role A. A takes any amount from a pot, the rest goes to B. B may punish A by spending their own money at a 1:2 ratio (lose 1, make A lose 2). B is your best friend. How much do you take?",
+    "a_zh": "全部拿走，朋友不会惩罚",
+    "a_en": "Take it all, your friend won't punish",
+    "b_zh": "只拿30%，留大部分给朋友",
+    "b_en": "Take only 30%, leave most for your friend"
+  },
+  {
+    "q_zh": "拍卖20元钞票，出价第二高的人也要支付他的出价（却得不到钱）。你和另一位理性出价者参与。对方已经出了一元，轮到你。你知道对方还会加价，你最佳策略是？",
+    "q_en": "A $20 bill is auctioned: the second-highest bidder also pays their bid but gets nothing. You and one other rational bidder are in. The other has bid $1, now it's your turn. You know they will raise further. Your optimal move?",
+    "a_zh": "出价2元，尝试小赌一把",
+    "a_en": "Bid $2, try a small gamble",
+    "b_zh": "不参与，让对方陷入陷阱",
+    "b_en": "Don't bid, let them fall into the trap"
+  },
+  {
+    "q_zh": "你们两人需在1到10之间同选一个整数才各得50元，否则各得0。你不能交流，但你知道对方是数学系教授，且你也知道他认为你是哲学系的。你选哪个数？",
+    "q_en": "You both must secretly pick the same integer from 1 to 10 to each win $50; otherwise $0. No communication. You know the other is a math professor, and they think you are a philosophy student. Which number do you pick?",
+    "a_zh": "7，直觉上最常见的“幸运数”",
+    "a_en": "7, the most common 'lucky number'",
+    "b_zh": "1，利用教授可能理论化地选1（最简数）",
+    "b_en": "1, exploit the professor's possible theoretical choice of the simplest number"
+  },
+  {
+    "q_zh": "你与对手在互助箱前：每人可投入0、1、2张一元券。若总投入>2张，每人能回收比投入多2元；否则回收少于投入。你估计对方会投1张，你该投？",
+    "q_en": "You and your opponent face a mutual pot: each secretly adds 0, 1, or 2 one-dollar bills. If total > 2, each gets back $2 more than they put in; otherwise, each gets back less. You guess the other will add $1. What do you add?",
+    "a_zh": "1张，确保达到总投入>2的条件",
+    "a_en": "Add $1, ensure total > 2 to trigger the bonus",
+    "b_zh": "0张，搭便车享受对方1元带来的回报",
+    "b_en": "Add $0, free-ride on their contribution"
   }
 ]
