@@ -13014,5 +13014,85 @@
     "a_en": "Add $1, ensure total > 2 to trigger the bonus",
     "b_zh": "0张，搭便车享受对方1元带来的回报",
     "b_en": "Add $0, free-ride on their contribution"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，你的对手在上一轮选择了背叛。你认为以下哪种策略最能促使对方在未来合作？",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent defected in the last round. Which strategy do you believe is most effective in encouraging future cooperation?",
+    "a_zh": "A. 立即以牙还牙——在本轮也选择背叛，以示惩罚。",
+    "a_en": "A. Immediately retaliate by defecting in this round as punishment.",
+    "b_zh": "B. 宽宏大量——继续选择合作，用善意感化对方。",
+    "b_en": "B. Be generous: continue cooperating to inspire goodwill."
+  },
+  {
+    "q_zh": "在一场拍卖博弈中，你和对手都竞拍一件价值100元的物品。规则是：出价最高者获胜，但无论输赢，双方都要支付自己的出价。你的对手之前总是出价60元。你接下来会怎么做？",
+    "q_en": "In an auction game, you and an opponent bid on an item worth $100. The highest bidder wins, but both must pay their bid. Your opponent has always bid $60. What do you do?",
+    "a_zh": "A. 出价61元——确保获胜，但只赚取少量利润。",
+    "a_en": "A. Bid $61 to win, securing a small profit.",
+    "b_zh": "B. 出价0元——放弃竞拍，避免任何损失。",
+    "b_en": "B. Bid $0 to drop out and avoid any loss."
+  },
+  {
+    "q_zh": "在‘红黑博弈’中，你和另一组玩家需同时选择红或黑。如果双方都选红，各得3分；都选黑，各得1分；一红一黑，红方得5分，黑方得0分。你认为对方很理性，但并不信任你。你的最佳选择是？",
+    "q_en": "In the 'Red-Black Game', you and another group choose Red or Black simultaneously. Both Red gives 3 points each; both Black gives 1 point each; one Red and one Black gives Red 5, Black 0. You think the opponent is rational but distrusts you. Your best move is:",
+    "a_zh": "A. 选红色——试图获取最高个人分数。",
+    "a_en": "A. Choose Red to maximize individual reward.",
+    "b_zh": "B. 选黑色——发出合作信号，避免最坏结果。",
+    "b_en": "B. Choose Black to signal cooperation and avoid the worst outcome."
+  },
+  {
+    "q_zh": "在‘海盗分金币’博弈中，你是最年长的海盗，需要提出分配100枚金币的方案。如果方案被半数以上（包括你自己）否决，你会被扔下海。其他海盗都极度贪婪且逻辑完美。你会怎么分？",
+    "q_en": "In the 'Pirate Gold' game, as the senior pirate, you propose a split of 100 gold coins. If half or more (including you) vote no, you die. Others are perfect logicians and greedy. How do you divide?",
+    "a_zh": "A. 自己拿98枚，给最年轻的海盗1枚，给第二年轻的海盗1枚。",
+    "a_en": "A. Keep 98 for yourself, give 1 coin to the youngest, 1 to the second youngest.",
+    "b_zh": "B. 自己拿50枚，其余平分给其他四个海盗，每人12.5枚。",
+    "b_en": "B. Keep 50 for yourself, split the rest equally among the other four (12.5 each)."
+  },
+  {
+    "q_zh": "你正在进行一场‘胆小鬼博弈’：你和对手分别驾驶汽车相向而行，先转向的一方是‘懦夫’。你确定对方是一个非理性的、喜欢展示勇气的年轻人。你最好的策略是？",
+    "q_en": "In a 'Chicken Game', you and an opponent drive cars toward each other. The first to swerve is the 'chicken'. You are sure the opponent is irrational and loves showing off courage. Your best strategy is:",
+    "a_zh": "A. 直视前方，绝不转向——让对手被迫退缩。",
+    "a_en": "A. Stare ahead and never swerve, forcing opponent to back down.",
+    "b_zh": "B. 在碰撞前最后一刻转向——保护生命更重要。",
+    "b_en": "B. Swerve at the last moment to protect your life."
+  },
+  {
+    "q_zh": "在‘最后通牒博弈’中，你作为提议者，需要将10元分给回应者一部分。如果回应者拒绝，双方都得0元。你知道回应者非常重视公平，且之前曾拒绝过4:6的分配。你会怎么分？",
+    "q_en": "In an 'Ultimatum Game', as the proposer, you split $10 with a responder. If the responder rejects, both get $0. You know the responder values fairness and has rejected a 4:6 split before. What do you propose?",
+    "a_zh": "A. 给自己7元，给对方3元。",
+    "a_en": "A. Keep $7 for yourself, give $3 to the responder.",
+    "b_zh": "B. 给自己5元，给对方5元。",
+    "b_en": "B. Split $5 and $5 equally."
+  },
+  {
+    "q_zh": "你参加一个‘信任博弈’：你决定投资金额给受托人（对方），投资额会翻三倍。后者可以选择返还给你任意金额。你之前听过此人的名声——他曾经返还过很少的钱。你会投资多少？",
+    "q_en": "In a 'Trust Game', you decide how much to send to a trustee, which gets tripled. The trustee can return any amount. You've heard this person has a reputation for returning very little. How much do you send?",
+    "a_zh": "A. 投资全部资金——即使有风险，也期待高回报。",
+    "a_en": "A. Send all your money, hoping for high return despite risk.",
+    "b_zh": "B. 不投资或只投资极小金额——避免被背叛。",
+    "b_en": "B. Send nothing or a tiny amount to avoid betrayal."
+  },
+  {
+    "q_zh": "在‘协调博弈’中，你和朋友约定见面，但忘了具体是咖啡馆A还是咖啡馆B。你无法联系他。你心里知道，A咖啡馆更近、更舒适，但你们之前从未去过B。你会选择？",
+    "q_en": "In a 'Coordination Game', you and a friend agreed to meet but forgot whether at Cafe A or B. You can't reach him. You know A is closer and cozier, but you've never been to B. Which do you choose?",
+    "a_zh": "A. 去A咖啡馆——因为它是更自然的、符合直觉的选择。",
+    "a_en": "A. Go to Cafe A, as it's the more natural, intuitive choice.",
+    "b_zh": "B. 去B咖啡馆——因为如果朋友也这样想，你们就能相遇。",
+    "b_en": "B. Go to Cafe B, in case your friend thinks the same way."
+  },
+  {
+    "q_zh": "在‘公共物品博弈’中，你们小组每人有20元，可以决定向公共池投入多少。公共池总额将翻倍，然后平分给所有人。你发现其他三位成员都只投入了2元。你会投入多少？",
+    "q_en": "In a 'Public Goods Game', each of your group has $20 to invest in a public pool. The total pool is doubled and split equally. You observe the other three members each invested only $2. How much do you invest?",
+    "a_zh": "A. 投入20元——尽管其他人自私，但你想最大化集体福利。",
+    "a_en": "A. Invest $20 to maximize the collective good, despite others' selfishness.",
+    "b_zh": "B. 投入0元——既然他们不合作，你也不想当‘傻子’。",
+    "b_en": "B. Invest $0, since they aren't cooperating, you don't want to be a sucker."
+  },
+  {
+    "q_zh": "在‘蜈蚣博弈’中，你与对手轮流选择‘拿’或‘过’。如果选择‘拿’，游戏结束，你按当前比例分钱；如果选择‘过’，钱池变大，轮到对方。你预判对方会在倒数第二步选择‘拿’。你第一步会怎么做？",
+    "q_en": "In a 'Centipede Game', you and an opponent take turns choosing 'Take' or 'Pass'. Taking ends the game and splits the pot at that point; passing grows the pot. You predict the opponent will 'take' on the second-to-last move. What is your first move?",
+    "a_zh": "A. 第一步就选择‘拿’——避免被对方后发制人。",
+    "a_en": "A. 'Take' on the first move to avoid being outmaneuvered.",
+    "b_zh": "B. 选择‘过’——尝试建立信任，争取更大的共同收益。",
+    "b_en": "B. 'Pass' first to build trust and try to reach a larger joint gain."
   }
 ]
