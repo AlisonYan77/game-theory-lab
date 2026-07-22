@@ -13094,5 +13094,67 @@
     "a_en": "A. 'Take' on the first move to avoid being outmaneuvered.",
     "b_zh": "B. 选择‘过’——尝试建立信任，争取更大的共同收益。",
     "b_en": "B. 'Pass' first to build trust and try to reach a larger joint gain."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，对方连续三次选择背叛。你认为接下来选择什么最能促使对方合作？",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent has defected for three consecutive rounds. What move do you think is most likely to induce cooperation?",
+    "a_zh": "继续单次背叛，以惩罚对方并建立威慑。",
+    "a_en": "Continue to defect unilaterally, punishing the opponent to establish deterrence.",
+    "b_zh": "选择合作一次，传递愿意和解的信号，即使冒被利用的风险。",
+    "b_en": "Choose to cooperate once, signaling a willingness to reconcile despite the risk of being exploited."
+  },
+  {
+    "q_zh": "在一场拍卖博弈中，你和对手都出价竞拍一张100元纸币。最高出价者得到纸币但需支付自己的出价，次高者也要支付但一无所获。对手已经出价90元，你应该？",
+    "q_en": "In an auction game, both you and your opponent bid for a $100 bill. The highest bidder gets the bill but pays their bid; the second-highest also pays but gets nothing. Your opponent has bid $90. What should you do?",
+    "a_zh": "出价95元，理性争夺，因为仍有5元利润空间。",
+    "a_en": "Bid $95 to rationally compete, as there is still a $5 profit margin."
+  },
+  {
+    "q_zh": "你跟一个陌生人玩一次“信任博弈”：你决定给对方多少钱，对方会收到三倍金额，然后对方可以决定返还多少给你。你应该给对方多少钱？",
+    "q_en": "You play a one-shot Trust Game with a stranger: you decide how much to send, which is tripled upon receipt, and then the recipient decides how much to return. How much should you send?",
+    "a_zh": "不给予任何金额，因为风险太高，对方可能全部私吞。",
+    "a_en": "Send nothing, as the risk is too high; the recipient might keep everything."
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你作为提议者，需要分配10元给对手和自己。如果对手拒绝，双方都一无所获。你认为最可能被接受的最小金额是多少？",
+    "q_en": "In an Ultimatum Game, as the proposer, you need to split $10 between yourself and the opponent. If the opponent rejects, both get nothing. What is the smallest amount you think is most likely to be accepted?",
+    "a_zh": "给对手1元，因为理性对手应该接受任何正收益。",
+    "a_en": "Offer $1 to the opponent, since a rational opponent should accept any positive amount."
+  },
+  {
+    "q_zh": "你和对手玩“猎鹿博弈”，你们需要协作才能猎到鹿（高收益），如果单独行动只能抓兔子（低收益）。对手选择猎兔子，你应该？",
+    "q_en": "You are playing a Stag Hunt game. Cooperation yields a high payoff (stag), while solo action yields a low payoff (rabbit). Your opponent chooses to hunt rabbit. What should you do?",
+    "a_zh": "继续坚持猎鹿，期望对方之后会转变策略。",
+    "a_en": "Persist in hunting stag, hoping the opponent will switch strategies later."
+  },
+  {
+    "q_zh": "在一场零和谈判中，你要出售一辆价值5万的二手车，而买家的最高心理价是7万。你应该首先报价多少？",
+    "q_en": "In a zero-sum negotiation, you are selling a used car worth $50k, and the buyer's maximum willingness to pay is $70k. What should your initial offer be?",
+    "a_zh": "直接报价7万，拿走全部剩余价值，展现强硬立场。",
+    "a_en": "Start with $70k to capture all surplus, showing a tough stance."
+  },
+  {
+    "q_zh": "在“懦夫博弈”中，你和另一个司机相向而行。如果你不转向，对方可能会转向避免相撞；但你也可能因此丧生。对方看起来非常冲动，你应该？",
+    "q_en": "In a Chicken game, you are driving toward another driver. If you don't swerve, the opponent may swerve to avoid a crash, but you also risk death. Your opponent looks highly impulsive. What should you do?",
+    "a_zh": "坚决不转向，迫使对方屈服，因为对方更怕死。",
+    "a_en": "Resolutely refuse to swerve, forcing the opponent to yield since they seem more afraid of death."
+  },
+  {
+    "q_zh": "你和对手重复猜硬币，你每次可以提前选择正面或反面，对手也选择，你们都想猜中对方的选择。如果对手前三次都猜中你的“正面”，你下轮应该？",
+    "q_en": "In a repeated coin-guessing game, you secretly choose Heads or Tails, and your opponent guesses your choice. You both aim to match each other. If your opponent has correctly guessed your 'Heads' for the last three rounds, what should you choose next?",
+    "a_zh": "继续选择正面，因为对手可能会认为你会改变，从而猜反面。",
+    "a_en": "Stick with Heads, expecting the opponent to think you will switch, thus they guess Tails."
+  },
+  {
+    "q_zh": "在“公有地悲剧”中，你和10个村民共享一片草地，每多放一头牛就多一份收益，但过度放牧会毁掉草地。其他9人都已经增加了一头牛，你应该？",
+    "q_en": "In a Tragedy of the Commons, you and 10 villagers share a pasture. Adding one more cow brings private benefit, but overgrazing ruins it. The other nine have each added one more cow. What should you do?",
+    "a_zh": "也增加一头牛，否则你损失更多收益，而草地反正要毁了。",
+    "a_en": "Also add a cow, otherwise you lose more profit, and the pasture is going to be ruined anyway."
+  },
+  {
+    "q_zh": "你和对手玩“石头剪刀布”五回合。前三回合你出石头输了两次，赢了一次。第四回合，你预期对手会根据你的历史出招进行反制，你应该出？",
+    "q_en": "You play a five-round Rock-Paper-Scissors game. In the first three rounds, you threw Rock and lost twice, won once. For the fourth round, you expect the opponent to counter based on your history. What should you throw?",
+    "a_zh": "出剪刀，因为对手最可能以为你会继续出石头，从而出布。",
+    "a_en": "Throw Scissors, as the opponent is most likely to expect another Rock and thus throw Paper."
   }
 ]
