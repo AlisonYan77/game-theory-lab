@@ -13156,5 +13156,85 @@
     "q_en": "You play a five-round Rock-Paper-Scissors game. In the first three rounds, you threw Rock and lost twice, won once. For the fourth round, you expect the opponent to counter based on your history. What should you throw?",
     "a_zh": "出剪刀，因为对手最可能以为你会继续出石头，从而出布。",
     "a_en": "Throw Scissors, as the opponent is most likely to expect another Rock and thus throw Paper."
+  },
+  {
+    "q_zh": "在一个升级版囚徒困境中，你知道对方上次选择了背叛。这轮你们不再有后续互动，你会选择？",
+    "q_en": "In an advanced Prisoner's Dilemma, you know the other player betrayed you last round. This is the final round with no future interactions. What do you choose?",
+    "a_zh": "合作：用善意打破循环，即便没有回报",
+    "a_en": "Cooperate: Use goodwill to break the cycle, even without reward",
+    "b_zh": "背叛：报复对方，确保自己不吃亏",
+    "b_en": "Betray: Retaliate to ensure you don't lose out"
+  },
+  {
+    "q_zh": "你要和一个陌生人分一笔钱，游戏规则是他提出分配方案，你只能接受或拒绝。若拒绝，双方都得零。他提出自己拿90%，你拿10%。你会？",
+    "q_en": "You must split a sum with a stranger. He proposes the split; you can only accept or reject. If you reject, both get zero. He offers himself 90%, you 10%. What do you do?",
+    "a_zh": "接受：至少拿到10%，理性选择",
+    "a_en": "Accept: At least get 10% — the rational choice",
+    "b_zh": "拒绝：惩罚不公平，维护尊严",
+    "b_en": "Reject: Punish unfairness and preserve dignity"
+  },
+  {
+    "q_zh": "在拍卖中你和另一位竞价者共同竞标一件物品，出价最高者输（双方都出价则都得付出价）。对方显然是个非理性玩家，通常全部下注。你会？",
+    "q_en": "In an auction where the highest bidder loses (both pay bids if tied), your opponent is clearly irrational and often goes all-in. What do you do?",
+    "a_zh": "出低价：诱使对方因激进而输掉更多",
+    "a_en": "Bid low: Lure the opponent into overbidding and losing more",
+    "b_zh": "退出或出零：完全不参与这场赌博",
+    "b_en": "Withdraw or bid zero: Avoid the gamble entirely"
+  },
+  {
+    "q_zh": "你和对手连续进行10轮“信任游戏”。前9轮你一直背叛，对手仍然坚持合作。最后一轮，你会？",
+    "q_en": "You are playing 10 rounds of a Trust Game. For the first 9 rounds you always betrayed, yet your opponent kept cooperating. In the final round, you choose to:",
+    "a_zh": "合作：回报对方的固执信任，来一次双赢",
+    "a_en": "Cooperate: Reward the stubborn trust for a mutual win",
+    "b_zh": "背叛：反正最后了，榨取最大利益",
+    "b_en": "Betray: Since it's the last round, extract maximum profit"
+  },
+  {
+    "q_zh": "在一个“懦夫博弈”中，你和对方驾车相对而行。如果你先转向，你就被视为懦夫；如果都不转向，则碰撞两败俱伤。你认为对方比你更怕死。你会？",
+    "q_en": "In a Chicken Game, you and the opponent drive toward each other. If you swerve first, you're the coward; if neither swerves, both crash. You believe your opponent fears death more than you. What do you do?",
+    "a_zh": "不转向：展示坚定，迫使对方先让",
+    "a_en": "Don't swerve: Show resolve, forcing the opponent to yield first",
+    "b_zh": "转向：安全第一，避免灾难",
+    "b_en": "Swerve: Safety first, avoid disaster"
+  },
+  {
+    "q_zh": "在公司内部项目组中，你和同事被分配做两项关键任务，你们可以合作或单干。博弈模型显示，如果你们都选择合作，项目大成；但若你单干而他合作，你会独享功劳。历史表明他多半会合作。你会？",
+    "q_en": "In a project group, you and a colleague are assigned two key tasks. You can cooperate or work alone. If both cooperate, the project excels. If you work alone while he cooperates, you get sole credit. Historically he tends to cooperate. What do you choose?",
+    "a_zh": "单干：利用他的合作，个人收益最大化",
+    "a_en": "Work alone: Exploit his cooperation for maximum personal gain",
+    "b_zh": "合作：维持双赢局面，保持长期关系",
+    "b_en": "Cooperate: Maintain a win-win scenario and preserve long-term rapport"
+  },
+  {
+    "q_zh": "这个博弈是“消耗战”，你们同时决定坚持多久。谁坚持更久谁赢，但每持续一段时间双方都付出成本。你看出对手情绪急躁且不耐烦。你会？",
+    "q_en": "In a War of Attrition, you both decide how long to persist. Whoever persists longer wins, but each moment of delay costs both players. You notice your opponent is impatient and irritable. What do you do?",
+    "a_zh": "表明绝不退让：恐吓对方提前放弃",
+    "a_en": "Signal you will never yield: Intimidate the opponent into giving up early",
+    "b_zh": "快速放弃：快速认输，最小化成本",
+    "b_en": "Quickly yield: Concede early to minimize costs"
+  },
+  {
+    "q_zh": "玩“信号博弈”，你可以发出一个昂贵的信号（比如送贵礼）表示诚意，或者不发信号直接合作。对方若相信你有诚意，则可促成高收益合作。但你并不那么有诚意。你会？",
+    "q_en": "In a Signaling Game, you can send a costly signal (e.g., an expensive gift) to show sincerity, or cooperate directly without a signal. If the other believes you are sincere, high-profit cooperation results. But you aren't that sincere. What do you do?",
+    "a_zh": "发昂贵信号：伪装诚意，骗取合作收益",
+    "a_en": "Send the costly signal: Fake sincerity to reap cooperation benefits",
+    "b_zh": "不发信号直接合作：诚实行事，避免谎言",
+    "b_en": "Cooperate without a signal: Act honestly and avoid deception"
+  },
+  {
+    "q_zh": "在“最后通牒博弈”中，你是提议方，对方是响应方。你知道对方是个极其重视公平、即使牺牲金钱也要惩罚不公平的人。你拥有100块，你会分给对方？",
+    "q_en": "In an Ultimatum Game, you are the proposer. The responder is known to be extremely fairness-focused and will punish unfairness even at personal cost. You have $100. How much do you offer?",
+    "a_zh": "分50块：一半一半，确保一定通过",
+    "a_en": "Offer $50: A 50/50 split, guaranteed acceptance",
+    "b_zh": "分30块：留大部分给自己，赌对方理性",
+    "b_en": "Offer $30: Keep most for yourself, gamble on the opponent's rationality"
+  },
+  {
+    "q_zh": "你和朋友相约周末出去玩，但两人都要决定带不带伞。若两人都不带伞下雨则全湿透，若都带则无事。天气预报说有60%概率下雨，你朋友通常比较乐观且嫌麻烦。你会？",
+    "q_en": "You and a friend are going out this weekend; both decide whether to bring an umbrella. If neither brings one and it rains, both get soaked; if both bring, all fine. Forecast: 60% rain. Your friend is typically optimistic and hates bother. What do you do?",
+    "a_zh": "不带伞：赌你朋友会带（他嘴上懒但实际可能负责）",
+    "a_en": "Don't bring an umbrella: Bet that your friend will bring one (he may be responsible despite complaints)",
+    "b_zh": "带伞：确保自己不被淋湿，不论对方怎样",
+    "b_en": "Bring an umbrella: Ensure you stay dry regardless of the other's choice"
   }
 ]
