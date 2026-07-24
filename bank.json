@@ -13236,5 +13236,85 @@
     "a_en": "Don't bring an umbrella: Bet that your friend will bring one (he may be responsible despite complaints)",
     "b_zh": "带伞：确保自己不被淋湿，不论对方怎样",
     "b_en": "Bring an umbrella: Ensure you stay dry regardless of the other's choice"
+  },
+  {
+    "q_zh": "在多人博弈中，你发现一名对手总是模仿你上一轮的策略。为了最大化你的长期收益，你会如何应对？",
+    "q_en": "In a multiplayer game, you notice an opponent always mimics your previous move. To maximize your long-term payoff, how do you respond?",
+    "a_zh": "故意采取随机策略，偶尔故意输掉以扰乱其模仿模式。",
+    "a_en": "Deliberately randomize your moves, occasionally losing on purpose to disrupt the mimic pattern.",
+    "b_zh": "坚持最优策略，期待对方因模仿而同样受益，最终形成合作。",
+    "b_en": "Stick to the optimal strategy, expecting the mimic to follow and both benefit, fostering cooperation."
+  },
+  {
+    "q_zh": "在一局‘囚徒困境’中，你即将与一个完全理性的‘背叛者’（始终只考虑自身利益）对局。你最好的第一步是什么？",
+    "q_en": "In a Prisoner's Dilemma against a perfectly rational 'defector' (who always prioritizes self-interest), what is your best first move?",
+    "a_zh": "选择合作，试图用善意感化对方。",
+    "a_en": "Choose to cooperate, attempting to appeal to their goodwill.",
+    "b_zh": "选择背叛，因为对方一定会背叛你，背叛是唯一的理性回应。",
+    "b_en": "Choose to defect, since the opponent will always defect—defecting is the only rational response."
+  },
+  {
+    "q_zh": "在‘拍卖博弈’中，你与另一玩家竞拍一张价值100元的钞票。当前出价已达到80元，对方看起来势在必得。你会：",
+    "q_en": "In an auction game, you and another player bid for a $100 bill. The current bid is $80, and your opponent seems determined to win. Do you:",
+    "a_zh": "继续加价到90元，期待对方在更高的心理压力下放弃。",
+    "a_en": "Raise the bid to $90, hoping the opponent folds under higher psychological pressure.",
+    "b_zh": "立即放弃，避免陷入‘赢家诅咒’（最终出价超过100元）。",
+    "b_en": "Fold immediately to avoid falling into the 'winner's curse' (bidding over $100)."
+  },
+  {
+    "q_zh": "在‘谈判游戏’中，对方提出五五分账。但你掌握秘密信息：对方急需这笔交易。你的最佳回应是：",
+    "q_en": "In a negotiation game, the opponent proposes a 50-50 split. But you know they are desperate for the deal. What is your best response?",
+    "a_zh": "接受五五分账，维持公平和长期关系。",
+    "a_en": "Accept the 50-50 split to maintain fairness and long-term rapport.",
+    "b_zh": "要求更有利于你的比例（如七三开），利用对方的需要。",
+    "b_en": "Demand a more favorable split (e.g., 70-30), leveraging their desperation."
+  },
+  {
+    "q_zh": "在‘重复信任游戏’中，你将连续与同一个人互动10轮。对方第一轮选择了‘背叛’。你认为最有效的后续策略是：",
+    "q_en": "In a repeated trust game over 10 rounds, the opponent chooses 'betray' in round one. What is the most effective follow-up strategy?",
+    "a_zh": "立即以背叛作为报复，并在后续保持‘以牙还牙’策略。",
+    "a_en": "Immediately retaliate with betrayal, then adopt a 'tit-for-tat' strategy.",
+    "b_zh": "继续信任对方一次，给对方机会改正错误。",
+    "b_en": "Trust them one more time to give them a chance to correct their mistake."
+  },
+  {
+    "q_zh": "在‘胆小鬼博弈’（两车对峙）中，对方驾驶的是一辆老旧破车，而你开的是崭新的豪车。你会如何选择？",
+    "q_en": "In the 'Chicken' game (two cars driving toward each other), your opponent is driving a beat-up old car while you drive a brand new luxury car. How do you choose?",
+    "a_zh": "坚持不转向，赌对方更珍惜自己的生命而先让路。",
+    "a_en": "Hold your course, betting the opponent values their life more and will swerve first.",
+    "b_zh": "主动转向避让，因为你的豪车价值更高，风险太大。",
+    "b_en": "Swerve to avoid collision, because your luxury car is too valuable to risk."
+  },
+  {
+    "q_zh": "在‘最后通牒博弈’中，你作为提议方，需要分一笔钱。对方是理性人，但也可能因‘不公平’而拒绝。最保险的方案是：",
+    "q_en": "In an Ultimatum Game as the proposer, you need to split a sum. The opponent is rational but may reject 'unfair' offers. The safest plan is:",
+    "a_zh": "分给对方极少的钱（如10%），假设理性人会接受任何正收益。",
+    "a_en": "Give the opponent a very small share (e.g., 10%), assuming a rational person accepts any positive amount.",
+    "b_zh": "分给对方40%左右，防止因愤怒拒绝而导致双方都无收益。",
+    "b_en": "Offer around 40% to the opponent, to avoid rejection out of spite that leaves both with nothing."
+  },
+  {
+    "q_zh": "在一场多人‘共赢协作’游戏中，有一个玩家明确表示‘我要做破坏者，拖大家下水’。你最好的博弈策略是：",
+    "q_en": "In a multiplayer 'win-win cooperation' game, a player declares 'I will sabotage everyone.' What is your best game theory strategy?",
+    "a_zh": "联合其他玩家孤立此人，减少他破坏的影响。",
+    "a_en": "Team up with other players to isolate this person, minimizing the sabotage impact.",
+    "b_zh": "私下贿赂该‘破坏者’，让他转而支持你一个人。",
+    "b_en": "Privately bribe the saboteur to switch allegiance to only you."
+  },
+  {
+    "q_zh": "在‘信号博弈’中，你需要选择一个行动来传递‘我是强者’的信号，但你的真实实力很弱。你会：",
+    "q_en": "In a signaling game, you need to choose an action to signal 'I am strong,' but you are actually weak. Do you:",
+    "a_zh": "采取一个成本极高但无实际收益的炫耀行动，震慑对手。",
+    "a_en": "Take a costly, flashy action with no real benefit to intimidate opponents.",
+    "b_zh": "默默隐藏实力，等待真正有把握的时机再出击。",
+    "b_en": "Hide your weakness silently and wait for a sure opportunity to strike."
+  },
+  {
+    "q_zh": "在‘公共物品博弈’中，每个人都可以选择投入0元或10元到一个公共池，最后池中金额翻倍后均分。如果你预计其他人都会投入，你的最优选择是：",
+    "q_en": "In a public goods game, each can contribute $0 or $10 to a pool, which is doubled and split equally. If you expect everyone else to contribute, what is your optimal choice?",
+    "a_zh": "也投入10元，确保公共池最大化，大家收益最高。",
+    "a_en": "Contribute $10 as well, maximizing the pool for everyone's greatest benefit.",
+    "b_zh": "投入0元，免费搭便车享受他人贡献带来的红利。",
+    "b_en": "Contribute $0, free-riding on others' contributions for personal gain."
   }
 ]
