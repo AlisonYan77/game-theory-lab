@@ -13316,5 +13316,85 @@
     "a_en": "Contribute $10 as well, maximizing the pool for everyone's greatest benefit.",
     "b_zh": "投入0元，免费搭便车享受他人贡献带来的红利。",
     "b_en": "Contribute $0, free-riding on others' contributions for personal gain."
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对方前几轮都选择了合作，但上一轮突然背叛。你接下来会怎么做？",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent cooperated for several rounds but suddenly defected last round. What will you do this round?",
+    "a_zh": "继续合作，尝试用善意引导对方恢复合作。",
+    "a_en": "Cooperate again, trying to guide the opponent back to cooperation with goodwill.",
+    "b_zh": "立即报复背叛，让对方明白背叛有代价。",
+    "b_en": "Immediately retaliate with defection, signaling that betrayal has consequences."
+  },
+  {
+    "q_zh": "你与一位陌生人进行一次性博弈，对方先手选择了信任你（把大利益托付给你）。你会？",
+    "q_en": "In a one-shot game with a stranger, the other party first chooses to trust you (entrusting you with a large benefit). What do you do?",
+    "a_zh": "回报信任，选择合作，哪怕没有后续博弈。",
+    "a_en": "Return the trust and cooperate, even though there is no future interaction.",
+    "b_zh": "利用信息不对称，选择背叛，最大化自身收益。",
+    "b_en": "Exploit the information asymmetry, defect, and maximize your own payoff."
+  },
+  {
+    "q_zh": "你正在参与一场拍卖，对手出价远低于你的心理价位，但博弈提示对方可能在虚张声势。你会？",
+    "q_en": "You are in an auction; your opponent bids far below your private valuation, but the game theory hint suggests they might be bluffing. What do you do?",
+    "a_zh": "略微加价，试图用低成本试探对手底线。",
+    "a_en": "Bid slightly higher to probe the opponent's true valuation at low cost.",
+    "b_zh": "直接出心理价位，用强势姿态迫使对手退出。",
+    "b_en": "Bid your true valuation directly, using an aggressive stance to force the opponent out."
+  },
+  {
+    "q_zh": "在消耗战博弈中，你已经投入了大量资源（沉没成本），而对手也表现出疲惫。下一步你会？",
+    "q_en": "In a war of attrition, you have already sunk significant resources, and your opponent also shows signs of exhaustion. What is your next move?",
+    "a_zh": "继续坚持，因为前期的投入让退出损失更大。",
+    "a_en": "Persist, because the sunk costs make quitting more costly than continuing.",
+    "b_zh": "果断退出，及时止损，避免陷入无底洞。",
+    "b_en": "Cut your losses decisively and exit to avoid an endless trap."
+  },
+  {
+    "q_zh": "你与竞争对手同时推出新产品，你的产品稍弱但成本更低。此时你会选择？",
+    "q_en": "You and a competitor launch new products simultaneously. Your product is slightly inferior but cheaper. What do you choose?",
+    "a_zh": "主动降低价格，用低成本优势打价格战。",
+    "a_en": "Proactively lower prices, leveraging your cost advantage for a price war.",
+    "b_zh": "维持高价并强调差异化，避免直接正面竞争。",
+    "b_en": "Maintain high price and emphasize differentiation, avoiding direct head-on competition."
+  },
+  {
+    "q_zh": "在多人博弈中，所有人都知道某个机会是短暂的（比如只此一轮合作）。你会？",
+    "q_en": "In a multiplayer game, everyone knows an opportunity is fleeting (e.g., only one round of cooperation available). What do you do?",
+    "a_zh": "率先抓住机会单方面行动，获取先发优势。",
+    "a_en": "Jump at the opportunity unilaterally, securing the first-mover advantage.",
+    "b_zh": "尝试联络或暗示他人，建立临时联盟后一起行动。",
+    "b_en": "Attempt to signal or rally others into a temporary coalition before acting together."
+  },
+  {
+    "q_zh": "你的教育背景告诉你应理性最大化收益，但直觉上对手是个极其情绪化、会不计代价报复的人。你会？",
+    "q_en": "Your education tells you to maximize rational payoff, but your intuition says your opponent is highly emotional and will retaliate irrationally. What do you do?",
+    "a_zh": "遵循理性计算，选择理论最优策略。",
+    "a_en": "Follow rational calculation and choose the theoretically optimal strategy.",
+    "b_zh": "选择更为温和的策略，预防对方因愤怒而玉石俱焚。",
+    "b_en": "Adopt a more conciliatory strategy to prevent the opponent from acting out of spite."
+  },
+  {
+    "q_zh": "在猜硬币正反面的零和博弈中，你发现对手前三次都出正面。第四次你会？",
+    "q_en": "In a zero-sum coin-matching game, you notice your opponent has played 'heads' three times in a row. On the fourth round, you:",
+    "a_zh": "出反面，赌对手会因‘赌徒谬误’而改出反面。",
+    "a_en": "Play tails, betting that your opponent will fall for the 'gambler's fallacy' and switch to tails.",
+    "b_zh": "继续出反面，因为对手也可能认为你会出反面而选择正面（反向博弈）。",
+    "b_en": "Play tails again, reasoning that the opponent might think you expect them to switch, and they will stay with heads."
+  },
+  {
+    "q_zh": "你身处一个信息不对称的市场，你拥有私人质量信息（你的产品其实质量一般），但买家会参考过往交易记录。你会？",
+    "q_en": "You are in an asymmetric information market with private quality info (your product is actually mediocre), but buyers rely on past transaction records. What do you do?",
+    "a_zh": "诚实定价，用长期声誉换取未来更多交易机会。",
+    "a_en": "Price honestly and rely on long-term reputation to secure future transactions.",
+    "b_zh": "虚报高价，搏一把短期暴利，反正信息不对称。",
+    "b_en": "Inflate a high price to gamble on a short-term windfall, since information is asymmetric."
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你作为提议者（ proposer），对方是回应者。你面临巨大风险：如果分配极度不公，对方可能宁可双输也要拒绝。你会给出多少比例？",
+    "q_en": "In an ultimatum game, you are the proposer and the opponent is the responder. There's high risk: if you offer an extremely unfair split, they might reject out of spite. What share do you offer?",
+    "a_zh": "给出接近公平（如40%-50%），确保对方大概率接受。",
+    "a_en": "Offer a near-equal split (e.g., 40%-50%), ensuring a high probability of acceptance.",
+    "b_zh": "只给极低比例（如10%），赌对方理性且在乎收益。",
+    "b_en": "Offer a very low share (e.g., 10%), gambling that the opponent is rational and cares about payoff."
   }
 ]
