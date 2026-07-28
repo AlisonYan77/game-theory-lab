@@ -13396,5 +13396,85 @@
     "a_en": "Offer a near-equal split (e.g., 40%-50%), ensuring a high probability of acceptance.",
     "b_zh": "只给极低比例（如10%），赌对方理性且在乎收益。",
     "b_en": "Offer a very low share (e.g., 10%), gambling that the opponent is rational and cares about payoff."
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，如果对手上一轮选择了背叛，你会选择？",
+    "q_en": "In a repeated prisoner's dilemma, if your opponent defected in the last round, you would choose:",
+    "a_zh": "同样背叛，以牙还牙",
+    "a_en": "Defect back, tit-for-tat",
+    "b_zh": "继续合作，试图重建信任",
+    "b_en": "Continue cooperating to rebuild trust"
+  },
+  {
+    "q_zh": "在拍卖游戏中，如果对手出价过高，你会？",
+    "q_en": "In an auction game, if your opponent bids excessively high, you would:",
+    "a_zh": "立刻退出，避免损失",
+    "a_en": "Exit immediately to avoid loss",
+    "b_zh": "继续加价，迫使对方付出更大代价",
+    "b_en": "Keep raising to force the opponent to pay a higher price"
+  },
+  {
+    "q_zh": "在谈判中，对方提出一个极其不公平的分配方案，你会？",
+    "q_en": "In a negotiation, if the other party proposes an extremely unfair distribution, you would:",
+    "a_zh": "拒绝并威胁终止谈判，以显示强硬",
+    "a_en": "Reject and threaten to end the negotiation to show toughness",
+    "b_zh": "暂时接受，以期后续得到补偿",
+    "b_en": "Temporarily accept, hoping for future compensation"
+  },
+  {
+    "q_zh": "在公共物品博弈中，你发现其他玩家都很少贡献，你会？",
+    "q_en": "In a public goods game, if you notice other players contributing very little, you would:",
+    "a_zh": "减少自己的贡献，以免吃亏",
+    "a_en": "Reduce your own contribution to avoid being taken advantage of",
+    "b_zh": "保持高贡献，期望激励他人改变",
+    "b_en": "Keep contributing highly, hoping to inspire others to change"
+  },
+  {
+    "q_zh": "在信号游戏中，如果你相信对方在虚张声势，你会？",
+    "q_en": "In a signaling game, if you believe the other party is bluffing, you would:",
+    "a_zh": "揭穿他，逼迫其露出破绽",
+    "a_en": "Call their bluff, forcing them to show weakness",
+    "b_zh": "也虚张声势回应，让局势更混乱",
+    "b_en": "Bluff back to create more chaos"
+  },
+  {
+    "q_zh": "在一个协调博弈中，你有两个均衡选择，但对方明显偏好其中一个，你会？",
+    "q_en": "In a coordination game with two equilibria, and the opponent clearly prefers one, you would:",
+    "a_zh": "顺从对方选择，追求效率",
+    "a_en": "Go along with their choice for efficiency",
+    "b_zh": "坚持自己的偏好，考验对方耐心",
+    "b_en": "Insist on your own preference to test their patience"
+  },
+  {
+    "q_zh": "在消耗战中，你认为对方资源即将耗尽，你会？",
+    "q_en": "In a war of attrition, if you think the opponent's resources are almost depleted, you would:",
+    "a_zh": "继续耗下去，直到对方崩溃",
+    "a_en": "Continue the attrition until they collapse",
+    "b_zh": "主动求和，避免自己也被拖垮",
+    "b_en": "Proactively seek a truce to avoid being exhausted too"
+  },
+  {
+    "q_zh": "在信任博弈中，对方将大量资金委托给你，你会？",
+    "q_en": "In a trust game, if the other party entrusts you with a large sum of money, you would:",
+    "a_zh": "返还大部分资金，保持长期信任",
+    "a_en": "Return most of the money to maintain long-term trust",
+    "b_zh": "只返还少量，最大化短期收益",
+    "b_en": "Return only a small amount to maximize short-term gain"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，对方提出非常苛刻的分配，你会？",
+    "q_en": "In an ultimatum game, if the opponent proposes a very harsh split, you would:",
+    "a_zh": "拒绝，宁愿双方都得不到",
+    "a_en": "Reject, preferring that neither gets anything",
+    "b_zh": "接受，因为至少还有一点收益",
+    "b_en": "Accept, because at least there is some gain"
+  },
+  {
+    "q_zh": "在防止背叛的合作协议中，你更信任哪种机制？",
+    "q_en": "In a cooperation agreement to prevent betrayal, which mechanism do you trust more?",
+    "a_zh": "严厉的惩罚条款，让背叛代价极高",
+    "a_en": "Severe punishment clauses making betrayal extremely costly",
+    "b_zh": "透明的监督系统，让背叛无处可藏",
+    "b_en": "Transparent monitoring system leaving no place to hide betrayal"
   }
 ]
