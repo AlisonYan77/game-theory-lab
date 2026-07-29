@@ -13476,5 +13476,85 @@
     "a_en": "Severe punishment clauses making betrayal extremely costly",
     "b_zh": "透明的监督系统，让背叛无处可藏",
     "b_en": "Transparent monitoring system leaving no place to hide betrayal"
+  },
+  {
+    "q_zh": "在长期合作中，对方上次背叛了你。这次你会选择：",
+    "q_en": "In a long-term cooperation, your partner betrayed you last time. This time, you would choose:",
+    "a_zh": "选择合作，试图修复关系，信任一次",
+    "a_en": "Cooperate, trying to rebuild trust one more time",
+    "b_zh": "选择背叛，以牙还牙防止再次被利用",
+    "b_en": "Betray, retaliating to prevent being taken advantage of again"
+  },
+  {
+    "q_zh": "如果你是囚徒困境中的囚徒，对方沉默，你会：",
+    "q_en": "If you are a prisoner in the Prisoner’s Dilemma and the other remains silent, you would:",
+    "a_zh": "保持沉默，共同获得轻判",
+    "a_en": "Stay silent, both receive a lighter sentence",
+    "b_zh": "选择背叛，争取无罪释放",
+    "b_en": "Betray, aiming for acquittal"
+  },
+  {
+    "q_zh": "在一场一次性博弈中，对手是陌生人，从不了解其风格，你会：",
+    "q_en": "In a one-shot game against a stranger with no known style, you would:",
+    "a_zh": "先合作，试探对方意图",
+    "a_en": "Start with cooperation to test intentions",
+    "b_zh": "直接背叛，确保自身利益最大化",
+    "b_en": "Betray directly to maximize personal gain"
+  },
+  {
+    "q_zh": "在拍卖中，你和另一人对同一物品竞价，双方都出高价都会亏，你是否会：",
+    "q_en": "In an auction with one opponent, where both bidding high leads to loss, would you:",
+    "a_zh": "理性出低价，避免恶性竞争",
+    "a_en": "Bid low to avoid a bidding war",
+    "b_zh": "出高价吓退对方，赌对方先退缩",
+    "b_en": "Bid high to intimidate, hoping the opponent backs down"
+  },
+  {
+    "q_zh": "资源分配博弈中，你有权决定分给对手多少，你会：",
+    "q_en": "In a resource allocation game where you decide how much to give the opponent, you would:",
+    "a_zh": "公平分配，以期未来互惠",
+    "a_en": "Divide fairly, hoping for future reciprocity",
+    "b_zh": "只给最少，确保自己保有最大份额",
+    "b_en": "Give the minimum to keep the largest share"
+  },
+  {
+    "q_zh": "在多次囚徒困境中，发现对手总是选择合作，你会：",
+    "q_en": "In an iterated Prisoner’s Dilemma, noticing your opponent always cooperates, you would:",
+    "a_zh": "继续保持合作，维持双赢局面",
+    "a_en": "Keep cooperating to maintain a win-win situation",
+    "b_zh": "偶尔背叛一次，测试对方反应或谋利",
+    "b_en": "Occasionally betray to test response or gain advantage"
+  },
+  {
+    "q_zh": "面对一个报复心强的对手，你上次背叛后他立刻报复，这次你会：",
+    "q_en": "Facing a vengeful opponent who retaliated immediately after your last betrayal, you would:",
+    "a_zh": "永远合作，避免触发报复循环",
+    "a_en": "Always cooperate to avoid a cycle of retaliation",
+    "b_zh": "继续试探背叛，但若他报复则停止",
+    "b_en": "Keep testing betrayal, but stop if he retaliates"
+  },
+  {
+    "q_zh": "若你能与对手私下交流一次，你会：",
+    "q_en": "If you could exchange one private message with the opponent, you would:",
+    "a_zh": "承诺合作并请求对方也同样做",
+    "a_en": "Promise to cooperate and ask the same from them",
+    "b_zh": "口头承诺合作，实际准备背叛",
+    "b_en": "Verbally promise cooperation but plan to betray"
+  },
+  {
+    "q_zh": "在风险共担博弈中，双方同时选择投入，回报与总投入成正比，你会：",
+    "q_en": "In a risk-sharing game where both invest simultaneously and returns are proportional to total investment, you would:",
+    "a_zh": "投入全部，期望对方也全力以赴",
+    "a_en": "Invest fully, hoping the opponent does the same",
+    "b_zh": "投入很少甚至为零，搭对方便车",
+    "b_en": "Invest little or nothing, free-riding on the opponent"
+  },
+  {
+    "q_zh": "如果你知道对手是‘以牙还牙’策略，第一回合你会：",
+    "q_en": "If you know the opponent uses a 'Tit for Tat' strategy, on the first move you would:",
+    "a_zh": "选择合作，因为这是启动良性循环的最优方式",
+    "a_en": "Cooperate, as it's the optimal way to start a virtuous cycle",
+    "b_zh": "选择背叛，仍可抢得一次利益再转向合作",
+    "b_en": "Betray, grabbing one-time gain before switching to cooperation"
   }
 ]
