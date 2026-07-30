@@ -13556,5 +13556,85 @@
     "a_en": "Cooperate, as it's the optimal way to start a virtuous cycle",
     "b_zh": "选择背叛，仍可抢得一次利益再转向合作",
     "b_en": "Betray, grabbing one-time gain before switching to cooperation"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，对手在上轮选择了背叛。你相信人性本善，倾向于原谅和合作，但理性告诉你必须报复。你会：",
+    "q_en": "In a repeated Prisoner's Dilemma, your opponent defected last round. You believe in fundamental human goodness and lean toward forgiveness and cooperation, but reason demands retaliation. Do you:",
+    "a_zh": "选择合作，展示宽容，试图用善意感化对方",
+    "a_en": "Choose to cooperate, demonstrating forgiveness, hoping to reform the opponent through goodwill",
+    "b_zh": "选择背叛，以牙还牙，防止对方进一步利用你",
+    "b_en": "Choose to defect, tit-for-tat, to prevent further exploitation"
+  },
+  {
+    "q_zh": "你是一位新手创业者，遇到一个资深投资人愿意给你巨额投资，但条件是你必须交出51%的股权和控制权。你评估自己的项目极度缺钱，但又不甘失去主导权。你会：",
+    "q_en": "You are a first-time entrepreneur. A seasoned investor offers huge funding on condition of 51% equity and full control. You badly need capital but dread losing control. Do you:",
+    "a_zh": "接受投资，用这笔钱快速扩张，相信能通过业绩换回信任",
+    "a_en": "Accept the deal, using the funds for rapid expansion, trusting performance will earn back trust",
+    "b_zh": "拒绝投资，保持独立，继续小规模运营或寻找更公平的合伙人",
+    "b_en": "Refuse the offer, retain independence, and continue small-scale operations or seek fairer partners"
+  },
+  {
+    "q_zh": "你和同事竞争一个唯一的晋升名额。你得知对方在背后散布你的谣言，但你没有确凿证据。上报领导可能两败俱伤，隐忍则可能错失良机。你会：",
+    "q_en": "You are competing with a colleague for a single promotion. You hear rumors they are slandering you, but have no solid proof. Reporting could backfire; silence may cost you the opportunity. Do you:",
+    "a_zh": "公开质问对方，甚至向上级提出正式投诉，捍卫自己的名誉",
+    "a_en": "Confront them openly and even file a formal complaint to protect your reputation",
+    "b_zh": "不直接对抗，而是加倍努力工作，用成果压倒流言蜚语",
+    "b_en": "Avoid direct confrontation, work harder, and let results speak louder than rumors"
+  },
+  {
+    "q_zh": "在一个拍卖游戏中，你和另一位玩家竞拍一张100元钞票。出价规则是：出价最高者得到100元，但最高和第二高都要支付自己的出价（且得不到任何东西）。当前对方出价40元，轮到你。你会：",
+    "q_en": "In an auction game, you and one other bid for a $100 bill. The highest bidder wins $100, but both the highest and second-highest must pay their bids (and get nothing else). The opponent currently bids $40, it's your turn. Do you:",
+    "a_zh": "出价45元，争取赚钱机会，但承担可能陷入加价陷阱的风险",
+    "a_en": "Bid $45 to seek profit, risking escalation into a bidding trap",
+    "b_zh": "放弃出价，接受0收益，但避免陷入非理性加价的死循环",
+    "b_en": "Give up bidding, accept zero gain, but avoid the irrational escalation trap"
+  },
+  {
+    "q_zh": "你和朋友玩一个游戏：每个人秘密选择一个数字1-10，两人选择之和若小于等于10，则每人得到所选的数字；若和大于10，则两人都得到0。你预测朋友会选择7，你会：",
+    "q_en": "You play a game with a friend: each secretly picks a number 1-10. If the sum ≤ 10, each gets their own number; if the sum >10, both get 0. You predict your friend will pick 7. Do you:",
+    "a_zh": "选择3，使总和刚好为10，最大化合作收益",
+    "a_en": "Pick 3, making the sum exactly 10, maximizing cooperative payoff",
+    "b_zh": "选择6或更高，赌自己可能得到更大数字，哪怕冒风险",
+    "b_en": "Pick 6 or higher, gambling on a bigger personal gain despite risk"
+  },
+  {
+    "q_zh": "你是一个国家的领导人，敌方已经部署了核武器。你的情报显示，如果现在发动先发制人打击，能摧毁对方90%的核力量，但会遭到剩余10%的报复。如果等待，对方可能升级。你会：",
+    "q_en": "As a national leader, the enemy has deployed nuclear weapons. Intel says a preemptive strike now would destroy 90% of their arsenal but trigger retaliation from the remaining 10%. Waiting risks escalation. Do you:",
+    "a_zh": "立即下令先发制人，用可控的损失换取战略优势",
+    "a_en": "Order an immediate preemptive strike, accepting limited damage for strategic advantage",
+    "b_zh": "不首先攻击，尝试外交谈判，并加强防御，相信威慑仍有效",
+    "b_en": "Hold fire, pursue diplomacy, strengthen defenses, and trust that deterrence remains effective"
+  },
+  {
+    "q_zh": "在一个社交场合，你无意中听到一个关键合作者向别人贬低你的能力。你表面上装作没听到，但心里非常介意。之后你们要进行一个重要合作谈判。你会：",
+    "q_en": "At a social event, you overhear a key collaborator belittling your abilities. You pretend not to hear but are deeply upset. A crucial negotiation is coming. Do you:",
+    "a_zh": "直接在谈判前私下与他坦诚对话，表达你的感受，试图修复关系",
+    "a_en": "Privately confront them before the negotiation, expressing your feelings, aiming to repair the relationship",
+    "b_zh": "选择保持沉默，将情绪放一边，在谈判中用强硬立场维护自己的利益",
+    "b_en": "Stay silent, set emotions aside, and adopt a tough stance in the negotiation to protect your interests"
+  },
+  {
+    "q_zh": "你被锁在一个密室里，面前有两个按钮。按A有50%概率毒气释放（死亡），50%概率门开；按B有90%概率轻微电击（但安全），10%概率门直接开。你可以不按，但一小时后密室会充满水。你会：",
+    "q_en": "You are locked in a room with two buttons. Button A: 50% chance toxic gas (death), 50% door opens. Button B: 90% chance mild shock (safe), 10% door opens. You can do nothing, but the room will flood in one hour. Do you:",
+    "a_zh": "按下A，追求干脆利落的生死赌注，因为等待死亡更折磨",
+    "a_en": "Press A, taking a clean life-or-death gamble, as waiting for death is more agonizing",
+    "b_zh": "按下B，接受高概率的痛楚，但换来相对安全的逃生尝试",
+    "b_en": "Press B, accepting high probability of pain, but a safer escape attempt"
+  },
+  {
+    "q_zh": "你是一家公司CEO，竞争对手突然大幅降价30%抢占市场。你的分析显示，跟进降价会引发价格战，利润归零；但不跟进则可能丢失大量客户。你会：",
+    "q_en": "As a CEO, a competitor suddenly slashes prices by 30% to grab market share. Your analysis shows that matching the cut will trigger a price war to zero profit; not matching risks losing customers. Do you:",
+    "a_zh": "立即跟进降价，保住市场份额，相信通过规模优势能熬过对手",
+    "a_en": "Immediately match the price cut to retain market share, betting on scale advantage to outlast the rival",
+    "b_zh": "不降价，而是强化品牌价值和客户服务，差异化竞争吸引忠诚客户",
+    "b_en": "Hold prices, instead reinforce brand value and customer service, differentiating to attract loyal customers"
+  },
+  {
+    "q_zh": "你和另一个玩家进行一场博弈：你们各有100元，同时决定贡献多少到一个公共池中。公共池总额会翻倍并平分给你们俩。你的对手是一个众所周知的‘理性自私者’，预计贡献很少。你会：",
+    "q_en": "You and another player each have $100. Simultaneously decide how much to contribute to a common pool. The pool is doubled and split equally. Your opponent is a known 'rational selfish' type expected to contribute little. Do you:",
+    "a_zh": "贡献0元，搭便车，确保自己的100元不损失，同时拿一点池中的回报",
+    "a_en": "Contribute $0, free-ride, securing your $100 while still getting some pool return",
+    "b_zh": "贡献20-30元，尝试以部分善意诱导对方也增加贡献，尽管风险很高",
+    "b_en": "Contribute $20-30, attempting to induce reciprocity with partial goodwill despite high risk"
   }
 ]
