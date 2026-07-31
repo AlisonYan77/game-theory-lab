@@ -13636,5 +13636,85 @@
     "a_en": "Contribute $0, free-ride, securing your $100 while still getting some pool return",
     "b_zh": "贡献20-30元，尝试以部分善意诱导对方也增加贡献，尽管风险很高",
     "b_en": "Contribute $20-30, attempting to induce reciprocity with partial goodwill despite high risk"
+  },
+  {
+    "q_zh": "你听说公司里有人在背后散布你的谣言，但不确定是谁。你最信任的朋友向你透露了其中一位同事说过的负面言论。你会怎么做？",
+    "q_en": "You hear a rumor spreading about you at work, but you're not sure who started it. Your most trusted friend tells you what one specific colleague said. What do you do?",
+    "a_zh": "直接找那位同事对质，要求他当面解释清楚。",
+    "a_en": "Confront the colleague directly and demand an explanation face-to-face.",
+    "b_zh": "先按兵不动，暗中观察这位同事与其他人的互动，寻找更多线索后再决定。",
+    "b_en": "Hold back, secretly observe this colleague's interactions with others, and gather more clues before acting."
+  },
+  {
+    "q_zh": "在一场商业谈判中，对方突然做出了一个看似非常慷慨的让步，但你知道他们之前一直很强硬。你怀疑这是陷阱。此时你会：",
+    "q_en": "In a business negotiation, the other side suddenly makes a seemingly very generous concession, but you know they've been tough all along. You suspect it's a trap. What do you do now?",
+    "a_zh": "立刻接受这个让步，抓住机会，并快速锁定合同条款。",
+    "a_en": "Accept the concession immediately, seize the opportunity, and lock in the contract terms quickly.",
+    "b_zh": "不接受，而是追问他们让步的原因，坚持要求他们解释逻辑和附加条件。",
+    "b_en": "Don't accept it; instead, ask why they made the concession and insist they explain the logic and any hidden conditions."
+  },
+  {
+    "q_zh": "你的合作伙伴最近总在关键决策上犹豫不决，但你知道他私下里可能和你的竞争对手接触过。你会怎么处理这种不确定性？",
+    "q_en": "Your partner has been indecisive on key decisions lately, but you know he may have secretly met with your competitor. How do you handle this uncertainty?",
+    "a_zh": "摊牌，直接问他是否背叛了你，并要求他立即表态。",
+    "a_en": "Confront him head-on, ask if he betrayed you, and demand an immediate commitment from him.",
+    "b_zh": "给他一些模糊的甜头（比如新的合作机会），试探他的反应，从而判断真实立场。",
+    "b_en": "Offer him some vague sweeteners (like a new cooperation opportunity) to test his reaction and thus discern his true stance."
+  },
+  {
+    "q_zh": "在赌局中，对手故意输给你两局，然后突然加大赌注。你意识到他可能在放松你的警惕。此刻最佳策略是：",
+    "q_en": "In a betting game, your opponent deliberately loses two rounds to you, then suddenly raises the stakes. You realize he might be lulling you into a false sense of security. What's the best strategy now?",
+    "a_zh": "觉得自己占了上风，顺势接受加注，扩大赢面。",
+    "a_en": "Feeling you have the upper hand, accept the raise and try to expand your winnings.",
+    "b_zh": "拒绝加注，并重新审视自己的牌力和对手的动机，考虑是否要暂时收手。",
+    "b_en": "Refuse the raise, re-evaluate your hand and the opponent's motives, and consider whether to temporarily back off."
+  },
+  {
+    "q_zh": "有人匿名给你提供了一个重要情报，但你无法验证其真实性。使用这个情报可能带来巨大收益，但也可能是陷阱。你会：",
+    "q_en": "Someone anonymously gives you crucial intelligence, but you can't verify its truthfulness. Using it could bring huge gains, but it might also be a trap. What will you do?",
+    "a_zh": "直接相信并使用，因为机会难得，风险值得一搏。",
+    "a_en": "Trust and use it directly, because opportunities are rare and the risk is worth taking.",
+    "b_zh": "不直接使用，但利用它来反向调查情报来源和背后意图，并准备备选方案。",
+    "b_en": "Don't use it directly, but use it to investigate the source and underlying intentions, and prepare a backup plan."
+  },
+  {
+    "q_zh": "你与对手博弈时，对方突然表现出极度的合作意愿，甚至愿意放弃自己部分利益来促成合作。你了解他并不吃亏。此行为最可能是：",
+    "q_en": "During a game, your opponent suddenly shows extreme willingness to cooperate, even willing to give up some of his own interests to reach an agreement. You know he wouldn't do this at a loss. This behavior is most likely:",
+    "a_zh": "真心想跟你建立长期互信关系，值得接受和回报。",
+    "a_en": "Genuinely wants to build a long-term trusting relationship with you, which is worth accepting and reciprocating.",
+    "b_zh": "在下一盘棋中的诱饵，想让你放松警惕，为后续大动作铺路。",
+    "b_en": "A lure in the next move, trying to make you lower your guard to pave the way for a later big move."
+  },
+  {
+    "q_zh": "在多人博弈中，你发现两个对手似乎在悄悄结盟对付你，但他们表面装作互不相识。你会：",
+    "q_en": "In a multiplayer game, you notice two opponents seem to be quietly allying against you, but they pretend not to know each other. What do you do?",
+    "a_zh": "公开揭穿他们的联盟，让其他人看到他们的虚伪，从而孤立他们。",
+    "a_en": "Publicly expose their alliance, making others see their hypocrisy and thus isolate them.",
+    "b_zh": "假装没发现，但暗中散布关于他们各怀鬼胎的小信息，离间他们。",
+    "b_en": "Pretend not to notice, but secretly spread small bits of information that they distrust each other, driving a wedge between them."
+  },
+  {
+    "q_zh": "你拥有一个关键资源，对手急需它才能获胜，你并不需要它。但他提出的交换条件比你想象中优厚很多，远超市场价值。你会：",
+    "q_en": "You hold a key resource that your opponent desperately needs to win, while you don't need it. But he offers a trade condition far more generous than market value. What will you do?",
+    "a_zh": "立刻成交，因为这是罕见的超值交易，落袋为安。",
+    "a_en": "Close the deal immediately because it's a rare bargain; get the money in hand.",
+    "b_zh": "拖延时间，故意抬高价格或提出附加条件，看他急于求成的表现，并揣测他的真实底线。",
+    "b_en": "Delay and deliberately raise the price or add extra conditions, observing his eager behavior to probe his true bottom line."
+  },
+  {
+    "q_zh": "在一个信息不完全对称的游戏中，你明显处于劣势，但对手似乎比你更焦虑。此时你最好：",
+    "q_en": "In a game with asymmetric information, you're clearly at a disadvantage, yet your opponent seems more anxious than you. Now it's best to:",
+    "a_zh": "主动示弱，降低姿态，以换取对手的怜悯或松懈。",
+    "a_en": "Act weak and lower your posture to gain the opponent's sympathy or complacency.",
+    "b_zh": "保持冷静，甚至假装不在意，利用他的焦虑反向施压，寻找翻盘机会。",
+    "b_en": "Stay calm, even pretend to be indifferent, use his anxiety to put pressure back on him and look for a comeback."
+  },
+  {
+    "q_zh": "你发现你的盟友在私下里跟你的对手做生意，但他否认此事。你知道证据确凿。你的目标是维持同盟又能保护自己。你会：",
+    "q_en": "You discover your ally is privately doing business with your opponent, but he denies it. You have solid evidence. Your goal is to keep the alliance and protect yourself. You will:",
+    "a_zh": "直接拿证据摊牌，要求他立即断绝所有联系，并威胁公开详情。",
+    "a_en": "Confront him with the evidence directly, demand he cut all ties immediately, and threaten to reveal details.",
+    "b_zh": "不揭穿，但调整自己与他的分享信息量，暗中准备一个独立方案，以备他再次背叛时能抽身。",
+    "b_en": "Don't call him out, but adjust the amount of information you share with him, secretly prepare an independent plan so you can withdraw if he betrays again."
   }
 ]
