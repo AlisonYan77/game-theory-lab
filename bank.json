@@ -13716,5 +13716,85 @@
     "a_en": "Confront him with the evidence directly, demand he cut all ties immediately, and threaten to reveal details.",
     "b_zh": "不揭穿，但调整自己与他的分享信息量，暗中准备一个独立方案，以备他再次背叛时能抽身。",
     "b_en": "Don't call him out, but adjust the amount of information you share with him, secretly prepare an independent plan so you can withdraw if he betrays again."
+  },
+  {
+    "q_zh": "你发现对手在游戏最后一轮突然改变了策略，而你将因此损失大量筹码。你会如何应对？",
+    "q_en": "You notice your opponent drastically changes strategy in the final round, costing you many chips. How do you respond?",
+    "a_zh": "立刻以同样激进的方式反击，宁可两败俱伤也要惩罚对方",
+    "a_en": "Immediately retaliate with equal aggression, even if it hurts both of us.",
+    "b_zh": "冷静分析对方意图，调整自己的目标为最小化损失，避免情绪化报复",
+    "b_en": "Calmly analyze their motive, adjust my goal to minimize loss, and avoid emotional revenge."
+  },
+  {
+    "q_zh": "在一场重复博弈中，对手连续三轮合作后，第四轮突然背叛。你接下来会怎么做？",
+    "q_en": "In a repeated game, your opponent cooperates for three rounds, then defects on the fourth. What do you do next?",
+    "a_zh": "立即背叛并保持强硬，绝不原谅这次背叛",
+    "a_en": "Defect immediately and stay tough, never forgiving this betrayal.",
+    "b_zh": "先试探性地合作一轮，但如果对方再背叛，则永久背叛",
+    "b_en": "Test cooperation one more time, but if they betray again, defect forever."
+  },
+  {
+    "q_zh": "你掌握对手的弱点信息，但使用它会彻底激怒对方，导致后面不可预测的对抗。如何使用？",
+    "q_en": "You know your opponent's weak point, but using it will enrage them, causing unpredictable future conflicts. How do you use it?",
+    "a_zh": "现在就用，趁机一举击溃对方，不考虑长远关系",
+    "a_en": "Use it now to crush them once and for all, ignoring long-term relations.",
+    "b_zh": "先留着不用，用作出价筹码，换取对方在其他方面的让步",
+    "b_en": "Hold it as a bargaining chip to extract concessions in other areas."
+  },
+  {
+    "q_zh": "在一次性博弈中，你确信对方是理性且自私的。对方首先出招了“合作”的信号。你会？",
+    "q_en": "In a one-shot game, you are sure the opponent is rational and selfish. They signal 'cooperate' first. What do you do?",
+    "a_zh": "选择合作，因为对方的信号可能代表真诚的意图",
+    "a_en": "Choose cooperate, because their signal might reflect genuine intent.",
+    "b_zh": "选择背叛，因为理性自利的对手很可能是在引诱你合作以便背叛",
+    "b_en": "Choose defect, because a rational selfish opponent likely uses cooperation as bait to defect."
+  },
+  {
+    "q_zh": "在博弈中，你连续输了几局，但对方渐渐露出疲惫和松懈。你注意到自己仍有翻身的机会。你会？",
+    "q_en": "You've lost several rounds, but your opponent shows signs of fatigue and carelessness. You see a comeback chance. What do you do?",
+    "a_zh": "立即加码下注，趁对方状态不佳时猛攻",
+    "a_en": "Immediately raise the stakes and attack hard while they are vulnerable.",
+    "b_zh": "继续保持低调，先观察几轮，确保对方不是故意装弱引你出手",
+    "b_en": "Stay low and observe a few rounds to ensure they're not faking weakness to trap you."
+  },
+  {
+    "q_zh": "你与对手进行多轮谈判（谈判也是博弈），对方在某个关键条款上做了大幅让步。你直觉这笔让步“太容易了”。你会？",
+    "q_en": "In a multi-round negotiation (a kind of game), your opponent makes a big concession on a key term. Your instinct says it's 'too easy'. What do you do?",
+    "a_zh": "接受让步，快速锁定协议，避免对方反悔",
+    "a_en": "Accept the concession and quickly seal the deal to prevent backtracking.",
+    "b_zh": "不急于接受，先要求解释让步原因，并试探是否有隐藏要求",
+    "b_en": "Don't rush to accept; ask for reasons and probe for hidden strings."
+  },
+  {
+    "q_zh": "在一个混合策略博弈中，你发现对手的随机模式有规律可循。利用它可能让你赢得本轮，但若被对方察觉，可能招致更激烈的报复。你？",
+    "q_en": "In a mixed-strategy game, you detect a predictable pattern in your opponent's randomness. Exploiting it may win this round, but if detected, could invite harsh retaliation. Do you?",
+    "a_zh": "利用这个模式拿下本轮胜利，即使对面可能报复",
+    "a_en": "Exploit the pattern for this round's win, even if they might retaliate.",
+    "b_zh": "装作没发现，只在关键高分轮使用一次，然后立刻改变自己的策略模式",
+    "b_en": "Pretend not to notice, use it only once at a high-stakes round, then change my pattern immediately."
+  },
+  {
+    "q_zh": "对手是一个报复心很强的人。你犯了一个错误导致对方损失惨重。对方现在威胁要对你进行长期惩罚。最佳的止损策略是？",
+    "q_en": "Your opponent is vengeful. You made a mistake that cost them heavily, and they now threaten long-term punishment. What's the best damage-control strategy?",
+    "a_zh": "解释这是个错误，并主动提供一些补偿，尝试恢复关系",
+    "a_en": "Explain it was a mistake, offer some compensation, and try to repair the relationship.",
+    "b_zh": "先发制人，设计新策略让对方相信惩罚你只会两败俱伤，从而放弃报复",
+    "b_en": "Preemptively design a strategy to convince them punishing you is mutually destructive, so they drop the revenge."
+  },
+  {
+    "q_zh": "你和对手都有机会选择“双赢”或“独赢”的结局。若你选择双赢，而对方选择独赢，你会损失惨重；反之亦然。对方告诉你他可靠，希望双赢。你？",
+    "q_en": "Both you and your opponent can choose a 'win-win' or 'win-lose' outcome. If you choose win-win but they choose win-lose, you suffer; and vice versa. They claim to be trustworthy, hoping for win-win. Do you?",
+    "a_zh": "相信对方，选择双赢，因为建立信任有利于未来合作",
+    "a_en": "Trust them and choose win-win, because building trust benefits future cooperation.",
+    "b_zh": "选择独赢，因为在关键利己时刻，大多数人会背叛承诺",
+    "b_en": "Choose win-lose, because at critical self-interest moments, most people betray promises."
+  },
+  {
+    "q_zh": "博弈进行到后期，你的总得分略低于对手。但对手正面临巨大的时间压力，而你时间充裕。你会？",
+    "q_en": "Late in the game, your total score is slightly lower than theirs. But the opponent is under severe time pressure, while you have plenty of time. What do you do?",
+    "a_zh": "加快节奏，逼对手在时间压力下犯错，从而逆转",
+    "a_en": "Speed up the pace to force them into mistakes under time pressure, turning things around.",
+    "b_zh": "放慢节奏，拉长决策时间，让对手因焦虑而做出冒险选择",
+    "b_en": "Slow down the pace, extend decision times, letting their anxiety lead to risky choices."
   }
 ]
