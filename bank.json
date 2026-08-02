@@ -13796,5 +13796,85 @@
     "a_en": "Speed up the pace to force them into mistakes under time pressure, turning things around.",
     "b_zh": "放慢节奏，拉长决策时间，让对手因焦虑而做出冒险选择",
     "b_en": "Slow down the pace, extend decision times, letting their anxiety lead to risky choices."
+  },
+  {
+    "q_zh": "你发现对手在重复使用同一策略。你会怎么做？",
+    "q_en": "You notice your opponent keeps using the same strategy. What do you do?",
+    "a_zh": "直接针对该策略进行反制，冒险赌他还会继续用",
+    "a_en": "Directly counter that strategy, risking that he'll keep using it",
+    "b_zh": "故意不反制，而是布局一个更长期的陷阱，诱他放松警惕",
+    "b_en": "Deliberately avoid countering, and instead set a long-term trap to let his guard down"
+  },
+  {
+    "q_zh": "在最后两轮，你比分落后。对手此时最可能“求稳”。你会？",
+    "q_en": "In the final two rounds, you're behind. Your opponent is most likely to 'play safe'. What do you do?",
+    "a_zh": "也求稳，保住现有分数，希望他失误",
+    "a_en": "Also play safe, protect your current score, hoping he makes a mistake",
+    "b_zh": "冒险激进，赌他会因保守而错失机会，你趁机翻盘",
+    "b_en": "Take aggressive risks, betting that his conservatism will let you overtake"
+  },
+  {
+    "q_zh": "对手表现出明显的情绪化（愤怒/焦虑）。最佳策略是？",
+    "q_en": "Your opponent shows clear emotional signs (anger/anxiety). What's the best move?",
+    "a_zh": "利用他的情绪，故意刺激他，诱导他做不理性决定",
+    "a_en": "Exploit his emotion, deliberately provoke him to force irrational decisions",
+    "b_zh": "安抚他，避免冲突，以防他做出极端反扑",
+    "b_en": "Calm him down, avoid conflict, to prevent an extreme backlash"
+  },
+  {
+    "q_zh": "如果你连续三局都选A，对手已经察觉规律。下一局你应该？",
+    "q_en": "You've chosen A for three consecutive rounds, and your opponent has noticed the pattern. Next round you should?",
+    "a_zh": "继续选A，让他觉得你会变，然后反其道而行之（将计就计）",
+    "a_en": "Continue with A, let him think you'll change, then go against his expectation (turn the tables)",
+    "b_zh": "立刻换成B，打乱他的预判，建立不可预测的形象",
+    "b_en": "Switch to B immediately, break his prediction and build an unpredictable image"
+  },
+  {
+    "q_zh": "在一锤定音的单轮博弈中，对手实力强于你。怎么选？",
+    "q_en": "In a one-shot decisive round, your opponent is stronger than you. What do you pick?",
+    "a_zh": "选保守策略，确保不输太多，等待他可能犯错",
+    "a_en": "Pick a conservative strategy, minimize loss, and wait for his possible mistake",
+    "b_zh": "选高风险高回报策略，因为反正胜算低，不如赌一把大的",
+    "b_en": "Pick a high-risk high-reward strategy, because your odds are low anyway, so go big or go home"
+  },
+  {
+    "q_zh": "对手非常理性，从不露破绽。你如何找到突破口？",
+    "q_en": "Your opponent is very rational and never shows a flaw. How do you find a breakthrough?",
+    "a_zh": "模仿他的策略，让他觉得你是同类，从而失去戒备",
+    "a_en": "Mirror his strategy, making him think you're alike, thus lowering his guard",
+    "b_zh": "制造虚假信号（比如故意犹豫），骗他以为你是新手而轻视你",
+    "b_en": "Create false signals (e.g., fake hesitation) to make him think you're a novice and underestimate you"
+  },
+  {
+    "q_zh": "在多人博弈中，两个对手正在互相攻击。你的最佳动作？",
+    "q_en": "In a multi-player game, two opponents are attacking each other. What's your best move?",
+    "a_zh": "加入攻击其中较弱的一方，趁机抢占资源，扩大优势",
+    "a_en": "Join in attacking the weaker one, grab resources and expand your advantage",
+    "b_zh": "保持中立，让他们两败俱伤，等他们消耗完后你坐收渔利",
+    "b_en": "Stay neutral, let them weaken each other, and reap the benefits when they're exhausted"
+  },
+  {
+    "q_zh": "你刚刚被对手背叛了一次。你会立刻报复，还是假装不在意？",
+    "q_en": "You've just been betrayed by your opponent once. Do you retaliate immediately or pretend not to care?",
+    "a_zh": "立刻报复，让对方知道背叛的代价，建立长期威慑",
+    "a_en": "Retaliate immediately, show the cost of betrayal, build long-term deterrence",
+    "b_zh": "装作不在意，但暗中调整策略，等待最致命的一刻再反击",
+    "b_en": "Pretend to not care, but secretly adjust your strategy, waiting for the most lethal moment to strike back"
+  },
+  {
+    "q_zh": "你发现对手似乎对你的策略了如指掌。这时你应该？",
+    "q_en": "You discover that your opponent seems to know your strategy inside out. What should you do?",
+    "a_zh": "更换一种全新的、从未用过的策略模式，彻底重置战场",
+    "a_en": "Switch to a completely new strategy pattern you've never used before, reset the battlefield",
+    "b_zh": "故意强化现有模式，然后在他最自信时突然反其道而行",
+    "b_en": "Intentionally reinforce your current pattern, then suddenly do the opposite when he's most confident"
+  },
+  {
+    "q_zh": "如果对手一直用随机策略（完全不可预测），你怎么应对？",
+    "q_en": "If your opponent keeps using a random strategy (completely unpredictable), how do you respond?",
+    "a_zh": "也采用随机策略，以毒攻毒，期望值打平，避免被利用",
+    "a_en": "Also use randomness, fight poison with poison, break even in expectation, avoid being exploited",
+    "b_zh": "采用固定最优策略（如混合纳什均衡），在统计上占优，不管他多随机",
+    "b_en": "Use a fixed optimal strategy (like mixed Nash equilibrium), which is statistically dominant, regardless of his randomness"
   }
 ]
