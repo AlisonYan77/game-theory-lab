@@ -13876,5 +13876,87 @@
     "a_en": "Also use randomness, fight poison with poison, break even in expectation, avoid being exploited",
     "b_zh": "采用固定最优策略（如混合纳什均衡），在统计上占优，不管他多随机",
     "b_en": "Use a fixed optimal strategy (like mixed Nash equilibrium), which is statistically dominant, regardless of his randomness"
+  },
+  {
+    "q_zh": "你向对手承诺，如果对方合作，你将给予丰厚回报。但你知道，一旦对方选择合作，你违约可以获得更大的利益。你会守信吗？",
+    "q_en": "You promise your opponent a generous reward if they cooperate. But you know that if they cooperate, you can gain more by breaking your promise. Do you keep your word?",
+    "a_zh": "守信——维护长期信任和声誉。",
+    "a_en": "Keep the promise—to maintain long-term trust and reputation.",
+    "b_zh": "违约——追求当下最大化利益。",
+    "b_en": "Break the promise—to maximize immediate gain."
+  },
+  {
+    "q_zh": "在重复博弈中，对手已经连续背叛你三次，但最后一次主动示好。你接下来会？",
+    "q_en": "In a repeated game, your opponent has betrayed you three times in a row, but now they show a friendly gesture. What do you do next?",
+    "a_zh": "选择信任，给对方改正机会（宽恕策略）。",
+    "a_en": "Trust them and give a chance for reform (forgiveness strategy).",
+    "b_zh": "继续惩罚对方，直到其付出足够代价。",
+    "b_en": "Continue punishing them until they pay a sufficient cost."
+  },
+  {
+    "q_zh": "在一次谈判中，你发现对方明显高估了你手中的信息价值。你会？",
+    "q_en": "In a negotiation, you realize your opponent significantly overestimates the value of the information you hold. What do you do?",
+    "q_zh_note": "这道题有意图陷阱，但按原要求返回",
+    "q_en_note": "Intentional trap in question, but as per request",
+    "a_zh": "将计就计，利用对方的错觉换取更高收益。",
+    "a_en": "Play along and exploit their misperception for higher gains.",
+    "b_zh": "坦承信息实际价值，建立诚实形象。",
+    "b_en": "Disclose the true value to build an honest image."
+  },
+  {
+    "q_zh": "在公共品博弈中，你从别人贡献中受益很多，但自己可以免费搭车。所有人都会这么做，结果项目必然失败。你选择？",
+    "q_en": "In a public goods game, you benefit greatly from others' contributions but can free-ride. If everyone does this, the project fails. What do you choose?",
+    "a_zh": "主动贡献，即使可能被他人利用。",
+    "a_en": "Contribute proactively, even if others might exploit you.",
+    "b_zh": "不贡献，等待别人维持公共品。",
+    "b_en": "Don't contribute; rely on others to sustain the public good."
+  },
+  {
+    "q_zh": "你与对手进行最后通牒博弈：若对方拒绝你的分法，双方都一无所获。你分给对方极少的金额（如总金额的5%）。你会这么做吗？",
+    "q_en": "In an ultimatum game, if the opponent rejects your split, both get nothing. You offer them a tiny share (e.g., 5%). Do you do it?",
+    "a_zh": "会，因为理性上对方接受总比没有好。",
+    "a_en": "Yes, because rationally they should accept something over nothing.",
+    "b_zh": "不会，可能被拒绝且损害关系。",
+    "b_en": "No, it might be rejected and harm the relationship."
+  },
+  {
+    "q_zh": "对手在多次博弈中总是采取‘以牙还牙’策略。你正准备进行最后一次博弈，你已知对方会模仿你上一轮的行为。你上一轮选择了合作。接下来你？",
+    "q_en": "Your opponent uses a tit-for-tat strategy in repeated games. For the final round, they will mirror your last move. Your last move was cooperation. What do you do now?",
+    "a_zh": "继续合作，保持双方共赢，即使没有未来。",
+    "a_en": "Stay cooperative to maintain mutual gain, even without future.",
+    "b_zh": "选择背叛，因为不再有后续惩罚。",
+    "b_en": "Defect, since there is no future consequence."
+  },
+  {
+    "q_zh": "你处于一个‘胆小鬼博弈’中：双方对向行驶，先转向者认输。你确信对手是理性的，但你知道对方也在评估你的胆量。你会？",
+    "q_en": "In a chicken game, two cars drive toward each other; the one who swerves loses. You believe your opponent is rational but also assessing your nerve. What do you do?",
+    "a_zh": "坚持不转向，展示强硬形象，逼对方先让。",
+    "a_en": "Hold your course to signal toughness and force them to swerve.",
+    "b_zh": "先转向，避免碰撞的灾难性后果。",
+    "b_en": "Swerve first to avoid a catastrophic collision."
+  },
+  {
+    "q_zh": "在信任博弈中，你先得到一笔资金，可以选择投入给对手（会增值），让对手决定如何分配增值部分。你投入后，对手却给了你最少的回馈。下次游戏遇到同样情境，你会？",
+    "q_en": "In a trust game, you receive a sum and can send it to your opponent (it grows), and they decide how to split the gain. After you sent, they gave you the minimum return. Next time, what do you do?",
+    "a_zh": "不再投入，防止再次被剥削。",
+    "a_en": "Stop sending, to avoid being exploited again.",
+    "b_zh": "继续投入，但要求预先承诺或惩罚机制。",
+    "b_en": "Continue sending but require a pre-commitment or penalty mechanism."
+  },
+  {
+    "q_zh": "你有一个机会可以暗中背叛盟友，获得巨大的私人收益，但一旦被发现，合作联盟将崩溃，你也会丧失信誉。没有人看到你行动的即时证据。你会？",
+    "q_en": "You have a chance to secretly betray an ally for huge private gain, but if discovered, the coalition collapses and you lose credibility. No immediate evidence exists that you acted. Do you?",
+    "a_zh": "暗中背叛，因为短期收益远大于风险。",
+    "a_en": "Betray secretly, since short-term gain outweighs risk.",
+    "b_zh": "保持忠诚，维护联盟稳定和长期利益。",
+    "b_en": "Stay loyal to preserve alliance stability and long-term benefit."
+  },
+  {
+    "q_zh": "在多次博弈中，你一直采取合作，但对手总在最后一步背叛。你已预测到这次他们也会这么做。在最后一轮，你提前选择背叛，但因为你的声誉，你希望对方不恨你。你会？",
+    "q_en": "In repeated games, you've cooperated all along, but your opponent always defects on the last move. You predict they will again. On the final round, you defect preemptively, but you want them not to hate you. What do you do?",
+    "a_zh": "背叛并事后解释，将责任归因于博弈结构。",
+    "a_en": "Defect and later explain, attributing blame to game structure.",
+    "b_zh": "不背叛，因为对方可能这次会出乎意料地合作。",
+    "b_en": "Don't defect, because they might unexpectedly cooperate this time."
   }
 ]
