@@ -13958,5 +13958,85 @@
     "a_en": "Defect and later explain, attributing blame to game structure.",
     "b_zh": "不背叛，因为对方可能这次会出乎意料地合作。",
     "b_en": "Don't defect, because they might unexpectedly cooperate this time."
+  },
+  {
+    "q_zh": "你和一个陌生人玩一次性的囚徒困境：双方选择合作则各得3分；一方背叛、另一方合作则背叛者得5分、合作者得0分；双方背叛则各得1分。对方在游戏前向你展示了一枚硬币，并声称'我会根据硬币正反面随机选择'。你会怎么选？",
+    "q_en": "You are playing a one-shot Prisoner's Dilemma with a stranger: mutual cooperation yields 3 each; if one defects and the other cooperates, the defector gets 5 and the cooperator gets 0; mutual defection yields 1 each. Before the game, the opponent shows you a coin and claims, 'I will choose randomly based on the coin flip.' What do you choose?",
+    "a_zh": "选择合作（因为对方可能真的随机，合作仍可能获得3分，且能建立善意）",
+    "a_en": "Cooperate (because the opponent might truly be random, cooperation still could yield 3, and it builds goodwill)",
+    "b_zh": "选择背叛（因为对方声称随机可能是伪装，且背叛保证至少得1分，若对方合作则可得5分）",
+    "b_en": "Defect (because the claimed randomness may be a bluff, and defection guarantees at least 1; if the opponent cooperates, you get 5)"
+  },
+  {
+    "q_zh": "在重复博弈中，你已与对手合作了10轮，对方从未背叛。但上一轮你因疏忽背叛了，对方本轮明显表现出愤怒（如言语威胁）。你预测对手本轮极有可能报复性背叛。此时你选择？",
+    "q_en": "In a repeated game, you have cooperated with your opponent for 10 rounds, and they never defected. However, last round you defected by mistake, and the opponent is now visibly angry (e.g., verbal threats). You predict they will very likely retaliate with defection this round. What do you do?",
+    "a_zh": "本轮继续合作（试图修复关系，希望对方原谅并恢复合作）",
+    "a_en": "Cooperate this round (attempt to repair the relationship, hoping they forgive and restore cooperation)",
+    "b_zh": "本轮也背叛（先下手为强，避免被对方背叛的损失，且为下轮谈判留筹码）",
+    "b_en": "Defect this round (strike first to avoid the loss from their defection, and keep leverage for next round's negotiation)"
+  },
+  {
+    "q_zh": "你参加一个拍卖游戏：你和对手同时出价，出价高者获得一件价值100元的奖品，但无论输赢都要支付自己的出价（即赢者付自己的出价，输者白付）。对手是个理性且风险厌恶的商人。你的最佳策略是？",
+    "q_en": "You are in an auction game: you and your opponent bid simultaneously; the higher bidder wins an item worth 100 yuan, but both pay their own bid regardless (winner pays their bid, loser pays too). Your opponent is a rational and risk-averse businessman. What is your best strategy?",
+    "a_zh": "出价略高于50元（如51元），因为价值100元，只要出价低于100且高于对手就有正收益，但避免过高成本",
+    "a_en": "Bid slightly above 50 (e.g., 51), because the value is 100; any bid below 100 and above the opponent's yields positive profit, but avoid excessive cost",
+    "b_zh": "直接出价99元（几乎封顶，确保赢，因为对手风险厌恶不会出到100以上）",
+    "b_en": "Bid 99 directly (almost cap, ensure winning, since a risk-averse opponent won't bid above 100)"
+  },
+  {
+    "q_zh": "在‘胆小鬼博弈’中，你和对手相向而行。如果你转向则输（丢脸），如果都不转向则相撞（双输）。对手是公认的‘疯子’（从不转向）。你判断他这次也极可能不转向。你应该？",
+    "q_en": "In a game of chicken, you and your opponent drive toward each other. If you swerve, you lose (humiliation); if neither swerves, you crash (double loss). Your opponent is famously 'crazy' (never swerves). You judge he is very likely not to swerve this time. What should you do?",
+    "a_zh": "先转向（因为对手疯子的名声是可信的，避免相撞的灾难性后果）",
+    "a_en": "Swerve first (because the opponent's crazy reputation is credible, avoiding catastrophic crash)",
+    "b_zh": "也坚决不转向（赌他这次可能有例外，或试图建立‘我更疯’的假象）",
+    "b_en": "Also refuse to swerve (gamble that he might have an exception this time, or try to build a 'more crazy' image)"
+  },
+  {
+    "q_zh": "你在一场多人博弈中，发现其中一个玩家总是公开承诺合作，但历史上经常背叛。现在有一个重要回合，他的承诺对你极有吸引力（合作收益高，背叛损失大）。你应该？",
+    "q_en": "In a multiplayer game, you notice one player always publicly promises cooperation but historically often defects. Now in a critical round, his promise is very attractive to you (cooperation has high payoff, defection has large loss). What should you do?",
+    "a_zh": "相信他的承诺并选择合作（因为这次可能是转折点，且公开承诺有声誉成本）",
+    "a_en": "Trust his promise and cooperate (because this might be a turning point, and public promises carry reputational costs)",
+    "b_zh": "预设他会背叛，选择背叛或防御性策略（不被历史甜言蜜语欺骗）",
+    "b_en": "Assume he will defect, and choose defection or a defensive strategy (don't be fooled by historical sweet talk)"
+  },
+  {
+    "q_zh": "你与对手进行‘最后通牒博弈’：你分配100元，对方若接受则双方按分配获得，若拒绝则双方都得0。对手是著名的‘爱面子’的人（曾被观察到拒绝过一次不合理分配，哪怕损失自己收益）。你的分配方案是？",
+    "q_en": "In an ultimatum game: you allocate 100 yuan; if the opponent accepts, you both get the allocation; if he rejects, both get 0. The opponent is famously 'face-loving' (once observed rejecting an unfair split even at his own loss). What is your allocation?",
+    "a_zh": "给出50-50（公平，确保对方接受，避免破裂双输）",
+    "a_en": "Offer 50-50 (fair, ensure acceptance, avoid rupture and double loss)",
+    "b_zh": "给出60-40（你拿60，对方40，因为对方虽爱面子但40也够体面，大概率接受）",
+    "b_en": "Offer 60-40 (you get 60, opponent 40, because even face-loving accepts 40 as decent, likely accept)"
+  },
+  {
+    "q_zh": "在信号传递博弈中，你是一个高能力者，但对手不知道。你可以发送一个成本高昂的信号（如夸耀自己过去的成功）或低成本信号（如口头保证）。对手会根据信号判断你是否值得合作。高能力者应该？",
+    "q_en": "In a signaling game, you are a high-ability player, but the opponent doesn't know. You can send a costly signal (e.g., boasting about past successes) or a cheap signal (e.g., verbal guarantee). The opponent will judge whether you are worth cooperating with based on the signal. As a high-ability player, what should you do?",
+    "a_zh": "发送高成本信号（因为只有高能力者才敢承担高成本，这能有效区分自己）",
+    "a_en": "Send the costly signal (because only high-ability players dare to bear high cost, effectively separating yourself)",
+    "b_zh": "发送低成本信号（因为高能力本身会通过后续行动展现，不必浪费资源）",
+    "b_en": "Send the cheap signal (because high ability will be revealed through later actions, no need to waste resources)"
+  },
+  {
+    "q_zh": "你和对手进行多轮石头剪刀布。前20轮你出石头、剪刀、布各约1/3，但对手似乎统计出了你的模式。第21轮，根据你的直觉，对手可能预料你会出布，而他可能会出剪刀。你选择？",
+    "q_en": "You are playing multiple rounds of rock-paper-scissors. In the first 20 rounds, you randomly played rock, scissors, paper each about 1/3, but the opponent seems to have detected your pattern. On round 21, your intuition suggests the opponent might expect you to play paper, and he might then play scissors. What do you choose?",
+    "a_zh": "出石头（因为对手若预判你出布，他会出剪刀，而石头能打败剪刀）",
+    "a_en": "Play rock (because if the opponent anticipates paper, he plays scissors, and rock beats scissors)",
+    "b_zh": "出布（因为打破自己的随机模式，故意出对手认为你不会出的，但若对手没预判则可能输）",
+    "b_en": "Play paper (break your own random pattern, intentionally play what the opponent thinks you won't, but if he doesn't anticipate, you may lose)"
+  },
+  {
+    "q_zh": "在公共品博弈中，每人投入0-10元到公共池，总投入乘以2后平均分配。你知道有几位玩家是‘搭便车者’（从不投入）。但你也知道，若你投入比他们多，你可能获得的总收益仍高于他们。面对搭便车者，你应该？",
+    "q_en": "In a public goods game, each invests 0-10 yuan into a common pool, the total is multiplied by 2 and divided equally among all. You know some players are 'free-riders' (never invest). But you also know that if you invest more than them, your total payoff may still be higher than theirs. Facing free-riders, what should you do?",
+    "a_zh": "继续投入适当金额（如5-8元），因为公共品乘数效应可能让你仍有利可图，同时保持群体合作文化",
+    "a_en": "Continue to invest a moderate amount (e.g., 5-8), because the multiplier effect may still make you profitable, while maintaining cooperative culture",
+    "b_zh": "减少投入或投入0，惩罚搭便车者（因为长期来看，让他们搭便车会破坏自己的收益）",
+    "b_en": "Reduce investment or invest 0 to punish free-riders (because in the long run, letting them free-ride erodes your own payoff)"
+  },
+  {
+    "q_zh": "在谈判博弈中，你可以选择‘强硬’（狮子大开口，但可能谈崩）或‘温和’（合理让步，但可能被对方占便宜）。对方是一个‘双赢主义者’（喜欢公平结果，但拒绝被剥削）。你应该？",
+    "q_en": "In a negotiation game, you can choose 'tough' (make an extreme demand, risking breakdown) or 'soft' (make reasonable concessions, but risk being exploited). Your opponent is a 'win-win advocate' (prefers fair outcomes but refuses to be exploited). What should you do?",
+    "a_zh": "采取温和策略，提出公平方案（因为对方重视公平，且拒绝被剥削，若你强硬可能谈崩）",
+    "a_en": "Adopt a soft strategy, propose a fair deal (because the opponent values fairness and resists exploitation; being tough may cause breakdown)",
+    "b_zh": "采取强硬策略，先高开（因为对方虽公平，但也许会被你的坚定震慑而妥协）",
+    "b_en": "Adopt a tough strategy, start high (because even a fair-minded opponent might be intimidated by your firmness and concede)"
   }
 ]
