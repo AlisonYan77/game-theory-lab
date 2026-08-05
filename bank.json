@@ -14038,5 +14038,85 @@
     "a_en": "Adopt a soft strategy, propose a fair deal (because the opponent values fairness and resists exploitation; being tough may cause breakdown)",
     "b_zh": "采取强硬策略，先高开（因为对方虽公平，但也许会被你的坚定震慑而妥协）",
     "b_en": "Adopt a tough strategy, start high (because even a fair-minded opponent might be intimidated by your firmness and concede)"
+  },
+  {
+    "q_zh": "你发现竞争对手意外泄露了他们的机密市场策略。你选择：",
+    "q_en": "You discover a competitor accidentally leaked their confidential market strategy. You choose to:",
+    "a_zh": "立即利用这份情报，抢先实施对策抢占市场。",
+    "a_en": "Immediately exploit this intelligence and preemptively counter their moves to capture market share.",
+    "b_zh": "不加利用，并匿名提醒对手漏洞，维持公平竞争。",
+    "b_en": "Refuse to use it and anonymously alert the competitor to the leak, preserving fair competition."
+  },
+  {
+    "q_zh": "在一次关键谈判中，对方表现出极强的不满情绪并威胁退出。你选择：",
+    "q_en": "During a critical negotiation, the other side shows intense frustration and threatens to walk away. You choose to:",
+    "a_zh": "适当让步，尽快达成协议，避免谈判破裂。",
+    "a_en": "Make concessions to quickly reach a deal and avoid a breakdown.",
+    "b_zh": "保持强硬，展示退路众多，逼对方先软化立场。",
+    "b_en": "Maintain a hard line, signaling you have alternatives, and force them to soften first."
+  },
+  {
+    "q_zh": "你和搭档合作项目，但你知道搭档私下里在争取独占功劳。你选择：",
+    "q_en": "You and a partner are collaborating, but you know the partner is privately trying to take sole credit. You choose to:",
+    "a_zh": "提前向高层汇报你的贡献，并备份所有工作记录。",
+    "a_en": "Proactively report your contributions to higher-ups and back up all work logs.",
+    "b_zh": "暂时不动，等项目成功后再说，保持表面和谐。",
+    "b_en": "Hold off for now, wait until the project succeeds, then deal with it while maintaining surface harmony."
+  },
+  {
+    "q_zh": "在多人博弈中，有人虚构你有弱点，从而拉拢其他人结盟对抗你。你选择：",
+    "q_en": "In a multiplayer game, someone fabricates that you have a weakness to rally others into an alliance against you. You choose to:",
+    "a_zh": "公开质疑对方动机，展示你真实的数据或成就打破谣言。",
+    "a_en": "Publicly challenge their motives and present your actual data or achievements to debunk the rumor.",
+    "b_zh": "私下拉拢其中较弱的人，私下交易建立自己的联盟。",
+    "b_en": "Privately court the weaker members, making side deals to build your own alliance."
+  },
+  {
+    "q_zh": "你手上有一张决定胜负的筹码，但使用它会在声誉上付出代价。你选择：",
+    "q_en": "You hold a decisive trump card, but using it will cost you reputation. You choose to:",
+    "a_zh": "果断使用，赢下当前局，再事后修复声誉。",
+    "a_en": "Use it decisively to win the current round, then repair your reputation later.",
+    "b_zh": "保留筹码，改用其他策略尝试取胜，若失败再考虑动用。",
+    "b_en": "Keep the card, try alternative strategies to win first, and only consider using it if you're losing."
+  },
+  {
+    "q_zh": "你是小公司代表，面对行业巨头的低价打压。你选择：",
+    "q_en": "You represent a small company facing price-dumping tactics from an industry giant. You choose to:",
+    "a_zh": "同样降价硬拼，以规模劣势换取市场存在感。",
+    "a_en": "Fight back with equally low prices, accepting scale disadvantage to maintain market presence.",
+    "b_zh": "差异化定位，主攻巨头忽略的细分市场，减少正面冲突。",
+    "b_en": "Differentiate your positioning, targeting niche markets the giant ignores to reduce head-on conflict."
+  },
+  {
+    "q_zh": "你被明确告知对手会在三次决策后采取激进报复，但那是错误情报。你选择：",
+    "q_en": "You were clearly told that your opponent will retaliate aggressively after three decisions, but you suspect it's false intel. You choose to:",
+    "a_zh": "相信情报，提前布局防守并隐藏实力，以防万一。",
+    "a_en": "Trust the intel, preemptively set up defenses and hide your strength, just in case.",
+    "b_zh": "找机会主动测试对方底线，低成本验证情报真实性。",
+    "b_en": "Proactively test the opponent's limits in a low-cost way to verify the intel's truthfulness."
+  },
+  {
+    "q_zh": "在拍卖博弈中，你的最高出价被人用微小差额压过。你选择：",
+    "q_en": "In an auction game, your highest bid was beaten by a tiny margin. You choose to:",
+    "a_zh": "立即加价压回，绝不接受这次失败。",
+    "a_en": "Immediately raise your bid to surpass theirs, refusing to accept this loss.",
+    "b_zh": "理性评估价值上限，若加价会超出预算则转身退出。",
+    "b_en": "Rationally evaluate the value ceiling; if raising exceeds your budget, then walk away."
+  },
+  {
+    "q_zh": "你拥有信息优势，但对方给了你一笔很丰厚的合作提议，且明显有利于你。你选择：",
+    "q_en": "You hold an information advantage, but the opponent offers you a very lucrative deal that clearly favors you. You choose to:",
+    "a_zh": "立刻接受，锁定眼前利益，因为难得。",
+    "a_en": "Accept immediately to lock in the present benefit, since it's rare.",
+    "b_zh": "先分析对方为何如此大方，怀疑其中有陷阱或长期代价。",
+    "b_en": "First analyze why they are so generous, suspecting a trap or long-term cost."
+  },
+  {
+    "q_zh": "在一场零和博弈中，你已连续赢了两轮，对方情绪明显失控。你选择：",
+    "q_en": "In a zero-sum game, you've won two consecutive rounds, and your opponent is visibly losing emotional control. You choose to:",
+    "a_zh": "利用对方情绪，加大进攻，试图彻底击垮其判断力。",
+    "a_en": "Exploit their emotion, intensify your aggression, and try to shatter their judgement.",
+    "b_zh": "放缓节奏，给对手一点喘息，避免对方做出非理性极端报复。",
+    "b_en": "Slow down the pace, give the opponent some breathing room to avoid irrational extreme retaliation."
   }
 ]
