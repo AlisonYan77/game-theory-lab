@@ -14118,5 +14118,85 @@
     "a_en": "Exploit their emotion, intensify your aggression, and try to shatter their judgement.",
     "b_zh": "放缓节奏，给对手一点喘息，避免对方做出非理性极端报复。",
     "b_en": "Slow down the pace, give the opponent some breathing room to avoid irrational extreme retaliation."
+  },
+  {
+    "q_zh": "你和一个陌生人玩一次性的囚徒困境：双方合作各得3分；一方背叛、一方合作时，背叛者得5分，合作者得0分；双方背叛各得1分。你事先知道对方是“永远模仿”策略（第一轮合作，之后复制你上一轮的选择）。你会选哪个？",
+    "q_en": "You play a one-shot Prisoner's Dilemma with a stranger: mutual cooperation yields 3 each; if one defects and the other cooperates, the defector gets 5 and the cooperator gets 0; mutual defection yields 1 each. You know in advance the other is a 'Tit-for-Tat' strategy (cooperates first, then copies your previous move). Which do you choose?",
+    "a_zh": "合作（因为对方会模仿你，合作可建立长期信任的形象，即使一次性也利于未来声誉）",
+    "a_en": "Cooperate (because the other mimics you, cooperation builds a trustworthy image that benefits future reputation even if one-shot)",
+    "b_zh": "背叛（因为这是单次博弈，没有后续惩罚，直接拿5分最优）",
+    "b_en": "Defect (since it's a one-shot game with no future punishment, grabbing 5 points is optimal)"
+  },
+  {
+    "q_zh": "你被绑架，绑匪给你两个箱子：A箱透明可见有1万元；B箱不透明，可能是100万或0。一个预言机器人（历史上预测准确率99%）已经预测了你的选择：若它预测你选A，则B箱为空；若它预测你选B，则B箱有100万。你现在选哪个？",
+    "q_en": "You're a captive in a dilemma: Box A is transparent with ¥10,000; Box B is opaque, could be ¥1,000,000 or 0. A predictor robot (99% historical accuracy) has already predicted your choice: if it predicts you pick A, Box B is empty; if it predicts you pick B, Box B has ¥1M. Which box do you take?",
+    "a_zh": "只拿B箱（因为既然预测准确率极高，你的选择本质上是因果的，选B几乎确定拿到100万）",
+    "a_en": "Take only Box B (since the predictor is highly accurate, your choice is effectively determined, so picking B almost guarantees ¥1M)",
+    "b_zh": "只拿A箱（因为B的结果已经由预测决定，你无法改变它，不如拿确定的1万）",
+    "b_en": "Take only Box A (because B's outcome is already fixed by the prediction, you can't change it, so take the certain ¥10k)"
+  },
+  {
+    "q_zh": "你和对手进行“最后通牒博弈”：你有100元，你提出分配方案（对方只能接受或拒绝）。若拒绝，双方都得0。你事先知道对方是一个“公平偏好者”——他对不公平分配（你拿多于对方）会强烈惩罚。你提出多少给对方？",
+    "q_en": "In a final ultimatum game: you have ¥100 to split; the other can accept or reject. If reject, both get 0. You know the other is a 'fairness-lover' who strongly punishes unequal splits (you taking more than them). How much do you offer them?",
+    "a_zh": "给50元（对半，让对方接受，双方各得50）",
+    "a_en": "Offer ¥50 (a 50/50 split, so they accept and both get ¥50)",
+    "b_zh": "给30元（留70元，因为他可能勉强接受，你拿更多）",
+    "b_en": "Offer ¥30 (keep ¥70, because they might reluctantly accept, letting you keep more)"
+  },
+  {
+    "q_zh": "你参加一个拍卖：拍卖品是一张100元钞票，但规则是出价最高者支付自己出的价格并拿走100元，出价第二高者也要支付自己出的价格但什么都得不到。你出价会是多少？对手是一个冷静的理性博弈者。",
+    "q_en": "You're in an auction: the prize is a ¥100 bill, but the highest bidder pays their bid and gets ¥100, and the second-highest bidder also pays their bid but gets nothing. Against a cool, rational opponent, what do you bid?",
+    "a_zh": "出1元（避免陷入恶性竞争，理性上知道这会导致双方亏损）",
+    "a_en": "Bid ¥1 (avoid the bidding war, rationally knowing it escalates to mutual loss)",
+    "b_zh": "出60元（因为对手知道超过100就会亏，所以60可能赢且有利可图）",
+    "b_en": "Bid ¥60 (because the opponent knows bidding over 100 is a loss, so 60 might win and profit)"
+  },
+  {
+    "q_zh": "你是公司的代表，与对手公司轮流报价并购。第一轮你出价，对方可以选择接受或拒绝然后反着出价。谈判成本（时间消耗）对双方都是每轮损失10%的当前价值。你对该公司的估值是100万。你第一轮报多少？",
+    "q_en": "You represent a firm in alternating-offer merger negotiation. You make the first offer; the other can accept or reject and counter-offer. Both sides lose 10% of current value per round as time cost. Your valuation of the company is ¥1M. What's your opening offer?",
+    "a_zh": "报50万（给对方留足谈判空间，预期最终接近中间价）",
+    "a_en": "Offer ¥500k (leave room for negotiation, expecting final near midpoint)",
+    "b_zh": "报95万（因为拖延对双方都有损失，对方会迫于时间压力接受接近你的估值）",
+    "b_en": "Offer ¥950k (since delay hurts both, the other will accept near your valuation under time pressure)"
+  },
+  {
+    "q_zh": "你在玩“胆小鬼博弈”：你和一个对手开车相向而行，谁先转向谁就输（丢面子，但安全）。如果双方都不转向，都会撞车重伤。你事先知道对方是一个“显示疯狂”的人——他故意表现出完全不在乎死活。你会怎么做？",
+    "q_en": "You're in a Chicken game: driving head-on, whoever swerves first loses face but stays safe. If neither swerves, both crash badly. You know the other is a 'showman of craziness' — deliberately acting reckless as if they don't care about death. What do you do?",
+    "a_zh": "转向（保命优先，对方疯狂策略会赢）",
+    "a_en": "Swerve (prioritize safety, the other's madness wins)",
+    "b_zh": "也不转向（赌他装疯，最后他会怂）",
+    "b_en": "Do not swerve (gamble that he's bluffing, he'll fold at the last moment)"
+  },
+  {
+    "q_zh": "你与对手玩“信号博弈”：你是一个低成本类型（愿意花钱发信号）。你想要被选为合作伙伴。你可以选择发送一个昂贵的信号（花100元做广告），也可以不发。对手会认为发信号的人是“高能力者”。你发还是不发？",
+    "q_en": "In a signaling game: you're a low-cost type (willing to spend on signals). You want to be chosen as a partner. You can choose to send an expensive signal (spend ¥100 on advertising) or not. The opponent believes senders are 'high-ability'. Do you send?",
+    "a_zh": "发信号（即使花100元，能证明自己是高能力从而获得合作，收益更大）",
+    "a_en": "Send the signal (even spending ¥100, it proves high ability and gains partnership, which is higher payoff)",
+    "b_zh": "不发信号（因为已知你是低成本，发信号可能被视为懦弱跟风）",
+    "b_en": "Do not send (since you're known as low-cost, sending might look like a desperate follow-up)"
+  },
+  {
+    "q_zh": "你和另一人同时选择投入多少到“公共物品”中。你们各有一半的贡献会回流给对方（即你投入x，对方获得0.5x，反之亦然）。总贡献会乘以1.5后均分。你预计对方投入较多。你会投入多少？",
+    "q_en": "You and another simultaneously choose how much to contribute to a public good. Half of your contribution goes to the other (you put x, they get 0.5x, vice versa). Total contributions are multiplied by 1.5 and split equally. You expect the other to contribute a lot. How much do you contribute?",
+    "a_zh": "投入0（因为无论对方投入多少，你都能享受均分成果，而投入有净损失）",
+    "a_en": "Contribute 0 (because no matter what they give, you share the total, and giving has a net loss for you)",
+    "b_zh": "投入全部（因为双方对等，合作能最大化共同收益，且预期对方慷慨）",
+    "b_en": "Contribute everything (because symmetric cooperation maximizes joint payoff, and you expect them to be generous)"
+  },
+  {
+    "q_zh": "你在玩“猜平均数的2/3”游戏：所有玩家选0到100之间的整数，最接近所有人平均数的2/3的人获胜（赢家拿大奖金）。你是一个经验丰富的博弈论玩家，对手也都是理性玩家。你会选什么数？",
+    "q_en": "In the 'guess 2/3 of the average' game: all players pick integers 0-100; the one closest to 2/3 of the average wins a big prize. You're an experienced game theorist facing rational opponents. What number do you pick?",
+    "a_zh": "选0（因为无限迭代理性最终收敛到0，这是唯一稳定均衡）",
+    "a_en": "Pick 0 (since infinite iterative reasoning converges to 0, the only stable equilibrium)",
+    "b_zh": "选20（因为对手不会都完全理性，估计他们会围绕某个正数猜，20接近2/3×30）",
+    "b_en": "Pick 20 (because opponents aren't all perfectly rational; estimate they average around 30, so 20 is near 2/3 of that)"
+  },
+  {
+    "q_zh": "你被安排与一个人玩“信任博弈”：你手上有10元，你可以给对方0-10元中的任意金额（给对方多少，对方会收到你的金额乘以3）。然后对方可以自愿回赠给你任意金额（不用回赠）。你预计对方是“互惠者”（会回报慷慨）。你会给对方多少钱？",
+    "q_en": "In a trust game: you have ¥10; you may give the other any amount from 0-10 (the other receives triple what you send). Then the other can voluntarily return any amount (not required). You expect the other is a 'reciprocator' who rewards generosity. How much do you send?",
+    "a_zh": "给10元（全部给出，因为对方翻倍收益，有强烈动机回赠至少一部分）",
+    "a_en": "Send ¥10 (all of it, because they get triple, giving them strong incentive to return some back)",
+    "b_zh": "给0元（因为即使对方互惠，也不保证回赠；不冒风险）",
+    "b_en": "Send ¥0 (even if they reciprocate, no guarantee of return; don't take risk)"
   }
 ]
