@@ -14198,5 +14198,85 @@
     "a_en": "Send ¥10 (all of it, because they get triple, giving them strong incentive to return some back)",
     "b_zh": "给0元（因为即使对方互惠，也不保证回赠；不冒风险）",
     "b_en": "Send ¥0 (even if they reciprocate, no guarantee of return; don't take risk)"
+  },
+  {
+    "q_zh": "你与对手同时选择“合作”或“背叛”。如果你背叛而他合作，你将获得100分，但他得0分；如果双方合作各得50分；如果双方背叛各得10分。已知对手上次背叛了你。现在你选什么？",
+    "q_en": "You and your opponent simultaneously choose 'Cooperate' or 'Betray'. If you betray while they cooperate, you get 100 and they get 0; if both cooperate, each gets 50; if both betray, each gets 10. Your opponent betrayed you last round. What do you choose?",
+    "a_zh": "合作——尝试修复关系，建立长期信任",
+    "a_en": "Cooperate — try to rebuild trust for long-term gain",
+    "b_zh": "背叛——上次他背叛了我，这次我必须惩罚他",
+    "b_en": "Betray — they betrayed me last time, I must punish them"
+  },
+  {
+    "q_zh": "拍卖中，你与另一位买家竞拍一件价值100元的物品。规则是：你出价1元，对手出价2元，则对手获得物品但支付2元；若你出价3元，对手出价2元，则你获得物品但支付3元（即胜者支付自己的出价，输家不付钱）。对手看起来势在必得，且他资金雄厚。你会出多少？",
+    "q_en": "In an auction, you and another bidder compete for an item worth 100. Rule: bids are simultaneous, winner pays their own bid, loser pays nothing. Your opponent appears determined and has deep pockets. How much do you bid?",
+    "a_zh": "高额出价（如90元）——确保拿下物品，宁让对手付出更高代价",
+    "a_en": "Bid high (e.g., 90) — ensure I win, even if I pay a lot",
+    "b_zh": "低额出价（如20元）——赌对手会出更高价，我再退让，避免陷入消耗战",
+    "b_en": "Bid low (e.g., 20) — hope opponent overbids, then back off, avoiding a bidding war"
+  },
+  {
+    "q_zh": "你被要求参与一次“最后通牒博弈”：你分10元给陌生人，对方可以接受或拒绝。若拒绝，双方都不得钱。陌生人性格强硬，公开表示“低于4元我必拒绝”。你打算分多少？",
+    "q_en": "In an ultimatum game, you split $10 with a stranger who can accept or reject. If they reject, both get nothing. The stranger has loudly said 'I reject anything under $4'. How much do you offer?",
+    "a_zh": "4元——刚好满足他的公开底线，避免谈判破裂",
+    "a_en": "$4 — just meet their stated threshold to avoid rejection",
+    "b_zh": "2元——赌他说的只是虚张声势，实际他会接受",
+    "b_en": "$2 — gamble that they're bluffing and will accept anyway"
+  },
+  {
+    "q_zh": "你在玩“抢帽子”游戏：两顶蓝帽两顶红帽，你只能看到别人，看不到自己的。裁判宣布“至少有一顶红帽”。其他人沉默了一会儿。现在你能否确定自己的帽子颜色？如果能，选A；如果不能，但你必须猜，选B。",
+    "q_en": "In a 'hat game': two blue hats, two red hats. You see others' hats but not your own. The referee announces 'at least one red hat'. Everyone is silent for a moment. Can you determine your hat color? If yes, choose A; if not but you must guess, choose B. (Assume standard deduction.)",
+    "a_zh": "A——我能通过逻辑推出自己的帽子颜色",
+    "a_en": "A — I can logically deduce my hat color",
+    "b_zh": "B——不确定，但我会根据概率或社会线索猜一个",
+    "b_en": "B — uncertain, but I'll guess based on probability or social cues"
+  },
+  {
+    "q_zh": "你和同事竞争晋升。老板私下告诉你：如果你们俩都拼命加班，都只能得到普通绩效；如果只有你加班，你获得晋升机会；如果都不加班，则按平时表现。你的同事放出风声“我才不傻呢，不加班”。你相信他会遵守吗？",
+    "q_en": "You and a coworker compete for a promotion. Your boss privately says: if both overwork, both get average performance; if only you overwork, you get the promotion; if neither overworks, normal result. Your coworker publicly says 'I'm not stupid, I won't overwork'. Do you believe them?",
+    "a_zh": "信——既然他公开表态，我也停下，避免无谓消耗",
+    "a_en": "Believe it — since they declared, I'll also stop to avoid needless effort",
+    "b_zh": "不信——他嘴上说不加，实际肯定偷偷加，我也加",
+    "b_en": "Don't believe — they say one thing but will secretly overwork, so I will too"
+  },
+  {
+    "q_zh": "你和对手进行10轮“囚徒困境”。第1轮你们选择了合作，第2轮你选择了合作但对手背叛。之后每轮，你计划采用“以牙还牙”：第一轮合作，之后模仿对手上一轮选择。对手知道你的策略，且他非常理性。你会用这个策略吗？",
+    "q_en": "10-round iterated prisoner's dilemma. Round 1 you both cooperate. Round 2 you cooperate, they betray. You plan to use tit-for-tat (cooperate first, then mirror opponent's last move). Opponent knows your strategy and is very rational. Do you stick with tit-for-tat?",
+    "a_zh": "用——坚持长期策略，即使短期吃亏，也建立可信度",
+    "a_en": "Use it — stick to the long-term strategy for credibility even if short-term loss",
+    "b_zh": "不用——改变策略，先背叛一次来惩罚对方，再回归合作",
+    "b_en": "Don't use it — change strategy, betray once to punish them, then go back to cooperate"
+  },
+  {
+    "q_zh": "在一个“公共品博弈”中，你与4人共同拥有10个代币。每个人可私下决定投入公共池多少，投入的总额会翻倍平均分配给所有人。你预计其他人会投入约70%的代币。你投入多少？",
+    "q_en": "In a public goods game with 4 others, you each have 10 tokens. You decide how much to contribute to a common pool; the total pooled is doubled and split equally. You estimate others contribute ~70% of their tokens. How much do you contribute?",
+    "a_zh": "10个全投——为最大化公共收益，即使自己略亏",
+    "a_en": "Contribute all 10 — maximize group gain even if I lose slightly",
+    "b_zh": "3-4个——搭便车，既得利又避免显得太自私",
+    "b_en": "Contribute 3-4 — free-ride while appearing somewhat fair"
+  },
+  {
+    "q_zh": "你和对手同时选择“鹰”或“鸽”争夺资源。若双方都选鹰，则冲突两败俱伤（各得-50）；若鹰对鸽，鹰得100，鸽得0；若双方鸽，各得30。对手上次选了鹰。你这次选什么？",
+    "q_en": "Hawk-Dove game: if both Hawk, fight, each -50; Hawk vs Dove gets 100 for Hawk, 0 for Dove; both Dove each get 30. Your opponent chose Hawk last round. What do you choose now?",
+    "a_zh": "鹰——既然他上次强硬，我必须也硬，否则次次吃亏",
+    "a_en": "Hawk — since they were aggressive last time, I must be too or get exploited",
+    "b_zh": "鸽——避免冲突，损失一点但保留合作可能",
+    "b_en": "Dove — avoid conflict, lose a little but keep future cooperation open"
+  },
+  {
+    "q_zh": "在“信号博弈”中，你可以选择发一个昂贵信号（花5元）或便宜信号（不花钱）告诉对手你的类型（强或弱）。对手若认为你强，会退让带给你50收益；若认为你弱，会进攻带给你-30收益。你实际是弱类型。选择发哪种信号？",
+    "q_en": "In a signaling game, you can send a costly signal (spend 5) or a cheap signal (no cost) about your type (strong/weak). If opponent believes you're strong, they back down giving you +50; if weak, they attack giving you -30. You are actually weak. Which signal do you send?",
+    "a_zh": "昂贵信号——伪装强，即使花成本，总收益也高",
+    "a_en": "Costly signal — fake strength, even if pays cost, net gain is higher",
+    "b_zh": "便宜信号——省钱，并寄希望于对手判断失误",
+    "b_en": "Cheap signal — save money and hope opponent misjudges"
+  },
+  {
+    "q_zh": "你已连续3次在“石头剪刀布”中输给对手。他出拳模式有规律：石头、布、剪刀循环。你观察到这个规律，但他也知道你观察到。那么第4次你出什么？",
+    "q_en": "You've lost 3 consecutive rock-paper-scissors rounds to an opponent. Their pattern: rock, paper, scissors repeating. You noticed this, but they know you noticed. Round 4, what do you throw?",
+    "a_zh": "出布——预测他第4次可能会出剪刀来反制我对他的预测",
+    "a_en": "Paper — predict that they'll deviate to scissors to counter my expectation of their pattern",
+    "b_zh": "出剪刀——按原规律他第4次是剪刀，我出剪刀打平",
+    "b_en": "Scissors — if they follow pattern, they throw scissors, so I tie"
   }
 ]
