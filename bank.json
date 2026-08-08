@@ -14278,5 +14278,85 @@
     "a_en": "Paper — predict that they'll deviate to scissors to counter my expectation of their pattern",
     "b_zh": "出剪刀——按原规律他第4次是剪刀，我出剪刀打平",
     "b_en": "Scissors — if they follow pattern, they throw scissors, so I tie"
+  },
+  {
+    "q_zh": "你发现同事在会议上抄袭了你的创意并获得了表扬。你会怎么做？",
+    "q_en": "You discover a colleague plagiarized your idea in a meeting and received praise. What do you do?",
+    "a_zh": "当场揭穿，让他当众难堪",
+    "a_en": "Confront him publicly to humiliate him",
+    "b_zh": "私下找他谈话，并向上级反映实情",
+    "b_en": "Talk to him privately and report the facts to your superior"
+  },
+  {
+    "q_zh": "在最后关头，对手提出用合作换你的关键资源，但代价是你必须放弃一个长期盟友。你？",
+    "q_en": "At the last moment, your opponent offers a deal: cooperation in exchange for your key resource, but at the cost of abandoning a long-term ally. You?",
+    "a_zh": "接受合作，因为眼前利益更大",
+    "a_en": "Accept the deal, as the immediate gains are larger",
+    "b_zh": "拒绝，并告知盟友以巩固长期信任",
+    "b_en": "Refuse and inform your ally to strengthen long-term trust"
+  },
+  {
+    "q_zh": "在多人博弈中，你知道某个玩家一定会背叛你，但你的盟友却想拉拢他。你会？",
+    "q_en": "In a multiplayer game, you know a certain player will inevitably betray you, but your ally wants to recruit him. You?",
+    "a_zh": "提前揭露他的背叛计划，破坏结盟",
+    "a_en": "Reveal his betrayal plan in advance to sabotage the alliance",
+    "b_zh": "暗中布局，让盟友自己发现真相",
+    "b_en": "Set up a trap so your ally discovers the truth on his own"
+  },
+  {
+    "q_zh": "你被要求在一场零和博弈中做‘坏人’（背叛），但你知道对方会因此报复你全家。你？",
+    "q_en": "You are required to play the 'villain' (betray) in a zero-sum game, knowing the other side will retaliate against your family. You?",
+    "a_zh": "为了胜利，坚决执行任务",
+    "a_en": "Execute the task decisively for victory",
+    "b_zh": "拒绝执行，并寻求第三方调解",
+    "b_en": "Refuse and seek third-party mediation"
+  },
+  {
+    "q_zh": "在一次谈判中，你发现对手极度感性且情绪化。你会采取哪种策略？",
+    "q_en": "In a negotiation, you find your opponent extremely emotional and impulsive. Which strategy do you adopt?",
+    "a_zh": "利用他的情绪弱点，施压获取更多",
+    "a_en": "Exploit his emotional weakness to pressure for more concessions",
+    "b_zh": "保持理性冷静，用逻辑说服他",
+    "b_en": "Stay calm and rational, using logic to persuade him"
+  },
+  {
+    "q_zh": "你有一个可以成为‘王’的机会，但需要彻底背叛一个曾救过你的恩人。你？",
+    "q_en": "You have a chance to become the 'king', but it requires completely betraying a benefactor who once saved your life. You?",
+    "a_zh": "选择背叛，因为权力是最高的追求",
+    "a_en": "Choose betrayal, as power is the ultimate pursuit",
+    "b_zh": "放弃王位，忠诚于恩人",
+    "b_en": "Give up the throne and stay loyal to your benefactor"
+  },
+  {
+    "q_zh": "在囚徒困境中，对方已多次主动合作，但这次你确认他会背叛。最佳策略是？",
+    "q_en": "In a prisoner's dilemma, the other has cooperated many times, but this time you are certain he will defect. What's the best strategy?",
+    "a_zh": "先背叛，以防止被利用",
+    "a_en": "Defect first to avoid being exploited",
+    "b_zh": "再合作一次，以测试他的意图",
+    "b_en": "Cooperate one more time to test his intentions"
+  },
+  {
+    "q_zh": "在一场竞标中，对手故意放出虚假信息引诱你出高价。你识破后，会？",
+    "q_en": "In a bidding war, your opponent spreads false information to lure you into overbidding. After seeing through it, you?",
+    "a_zh": "将计就计，反向抬价让他亏本",
+    "a_en": "Turn the tables by counter-bidding to make him lose money",
+    "b_zh": "公开揭穿虚假信息，打乱他的节奏",
+    "b_en": "Publicly expose the false info and disrupt his rhythm"
+  },
+  {
+    "q_zh": "你被迫与一个不信任的对手组队，但资源分配权在他手上。你？",
+    "q_en": "You are forced to team up with an untrustworthy opponent, and he controls resource allocation. You?",
+    "a_zh": "先示弱讨好，获取更多资源后再反制",
+    "a_en": "Act submissive to gain resources, then counterattack later",
+    "b_zh": "明确表达不信任，要求公平分配机制",
+    "b_en": "Clearly express distrust and demand a fair allocation mechanism"
+  },
+  {
+    "q_zh": "在决胜局中，你手握两个选择：一个可确保你赢但会让对方陷入绝境，另一个双赢但你可能只小幅领先。你？",
+    "q_en": "In the final round, you have two choices: one guarantees your win but ruins your opponent, the other is win-win but gives you only a slight lead. You?",
+    "a_zh": "选择确保胜利，因为这是决胜局",
+    "a_en": "Choose guaranteed victory, as it's the final round",
+    "b_zh": "选择双赢，维持长久关系",
+    "b_en": "Choose win-win to preserve long-term relationships"
   }
 ]
