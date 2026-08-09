@@ -14358,5 +14358,85 @@
     "a_en": "Choose guaranteed victory, as it's the final round",
     "b_zh": "选择双赢，维持长久关系",
     "b_en": "Choose win-win to preserve long-term relationships"
+  },
+  {
+    "q_zh": "你与一位陌生玩家进行一次性博弈。对方先出牌，你只能被动接受结果。已知对方有两种策略：合作或背叛。如果你选择合作，而对方背叛，你将损失100元；如果你选择合作，对方合作，你将获得150元。如果你选择背叛，无论对方如何，你都只获得10元。你应该选择什么？",
+    "q_en": "You are playing a one-shot game with an unknown player. They make the first move, and you can only react. They have two strategies: cooperate or betray. If you cooperate and they betray, you lose $100; if you both cooperate, you gain $150. If you betray, you always gain $10 regardless. What do you choose?",
+    "a_zh": "合作（赌对方会合作）",
+    "a_en": "Cooperate (bet on the opponent cooperating)",
+    "b_zh": "背叛（确保最低损失）",
+    "b_en": "Betray (guarantee minimum loss)"
+  },
+  {
+    "q_zh": "在一个重复博弈中，你与同一对手进行10轮。已知对手在前9轮一直选择合作，但在第10轮（最后一轮）突然背叛，且你之前没有惩罚机制。此时你的最佳策略是？",
+    "q_en": "In a repeated game with the same opponent for 10 rounds, they cooperated for the first 9 rounds, then betrayed in the 10th (final) round. You have no punishment mechanism in place. What's your best move now?",
+    "a_zh": "在最后一轮也背叛，以报复并减少损失",
+    "a_en": "In the last round, also betray to retaliate and minimize loss",
+    "b_zh": "继续合作，寄希望于未来（但这是最后一场）",
+    "b_en": "Continue cooperating, hoping for the future (but this is the last round)"
+  },
+  {
+    "q_zh": "你与两个玩家分别进行两场独立博弈。已知玩家A总是模仿你上一轮的选择（以牙还牙），玩家B总是随机选择（50%合作/50%背叛）。如果两场博弈都是重复10轮，你应该对谁更采取合作策略？",
+    "q_en": "You play two separate repeated games (10 rounds each) with two different players. Player A always mimics your previous choice (tit-for-tat), Player B chooses randomly (50% cooperate / 50% betray). Whom should you cooperate with more?",
+    "a_zh": "对玩家A更合作（因为可建立互惠）",
+    "a_en": "Cooperate more with Player A (because reciprocity can be built)",
+    "b_zh": "对玩家B更合作（因为随机性可能被合作带动）",
+    "b_en": "Cooperate more with Player B (randomness might be swayed by cooperation)"
+  },
+  {
+    "q_zh": "在一场博弈中，你面临两个选项：稳妥获利50元，或冒险（有70%机会获得100元，30%机会损失30元）。你的对手知道你倾向于冒险，并且会据此调整策略。你应该选择什么？",
+    "q_en": "In a game, you have two options: guaranteed $50, or risky (70% chance of $100, 30% chance of losing $30). Your opponent knows you tend to be risk-seeking and will adapt their strategy accordingly. What do you choose?",
+    "a_zh": "选择稳妥（因为对手会利用你的冒险性）",
+    "a_en": "Choose the safe option (because the opponent will exploit your risk-seeking)",
+    "b_zh": "选择冒险（因为期望值更高）",
+    "b_en": "Choose the risky option (because expected value is higher)"
+  },
+  {
+    "q_zh": "你与对手进行一次性博弈，但你们可以事先沟通。你承诺会选择合作，但你怀疑对方有其他选择。已知若双方合作则各得100，若你合作对方背叛你得0对方得150，若你背叛对方合作你得150对方得0，若双方背叛各得50。对方是否值得信任？",
+    "q_en": "In a one-shot game, you can communicate beforehand. You promise to cooperate, but suspect the opponent may not honor that. Payoffs: both cooperate = +100 each; you cooperate, opponent betrays = you get 0, they get 150; you betray, opponent cooperates = you get 150, they get 0; both betray = +50 each. Should you trust them?",
+    "a_zh": "值得信任，因为合作是理性的共赢",
+    "a_en": "Yes, trust them because cooperation is a rational win-win",
+    "b_zh": "不值得信任，因为背叛对对方更有吸引力",
+    "b_en": "No, because betrayal is more attractive to them"
+  },
+  {
+    "q_zh": "在一场多人博弈中，你可以选择结盟或背叛。结盟可能带来长期利益（比如资源交换），但需要你现在付出成本（如分出一部分收益）。已知对手是纯粹自私者（只在乎自身利益），你会选择？",
+    "q_en": "In a multiplayer game, you can ally or betray. Alliances may bring long-term benefits (e.g., resource exchange) but require you to incur cost now (e.g., share some gains). The opponent is purely self-interested. What do you do?",
+    "a_zh": "结盟，因为长期收益大于短期成本",
+    "a_en": "Form an alliance because long-term gains exceed short-term costs",
+    "b_zh": "背叛，因为自私者不可信",
+    "b_en": "Betray because selfish players are untrustworthy"
+  },
+  {
+    "q_zh": "在重复博弈中，对手的前3轮都是背叛，你的策略是“以牙还牙”（第一轮合作，之后模仿对手上一轮）。但现在你注意到对手在第3轮背叛后，第4轮合作了。你接下来应该？",
+    "q_en": "In a repeated game, your opponent betrayed for the first 3 rounds. Your strategy is tit-for-tat (cooperate first, then mimic opponent's previous move). However, you see that after betraying in round 3, they cooperated in round 4. What should you do next?",
+    "a_zh": "在第5轮继续合作，因为对手可能在试探",
+    "a_en": "Continue cooperating in round 5, because the opponent may be testing",
+    "b_zh": "在第5轮背叛，因为对方不规律且危险",
+    "b_en": "Betray in round 5 because the opponent is erratic and dangerous"
+  },
+  {
+    "q_zh": "一次博弈中，你被赋予“老虎机”角色：你可以选择“开”或“关”。如果你开，对手可以决定是给你送钱（+100）还是不送（0），但如果你关，双方都得0。已知对手也会基于你的选择做决策，且他们理性自利。你会？",
+    "q_en": "In a one-shot game, you play a 'slot machine' role: you choose 'on' or 'off'. If you choose 'on', the opponent can then decide to give you money (+100) or not (0). If you choose 'off', both get 0. The opponent is rational and self-interested. What do you do?",
+    "a_zh": "开（赌对方会给你钱，因为对双方有利）",
+    "a_en": "Choose 'on' (bet that the opponent will give you money, as it benefits both)",
+    "b_zh": "关（因为对方没有动力给你钱）",
+    "b_en": "Choose 'off' (because the opponent has no incentive to give you money)"
+  },
+  {
+    "q_zh": "你和对手玩“胆小鬼博弈”：两人相向而行，谁先转向谁认输（损失声誉），若不转向则两败俱伤（重伤）。若双方都转向则平局，损失较小。已知对方是知名强硬派，从不退缩。你应该？",
+    "q_en": "You play a 'chicken' game: two drivers race toward each other. Whoever swerves loses face (small loss), if neither swerves it's a major crash (heavy loss). If both swerve, it's a minor loss each. The opponent is known to be extremely tough and never backs down. What do you do?",
+    "a_zh": "坚决不转向（因为对方也怕重伤）",
+    "a_en": "Refuse to swerve (because the opponent also fears injury)",
+    "b_zh": "先转向（保命，损失声誉可接受）",
+    "b_en": "Swerve first (save yourself, accept the loss of face)"
+  },
+  {
+    "q_zh": "在最后通牒博弈中，你是分配者，有100元。你可以提出任意分配方案（如给自己99，给对手1），对手只能接受或拒绝（拒绝则双方都0）。若对手是“公平偏好”型（拒绝不公平方案），你应该提出怎么分配？",
+    "q_en": "In an ultimatum game, you are the allocator with $100. You propose any split (e.g., $99 for you, $1 for them). The opponent can accept or reject (reject → both get $0). If the opponent is fairness-minded (rejects unfair splits), what split should you propose?",
+    "a_zh": "给对手至少40（接近公平，避免拒绝）",
+    "a_en": "Offer at least $40 to the opponent (near-fair to avoid rejection)",
+    "b_zh": "给对手10（赌他理性接受小利）",
+    "b_en": "Offer $10 (bet on them being rational to accept a small gain)"
   }
 ]
