@@ -14438,5 +14438,85 @@
     "a_en": "Offer at least $40 to the opponent (near-fair to avoid rejection)",
     "b_zh": "给对手10（赌他理性接受小利）",
     "b_en": "Offer $10 (bet on them being rational to accept a small gain)"
+  },
+  {
+    "q_zh": "你发现你的合作伙伴在偷偷扣留本该属于你的利润。你会怎么做？",
+    "q_en": "You discover your business partner has been secretly withholding profits that rightfully belong to you. What do you do?",
+    "a_zh": "收集证据，立即摊牌，要求全额赔偿，否则终止合作。",
+    "a_en": "Gather evidence, confront immediately, demand full compensation or end the partnership.",
+    "b_zh": "先不揭穿，暗中观察，同时开始寻找替代合作方。",
+    "b_en": "Don't expose it yet, observe secretly, and start looking for alternative partners."
+  },
+  {
+    "q_zh": "在一场关键谈判中，对方突然提出一个你完全无法接受的极端要求。你的策略是？",
+    "q_en": "In a critical negotiation, the other party suddenly makes an extreme demand you absolutely cannot accept. What's your strategy?",
+    "a_zh": "直接拒绝，并表明这是底线，若对方坚持则中止谈判。",
+    "a_en": "Flatly reject it, state this is your bottom line, and suspend negotiations if they insist.",
+    "b_zh": "假装考虑，同时提出一个同样极端的反要求，让对方知难而退。",
+    "b_en": "Pretend to consider it, meanwhile propose an equally extreme counter-demand to make them back off."
+  },
+  {
+    "q_zh": "在多人博弈中，有人公开散布关于你的不实谣言，影响了其他玩家的选择。你该如何应对？",
+    "q_en": "In a multi-player game, someone publicly spreads false rumors about you, influencing other players' decisions. How do you respond?",
+    "a_zh": "公开反击，详细澄清事实，揭露对方的动机。",
+    "a_en": "Counter publicly, clarify the facts in detail, and expose the other's motives.",
+    "b_zh": "不直接回应，转而通过实际行动和可靠盟友的背书重塑形象。",
+    "b_en": "Avoid direct rebuttal, instead rebuild your image through concrete actions and endorsements from trusted allies."
+  },
+  {
+    "q_zh": "你与对手进行重复博弈，对方前几次都合作，但这次突然背叛。你会？",
+    "q_en": "In a repeated game, your opponent cooperated in the early rounds but just betrayed you this time. What do you do?",
+    "a_zh": "这次也背叛，以示惩戒，并警告下一次若再背叛将永久不合作。",
+    "a_en": "Betray this time to punish them, and warn that any future betrayal will lead to permanent non-cooperation.",
+    "b_zh": "继续合作一次，给对方改过的机会，但设定明确界限。",
+    "b_en": "Cooperate once more to give them a chance to redeem, but set clear boundaries."
+  },
+  {
+    "q_zh": "博弈中，你发现一个明显的“弱玩家”可能成为你的垫脚石。你的选择是？",
+    "q_en": "In the game, you notice an obviously 'weak player' who could be your stepping stone. What is your choice?",
+    "a_zh": "利用其弱点，果断夺取优势，即使这可能导致对方出局。",
+    "a_en": "Exploit their weakness decisively to gain advantage, even if it leads to their elimination.",
+    "b_zh": "不主动攻击，保持表面友好，只在关键时刻利用其失误。",
+    "b_en": "Don't attack proactively, maintain surface friendliness, and only exploit their mistakes at critical moments."
+  },
+  {
+    "q_zh": "你已形成暂时的联盟，但盟友的目标与你的存在根本冲突。你该？",
+    "q_en": "You have formed a temporary alliance, but your ally's goals fundamentally conflict with yours. What should you do?",
+    "a_zh": "在关键时刻背叛联盟，以牺牲盟友为代价实现自己的核心目标。",
+    "a_en": "Betray the alliance at a critical moment, sacrificing your ally to achieve your core objective.",
+    "b_zh": "尝试调和目标，寻找共同利益，若无法调和则和平拆伙。",
+    "b_en": "Try to reconcile goals and find common interests; if impossible, amicably dissolve the alliance."
+  },
+  {
+    "q_zh": "在信息不对称的博弈中，你有独占的关键信息。你是否会主动透露？",
+    "q_en": "In a game with asymmetric information, you possess exclusive key information. Would you voluntarily reveal it?",
+    "a_zh": "不透露，利用信息优势暗中布局，获得最大利益。",
+    "a_en": "Keep it secret, use the information advantage to maneuver secretly and gain maximum benefit.",
+    "b_zh": "部分透露，以此换取盟友的信任和合作，增加长期收益。",
+    "b_en": "Reveal partially to earn allies' trust and cooperation, increasing long-term gains."
+  },
+  {
+    "q_zh": "对手放出一个“烟雾弹”行动，试图误导你的判断。你会？",
+    "q_en": "Your opponent executes a 'smokescreen' move to mislead your judgment. What do you do?",
+    "a_zh": "完全相信表面现象，并按对方的预期调整策略。",
+    "a_en": "Believe the surface entirely and adjust your strategy as the opponent expects.",
+    "b_zh": "怀疑其真实性，保留实力并逆向思维，做出反制准备。",
+    "b_en": "Question its authenticity, hold back your strength, think counter-intuitively, and prepare countermeasures."
+  },
+  {
+    "q_zh": "你处于绝对劣势，对手却向你开出“橄榄枝”提出合作。你内心的选择是？",
+    "q_en": "You are at a severe disadvantage, and your opponent extends an 'olive branch' proposing cooperation. What is your inner choice?",
+    "a_zh": "接受合作，但保持高度警惕，随时准备在优势反转时反制。",
+    "a_en": "Accept cooperation, but stay highly vigilant, ready to counter when the advantage reverses.",
+    "b_zh": "拒绝，认为这是陷阱，宁愿守住现有筹码但避免被吞并。",
+    "b_en": "Refuse, seeing it as a trap; prefer to hold onto current chips and avoid being absorbed."
+  },
+  {
+    "q_zh": "游戏接近尾声，你与另一人并列第一，最后一步会决定胜负。你发现一个能双赢但会降低你对手相对排名的机会，你会？",
+    "q_en": "Near the game's end, you are tied for first place with another player, and the final move decides the winner. You find an opportunity that could be a win-win but would lower your opponent's relative ranking. What do you do?",
+    "a_zh": "独自领先，选择最大化自己的得分，即使这会使对方落败。",
+    "a_en": "Aim for sole lead, choose to maximize your own score, even if it makes your opponent lose.",
+    "b_zh": "选择双赢结果，即使这意味着你可能与他共享冠军（失去独占优势）。",
+    "b_en": "Choose the win-win outcome, even if it means sharing the title (losing sole dominance)."
   }
 ]
