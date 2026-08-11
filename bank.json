@@ -14518,5 +14518,85 @@
     "a_en": "Aim for sole lead, choose to maximize your own score, even if it makes your opponent lose.",
     "b_zh": "选择双赢结果，即使这意味着你可能与他共享冠军（失去独占优势）。",
     "b_en": "Choose the win-win outcome, even if it means sharing the title (losing sole dominance)."
+  },
+  {
+    "q_zh": "你在一个长期合作的项目中，对方突然要求重新谈判分成比例，并暗示如果不答应就退出。此时你手头有替代方案，但成本较高。你会怎么选？",
+    "q_en": "In a long-term project, your partner suddenly demands renegotiating the profit split, hinting they will leave if refused. You have a costly backup option. What do you do?",
+    "a_zh": "同意重新谈判，但要求对方让出部分非核心利益作为交换。",
+    "a_en": "Agree to renegotiate, but demand non-core concessions in return.",
+    "b_zh": "直接拒绝，并启动替代方案，即使成本高也保持强硬。",
+    "b_en": "Flatly refuse and activate your backup, even at higher cost, to stay tough."
+  },
+  {
+    "q_zh": "在一次性囚徒困境中，对方已经先表态会合作，但你知道他过去有背叛记录。你会选择？",
+    "q_en": "In a one-shot prisoner's dilemma, the other side declares cooperation, but has a history of defection. What do you choose?",
+    "a_zh": "选择合作，赌对方这次是真诚的。",
+    "a_en": "Cooperate, betting they are sincere this time.",
+    "b_zh": "选择背叛，因为历史记录和利润最大化指向不合作。",
+    "b_en": "Defect, as past record and profit-maximizing logic point to non-cooperation."
+  },
+  {
+    "q_zh": "你在拍卖中与另一竞标者争夺稀缺资源，对方出价接近你的心理上限。你尚有大量资金，但继续加价可能使利润化为乌有。你会？",
+    "q_en": "In an auction for a scarce resource, your rival's bid is near your psychological limit. You have deep pockets, but bidding higher may wipe out profits. What do you do?",
+    "a_zh": "继续加价，把对手拖入消耗战，宁可少赚也不让他得手。",
+    "a_en": "Keep bidding to drag them into a war of attrition, preferring low profit over losing.",
+    "b_zh": "停止加价，让对手以过高成本获得资源，自己另寻替代。",
+    "b_en": "Stop bidding, let the rival overpay, and seek substitutes yourself."
+  },
+  {
+    "q_zh": "在重复博弈中，对方一直采取‘以牙还牙’策略，但最近一次你误判背叛了他。你希望修复关系，但不知道他会如何反应。你会？",
+    "q_en": "In a repeated game, your opponent uses tit-for-tat. You accidentally defected once and want to repair trust, but unsure how they'll respond. What do you do?",
+    "a_zh": "主动道歉并连续合作多次，表明自己犯错而非策略性背叛。",
+    "a_en": "Apologize explicitly and cooperate consecutively to signal an accidental mistake.",
+    "b_zh": "转而采取更强硬策略，测试对方是否愿意原谅，否则也背叛到底。",
+    "b_en": "Switch to a tougher stance to test if they forgive, otherwise defect as well."
+  },
+  {
+    "q_zh": "你和对手都在争夺最后的市场份额，双方都有能力打价格战，但打下去会两败俱伤。对手先降价了，你会？",
+    "q_en": "You and a rival fight for the last market share; both can price-war but it's mutually destructive. They cut price first. What do you do?",
+    "a_zh": "跟随降价，但也通过增加附加值来差异化，避免纯价格战。",
+    "a_en": "Match the cut, but add value-added differentiation to avoid pure price war.",
+    "b_zh": "不降价，反而提价并宣传高端定位，赌对方无法持续低价。",
+    "b_en": "Refuse to cut; instead raise price and market premium, betting they can't sustain low pricing."
+  },
+  {
+    "q_zh": "在团队合作中，有人搭便车但贡献很少，却要求平均分配成果。你作为核心贡献者，会？",
+    "q_en": "In a team, a member free-rides but demands an equal share. As a core contributor, what do you do?",
+    "a_zh": "公开提出按贡献分配，否则拒绝继续投入。",
+    "a_en": "Openly propose contribution-based distribution, or refuse to continue investing.",
+    "b_zh": "表面上同意平均分，但暗中减少自己的投入，让整体成果下降。",
+    "b_en": "Outwardly agree to equal split but secretly reduce effort, lowering overall output."
+  },
+  {
+    "q_zh": "你处于信息不对称的谈判中，对方可能虚报成本。你无法核实，但知道对方有欺骗倾向。你会？",
+    "q_en": "In a negotiation with asymmetric info, the other side may inflate costs. You can't verify but suspect deception. What do you do?",
+    "a_zh": "设置一个比对方报价低的替代方案，并威胁转向该方案。",
+    "a_en": "Present a lower-cost alternative and threaten to switch, as a check.",
+    "b_zh": "要求对方提供详细财务审计，否则直接暂停谈判。",
+    "b_en": "Demand a full financial audit, otherwise suspend negotiations."
+  },
+  {
+    "q_zh": "在一个公共品博弈中，你发现其他人都只贡献了最低额度，而你已经贡献了很多。下一轮你会？",
+    "q_en": "In a public goods game, you see others contribute only the minimum while you contributed heavily. Next round, what do you do?",
+    "a_zh": "继续贡献高额度，以推动公共品最大化，相信有人会跟随。",
+    "a_en": "Keep contributing high to maximize public good, hoping others follow.",
+    "b_zh": "降低自己的贡献到最低，以惩罚搭便车者并促使其改变。",
+    "b_en": "Reduce your contribution to the minimum to punish free-riders and spur change."
+  },
+  {
+    "q_zh": "在对抗性谈判中，你发现对方在拖延时间，以等待你的压力增大（如资金链紧张）。你会？",
+    "q_en": "In an adversarial negotiation, you realize the other side is stalling to exploit your time pressure (e.g., cash crunch). What do you do?",
+    "a_zh": "主动设置最后期限，并公开表示若超时则取消谈判，转向其他方案。",
+    "a_en": "Impose a clear deadline, publicly stating you'll walk away and use alternatives if exceeded.",
+    "b_zh": "假装不着急，暗中加速寻找外部支持，并继续拖延以反制。",
+    "b_en": "Pretend to be unhurried, secretly seek external support, and stall in return."
+  },
+  {
+    "q_zh": "你与对手连续多次合作成功，但对方近期突然提出要引入第三方竞争，宣称‘这样更公平’。你怀疑其有私心，你会？",
+    "q_en": "You and a rival have a successful cooperative streak, but they suddenly propose bringing in a third-party competitor, claiming 'fairness.' You suspect ulterior motives. What do you do?",
+    "a_zh": "同意引入，但事先明确分工和份额底线，防止对方借此稀释你的利益。",
+    "a_en": "Agree, but predefine roles and minimum shares to prevent dilution of your interests.",
+    "b_zh": "反对引入，并提出以扩大当前合作范围作为交换，绑住对方。",
+    "b_en": "Oppose it, and propose expanding the current cooperation scope as a trade-off to bind them."
   }
 ]
