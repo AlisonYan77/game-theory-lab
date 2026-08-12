@@ -14598,5 +14598,85 @@
     "a_en": "Agree, but predefine roles and minimum shares to prevent dilution of your interests.",
     "b_zh": "反对引入，并提出以扩大当前合作范围作为交换，绑住对方。",
     "b_en": "Oppose it, and propose expanding the current cooperation scope as a trade-off to bind them."
+  },
+  {
+    "q_zh": "你面前有两个按钮：按下 A 按钮，你有 100% 的机会获得 100 元；按下 B 按钮，你有 50% 的机会获得 250 元，50% 机会一无所获。你会选择哪个？",
+    "q_en": "Two buttons before you: Press A for a guaranteed ¥100. Press B for a 50% chance of ¥250 and 50% chance of nothing. Which do you press?",
+    "a_zh": "A（确定的100元）",
+    "a_en": "A (Guaranteed ¥100)",
+    "b_zh": "B（50%赢250元）",
+    "b_en": "B (50% chance of ¥250)"
+  },
+  {
+    "q_zh": "你正在和别人争夺一笔奖金。如果你选择合作（A），你们平分；如果对方背叛你，你一无所获。如果你先背叛（B），你独自拿钱，但对方会报复你。你更倾向于？",
+    "q_en": "You are competing for a prize. If you cooperate (A), you split it. If the other betrays, you get nothing. If you betray first (B), you keep it all but the other retaliates. Which do you choose?",
+    "a_zh": "A（合作，平分）",
+    "a_en": "A (Cooperate, split)",
+    "b_zh": "B（背叛，独吞）",
+    "b_en": "B (Betray, take all)"
+  },
+  {
+    "q_zh": "一个陌生人给你一个选择：A 给你 10 元，同时陌生人获得 10 元；B 给你 20 元，但陌生人获得 0 元。你选择？",
+    "q_en": "A stranger offers: Option A gives you ¥10 and them ¥10. Option B gives you ¥20 and them nothing. Which do you pick?",
+    "a_zh": "A（公平，双方各10元）",
+    "a_en": "A (Fair, both ¥10)",
+    "b_zh": "B（自己20元，对方0元）",
+    "b_en": "B (You get ¥20, they get 0)"
+  },
+  {
+    "q_zh": "在拍卖会上，你出价 A（200元）或 B（500元）。如果双方出价相同，你亏本；如果出价高者获胜。你知道对手很激进。你选？",
+    "q_en": "In an auction, you bid A (¥200) or B (¥500). If both bid the same, you lose money; higher bid wins. Your rival is aggressive. What's your bid?",
+    "a_zh": "A（出价200元，稳健）",
+    "a_en": "A (Bid ¥200, cautious)",
+    "b_zh": "B（出价500元，压过对手）",
+    "b_en": "B (Bid ¥500, beat them)"
+  },
+  {
+    "q_zh": "你被邀请参加一个游戏：选择 A，你将获得 5 个积分，且对手也获得 5 积分；选择 B，你获得 10 积分，但对手获得 0 积分。你更看重自己的收益还是公平？",
+    "q_en": "Invited to a game: Choose A to get 5 points and let opponent also get 5. Choose B to get 10 points and opponent gets 0. Prioritize own gain or fairness?",
+    "a_zh": "A（公平，各5分）",
+    "a_en": "A (Fair, both 5 points)",
+    "b_zh": "B（自己10分，对手0分）",
+    "b_en": "B (Self 10, opponent 0)"
+  },
+  {
+    "q_zh": "在一个重复博弈中，对手上次背叛了你。这次你可以选择宽容（A）继续合作，或者惩罚（B）也背叛。对方似乎也犹豫。你选？",
+    "q_en": "In a repeated game, your opponent betrayed last round. You can be forgiving (A) and cooperate, or punish (B) by betraying. They seem hesitant too. Which move?",
+    "a_zh": "A（宽容，继续合作）",
+    "a_en": "A (Forgive, cooperate)",
+    "b_zh": "B（报复，背叛）",
+    "b_en": "B (Retaliate, betray)"
+  },
+  {
+    "q_zh": "你有一张彩票，可以换 100 元（A），或者和朋友玩一个游戏：朋友如果赢，给你 150 元；如果输，你给朋友 50 元。朋友水平和你差不多。你选？",
+    "q_en": "You have a lottery ticket worth ¥100 (A). Or play a game with a friend: if they win, they pay you ¥150; if they lose, you pay them ¥50. You're evenly matched. What do you do?",
+    "a_zh": "A（直接换100元，稳妥）",
+    "a_en": "A (Cash out ¥100, safe)",
+    "b_zh": "B（和朋友玩，期望更高）",
+    "b_en": "B (Play friend, higher EV)"
+  },
+  {
+    "q_zh": "公共物品博弈：每个人投入 A（50元）或 B（100元）到公共池，最后池子翻倍均分。如果只有你投入多，别人少，你亏。你会？",
+    "q_en": "Public goods game: Contribute A (¥50) or B (¥100) to a pool that doubles and splits equally. If you contribute more than others, you lose. What do you contribute?",
+    "a_zh": "A（投入50元，保守）",
+    "a_en": "A (Contribute ¥50, conservative)",
+    "b_zh": "B（投入100元，信任集体）",
+    "b_en": "B (Contribute ¥100, trust group)"
+  },
+  {
+    "q_zh": "在石头剪刀布中，你预判对手会出石头。你选择 A（出布）或 B（出剪刀，赌对方改）。如果猜错，你输。你更相信直觉还是策略？",
+    "q_en": "In RPS, you predict opponent plays rock. Choose A (paper) or B (scissors, betting they change). If wrong, you lose. Trust instinct or strategy?",
+    "a_zh": "A（出布，克制石头）",
+    "a_en": "A (Paper, counters rock)",
+    "b_zh": "B（出剪刀，反制对手变招）",
+    "b_en": "B (Scissors, counter their change)"
+  },
+  {
+    "q_zh": "最后一道题：两个箱子，一个透明装有 1000 元，另一个不透明可能装有 10000 元或 0 元。你只能选一个。你会选？",
+    "q_en": "Final question: Two boxes—one transparent with ¥1,000, the other opaque with either ¥10,000 or ¥0. You can only take one. Which do you choose?",
+    "a_zh": "A（透明的1000元，确定收益）",
+    "a_en": "A (Transparent ¥1,000, certain)",
+    "b_zh": "B（不透明，赌一把大的）",
+    "b_en": "B (Opaque, gamble for big win)"
   }
 ]
