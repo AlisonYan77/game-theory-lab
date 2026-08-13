@@ -14678,5 +14678,85 @@
     "a_en": "A (Transparent ¥1,000, certain)",
     "b_zh": "B（不透明，赌一把大的）",
     "b_en": "B (Opaque, gamble for big win)"
+  },
+  {
+    "q_zh": "你与一名对手竞争一个稀缺资源。对方先手，他主动选择了合作。你会如何回应？",
+    "q_en": "You and an opponent compete for a scarce resource. The opponent moves first and chooses cooperation. How do you respond?",
+    "a_zh": "也选择合作，建立互信，追求长期共赢。",
+    "a_en": "Also choose cooperation to build trust and pursue long-term mutual gain.",
+    "b_zh": "选择背叛，趁对方善意，立刻夺取全部资源。",
+    "b_en": "Choose betrayal to exploit their goodwill and seize everything immediately."
+  },
+  {
+    "q_zh": "在重复囚徒困境中，你发现对手总是模仿你的上一步行为（即“以牙还牙”策略）。你下一步会怎么做？",
+    "q_en": "In a repeated prisoner's dilemma, you discover your opponent always mimics your last move (tit-for-tat). What do you do next?",
+    "a_zh": "继续合作，保持友好循环，避免无谓冲突。",
+    "a_en": "Keep cooperating to maintain a friendly cycle and avoid unnecessary conflict.",
+    "b_zh": "偶尔背叛一次，测试对方是否真的严格模仿，再决定策略。",
+    "b_en": "Occasionally defect to test if they truly mimic, then adjust strategy."
+  },
+  {
+    "q_zh": "在一个“最后通牒博弈”中，你可以分一笔钱两人共享。你提出一个极不公平的方案（如自己拿90%）。你预计对方会怎么反应？",
+    "q_en": "In an ultimatum game, you split a sum. You propose a very unfair split (e.g., 90% for you). What do you expect the other player to do?",
+    "a_zh": "对方大概率拒绝，宁可双方都得不到，也要惩罚你的贪婪。",
+    "a_en": "They'll likely reject, preferring zero for both to punish your greed.",
+    "b_zh": "对方大概率接受，因为有一点总比没有好。",
+    "b_en": "They'll likely accept, because something is better than nothing."
+  },
+  {
+    "q_zh": "在一次多轮谈判中，你手上有大量信息优势，但对方已知你善于欺骗。你现在最应该怎么做？",
+    "q_en": "In multi-round negotiation, you hold a big information advantage, but the opponent knows you are deceptive. What is your best move now?",
+    "a_zh": "故意透露一部分真实信息，建立可信度，再在关键时刻使用误导。",
+    "a_en": "Deliberately reveal some true info to build credibility, then mislead at the critical moment.",
+    "b_zh": "全程保持完全透明，用诚实换取对方信任，尽管可能损失短期利益。",
+    "b_en": "Stay fully transparent, trade honesty for trust, even if it costs short-term gain."
+  },
+  {
+    "q_zh": "在“懦夫博弈”中，你们相向而行，如果一方转向则认输，若都不转则两败俱伤。对方已公开声明绝不转向。你会？",
+    "q_en": "In a chicken game, both drive toward each other. Swerving means losing; no swerve means mutual destruction. Your opponent publicly declares they will never swerve. What do you do?",
+    "a_zh": "表面上也宣称不转，但最后一刻转向保命，让对方赢但失去威慑力。",
+    "a_en": "Also bluff no-swerve, but swerve at the last moment to survive, losing face but saving life.",
+    "b_zh": "坚定不转，因为对方可能是虚张声势，看谁先认输。",
+    "b_en": "Hold firm, because they might be bluffing—see who breaks first."
+  },
+  {
+    "q_zh": "在一场拍卖中，你与另一人争夺同一件物品。已知对方预算有限，但你的预算也快用完。你会采取什么策略？",
+    "q_en": "In an auction, you bid against one opponent for an item. You know their budget is limited, but yours is nearly exhausted too. What strategy do you use?",
+    "a_zh": "最后一次大幅加价，逼对方认为你势在必得，可能迫使对方放弃。",
+    "a_en": "Make a final large bid to signal commitment, possibly scaring them off.",
+    "b_zh": "小幅加价慢慢耗，赌对方先退出，因为你相信他们更怕超支。",
+    "b_en": "Increment slowly and wait for them to fold, betting they fear overspending more."
+  },
+  {
+    "q_zh": "在一次合作任务中，你发现队友（也是对手）正在暗中收集你的失败证据。但表面上仍与你合作。你如何应对？",
+    "q_en": "In a collaborative task, you realize your teammate (also a rival) is secretly collecting evidence of your failures, while acting cooperative. How do you deal with this?",
+    "a_zh": "公开揭穿他们，破坏合作，但可能让自己显得多疑或冲动。",
+    "a_en": "Publicly call them out, breaking cooperation but risking looking paranoid or rash.",
+    "b_zh": "表面继续合作，暗中也收集他们的把柄，以备反制。",
+    "b_en": "Outwardly keep cooperating, but secretly gather their own compromising info for counterattack."
+  },
+  {
+    "q_zh": "在“信任博弈”中，你先给对方一笔钱，对方可以三倍返还。你给了最大金额，但对方只返还了最低额。第二轮你还会信任吗？",
+    "q_en": "In a trust game, you send money to the other, who can return triple. You send max, they return the minimum. In round two, do you still trust?",
+    "a_zh": "不再信任，这轮也发最低额，以惩罚对方并保护自己。",
+    "a_en": "No longer trust; send the minimum to punish them and protect yourself.",
+    "b_zh": "再给一次最大额，指望对方因愧疚而改变，修复关系。",
+    "b_en": "Send max again, hoping guilt makes them change and restore the relationship."
+  },
+  {
+    "q_zh": "你与对手玩“石头剪刀布”。对手前10次出拳无规律，但你发现他会在你出剪刀后大概率出石头。你现在要出什么？",
+    "q_en": "You play RPS. Opponent's first 10 throws seem random, but you notice after you play scissors, they often play rock next. What do you throw now?",
+    "a_zh": "出布，利用这个规律来克他们可能的石头。",
+    "a_en": "Play paper, exploiting their pattern to beat their likely rock.",
+    "b_zh": "出剪刀，故意引诱他们出石头，然后下次再调整，但这次冒险赌他们会出布。",
+    "b_en": "Play scissors to bait them into rock, then adjust next time—but risk they play paper now."
+  },
+  {
+    "q_zh": "在一个多方博弈中，你们三个玩家互相竞争。另外两人结成了临时联盟，但你知道他们内部并不信任。你如何瓦解他们？",
+    "q_en": "In a three-player game, the other two form a temporary alliance, but you know they distrust each other. How do you break them apart?",
+    "a_zh": "主动向其中一人提供私下更好的合作条件，制造猜疑，让他们内讧。",
+    "a_en": "Secretly offer one of them a better private deal, fueling suspicion and internal conflict.",
+    "b_zh": "公开表示你愿意同时与双方合作，强调你的中立，等待他们自己因猜忌而分裂。",
+    "b_en": "Publicly offer cooperation to both, emphasizing neutrality, and wait for their own distrust to split them."
   }
 ]
