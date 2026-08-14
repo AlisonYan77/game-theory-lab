@@ -14758,5 +14758,76 @@
     "a_en": "Secretly offer one of them a better private deal, fueling suspicion and internal conflict.",
     "b_zh": "公开表示你愿意同时与双方合作，强调你的中立，等待他们自己因猜忌而分裂。",
     "b_en": "Publicly offer cooperation to both, emphasizing neutrality, and wait for their own distrust to split them."
+  },
+  {
+    "q_zh": "如果你连续三次在石头剪刀布中输给同一个对手，第四次你会选择？",
+    "q_en": "If you've lost Rock-Paper-Scissors to the same opponent three times in a row, what do you choose on the fourth?",
+    "a_zh": "出剪刀，赌他以为你会换而继续出布",
+    "a_en": "Scissors, betting he thinks you'll switch and still plays paper",
+    "b_zh": "出石头，赌他会循着你的惯性出剪刀",
+    "b_en": "Rock, betting he follows your pattern and plays scissors"
+  },
+  {
+    "q_zh": "In an ultimatum game, the other party offers you only 5% (accept or reject, both get nothing if reject). You choose?",
+    "a_zh": "接受，至少有点收益，避免双输",
+    "a_en": "Accept, at least get something, avoid mutual loss",
+    "b_zh": "拒绝，惩罚对方的不公平，树立威慑",
+    "b_en": "Reject, punish unfairness, build a reputation for deterrence"
+  },
+  {
+    "q_zh": "In an auction, you know the opponent has a limited budget and bidding is near your cap. Next move?",
+    "a_zh": "小幅加价，压迫其退出",
+    "a_en": "Make a small raise to pressure them to fold",
+    "b_zh": "大幅加价，展示决心使其彻底放弃",
+    "b_en": "Make a huge jump to show resolve and force surrender"
+  },
+  {
+    "q_zh": "You propose the split first; other can only accept or reject. You estimate the other is impulsive. You choose?",
+    "a_zh": "给自己 65%，因他容易冲动拒绝而给他留 35%",
+    "a_en": "Take 65%, give 35% because he may irrationally reject",
+    "b_zh": "给自己 50%，完全平分以绝对安全",
+    "b_en": "Take 50%, perfectly split to be absolutely safe"
+  },
+  {
+    "q_zh": "In a repeated prisoner's dilemma, opponent cooperated for 5 rounds but defected last round. This round you?",
+    "a_zh": "继续合作，给他一次改过的机会",
+    "a_en": "Cooperate again, give him a chance to rectify",
+    "b_zh": "选择背叛，以牙还牙建立惩罚机制",
+    "b_en": "Defect, tit-for-tat to impose punishment"
+  },
+  {
+    "q_zh": "In a number-stealing game (each takes turns to call numbers until reaching a target), you notice opponent always remembers your last call. Your strategy?",
+    "a_zh": "故意随机乱报，打破他的预测模型",
+    "a_en": "Deliberately randomize calls to break his predictive model",
+    "b_zh": "维持固定模式但偶尔走一步险棋，让他混乱",
+    "b_en": "Keep a pattern but sometimes make a risky move to confuse him"
+  },
+  {
+    "q_zh": "Two goats on a narrow bridge. You're the aggressive one; the other seems timid. You choose?",
+    "a_zh": "不退让，继续往前走，赌他会跳下桥",
+    "a_en": "Don't yield, keep walking, bet he jumps off the bridge",
+    "b_zh": "主动退让，表现出善意以换取未来合作",
+    "b_en": "Yield first, show goodwill to foster future cooperation"
+  },
+  {
+    "q_zh": "In a cake-splitting negotiation, opponent demands one more concession, but you know he doesn't want a breakdown. You?",
+    "a_zh": "假装离席，用最后通牒逼迫他接受你的方案",
+    "a_en": "Fake walking away, use an ultimatum to force your deal",
+    "b_zh": "接受他多出的那一点，换取即时成交和平",
+    "b_en": "Concede the extra bit to secure immediate deal and peace"
+  },
+  {
+    "q_zh": "In a multi-round competitive game, opponent tends to go all-in risky after a loss. After he just lost a round, next round you?",
+    "a_zh": "保守策略，避开他拼命的一击",
+    "a_en": "Play conservatively to avoid his desperate strike",
+    "b_zh": "主动进攻，利用他情绪不稳的弱点",
+    "b_en": "Attack aggressively, exploiting his emotional instability"
+  },
+  {
+    "q_zh": "In a simulated negotiation, you learn opponent has a very strong win-lose mentality. Your opening move?",
+    "a_zh": "提出一个明显偏向你但留有微小让步余地的方案",
+    "a_en": "Offer a clearly favorable deal but with tiny room to concede",
+    "b_zh": "提出一个完全平分无争议的方案，让他没有战斗空间",
+    "b_en": "Offer a perfectly equal deal to leave no room for battle"
   }
 ]
