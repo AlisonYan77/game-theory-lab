@@ -14829,5 +14829,85 @@
     "a_en": "Offer a clearly favorable deal but with tiny room to concede",
     "b_zh": "提出一个完全平分无争议的方案，让他没有战斗空间",
     "b_en": "Offer a perfectly equal deal to leave no room for battle"
+  },
+  {
+    "q_zh": "你在荒岛上发现一个宝箱，但身边只有一个同伴。宝箱里可能有够两人活一个月的食物，也可能空无一物。你选择：",
+    "q_en": "On a deserted island, you find a treasure chest with only one companion nearby. The chest might contain enough food for both to survive a month, or it might be empty. Do you:",
+    "a_zh": "独自打开宝箱，若食物足够则独自占有",
+    "a_en": "Open the chest alone and hoard everything if there is food",
+    "b_zh": "与同伴商量后共同分配",
+    "b_en": "Negotiate with your companion and share fairly"
+  },
+  {
+    "q_zh": "一场拍卖会上，你与唯一对手争夺一件价值100元的古董。当前竞价已达到90元，对手出价92元。你选择：",
+    "q_en": "At an auction, you compete with a single rival for a $100 antique. The current bid is $90, and your rival bids $92. Do you:",
+    "a_zh": "加价到95元，继续争夺",
+    "a_en": "Raise to $95 and keep bidding",
+    "b_zh": "放弃，让对手以92元成交",
+    "b_en": "Fold and let your rival win at $92"
+  },
+  {
+    "q_zh": "你和邻居同时申请一笔小额贷款。银行只批给其中一人。你私下得知邻居急需这笔钱治疗重病，但你也有紧急用途。你选择：",
+    "q_en": "You and your neighbor apply for the same small loan, but the bank will approve only one. You privately learn your neighbor needs it for urgent medical treatment, but you also have a pressing need. Do you:",
+    "a_zh": "如实陈述自己的需求，争取获批",
+    "a_en": "State your own needs clearly and compete for approval",
+    "b_zh": "主动告诉银行让给邻居",
+    "b_en": "Voluntarily withdraw in favor of your neighbor"
+  },
+  {
+    "q_zh": "你和对手进行剪刀石头布，赢者获得100元。对方声称自己会出“石头”。你选择：",
+    "q_en": "You play rock-paper-scissors with an opponent for $100. Your opponent claims they will play \"rock.\" Do you:",
+    "a_zh": "出布，利用其声称的弱点",
+    "a_en": "Play paper to exploit their claimed weakness",
+    "b_zh": "出剪刀，因为对方可能在撒谎",
+    "b_en": "Play scissors, suspecting they are bluffing"
+  },
+  {
+    "q_zh": "你在一场谈判中，对方开出一个看似公平但隐藏陷阱的条件。你有机会在签约前发现漏洞。你选择：",
+    "q_en": "In a negotiation, your counterpart offers a seemingly fair deal with a hidden trap. You have a chance to spot the flaw before signing. Do you:",
+    "a_zh": "直接指出漏洞并要求修改",
+    "a_en": "Point out the flaw and demand a change",
+    "b_zh": "假装不知情，签约后利用漏洞反制",
+    "b_en": "Pretend not to notice, sign, and later exploit the flaw against them"
+  },
+  {
+    "q_zh": "你和对手各持有一张牌，牌面数字大者赢。你知道自己牌是7，对手未知。对手声称自己牌是9，并加注。你选择：",
+    "q_en": "You and an opponent each hold a card; higher number wins. You know your card is 7, but not theirs. They claim theirs is 9 and raise the stakes. Do you:",
+    "a_zh": "跟注，赌对方虚张声势",
+    "a_en": "Call the bet, betting they are bluffing",
+    "b_zh": "弃牌，承认对方可能真有9",
+    "b_en": "Fold, conceding they may indeed have a 9"
+  },
+  {
+    "q_zh": "你被分配到一个团队，但你的贡献会被平均分配奖励。其他人却可能偷懒。你选择：",
+    "q_en": "You are in a team where rewards are equally split regardless of individual effort. Others may slack off. Do you:",
+    "a_zh": "全力工作，即使别人偷懒也吃亏",
+    "a_en": "Work hard even if it means being exploited by slackers",
+    "b_zh": "适度偷懒，以求个人付出最小化",
+    "b_en": "Slack off moderately to minimize your own effort"
+  },
+  {
+    "q_zh": "你发现一个“零和游戏”陷阱：双方都选合作则双赢，但一方背叛可短期获利。对手明显倾向于背叛。你选择：",
+    "q_en": "You are in a zero-sum game trap: mutual cooperation yields win-win, but one-sided betrayal gains short-term advantage. Your opponent clearly leans toward betrayal. Do you:",
+    "a_zh": "先发制人背叛，避免被利用",
+    "a_en": "Strike first and betray to avoid being exploited",
+    "b_zh": "冒险选择合作，寄望对方也理性",
+    "b_en": "Risk cooperation, hoping your opponent will act rationally"
+  },
+  {
+    "q_zh": "在一场多轮竞争游戏中，你发现对手总是模仿你的上一轮选择。本轮你面临高风险高回报选项。你选择：",
+    "q_en": "In a multi-round game, you notice your opponent copies your previous move. This round, you face a high-risk, high-reward option. Do you:",
+    "a_zh": "选择高风险高回报，诱使对方下轮模仿而损失",
+    "a_en": "Pick the high-risk high-reward, baiting them to copy and lose next round",
+    "b_zh": "选择低风险稳妥选项，避免被反向利用",
+    "b_en": "Choose a low-risk safe option to avoid reverse exploitation"
+  },
+  {
+    "q_zh": "你与对手博弈，已知对方极度理性且不信任你。你能提供一份“保证”以换取其合作，但该保证可能无法执行。你选择：",
+    "q_en": "You are playing with an opponent who is extremely rational and distrusts you. You can offer a \"guarantee\" to gain cooperation, but it may be unenforceable. Do you:",
+    "a_zh": "提供保证，尽管可能食言，以换取对方信任",
+    "a_en": "Offer the guarantee, even if you may break it, to gain trust",
+    "b_zh": "拒绝空头保证，坚持基于利益谈判",
+    "b_en": "Refuse empty promises and negotiate purely on self-interest"
   }
 ]
