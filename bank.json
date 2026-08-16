@@ -14909,5 +14909,85 @@
     "a_en": "Offer the guarantee, even if you may break it, to gain trust",
     "b_zh": "拒绝空头保证，坚持基于利益谈判",
     "b_en": "Refuse empty promises and negotiate purely on self-interest"
+  },
+  {
+    "q_zh": "你与对手各持一枚硬币，同时选择正面或反面。若两人选择相同，你赢100元；若不同，你输100元。你提前知道对手上次选择反面，且他从不连续选择三次相同选项。你这次选什么？",
+    "q_en": "You and your opponent each hold a coin and simultaneously choose heads or tails. If you match, you win $100; if not, you lose $100. You know your opponent chose tails last time, and he never picks the same option three times in a row. What do you choose this time?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "在‘囚徒困境’中，你和同伙被分别审讯。若你们都沉默，各判1年；若你告发而对方沉默，你无罪释放，对方判10年；若你们都告发，各判5年。你相信对方一定会沉默（因为他很讲义气）。你选择？",
+    "q_en": "In the Prisoner's Dilemma, you and your partner are interrogated separately. If both stay silent, 1 year each. If you betray and they stay silent, you go free, they get 10 years. If both betray, 5 years each. You believe your partner will definitely stay silent (he is very loyal). What do you choose?",
+    "a_zh": "沉默",
+    "a_en": "Stay silent",
+    "b_zh": "告发",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "在‘猎鹿博弈’中，你和同伴同时决定：去猎鹿（需要合作，成功获10份肉）或去猎兔（独行，稳获1份肉）。若你选择猎鹿而对方去猎兔，你一无所获。你观察到对方上一轮选了猎兔，但他可能会改变策略。你选？",
+    "q_en": "In the Stag Hunt, you and a partner simultaneously decide: hunt the stag (needs cooperation, yields 10 units of meat if successful) or hunt a rabbit (solo, guaranteed 1 unit). If you hunt stag and they hunt rabbit, you get nothing. You observed they chose rabbit last round, but they might change. What do you choose?",
+    "a_zh": "猎鹿",
+    "a_en": "Hunt stag",
+    "b_zh": "猎兔",
+    "b_en": "Hunt rabbit"
+  },
+  {
+    "q_zh": "在‘斗鸡博弈’中，你和对手驾车相向而行，谁先转向谁认输。若双方都不转向，车毁人亡（各-100分）；若你转向而对方不转，你丢面子（-10分），对方赢（+10分）；若双方都转，各得0分。你判断对手是个极好面子、从不认输的人。你选择？",
+    "q_en": "In the Chicken game, you and an opponent drive toward each other. The one who swerves loses. If neither swerves, both crash (-100 each). If you swerve and they don't, you lose face (-10), they win (+10). If both swerve, each gets 0. You believe your opponent is extremely prideful and never backs down. What do you choose?",
+    "a_zh": "转向",
+    "a_en": "Swerve",
+    "b_zh": "不转向",
+    "b_en": "Hold straight"
+  },
+  {
+    "q_zh": "在‘性别之战’博弈中，你和对方希望一起行动，但偏好不同：你偏好看球赛（收益10/5），对方偏好歌剧（收益5/10）。若你们同时选择且一致，按各自偏好得分；若不一致，双方0分。你相信对方会因为上次你们看了球赛（你满意），这次可能会选择歌剧来改善自己的体验。你选？",
+    "q_en": "In the Battle of the Sexes, you and your partner want to coordinate, but you prefer football (payoff 10/5) and they prefer opera (payoff 5/10). If you choose the same, payoffs are as above; if different, both get 0. You believe they might choose opera this time to improve their own experience, since last time you watched football (you were happy). What do you choose?",
+    "a_zh": "球赛",
+    "a_en": "Football",
+    "b_zh": "歌剧",
+    "b_en": "Opera"
+  },
+  {
+    "q_zh": "在‘多数规则’博弈中，你们3人同时投票：A或B。若选择A的人多，则选A者各得5分；若选择B的人多，则选B者各得1分；若平局，则所有弃权者得0分。你预计另两人中一人必选A（他上次说了），另一人可能跟随你。你选？",
+    "q_en": "In a majority-rule game, 3 players simultaneously vote A or B. If A is the majority, A voters each get 5 points. If B is the majority, B voters each get 1 point. In a tie, all abstainers get 0. You expect one of the other two will definitely vote A (he said so last time), and the third may follow you. What do you choose?",
+    "a_zh": "A",
+    "a_en": "A",
+    "b_zh": "B",
+    "b_en": "B"
+  },
+  {
+    "q_zh": "在‘最后通牒’博弈中，你作为提议者，有100元分给对方。若对方接受，则按你的方案分；若拒绝，双方各0元。你知道对方是理性的（会接受任何正数），但你也听说他上次拒绝了2元的方案（因为觉得被侮辱）。你提出给多少？",
+    "q_en": "In the Ultimatum game, you are the proposer, splitting $100. If the responder accepts, you both get your shares; if they reject, both get $0. You know the responder is rational (would accept any positive amount), but you heard they rejected a $2 offer last time (feeling insulted). How much do you offer?",
+    "a_zh": "2元",
+    "a_en": "$2",
+    "b_zh": "40元",
+    "b_en": "$40"
+  },
+  {
+    "q_zh": "在‘重复囚徒困境’中，你和对手进行10轮。上一轮你们互相合作，对方对你说：‘下轮我会继续合作，除非你背叛。’但你也知道对方可能使用‘以牙还牙’策略（上轮你背叛，他这轮就背叛）。你预测这轮他大概率会合作。你选择？",
+    "q_en": "In a repeated Prisoner's Dilemma (10 rounds). Last round you both cooperated. Your opponent says, 'I will cooperate next round unless you betray.' But you know they might use a Tit-for-Tat strategy (if you betrayed last time, they betray this time). You strongly predict they will cooperate this round. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "在‘信号博弈’中，你是有两种类型的玩家：强或弱。你可以选择发送‘昂贵信号’（花费5）或‘廉价信号’（0）。接收者看到信号后决定是否与你合作（合作给你+10，不合作给你0）。你是弱类型，但你想伪装成强类型以获取合作。接收者知道弱类型偶尔也会发昂贵信号。你该发哪种信号？",
+    "q_en": "In a signaling game, you have a type: strong or weak. You can send an expensive signal (cost 5) or a cheap signal (cost 0). The receiver decides whether to cooperate with you (cooperate gives you +10, not cooperate gives 0). You are the weak type, but you want to bluff as strong to get cooperation. The receiver knows weak types sometimes send expensive signals too. Which signal do you send?",
+    "a_zh": "昂贵信号",
+    "a_en": "Expensive signal",
+    "b_zh": "廉价信号",
+    "b_en": "Cheap signal"
+  },
+  {
+    "q_zh": "在‘军备竞赛’威慑博弈中，你和对手各自选择‘扩军’或‘裁军’。若双方都裁军，和平（各得5分）；若你扩军对方裁军，你占优（+8，对方-8）；若双方扩军，军备竞赛（各-3）。你评估对方上一轮裁军了，且他公开表示‘希望和平’。但你怀疑他在虚张声势，准备扩军。你选？",
+    "q_en": "In an arms-race deterrence game, each chooses to 'arm' or 'disarm'. If both disarm, peace (5 each). If you arm and they disarm, you gain advantage (+8, they -8). If both arm, arms race (-3 each). You observe your opponent disarmed last round and publicly says 'I hope for peace.' But you suspect they are bluffing and will arm. What do you choose?",
+    "a_zh": "裁军",
+    "a_en": "Disarm",
+    "b_zh": "扩军",
+    "b_en": "Arm"
   }
 ]
