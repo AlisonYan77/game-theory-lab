@@ -15069,5 +15069,85 @@
     "a_en": "Give 20 (trust may bring return, but a rational person may keep all)",
     "b_zh": "给0元（理性人不会还，不给才是最优）",
     "b_en": "Give 0 (a rational person won't return, giving nothing is optimal)"
+  },
+  {
+    "q_zh": "在一次拍卖中，你和另一位竞拍者竞标一件价值100元的物品。规则是：出价最高者赢得物品，但出价最高者和次高者都必须支付自己的出价。对方已经出价90元。你会怎么做？",
+    "q_en": "In an auction, you and another bidder are bidding on an item worth $100. The rule: the highest bidder wins the item, but both the highest and second-highest bidder must pay their bids. The other has bid $90. What do you do?",
+    "a_zh": "停止出价，让对手以90元赢得物品（对方净亏90，你无损失）",
+    "a_en": "Stop bidding, let the opponent win at $90 (they lose $90 net, you lose nothing)",
+    "b_zh": "加价到95元，试图以95元赢得价值100元的物品（净赚5元，但若对方继续加价，风险升高）",
+    "b_en": "Raise to $95, trying to win the $100 item for a net gain of $5 (but risk if they counter)"
+  },
+  {
+    "q_zh": "你和对手玩一个‘信任博弈’：你得到10元，可以选择给对方0、5或10元。你给的钱会翻三倍给对方，然后对方可以选择返还任意金额给你。你给对方多少钱？",
+    "q_en": "In a trust game, you receive $10 and can give the other player $0, $5, or $10. The amount you give is tripled for them, then they can return any amount to you. How much do you give?",
+    "a_zh": "给0元，确保自己不留任何风险（对方无法背叛你，但你放弃合作收益）",
+    "a_en": "Give $0, guaranteeing no risk of being betrayed (but you forgo cooperation gains)",
+    "b_zh": "给10元，期望对方因感激而返还部分，实现双赢（但对方可能不返还，你损失10元）",
+    "b_en": "Give $10, hoping gratitude leads to a return, a win-win (but they might keep it all, losing you $10)"
+  },
+  {
+    "q_zh": "你和对手同时选一个数字（1-10）。如果你们选的数字相同，你们都得到那个分数；如果不同，选较小数字的人得到较小数字+2，选较大数字的人得到0。你选几？",
+    "q_en": "You and an opponent simultaneously pick a number (1-10). If you pick the same number, you both score that number; if different, the lower picker gets lower+2, the higher gets 0. What do you pick?",
+    "a_zh": "选1，因为即使不匹配，你也至少得3分（1+2），安全且稳定",
+    "a_en": "Pick 1, because even if mismatched, you get at least 3 points (1+2), safe and stable",
+    "b_zh": "选5，试图匹配以获得5分，博弈对手可能也选中间数，风险与回报并存",
+    "b_en": "Pick 5, aiming for a match at 5, hoping opponent also picks middle, with risk and reward"
+  },
+  {
+    "q_zh": "在一个‘胆小鬼博弈’中，你和对手驾车相向而行。若一方转向，他输（丢面子）；若都不转向，两败俱伤。你观察到对方眼神坚定，似乎不会转向。你会怎么做？",
+    "q_en": "In a game of chicken, you and an opponent drive toward each other. If one swerves, he loses face; if neither swerves, both crash. You see the opponent looks determined and unlikely to swerve. What do you do?",
+    "a_zh": "转向，保全生命和车辆（承认对方强硬，你输但避免灾难）",
+    "a_en": "Swerve, saving life and car (concede the opponent's toughness, you lose but avoid disaster)",
+    "b_zh": "继续直行，赌对方在最后一刻会转向（可能同归于尽，但若对方怂则你赢）",
+    "b_en": "Keep straight, betting they'll swerve at the last moment (possible mutual destruction, but win if they cave)"
+  },
+  {
+    "q_zh": "你和对手玩‘囚徒困境’：若你们都沉默，各判1年；若你揭发对方而对方沉默，你自由，对方判10年；若都揭发，各判8年。对方威胁说如果你揭发，他出狱后会报复你。你会怎么做？",
+    "q_en": "In a prisoner's dilemma: if both stay silent, each gets 1 year; if you betray and they stay silent, you go free, they get 10 years; if both betray, each gets 8 years. The opponent threatens retaliation if you betray. What do you do?",
+    "a_zh": "沉默，信任对方也沉默（但若对方背叛，你判10年）",
+    "a_en": "Stay silent, trusting they also stay quiet (but if they betray, you get 10 years)",
+    "b_zh": "揭发对方，避免被对方背叛的风险（但可能招致报复，且你们都判8年）",
+    "b_en": "Betray, avoiding the risk of being betrayed (but invite retaliation, and you both get 8 years)"
+  },
+  {
+    "q_zh": "你和一个朋友分一笔100元。朋友提出方案：你选择如何分配，他接受则按此分配，不接受则双方都拿0元。你提出什么分配？",
+    "q_en": "You and a friend split $100. Your friend proposes: you choose the split, if he accepts you get that split, if he rejects both get $0. What split do you propose?",
+    "a_zh": "给你99元，给他1元（若他理性接受，你最大化收益，但可能激起不公平感）",
+    "a_en": "$99 for you, $1 for them (if they're rational they accept, maximizing your gain, but may trigger unfairness)",
+    "b_zh": "给你50元，给他50元（公平，但可能浪费了多拿的机会）",
+    "b_en": "$50 for you, $50 for them (fair, but maybe wastes a chance for more)"
+  },
+  {
+    "q_zh": "你和对手玩‘公共物品博弈’：每人有10元，可以往公共池投0-10元。池中总额翻1.5倍后平均分给所有人。对手表示他会投10元，要你也投10元。你打算投多少？",
+    "q_en": "In a public goods game: each has $10, can contribute $0-$10 to a common pool. The pool is multiplied by 1.5 and split equally among all. The opponent claims he will contribute $10 and wants you to too. How much do you contribute?",
+    "a_zh": "投10元，若真如此，你们各得15元（净赚5元），但若对方撒谎，你只剩7.5元",
+    "a_en": "Contribute $10; if true, you each get $15 (net +$5), but if they lie, you're left with $7.5",
+    "b_zh": "投0元，享受对方贡献的公共品（若对方真投10，你觉得7.5元，白赚7.5），但关系破裂",
+    "b_en": "Contribute $0, free-riding on their contribution (if they do contribute, you get $7.5 free), but relationship breaks"
+  },
+  {
+    "q_zh": "你被绑架，绑匪给你两个选项：A) 你支付赎金100万，他放你走；B) 你拒绝支付，他把你放了（因为良心发现），但你可能被他再次绑架。你选择？",
+    "q_en": "You're kidnapped. The kidnapper offers: A) You pay ransom $1 million, he releases you; B) You refuse to pay, he releases you anyway (conscience), but might kidnap you again. What do you choose?",
+    "a_zh": "支付100万，确保当前释放，但可能被盯上成为长期提款机",
+    "a_en": "Pay the $1 million, ensuring release now, but risk becoming a long-term ATM",
+    "b_zh": "拒绝支付，赌对方有道德底线，并报警追查（但可能激怒他伤害你）",
+    "b_en": "Refuse to pay, gambling on his morals, and call police (but risk angering him to harm you)"
+  },
+  {
+    "q_zh": "你和队友在《博弈实验室》的团队赛。你们共同完成一个任务才能赢。队友告诉你他会全力以赴，但你知道他过去常偷懒。你要如何选择贡献？",
+    "q_en": "You and a teammate are in a team game in the Lab. You both need to contribute to win. Your teammate says he'll give full effort, but you know he's often lazy. How do you choose to contribute?",
+    "a_zh": "贡献你的全部，即使他偷懒，你也尽力让团队获胜（但若他偷懒，你白费力气）",
+    "a_en": "Give full effort, even if he's lazy, to maximize team's chance (but wasted if he slacks)",
+    "b_zh": "只贡献一半，防止被利用，但若他真努力，团队可能因你不足而输",
+    "b_en": "Contribute half, to avoid being exploited, but if he's sincere, team may lose due to your shortfall"
+  },
+  {
+    "q_zh": "在一场‘最后通牒’实验中，你被分配者角色，有100元。你可以分给接受者任意金额。如果接受者拒绝，双方都不得钱。你希望既最大化自己的钱，又不被拒绝。你会分多少？",
+    "q_en": "In an ultimatum game, you're the proposer with $100. You can offer any amount to the responder. If they reject, both get nothing. You want to maximize your money while avoiding rejection. How much do you offer?",
+    "a_zh": "offer 30元（若对方理性接受，你拿70元，但可能被视作不公而拒绝）",
+    "a_en": "Offer $30 (if rational, they accept, you keep $70, but may be seen as unfair and rejected)",
+    "b_zh": "offer 50元（公平均分，必然被接受，但你只拿50元）",
+    "b_en": "Offer $50 (fair split, almost certainly accepted, but you keep only $50)"
   }
 ]
