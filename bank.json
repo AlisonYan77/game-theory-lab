@@ -15149,5 +15149,85 @@
     "a_en": "Offer $30 (if rational, they accept, you keep $70, but may be seen as unfair and rejected)",
     "b_zh": "offer 50元（公平均分，必然被接受，但你只拿50元）",
     "b_en": "Offer $50 (fair split, almost certainly accepted, but you keep only $50)"
+  },
+  {
+    "q_zh": "你和对手各有一张牌，可以选择自己得100分或对方得200分。若你选自己得100分，对方会知道并可能报复。你怎么选？",
+    "q_en": "You and your opponent each have one card. You can choose to give yourself 100 points or give your opponent 200 points. If you choose yourself, your opponent will know and may retaliate. What do you choose?",
+    "a_zh": "选自己得100分",
+    "a_en": "Choose 100 points for yourself",
+    "b_zh": "选对方得200分",
+    "b_en": "Choose 200 points for opponent"
+  },
+  {
+    "q_zh": "两人分100元，你先提出分配方案，若对方拒绝则双方各得10元。你愿意分给对方多少钱？",
+    "q_en": "Two people split 100 yuan. You propose the split first. If the other rejects, both get 10 yuan. How much are you willing to give the other?",
+    "a_zh": "给50元（公平平分）",
+    "a_en": "Give 50 yuan (equal split)",
+    "b_zh": "给30元（自己占优）",
+    "b_en": "Give 30 yuan (advantage yourself)"
+  },
+  {
+    "q_zh": "一次囚徒困境：你与同伙被隔离审讯。若你揭发对方而对方沉默，你被释放对方重判；若都沉默，各轻判；若都揭发，各中判。你选择？",
+    "q_en": "In a one-shot prisoner's dilemma, you and your accomplice are interrogated separately. If you betray and the other stays silent, you go free and the other gets a heavy sentence. If both stay silent, light sentences. If both betray, medium sentences. What do you do?",
+    "a_zh": "保持沉默（合作）",
+    "a_en": "Stay silent (cooperate)",
+    "b_zh": "揭发对方（背叛）",
+    "b_en": "Betray the other (defect)"
+  },
+  {
+    "q_zh": "你与对手进行10轮重复博弈，每轮可合作或背叛。对手采用的是“以牙还牙”策略（首轮合作，之后模仿你上一轮的行为）。第1轮你选？",
+    "q_en": "You and your opponent play 10 repeated rounds, each can cooperate or defect. The opponent uses tit-for-tat (cooperates first, then mimics your last action). For round 1, what do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "公共品博弈：每人都可投入0-10元到公共池，投入翻倍后平均分配。若你知道对方会投入10元，你投入多少？",
+    "q_en": "Public goods game: each person can contribute 0-10 yuan to a common pool, doubled then split equally. If you know the other contributes 10 yuan, how much do you contribute?",
+    "a_zh": "投入10元（同样贡献）",
+    "a_en": "Contribute 10 yuan (match)",
+    "b_zh": "投入0元（免费搭车）",
+    "b_en": "Contribute 0 yuan (free ride)"
+  },
+  {
+    "q_zh": "你是一只鹰，另一只是鸽。在争夺资源时，两鹰相遇会两败俱伤（各-10），鹰对鸽得+10，鸽对鸽各得+5。你选择做哪一方？",
+    "q_en": "You are a hawk, the other is a dove. When two hawks meet, both get -10. A hawk vs dove: hawk gets +10, dove gets 0. Two doves: each gets +5. Which role do you choose?",
+    "a_zh": "选择做鹰（强攻）",
+    "a_en": "Choose hawk (aggressive)",
+    "b_zh": "选择做鸽（退让）",
+    "b_en": "Choose dove (yield)"
+  },
+  {
+    "q_zh": "信号博弈：你准备去求职面试，对方是面试官。你能力一般，但可以花钱买一套昂贵西装来假装高能力。若花钱后对方仍可能看穿，你花不花？",
+    "q_en": "Signaling game: you prepare for a job interview. Your ability is average, but you can buy an expensive suit to fake high ability. If the interviewer might still see through you, do you buy the suit?",
+    "a_zh": "买西装（发送信号）",
+    "a_en": "Buy the suit (send signal)",
+    "b_zh": "不买（省下成本）",
+    "b_en": "Don't buy (save cost)"
+  },
+  {
+    "q_zh": "拍卖游戏：你与对手竞拍一件价值100元的物品，每人出价一次，最高者获得物品但支付自己的出价（次高价者支付自己的出价也不得物品）。你的策略出价多少？",
+    "q_en": "Auction game: bidding for an item worth 100 yuan. Each bids once. Highest bidder gets the item but pays their bid (second-highest pays their bid and gets nothing). Your optimal strategy bid?",
+    "a_zh": "出100元（等于价值）",
+    "a_en": "Bid 100 (equal to value)",
+    "b_zh": "出110元（高于价值以便赢）",
+    "b_en": "Bid 110 (above value to win)"
+  },
+  {
+    "q_zh": "最后通牒博弈：你获得100元，可以任意分配给自己和对方，但对方若拒绝则双方一无所有。对方是理性且自私，你打算给对方多少？",
+    "q_en": "Ultimatum game: you get 100 yuan, can freely split with the other. If the other rejects, both get nothing. The other is rational and self-interested. How much do you offer?",
+    "a_zh": "给1元（只留1元给对方）",
+    "a_en": "Give 1 yuan (only leave 1)",
+    "b_zh": "给40元（接近公平）",
+    "b_en": "Give 40 yuan (near fair)"
+  },
+  {
+    "q_zh": "猜数字游戏：你写一个0到100的整数，对手猜测。若对手猜中，他得100分；否则你得50分。你希望对手猜到的数字是？",
+    "q_en": "Guess-the-number game: you write an integer from 0 to 100. The opponent guesses. If they guess right, they get 100; otherwise you get 50. What number do you want them to guess?",
+    "a_zh": "写50（最中间，难以预料）",
+    "a_en": "Write 50 (most central, hard to guess)",
+    "b_zh": "写0或100（极端，出人意料）",
+    "b_en": "Write 0 or 100 (extreme, surprising)"
   }
 ]
