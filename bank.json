@@ -15229,5 +15229,85 @@
     "a_en": "Write 50 (most central, hard to guess)",
     "b_zh": "写0或100（极端，出人意料）",
     "b_en": "Write 0 or 100 (extreme, surprising)"
+  },
+  {
+    "q_zh": "你发现同伴在说谎，但拆穿他会导致合作破裂。你会怎么做？",
+    "q_en": "You catch your partner lying, but exposing them will break the cooperation. What do you do?",
+    "a_zh": "拆穿谎言，确保公平与信任",
+    "a_en": "Expose the lie to ensure fairness and trust",
+    "b_zh": "沉默合作，换取短期利益",
+    "b_en": "Stay silent and cooperate for short-term gain"
+  },
+  {
+    "q_zh": "在最后一轮博弈中，对方选择了背叛。你会如何回应？",
+    "q_en": "In the final round of the game, the other side defects. How do you respond?",
+    "a_zh": "也背叛，报复对方",
+    "a_en": "Defect too, to retaliate",
+    "b_zh": "宽容原谅，保持形象",
+    "b_en": "Forgive and maintain a positive image"
+  },
+  {
+    "q_zh": "对方提出五五分成，但你发现他有私下获利渠道。你是否接受？",
+    "q_en": "They propose a 50/50 split, but you discover they have a private profit channel. Do you accept?",
+    "a_zh": "接受，避免冲突，维持关系",
+    "a_en": "Accept to avoid conflict and keep the relationship",
+    "b_zh": "拒绝，要求重新谈判更公平",
+    "b_en": "Refuse and demand a fairer renegotiation"
+  },
+  {
+    "q_zh": "你连续被背叛三次，但对方是你唯一的合作伙伴。你的策略？",
+    "q_en": "You have been betrayed three times in a row, yet they are your only partner. What is your strategy?",
+    "a_zh": "终止合作，寻找新伙伴",
+    "a_en": "End the partnership and find a new one",
+    "b_zh": "再给一次机会，观察改变",
+    "b_en": "Give one more chance and observe change"
+  },
+  {
+    "q_zh": "博弈中，你领先很多，对方要求你放水以双双获利。你？",
+    "q_en": "In the game, you are far ahead. They ask you to ease up so both can profit. You?",
+    "a_zh": "拒绝，保持领先优势",
+    "a_en": "Refuse to keep your lead",
+    "b_zh": "同意放水，换取未来合作",
+    "b_en": "Agree to ease up for future cooperation"
+  },
+  {
+    "q_zh": "对方在公开场合承诺合作，但私下却试探你的底线。你如何应对？",
+    "q_en": "They publicly promise cooperation but privately test your limits. How do you respond?",
+    "a_zh": "公开反击，立下规矩",
+    "a_en": "Push back publicly to set rules",
+    "b_zh": "私下沟通，理解意图",
+    "b_en": "Communicate privately to understand intent"
+  },
+  {
+    "q_zh": "在零和博弈中，你必须选择：忍一时风平浪静，还是拼个鱼死网破？",
+    "q_en": "In a zero-sum game, you must choose: endure for peace or fight till the end?",
+    "a_zh": "忍让，减少损失",
+    "a_en": "Endure to minimize losses",
+    "b_zh": "拼死一搏，争取反转",
+    "b_en": "Fight fiercely for a comeback"
+  },
+  {
+    "q_zh": "对方提出先合作一轮，若你配合，他承诺后续给好处。你信任吗？",
+    "q_en": "They propose one round of cooperation, with a promise of future benefits if you comply. Do you trust?",
+    "a_zh": "信任并合作，抢占先机",
+    "a_en": "Trust and cooperate to seize the advantage",
+    "b_zh": "怀疑，要求先给部分保证",
+    "b_en": "Be skeptical and demand partial assurance"
+  },
+  {
+    "q_zh": "你们利益严重冲突，但对方手握关键资源。你的策略？",
+    "q_en": "You have serious conflict of interest, but they hold key resources. Your strategy?",
+    "a_zh": "妥协，换取部分利益",
+    "a_en": "Compromise for partial benefits",
+    "b_zh": "强硬对抗，逼对方让步",
+    "b_en": "Be tough and force them to concede"
+  },
+  {
+    "q_zh": "博弈结束前，你发现对方一直在虚张声势。你会？",
+    "q_en": "Before the game ends, you realize they have been bluffing all along. You?",
+    "a_zh": "直接戳穿，赢得心理战",
+    "a_en": "Call the bluff to win the mind game",
+    "b_zh": "假装不知，暗中布局反击",
+    "b_en": "Pretend ignorance and secretly plan a counter"
   }
 ]
