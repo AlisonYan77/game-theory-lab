@@ -15309,5 +15309,85 @@
     "a_en": "Call the bluff to win the mind game",
     "b_zh": "假装不知，暗中布局反击",
     "b_en": "Pretend ignorance and secretly plan a counter"
+  },
+  {
+    "q_zh": "在一项谈判中，对方率先给出了一个极端低价。你更倾向于如何回应？",
+    "q_en": "In a negotiation, the other side opens with an extreme lowball offer. How do you prefer to respond?",
+    "a_zh": "立刻还一个同样极端的低价，以示强硬",
+    "a_en": "Immediately counter with an equally extreme lowball to show strength",
+    "b_zh": "保持沉默，让对方先解释报价依据",
+    "b_en": "Stay silent and let them explain their reasoning first"
+  },
+  {
+    "q_zh": "拍卖中，你已多次出价，但对手仍不断加价。此时你会？",
+    "q_en": "In an auction, you've bid several times but your opponent keeps raising. What do you do?",
+    "a_zh": "继续加价，直到对方放弃",
+    "a_en": "Keep bidding until they give up",
+    "b_zh": "突然停止出价，观察对方反应",
+    "b_en": "Suddenly stop bidding to observe their reaction"
+  },
+  {
+    "q_zh": "与朋友分一个蛋糕，你负责切，朋友先选。你如何切？",
+    "q_en": "You're splitting a cake with a friend; you cut, they choose first. How do you cut it?",
+    "a_zh": "切成两块完全一样大的",
+    "a_en": "Cut into two exactly equal pieces",
+    "b_zh": "切成一块大的和一块小的，赌朋友会选大的",
+    "b_en": "Cut one big and one small, betting your friend takes the big one"
+  },
+  {
+    "q_zh": "在重复博弈中，对手总是选择合作。你会？",
+    "q_en": "In a repeated game, your opponent always cooperates. What do you do?",
+    "a_zh": "继续合作，维持互信关系",
+    "a_en": "Keep cooperating to maintain mutual trust",
+    "b_zh": "偶尔背叛一次，试探对方底线",
+    "b_en": "Occasionally defect to test their limits"
+  },
+  {
+    "q_zh": "你知道对手是理性且聪明的，但你的信息不完全。最佳策略是？",
+    "q_en": "You know your opponent is rational and smart, but you have incomplete information. What's the best strategy?",
+    "a_zh": "尽可能收集信息，再做决定",
+    "a_en": "Gather as much info as possible before deciding",
+    "b_zh": "先采取一个混合策略，让对方猜不透",
+    "b_en": "Use a mixed strategy first to keep them guessing"
+  },
+  {
+    "q_zh": "在一次公共品博弈中，其他人都贡献很多，你贡献很少。你会感到？",
+    "q_en": "In a public goods game, others contribute a lot while you contribute little. How do you feel?",
+    "a_zh": "内疚，下次增加贡献",
+    "a_en": "Guilty, and increase your contribution next round",
+    "b_zh": "得意，因为可以免费搭便车",
+    "b_en": "Smug, since you can free-ride"
+  },
+  {
+    "q_zh": "面对一个“以牙还牙”型对手，你最后一轮会如何行动？",
+    "q_en": "Against a tit-for-tat opponent in the last round, what do you do?",
+    "a_zh": "选择背叛，因为这是最后的机会",
+    "a_en": "Defect, since it's the last chance",
+    "b_zh": "继续合作，保持良好形象",
+    "b_en": "Cooperate to maintain a good reputation"
+  },
+  {
+    "q_zh": "在讨价还价中，你愿意接受的最低价是100元。对方出80元。你会？",
+    "q_en": "In bargaining, your bottom line is 100. The other offers 80. What do you do?",
+    "a_zh": "拒绝并威胁离席",
+    "a_en": "Reject and threaten to walk away",
+    "b_zh": "试着慢慢加价，看对方是否松动",
+    "b_en": "Try to gradually raise the price to see if they budge"
+  },
+  {
+    "q_zh": "你连续输了几局，对手开始嘲笑你。你会？",
+    "q_en": "You've lost several rounds in a row and your opponent starts mocking you. What do you do?",
+    "a_zh": "情绪化地加大赌注，想立刻翻盘",
+    "a_en": "Emotionally increase the stakes to win back immediately",
+    "b_zh": "冷静下来，改变策略或暂停",
+    "b_en": "Stay calm, change strategy, or take a break"
+  },
+  {
+    "q_zh": "在多人博弈中，你是“中间人”，两方都想拉拢你。你会？",
+    "q_en": "In a multiplayer game, you're the 'pivot' with two sides courting you. What do you do?",
+    "a_zh": "公开偏向一方，换取明确支持",
+    "a_en": "Openly side with one faction for clear support",
+    "b_zh": "保持暧昧，同时从两边获取好处",
+    "b_en": "Stay ambiguous and extract benefits from both sides"
   }
 ]
