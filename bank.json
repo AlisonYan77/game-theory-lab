@@ -15389,5 +15389,85 @@
     "a_en": "Openly side with one faction for clear support",
     "b_zh": "保持暧昧，同时从两边获取好处",
     "b_en": "Stay ambiguous and extract benefits from both sides"
+  },
+  {
+    "q_zh": "你发现你的搭档在上一轮中背叛了你，这一轮你们需要再次合作。你会怎么做？",
+    "q_en": "You discover your partner betrayed you last round, but this round you need to cooperate again. What do you do?",
+    "a_zh": "选择合作，为长期利益保持信任",
+    "a_en": "Choose cooperate to maintain trust for long-term gain",
+    "b_zh": "选择背叛，以牙还牙惩罚对方",
+    "b_en": "Choose betray to retaliate tit-for-tat"
+  },
+  {
+    "q_zh": "在最后关头，对手突然提出要平分额外奖励，但你知道自己稍占上风。你选择？",
+    "q_en": "At the final moment, the opponent suddenly proposes to split a bonus equally, but you know you have a slight edge. What do you choose?",
+    "a_zh": "接受平分，确保稳定收益并避免冲突",
+    "a_en": "Accept the split for secured gains and avoid conflict",
+    "b_zh": "拒绝平分，争取更大份额",
+    "b_en": "Refuse the split and fight for a bigger share"
+  },
+  {
+    "q_zh": "在连续多轮合作后，你怀疑对方可能在下一轮背叛。此时，你会？",
+    "q_en": "After many rounds of cooperation, you suspect the other might betray in the next round. What do you do?",
+    "a_zh": "主动合作，用善意维持关系",
+    "a_en": "Proactively cooperate to maintain the positive relationship",
+    "b_zh": "提前背叛，先发制人避免损失",
+    "b_en": "Betray first to preempt potential loss"
+  },
+  {
+    "q_zh": "你有一个机会可以单独获得全部奖励，但代价是让对手颗粒无收，且你们未来还会再次博弈。你？",
+    "q_en": "You have a chance to take all the reward, but it leaves the other with nothing, and you'll play again in the future. What do you choose?",
+    "a_zh": "放弃独自获利，选择公平分配",
+    "a_en": "Forgo the full win and distribute fairly",
+    "b_zh": "抓住机会吞下全部奖励",
+    "b_en": "Take the opportunity to grab everything"
+  },
+  {
+    "q_zh": "对手在上一轮选择了合作，但你知道如果这一轮你背叛，你将获得当期最大收益，但可能破坏后续合作。你？",
+    "q_en": "The other cooperated last round, and you know if you betray now you'll get the maximum immediate payoff but may ruin future cooperation. What do you do?",
+    "a_zh": "继续合作，累积长期信任",
+    "a_en": "Continue cooperating to build long-term trust",
+    "b_zh": "选择背叛，获取眼前高收益",
+    "b_en": "Betray for the immediate high gain"
+  },
+  {
+    "q_zh": "在游戏中，你可以选择向对手展示善意信号（如放弃一次小收益），但这可能被视为软弱。你？",
+    "q_en": "In the game, you can send a goodwill signal by giving up a small gain, but it might be seen as weakness. What do you do?",
+    "a_zh": "展示善意，期望对方也合作",
+    "a_en": "Show goodwill, hoping the other reciprocates",
+    "b_zh": "不展示，保持强势和不可预测",
+    "b_en": "Don't show it, stay strong and unpredictable"
+  },
+  {
+    "q_zh": "你知道对手是“针锋相对”策略（你背叛他也背叛），但当前你急需高分。你选择？",
+    "q_en": "You know the other uses a tit-for-tat strategy (betray if you betray), but you need points urgently now. What do you do?",
+    "a_zh": "保持合作，避免触发报复",
+    "a_en": "Stay cooperative to avoid triggering retaliation",
+    "b_zh": "冒险背叛一次，希望对方不报复",
+    "b_en": "Risk one betrayal, hoping they won't retaliate"
+  },
+  {
+    "q_zh": "在最后两轮中，你已经落后对手，必须冒险才能赶超。你会？",
+    "q_en": "In the final two rounds, you're behind and must take risks to catch up. What do you do?",
+    "a_zh": "选择合作，寄望于对手也合作而改变局面",
+    "a_en": "Cooperate, hoping the other cooperates too and changes the tide",
+    "b_zh": "连续背叛，赌对手反应并冲击高分",
+    "b_en": "Betray consecutively, gambling on surprise and high payoff"
+  },
+  {
+    "q_zh": "你发现对手总是模仿你的上一轮选择。此时，你首次会？",
+    "q_en": "You notice the other always mirrors your last move. Now, what do you do first?",
+    "a_zh": "先合作，引导建立合作循环",
+    "a_en": "Start with cooperation to lead into a cooperative cycle",
+    "b_zh": "先背叛，测试对方是否真的模仿",
+    "b_en": "Start with betrayal to test if they really mirror"
+  },
+  {
+    "q_zh": "在比赛中，你被告知对手是一个纯粹的“理性自利”玩家，从不考虑感情。你如何博弈？",
+    "q_en": "In the game, you're told your opponent is a purely 'rational self-interested' player who never cares about emotions. How do you play?",
+    "a_zh": "尝试建立可信的合作记录，用利益绑定对方",
+    "a_en": "Try to build a credible cooperative record, binding them with mutual benefits",
+    "b_zh": "直接背叛，因为理性自利者不会真心合作",
+    "b_en": "Betray directly, since a rational self-interested player won't truly cooperate"
   }
 ]
