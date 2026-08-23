@@ -15469,5 +15469,85 @@
     "a_en": "Try to build a credible cooperative record, binding them with mutual benefits",
     "b_zh": "直接背叛，因为理性自利者不会真心合作",
     "b_en": "Betray directly, since a rational self-interested player won't truly cooperate"
+  },
+  {
+    "q_zh": "你被困在密室中，只有两扇门，A门写着‘此门通向自由’，B门写着‘此门通向陷阱’。守卫说：两句话中一句真一句假。选哪扇门？",
+    "q_en": "Trapped in a room with two doors, A says 'This leads to freedom,' B says 'This leads to a trap.' A guard says one statement is true, one is false. Which door?",
+    "a_zh": "选A门（若A真则B假，但B是‘陷阱’的陈述为假，则B实际通向自由，矛盾；逻辑上应选B）",
+    "a_en": "Choose A (if A true, B false, but B false means B isn't a trap, contradiction; logically choose B)",
+    "b_zh": "不按逻辑，直接撞开A门或B门靠运气",
+    "b_en": "Ignore logic, just ram through either door by luck"
+  },
+  {
+    "q_zh": "拍卖会上，你与对手竞拍一件价值100元的物品。规则：出价最高者获得物品，但需按第二高价付款。你会出价多少？",
+    "q_en": "At an auction, you bid against a rival for a $100 item. Rule: highest bid wins but pays the second-highest price. What's your bid?",
+    "a_zh": "出价99元，防止亏损且有机会低价得手",
+    "a_en": "Bid $99 to avoid loss and potentially win cheap",
+    "b_zh": "出价100元，确保胜利但可能刚好保本",
+    "b_en": "Bid $100 to guarantee win but just break even"
+  },
+  {
+    "q_zh": "囚徒困境：你与同伴被捕，警方分别审讯。若都沉默，各判1年；若一人背叛，背叛者释放，沉默者判10年；若都背叛，各判5年。你会怎么做？",
+    "q_en": "Prisoner's dilemma: you and partner arrested. Both silent = 1yr each; one betrays = free, other 10yrs; both betray = 5yrs each. What do you do?",
+    "a_zh": "背叛（招供）以争取最轻处罚，因为对方大概率也会背叛",
+    "a_en": "Betray (confess) to minimize risk since partner likely betrays",
+    "b_zh": "沉默（合作）期待对方也合作，共同获得轻刑",
+    "b_en": "Stay silent (cooperate) hoping partner cooperates for short sentence"
+  },
+  {
+    "q_zh": "股市博弈中，你得知一个内幕消息：某股票将大涨，但若太多人知道则会崩盘。你会分享这个信息吗？",
+    "q_en": "In stock market game, you get insider info: stock will surge, but if too many know, it crashes. Do you share it?",
+    "a_zh": "不分享，自己悄悄买入，但需承受消息泄露的风险",
+    "a_en": "Don't share, buy quietly, but risk leak",
+    "b_zh": "分享给少数盟友，增加安全垫但可能失控",
+    "b_en": "Share with a few allies for safety, but may lose control"
+  },
+  {
+    "q_zh": "谈判中，对方威胁‘如果你不答应，我们就终止合作’。但你知道对方依赖你的技术。你会？",
+    "q_en": "In negotiation, counterparty threatens to end cooperation unless you agree. But you know they need your tech. What do you do?",
+    "a_zh": "硬碰硬，拒绝威胁，因为对方离不开你",
+    "a_en": "Push back firmly, refuse threat, since they need you",
+    "b_zh": "妥协让步，维持关系，避免两败俱伤",
+    "b_en": "Compromise to preserve relationship and avoid mutual loss"
+  },
+  {
+    "q_zh": "你在玩‘懦夫博弈’：两车对向行驶，先转向者输（丢脸），都撞则同归于尽。你会？",
+    "q_en": "Chicken game: two cars driving at each other, first to swerve loses (shame), both crash = death. What do you do?",
+    "a_zh": "直行不转向，让对面先怂，但风险巨大",
+    "a_en": "Keep straight, force opponent to swerve, but high risk",
+    "b_zh": "接近时突然转向，保住性命但颜面扫地",
+    "b_en": "Swerve at last moment, save life but lose face"
+  },
+  {
+    "q_zh": "公共地悲剧：你们10人共享一个牧场，每户可多养羊获利，但过度放牧将毁掉牧场。多数人会多养。你会？",
+    "q_en": "Tragedy of the commons: 10 families share pasture, each can add sheep for profit, but overgrazing destroys it. Most add sheep. You?",
+    "a_zh": "随大流多养羊，反正别人也会这么做，至少我不吃亏",
+    "a_en": "Follow the crowd, add sheep, since others will anyway",
+    "b_zh": "克制少养，试图拯救牧场，但可能被占便宜",
+    "b_en": "Restrain and cooperate to save pasture, but may be exploited"
+  },
+  {
+    "q_zh": "拍卖会上有100美元现金，最高价拍得，但所有出价者（包括输家）都要支付自己的出价。你出价多少？",
+    "q_en": "Auction: $100 cash, highest bid wins but ALL bidders (including losers) pay their bid. How much do you bid?",
+    "a_zh": "出价1美元，小赌怡情，输了也不痛",
+    "a_en": "Bid $1, minor gamble, small loss if lose",
+    "b_zh": "出价99美元，试图赢，但可能陷入恶性竞价",
+    "b_en": "Bid $99 to try to win, but risk bidding spiral"
+  },
+  {
+    "q_zh": "你与好友玩猜硬币：你掷硬币，好友猜正反。若猜对赢1元，猜错输1元。好友总是猜正面。你会？",
+    "q_en": "You play coin flip with friend: you flip, friend guesses heads/tails. Correct wins $1, wrong loses $1. Friend always guesses heads. You?",
+    "a_zh": "故意让硬币多出反面，利用对方惯性心理赢钱",
+    "a_en": "Bias coin toward tails to exploit friend's fixed pattern",
+    "b_zh": "保持随机性，公平游戏，因为长远期望为零",
+    "b_en": "Keep it fair, random, since expected value is zero"
+  },
+  {
+    "q_zh": "零和博弈中，你与对手必须分100元，若双方同时提交分配建议，若总额≤100则按各自提交额分配，否则都拿0。你会提交多少？",
+    "q_en": "Zero-sum: you and opponent split $100. Both submit a demand; if sum ≤100, each gets their demand; else both get 0. What's your demand?",
+    "a_zh": "提交50元，公平且保证分配成功",
+    "a_en": "Demand $50, fair and ensures successful split",
+    "b_zh": "提交99元，冒险撑高但可能鸡飞蛋打",
+    "b_en": "Demand $99, risky high but could lose everything"
   }
 ]
