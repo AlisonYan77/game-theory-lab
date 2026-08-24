@@ -15549,5 +15549,85 @@
     "a_en": "Demand $50, fair and ensures successful split",
     "b_zh": "提交99元，冒险撑高但可能鸡飞蛋打",
     "b_en": "Demand $99, risky high but could lose everything"
+  },
+  {
+    "q_zh": "你与对手各持一张牌，规则是红吃黑、黑吃红，相同则平局。对手先亮牌，且已知他倾向于出红。你会选择？",
+    "q_en": "You and your opponent each hold a card. Red beats black, black beats red, tie if same. Your opponent reveals first and is known to favor Red. You choose?",
+    "a_zh": "出黑，利用对方出红的倾向取胜",
+    "a_en": "Play Black to exploit their Red bias",
+    "b_zh": "出红，复制对方策略保持心理平衡",
+    "b_en": "Play Red to mirror and neutralize their strategy"
+  },
+  {
+    "q_zh": "你连续两轮都出剪刀获胜，第三轮对手盯着你的手部肌肉微微抽动。你会？",
+    "q_en": "You've won two straight rounds with Scissors. Before round three, you notice your opponent's hand twitch slightly. You?",
+    "a_zh": "继续出剪刀，让他以为你在虚张声势",
+    "a_en": "Stick with Scissors, making him think you're bluffing",
+    "b_zh": "改出石头，预测他会出剪刀来反制你",
+    "b_en": "Switch to Rock, predicting he'll throw Scissors to counter"
+  },
+  {
+    "q_zh": "合作博弈中，对面连续三次背叛却每次都给我留下小礼物。第四次？",
+    "q_en": "In a repeated game, your opponent has defected three times but left you small gifts each time. On round four?",
+    "a_zh": "继续合作，礼物暗示他可能在改变策略",
+    "a_en": "Keep cooperating - the gifts suggest a strategic shift",
+    "b_zh": "果断背叛，不再被小恩小惠迷惑",
+    "b_en": "Defect decisively, refusing to be swayed by petty bribes"
+  },
+  {
+    "q_zh": "你们玩猜硬币正反面，你赢的概率是50%。但对手每次猜之前都会说一句“这轮我猜正面”。你会？",
+    "q_en": "In a coin-flip guess game (50% odds), your opponent always announces 'I'll guess Heads' before each flip. You?",
+    "a_zh": "相信他，50%就50%公平对赌",
+    "a_en": "Trust his announcement and play fairly at 50%",
+    "b_zh": "认定他在耍心理战，故意反向操作",
+    "b_en": "Assume psychological trickery and deliberately do the opposite"
+  },
+  {
+    "q_zh": "拍卖一个价值100元的物品，你们轮流叫价，最高价者获得但需支付次高价再加上10元。对手出价90元。你会？",
+    "q_en": "A $100 item is auctioned with a twist: winner pays their bid, but also pays the second-highest bid + $10. Opponent bids $90. You?",
+    "a_zh": "出价91元，赚取有限利润并终结拍卖",
+    "a_en": "Bid $91 to secure profit and end the auction",
+    "b_zh": "不跟价，让对手以90元成交（亏8元）",
+    "b_en": "Pass, letting opponent win at $90 (losing $8)"
+  },
+  {
+    "q_zh": "你在“胆小鬼博弈”中直线开车冲向对手，对方车速不减。车距50米时？",
+    "q_en": "In a game of Chicken, you drive straight at your opponent who refuses to swerve. At 50 meters?",
+    "a_zh": "打方向盘避开，保命优先",
+    "a_en": "Swerve to avoid collision - survival first",
+    "b_zh": "保持直线，赌对方会在最后一刻闪避",
+    "b_en": "Hold your line, banking on their last-second swerve"
+  },
+  {
+    "q_zh": "你被要求从对手手里选一张牌，若选到红牌你得10分，黑牌得0分。对手的手牌中红牌多于黑牌。但对手表情紧张。你会？",
+    "q_en": "You pick one card from your opponent's hand: Red = +10, Black = 0. You know they hold more Reds than Blacks, but they look anxious. You?",
+    "a_zh": "选红牌，利用已知概率优势",
+    "a_en": "Pick Red, exploiting the known probability edge",
+    "b_zh": "选黑牌，分析紧张表情可能暗示陷阱",
+    "b_en": "Pick Black, interpreting anxiety as a trap signal"
+  },
+  {
+    "q_zh": "在重复囚徒困境中，对手总是选择“合作”但你发现他私下记笔记。你的第10轮？",
+    "q_en": "In repeated Prisoner's Dilemma, opponent always cooperates but you spot him taking notes. On round 10?",
+    "a_zh": "继续保持合作，笔记可能是策略记录而非背叛计划",
+    "a_en": "Keep cooperating - notes could be strategic journaling",
+    "b_zh": "开始背叛，测试他的反应并打破固定模式",
+    "b_en": "Defect to test his response and break the pattern"
+  },
+  {
+    "q_zh": "一场零和游戏中，你落后10分，只剩最后一轮，且你的赢家奖励翻倍。对手的最终下注额是你的两倍。你会？",
+    "q_en": "In a zero-sum game, you're behind by 10 with one round left, and the winner's payoff is doubled. Your opponent's final bet is 2× yours. You?",
+    "a_zh": "下注与对手相同金额，争取翻盘",
+    "a_en": "Match opponent's bet and go for the comeback",
+    "b_zh": "下注最小，接受败局，减少损失",
+    "b_en": "Bet minimum, concede defeat, minimize losses"
+  },
+  {
+    "q_zh": "你被蒙眼，对手说“若你能猜中我接下来出哪只手，我给你100元，否则你给我50元”。你听到他右手腕关节轻微响动，但环境嘈杂。你会？",
+    "q_en": "Blindfolded, opponent says, 'Guess which hand I'll extend. If right, I give you $100; if wrong, you give me $50.' You hear a faint right-wrist click but crowd noise is loud. You?",
+    "a_zh": "猜右手，依靠那个声音线索",
+    "a_en": "Guess right hand, relying on the auditory clue",
+    "b_zh": "猜左手，认为他在故意制造假声干扰",
+    "b_en": "Guess left hand, suspecting he created a decoy sound"
   }
 ]
