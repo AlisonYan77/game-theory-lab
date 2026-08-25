@@ -15629,5 +15629,85 @@
     "a_en": "Guess right hand, relying on the auditory clue",
     "b_zh": "猜左手，认为他在故意制造假声干扰",
     "b_en": "Guess left hand, suspecting he created a decoy sound"
+  },
+  {
+    "q_zh": "在一次谈判中，对方明显比你有优势。你更倾向于采取哪种策略？",
+    "q_en": "In a negotiation, the other side clearly has the advantage. Which strategy are you more inclined to adopt?",
+    "a_zh": "主动让步，换取对方的信任和长期合作",
+    "a_en": "Make concessions proactively to gain their trust and long-term cooperation",
+    "b_zh": "态度强硬，即使谈崩也不让步",
+    "b_en": "Be tough and refuse to yield even if talks break down"
+  },
+  {
+    "q_zh": "如果你发现对手在某个小决策上故意犯了一个可被利用的错误，你会？",
+    "q_en": "If you notice the opponent deliberately makes an exploitable mistake in a minor decision, you would?",
+    "a_zh": "立即抓住机会，扩大自己的利益",
+    "a_en": "Immediately seize the opportunity to maximize your own gain",
+    "b_zh": "假装没看见，观察他的真实意图",
+    "b_en": "Pretend not to notice, and observe his real intention"
+  },
+  {
+    "q_zh": "在多人博弈中，你是暂时最弱的玩家。你更可能选择？",
+    "q_en": "In a multiplayer game, you are temporarily the weakest player. You are more likely to?",
+    "a_zh": "联合次强玩家一起对抗最强玩家",
+    "a_en": "Form alliance with the second strongest player against the strongest",
+    "b_zh": "主动示弱，让其他玩家先互相消耗",
+    "b_en": "Act weak and let others fight each other first"
+  },
+  {
+    "q_zh": "当对方突然对你表现出极大的善意时，你的第一反应是？",
+    "q_en": "When the opponent suddenly shows great kindness toward you, your first reaction is?",
+    "a_zh": "感到警惕，认为他另有所图",
+    "a_en": "Feel wary and think he has ulterior motives",
+    "b_zh": "感到高兴，并回报同样的善意",
+    "b_en": "Feel pleased and reciprocate with similar kindness"
+  },
+  {
+    "q_zh": "在一个零和博弈中，你有一个高风险高回报的机会，但失败会损失惨重。你会？",
+    "q_en": "In a zero-sum game, you have a high-risk, high-reward opportunity, but failure could be devastating. You would?",
+    "a_zh": "放手一搏，因为这是唯一的翻盘机会",
+    "a_en": "Go all in, as this is the only chance to turn the game around",
+    "b_zh": "保守行事，宁可小输也不冒大险",
+    "b_en": "Play conservatively, preferring a small loss over a big risk"
+  },
+  {
+    "q_zh": "在多次重复博弈中，你发现对手总是使用以牙还牙策略。你会？",
+    "q_en": "In a repeated game, you find the opponent always uses tit-for-tat strategy. You would?",
+    "a_zh": "偶尔背叛一次，看能否打破他的模式",
+    "a_en": "Occasionally betray once to see if you can break his pattern",
+    "b_zh": "始终合作，维持长期互利关系",
+    "b_en": "Always cooperate to maintain a long-term mutually beneficial relationship"
+  },
+  {
+    "q_zh": "假如你的对手提前公布了你的决策信息，让你处于被动。你会？",
+    "q_en": "If your opponent publicly reveals your decision info in advance, putting you at a disadvantage, you would?",
+    "a_zh": "立刻改变策略，让他的信息失效",
+    "a_en": "Immediately change your strategy to invalidate his information",
+    "b_zh": "将计就计，假装按原计划行动",
+    "b_en": "Counter his move by pretending to follow the original plan"
+  },
+  {
+    "q_zh": "在谈判中，对方要求你做出一个看似合理的让步，但你知道这会影响后续所有决策。你？",
+    "q_en": "In a negotiation, the opponent asks you to make a seemingly reasonable concession, but you know it will affect all subsequent decisions. You?",
+    "a_zh": "答应这个让步，以换取其他更大的利益",
+    "a_en": "Agree to this concession in exchange for other greater benefits",
+    "b_zh": "拒绝让步，保住战略主动权",
+    "b_en": "Refuse to concede to maintain strategic initiative"
+  },
+  {
+    "q_zh": "你发现对手在博弈中表现出明显的情绪化（愤怒或激动）。你会？",
+    "q_en": "You notice the opponent is obviously emotional (angry or excited) during the game. You would?",
+    "a_zh": "火上浇油，利用他的情绪做文章",
+    "a_en": "Fan the flames and exploit his emotions",
+    "b_zh": "安抚他，引导他回到理性决策",
+    "b_en": "Calm him down and guide him back to rational decision-making"
+  },
+  {
+    "q_zh": "最后一轮博弈，你目前微幅领先。对手提出大额合作提议。你会？",
+    "q_en": "In the final round of the game, you currently have a slight lead. The opponent proposes a major collaboration deal. You would?",
+    "a_zh": "接受提议，确保共赢甚至双赢",
+    "a_en": "Accept the proposal to ensure win-win or mutual benefit",
+    "b_zh": "拒绝提议，保住你现有的领先优势取胜",
+    "b_en": "Reject the proposal to secure your current lead and win"
   }
 ]
