@@ -15709,5 +15709,85 @@
     "a_en": "Accept the proposal to ensure win-win or mutual benefit",
     "b_zh": "拒绝提议，保住你现有的领先优势取胜",
     "b_en": "Reject the proposal to secure your current lead and win"
+  },
+  {
+    "q_zh": "你发现你的长期合作伙伴在最近一次交易中隐瞒了关键信息，导致你损失了部分利益。但他声称这是为了大局考虑。你会如何选择？",
+    "q_en": "You discover your long-term partner concealed critical information in the latest deal, causing you a partial loss. He claims it was for the greater good. What do you do?",
+    "a_zh": "A. 原谅他，继续保持合作，但提高警惕",
+    "a_en": "A. Forgive him, continue cooperation, but stay vigilant",
+    "b_zh": "B. 立刻终止合作，并公开揭露他的行为",
+    "b_en": "B. Immediately sever ties and publicly expose his actions"
+  },
+  {
+    "q_zh": "在一场博弈中，对手表现弱势，但你知道他可能是在伪装。下一轮你拥有先手优势，最佳策略是？",
+    "q_en": "In a game, your opponent appears weak, but you suspect he is faking. You have the first-move advantage next round. What's your best strategy?",
+    "a_zh": "A. 全力进攻，争取速战速决",
+    "a_en": "A. Attack with full force to finish quickly",
+    "b_zh": "B. 佯攻试探，保留实力应对变局",
+    "b_en": "B. Feint to probe, conserve strength for contingencies"
+  },
+  {
+    "q_zh": "你与另一个玩家同时竞争一个稀有资源。如果你们都选择强夺，会两败俱伤；若合作则双赢，但对方可能背叛。你会？",
+    "q_en": "You and another player compete for a scarce resource. If both grab forcefully, you both lose; cooperation wins for both, but the other may betray. What do you do?",
+    "a_zh": "A. 主动提出合作，但要对方先展示诚意",
+    "a_en": "A. Propose cooperation, but require the other to show sincerity first",
+    "b_zh": "B. 直接强夺，即使冒着两败俱伤的风险",
+    "b_en": "B. Grab forcefully, even risking mutual loss"
+  },
+  {
+    "q_zh": "在一场多回合博弈中，你已经大幅领先。对手提出要“和平停战”，条件是双方都不再攻击对方，以保证你的领先优势。你会接受吗？",
+    "q_en": "In a multi-round game, you have a big lead. Your opponent proposes a 'peace truce' to stop attacks, securing your lead. Do you accept?",
+    "a_zh": "A. 接受，确保现有优势",
+    "a_en": "A. Accept to secure your current lead",
+    "b_zh": "B. 拒绝，继续进攻扩大优势",
+    "b_en": "B. Refuse and continue attacking to widen the lead"
+  },
+  {
+    "q_zh": "你怀疑队友在暗中帮助你，但你无法确认。这会影响你的决策吗？在关键时刻，你会更多信任队友还是防备他？",
+    "q_en": "You suspect a teammate is secretly helping you, but you're not sure. Does this affect your decisions? At a critical moment, do you trust or be wary of him more?",
+    "a_zh": "A. 信任他，并与他分享关键信息",
+    "a_en": "A. Trust him and share critical information",
+    "b_zh": "B. 防备他，保留自己的底牌",
+    "b_en": "B. Be wary of him and keep your cards hidden"
+  },
+  {
+    "q_zh": "规则允许玩家之间私下交换资源，但存在被欺骗的风险。对方提出用他的一张高价值卡换你的两张中价值卡，声称急用。你会换吗？",
+    "q_en": "Rules allow private resource trading, but with cheating risk. He offers his 1 high-value card for your 2 mid-value cards, claiming urgent need. Do you trade?",
+    "a_zh": "A. 换，并顺便建立长期盟友关系",
+    "a_en": "A. Trade, and build a long-term alliance",
+    "b_zh": "B. 不换，这种交易风险太大",
+    "b_en": "B. Don't trade, the risk is too high"
+  },
+  {
+    "q_zh": "对手在上一轮背叛了你，这一轮他主动求和并承诺“既往不咎”。根据博弈论，你的最优反应是？",
+    "q_en": "Your opponent betrayed you last round, now he sues for peace promising 'let bygones be bygones'. Based on game theory, your best response is?",
+    "a_zh": "A. 接受求和，但制定惩罚性反制策略以防再次背叛",
+    "a_en": "A. Accept peace but set punitive countermeasures against future betrayal",
+    "b_zh": "B. 拒绝求和，持续报复他直到他出局",
+    "b_en": "B. Reject peace, continuously retaliate until he's eliminated"
+  },
+  {
+    "q_zh": "你得到一个内部消息，但只有你能使用它。使用它会让你获得巨大优势，但可能被视为不公平。你会？",
+    "q_en": "You receive inside information that only you can use. Using it gives a huge advantage but may be seen as unfair. What do you do?",
+    "a_zh": "A. 使用它，赢才是最重要的",
+    "a_en": "A. Use it, winning is what matters most",
+    "b_zh": "B. 放弃它，以免失去其他玩家的信任",
+    "b_en": "B. Forgo it to avoid losing trust from other players"
+  },
+  {
+    "q_zh": "在最后关头，你只需靠合作就能确保胜利，但你的合作者却因此可能只能得第二。他会全力配合吗？你会如何确保他配合？",
+    "q_en": "At the final stage, cooperation guarantees your victory, but your partner would then only get second. Will he fully cooperate? How do you ensure his cooperation?",
+    "a_zh": "A. 给他一笔额外的“利益补偿”作为激励",
+    "a_en": "A. Give him extra 'profit compensation' as an incentive",
+    "b_zh": "B. 威胁他，如果不合作就让他一无所有",
+    "b_en": "B. Threaten him that without cooperation, he gets nothing"
+  },
+  {
+    "q_zh": "游戏进入尾声，你几乎不可能获胜。但你可以选择也拉一个对手下水，让他同样失败。你会选择？",
+    "q_en": "The game is near its end, and you have almost no chance to win. But you can drag an opponent down to fail with you. What do you choose?",
+    "a_zh": "A. 认输，体面退出，留下好印象",
+    "a_en": "A. Concede gracefully, leaving a good impression",
+    "b_zh": "B. 拉他垫背，即使自己失败也不让他赢",
+    "b_en": "B. Drag him down, ensuring he loses even if you lose"
   }
 ]
