@@ -15789,5 +15789,85 @@
     "a_en": "A. Concede gracefully, leaving a good impression",
     "b_zh": "B. 拉他垫背，即使自己失败也不让他赢",
     "b_en": "B. Drag him down, ensuring he loses even if you lose"
+  },
+  {
+    "q_zh": "你发现在一场谈判中，对方明显比你更急于达成协议。你会怎么做？",
+    "q_en": "In a negotiation, you realize the other party is clearly more eager to reach a deal than you. What do you do?",
+    "a_zh": "主动让步一小步，换取对方的长期信任。",
+    "a_en": "Make a small concession to build long-term trust.",
+    "b_zh": "保持强硬要价，利用对方的急迫性获取最大利益。",
+    "b_en": "Stay tough on price and exploit their urgency for maximum gain."
+  },
+  {
+    "q_zh": "在重复博弈中，对方连续三次背叛了你。第四次时，对方突然选择合作。你的最优策略是什么？",
+    "q_en": "In a repeated game, the other side has betrayed you three times in a row. On the fourth round, they suddenly cooperate. What's your best move?",
+    "a_zh": "继续合作，以显示宽容并诱导对方长期合作。",
+    "a_en": "Keep cooperating to show forgiveness and induce long-term cooperation.",
+    "b_zh": "立刻背叛一次，惩罚对方过去的背叛行为。",
+    "b_en": "Defect once to punish their past betrayals."
+  },
+  {
+    "q_zh": "你有一个资源可以被两个人分享。其中一人承诺如果他拿到资源，会分给你一半；另一人什么都不承诺。你选择给谁？",
+    "q_en": "You have one resource to share between two people. One promises to give you half if he gets it; the other promises nothing. Who do you give it to?",
+    "a_zh": "给承诺分享的人，因为信守承诺的可能性更高。",
+    "a_en": "Give it to the one who promised to share, as they're more likely to keep their word.",
+    "b_zh": "给不承诺的人，因为承诺过的人更可能心怀鬼胎。",
+    "b_en": "Give it to the one who made no promise, because the promiser might have hidden motives."
+  },
+  {
+    "q_zh": "在猜硬币正反的游戏中，你知道对手是一个擅长读心术的专家。你会选择什么策略？",
+    "q_en": "In a coin-guessing game, you know your opponent is an expert at reading minds. What strategy do you choose?",
+    "a_zh": "随机抛硬币决定自己的选择，不可预测。",
+    "a_en": "Use a random coin flip to decide your own choice, making it unpredictable.",
+    "b_zh": "故意选择对手预期的反面，打乱他的判断。",
+    "b_en": "Deliberately choose the opposite of what the opponent expects to confuse them."
+  },
+  {
+    "q_zh": "对方在公开场合贬低你的能力，但实际上你们正在合作一个项目。你该如何回应？",
+    "q_en": "Someone publicly belittles your abilities, yet you two are working on a project together. How do you respond?",
+    "a_zh": "公开反驳，并当场证明自己的能力。",
+    "a_en": "Publicly rebut and prove your competence on the spot.",
+    "b_zh": "私下与对方沟通，并继续专注于项目成果。",
+    "b_en": "Talk to them privately and stay focused on project outcomes."
+  },
+  {
+    "q_zh": "你面对一个纯随机选择的对手（完全不可预测），你的最优策略是什么？",
+    "q_en": "You face an opponent who makes purely random choices (unpredictable). What's your optimal strategy?",
+    "a_zh": "同样随机选择，保持零期望劣势。",
+    "a_en": "Randomize equally to keep zero expected disadvantage.",
+    "b_zh": "固定选择某个策略，靠运气取胜。",
+    "b_en": "Stick to one fixed strategy and rely on luck."
+  },
+  {
+    "q_zh": "在拍卖中，你非常想要一件物品，且知道对手预算比你少。你应该怎么做？",
+    "q_en": "In an auction, you really want an item and know your opponent's budget is lower than yours. What should you do?",
+    "a_zh": "一次性出到接近对手预算的上限，震慑对方。",
+    "a_en": "Bid once near the opponent's budget limit to intimidate them.",
+    "b_zh": "缓慢加价，让对手一直以为有希望赢得拍卖。",
+    "b_en": "Bid incrementally to keep the opponent believing they can win."
+  },
+  {
+    "q_zh": "两人分一笔钱，你提议分配方案，对方只能接受或拒绝。如果拒绝则双方都拿不到钱。理性的你应提议多少给自己？",
+    "q_en": "Two people split a sum of money. You propose the split, the other can only accept or reject. If rejected, both get nothing. As a rational player, how much do you keep for yourself?",
+    "a_zh": "分给对方一小部分（如1%），因为对方为了部分利益也会接受。",
+    "a_en": "Give the other a tiny slice (e.g., 1%) because they'll accept to get something.",
+    "b_zh": "分给对方接近一半（如49%），避免对方因情绪拒绝。",
+    "b_en": "Give close to half (e.g., 49%) to avoid emotional rejection."
+  },
+  {
+    "q_zh": "你被对方威胁：如果不合作，他就要采取极端手段损害你的声誉。你该如何应对？",
+    "q_en": "You are threatened: if you don't cooperate, the opponent will take extreme measures to damage your reputation. How do you respond?",
+    "a_zh": "立即屈服并选择合作，避免声誉受损。",
+    "a_en": "Immediately comply and cooperate to avoid reputation damage.",
+    "b_zh": "公开揭露威胁，并表明不会被人胁迫。",
+    "b_en": "Publicly expose the threat and show you won't be coerced."
+  },
+  {
+    "q_zh": "在长期博弈中，你发现对方总是观察你的行为后决策（即后手优势）。你的最优策略是什么？",
+    "q_en": "In a long-term game, you find the opponent always observes your move before deciding (second-mover advantage). What's your optimal strategy?",
+    "a_zh": "引入随机性，让对手无法预测你的下一步。",
+    "a_en": "Inject randomness so the opponent can't predict your next move.",
+    "b_zh": "故意采用固定模式，然后突然改变，打乱对手。",
+    "b_en": "Deliberately use a fixed pattern, then suddenly change to confuse them."
   }
 ]
