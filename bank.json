@@ -15869,5 +15869,85 @@
     "a_en": "Inject randomness so the opponent can't predict your next move.",
     "b_zh": "故意采用固定模式，然后突然改变，打乱对手。",
     "b_en": "Deliberately use a fixed pattern, then suddenly change to confuse them."
+  },
+  {
+    "q_zh": "你发现对手连续三次选择了合作。下一轮，你会选择？",
+    "q_en": "You notice your opponent has chosen cooperation for three consecutive rounds. What do you choose next?",
+    "a_zh": "继续合作，维持信任关系",
+    "a_en": "Keep cooperating to maintain trust",
+    "b_zh": "背叛，利用对方的惯性获利",
+    "b_en": "Defect to exploit their predictable pattern"
+  },
+  {
+    "q_zh": "在一次一次性博弈中，对手明确表示会合作，但你没有约束。你会？",
+    "q_en": "In a one-shot game, your opponent claims they will cooperate, but there is no binding commitment. What do you do?",
+    "a_zh": "相信承诺，选择合作",
+    "a_en": "Trust the promise and cooperate",
+    "b_zh": "选择背叛，因为这是理性最优解",
+    "b_en": "Defect, as it's the rational optimum in one-shot"
+  },
+  {
+    "q_zh": "你们已经进行了10轮，你的总分恰好落后对手2分。第11轮你会？",
+    "q_en": "After 10 rounds, you're exactly 2 points behind your opponent. What's your Round 11 move?",
+    "a_zh": "冒险背叛，试图逆转局势",
+    "a_en": "Take a risky defection to swing the game",
+    "b_zh": "继续合作，保持稳定追分",
+    "b_en": "Keep cooperating to steadily close the gap"
+  },
+  {
+    "q_zh": "对手上一轮背叛了你，但没有明显获益。你认为这是？",
+    "q_en": "Your opponent defected last round, but gained no clear advantage. You think this is?",
+    "a_zh": "试探性背叛，看你的反应",
+    "a_en": "A probing defection to test your reaction",
+    "b_zh": "随机失误，并非策略意图",
+    "b_en": "A random mistake, not strategic intent"
+  },
+  {
+    "q_zh": "你被对手连续背叛两次，但现在你们进入了最后两轮。你会？",
+    "q_en": "You've been betrayed twice in a row, but now only two rounds remain. What do you do?",
+    "a_zh": "以牙还牙，立刻报复性背叛",
+    "a_en": "Tit-for-tat: defect immediately in retaliation",
+    "b_zh": "假装大度，最后两轮合作迷惑对手",
+    "b_en": "Pretend to be forgiving, cooperate to confuse them"
+  },
+  {
+    "q_zh": "对手在社交媒体上公开承诺本轮必合作，但你们不是实名制。你会？",
+    "q_en": "Your opponent publicly promises cooperation this round, but you're anonymous. What's your move?",
+    "a_zh": "利用匿名性，偷偷背叛",
+    "a_en": "Exploit anonymity to defect quietly",
+    "b_zh": "同样公开回应合作，建立互信",
+    "b_en": "Publicly reciprocate cooperation to build trust"
+  },
+  {
+    "q_zh": "游戏进行到中段，你发现对手总是用‘随机策略’作为借口。实际上？",
+    "q_en": "Mid-game, you notice your opponent keeps blaming 'randomness'. In reality?",
+    "a_zh": "他们确实随机，无需在意",
+    "a_en": "They're truly random, so ignore it",
+    "b_zh": "他们在伪装随机，实则有深层策略",
+    "b_en": "They're faking randomness to mask a deeper strategy"
+  },
+  {
+    "q_zh": "如果对手每轮都选择合作，但总分数却和你一样高，这意味着？",
+    "q_en": "If your opponent cooperates every round, yet their total score equals yours, it implies?",
+    "a_zh": "你们都在合作，所以分数自然持平",
+    "a_en": "Both cooperate, so scores naturally tie",
+    "b_zh": "对手在别处偷偷得分，需警惕",
+    "b_en": "They may be scoring elsewhere - be wary"
+  },
+  {
+    "q_zh": "最后一轮前，对手发来私信说‘这轮我选背叛’。你会？",
+    "q_en": "Before the final round, your opponent DMs you: 'I'm defecting this round.' What do you do?",
+    "a_zh": "相信对方，也选背叛，两败俱伤",
+    "a_en": "Believe them, also defect - mutual loss",
+    "b_zh": "反其道而行之，选合作赌对方撒谎",
+    "b_en": "Do the opposite: cooperate, betting they lied"
+  },
+  {
+    "q_zh": "已知对手是‘冷酷博弈者’（永远背叛），但本轮规则是合作收益>背叛收益+惩罚。你会？",
+    "q_en": "Your opponent is a known 'grim trigger' (always defects), but this round cooperation payoff > defection + penalty. You choose?",
+    "a_zh": "理性计算：合作收益更高，所以合作",
+    "a_en": "Rational: cooperate since payoff is higher",
+    "b_zh": "预测对方仍会背叛，所以先背叛",
+    "b_en": "Predict they'll still defect, so preemptively defect"
   }
 ]
