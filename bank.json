@@ -15949,5 +15949,85 @@
     "a_en": "Rational: cooperate since payoff is higher",
     "b_zh": "预测对方仍会背叛，所以先背叛",
     "b_en": "Predict they'll still defect, so preemptively defect"
+  },
+  {
+    "q_zh": "你正与一位生意伙伴进行最后谈判，对方突然提出一个完全超出你底线的要求。如果直接拒绝，合作将很可能破裂；如果接受，你将蒙受巨大损失。此时你会怎么做？",
+    "q_en": "During final negotiations with a business partner, they suddenly make a demand that far exceeds your bottom line. A direct refusal will likely break the deal, but accepting it will cause major losses. What do you do?",
+    "a_zh": "强硬拒绝，表明底线不可触碰，哪怕合作破裂",
+    "a_en": "Refuse firmly, making clear the bottom line is non-negotiable, even if the deal falls through",
+    "b_zh": "表面上假装犹豫，暗中寻找替代方案或拖延时间",
+    "b_en": "Pretend to hesitate on the surface, while secretly seeking alternatives or stalling for time"
+  },
+  {
+    "q_zh": "在一场零和博弈中，对手已连续三次选择“背叛”策略，每次都从你这里获利。你知道如果继续合作，对方还会利用你，但如果你反击，将陷入两败俱伤的消耗战。你下一步如何行动？",
+    "q_en": "In a zero-sum game, your opponent has chosen 'betray' three times in a row, profiting from you each time. You know if you keep cooperating, they will exploit you again, but if you retaliate, you both enter a destructive war of attrition. What is your next move?",
+    "a_zh": "立即反击，以牙还牙，让对方知道你不是好欺负的",
+    "a_en": "Retaliate immediately, tit for tat, making them know you are not easy to bully",
+    "b_zh": "停止合作，但也不主动攻击，转为观望等待时机",
+    "b_en": "Stop cooperating, but don't attack actively; switch to observing and waiting for the right moment"
+  },
+  {
+    "q_zh": "你掌握了一个对竞争对手致命的独家秘密，一旦公开，对方会破产，但你自己也会因违反保密协议而面临巨额罚款。这个秘密与你的核心利益无关。你会怎么做？",
+    "q_en": "You possess a deadly exclusive secret about a competitor. Exposing it will bankrupt them, but you will also face huge fines for breaching a confidentiality agreement. The secret is unrelated to your core interests. What do you do?",
+    "a_zh": "公开秘密，虽两败俱伤，但能清除一个强大对手",
+    "a_en": "Expose the secret, even if it hurts both sides, because it eliminates a powerful rival",
+    "b_zh": "保守秘密，绝不公开，避免自身损失和道德风险",
+    "b_en": "Keep the secret and never expose it, avoiding self-harm and moral risk"
+  },
+  {
+    "q_zh": "你和对手同时需要一颗关键资源，先到先得。你得知对手会在明天中午到达，而你只需提前一小时出发就能抢到。但提前出发意味着你要放弃今晚一个重要的社交活动。你会如何选择？",
+    "q_en": "You and your opponent both need a critical resource, first come, first served. You learn your opponent will arrive tomorrow noon, and leaving just one hour earlier would secure it. But leaving early means giving up an important social event tonight. What do you choose?",
+    "a_zh": "放弃社交活动，提前出发确保资源到手",
+    "a_en": "Skip the social event and leave early to secure the resource",
+    "b_zh": "正常社交，相信对手不会那么准时，或另想办法",
+    "b_en": "Attend the social event, believing the opponent won't be exactly on time, or find another way"
+  },
+  {
+    "q_zh": "在多人博弈中，你与一个临时盟友合作，但游戏规则允许背叛且不会受到惩罚。若你们互相合作，你们都获得中等收益；若你单独背叛，你获得高收益而盟友损失；若你们互相背叛，双方都损失。你知道盟友也很理性。你会在最后关头如何做？",
+    "q_en": "In a multi-player game, you team up with a temporary ally, but the rules allow betrayal with no punishment. If you both cooperate, you both get medium rewards; if you alone betray, you get high rewards and your ally loses; if you both betray, both lose. You know your ally is rational too. At the final moment, what do you do?",
+    "a_zh": "选择背叛，争取自己的最大收益，不管盟友",
+    "a_en": "Choose to betray, maximizing your own gain regardless of the ally",
+    "b_zh": "选择合作，相信对方也会合作，以求双赢",
+    "b_en": "Choose to cooperate, trusting the ally to also cooperate for a win-win"
+  },
+  {
+    "q_zh": "你被对手公开挑衅，对方言辞激烈，试图激怒你做出冲动决定。如果回应，你和对方都会陷入情绪化的对抗，可能双双受损；如果沉默，你的声望可能受损。你怎么应对？",
+    "q_en": "You are publicly provoked by an opponent with aggressive words aimed at making you react impulsively. If you respond, you both enter an emotional conflict that may hurt both sides; if you stay silent, your reputation may suffer. How do you handle it?",
+    "a_zh": "立即强力回应，展示不惧挑衅的姿态",
+    "a_en": "Respond strongly immediately, showing you are not afraid of provocation",
+    "b_zh": "保持冷静，不回应挑衅，转而通过行动证明自己",
+    "b_en": "Stay calm, ignore the provocation, and prove yourself through actions instead"
+  },
+  {
+    "q_zh": "你发现谈判对手有一个不为人知的弱点（比如资金链紧张），如果你利用这一点施压，能轻松赢得更好的条件，但这可能逼对方破产或鱼死网破。你会利用这个弱点吗？",
+    "q_en": "You discover an opponent's hidden weakness (e.g., tight cash flow) during negotiations. If you exploit it with pressure, you can easily win better terms, but it might bankrupt them or drive them to desperation. Do you exploit it?",
+    "a_zh": "果断利用弱点，获取最大利益，胜者为王",
+    "a_en": "Decisively exploit the weakness for maximum benefit; winner takes all",
+    "b_zh": "不使用这个弱点，坚持公平谈判，维护长期关系",
+    "b_en": "Do not exploit the weakness, stick to fair negotiation, and preserve long-term relationship"
+  },
+  {
+    "q_zh": "在一个游戏中，你可以选择先出牌。如果你的出牌方向正确，你将获得较大优势；但如果被对手预测到，你将陷入劣势。对手非常擅长读人。你会采用哪种策略？",
+    "q_en": "In a game, you can choose to play first. If you play in the right direction, you gain a big advantage, but if your opponent predicts it, you fall into a disadvantage. Your opponent is very good at reading people. What strategy do you adopt?",
+    "a_zh": "采用稳妥、保守的常规打法，降低被预测的风险",
+    "a_en": "Use a steady, conservative conventional move to reduce the risk of being predicted",
+    "b_zh": "采用冒险、非常规的打法，故意让对手难以预测",
+    "b_en": "Use a risky, unconventional move, deliberately making it hard for the opponent to predict"
+  },
+  {
+    "q_zh": "你和对手陷入僵局，双方都拒绝先让步。你有一个机会可以私下与对手沟通，但你的信誉已经因之前的强硬态度而受损。如果你主动示好，可能被误解为软弱，但也可能打破僵局。你如何抉择？",
+    "q_en": "You and your opponent are in a stalemate, both refusing to yield first. You have an opportunity to communicate privately, but your credibility is already damaged by previous tough stances. If you reach out, it might be seen as weakness, but it also might break the deadlock. What do you decide?",
+    "a_zh": "继续保持强硬，等待对方先低头",
+    "a_en": "Remain tough, waiting for the other side to cave in first",
+    "b_zh": "主动私聊，释放善意信号，寻求折中方案",
+    "b_en": "Initiate private communication, send a goodwill signal, and seek a compromise"
+  },
+  {
+    "q_zh": "在一场拍卖博弈中，你与一位财力雄厚的对手竞拍同一件物品。你预计对手的预算远超你，但你知道对方非常在乎面子，会不计代价赢下拍卖。你怎么办？",
+    "q_en": "In an auction game, you compete with a wealthy opponent for the same item. You estimate their budget far exceeds yours, but you know they care about face and will win at any cost. What do you do?",
+    "a_zh": "主动抬价，故意推高对手成本，即使最后自己不拍下",
+    "a_en": "Actively bid up the price, deliberately increasing the opponent's cost, even if you don't win it",
+    "b_zh": "理性出价，以自己预算为准，不参与非理性竞争",
+    "b_en": "Bid rationally based on your budget, not getting into irrational competition"
   }
 ]
