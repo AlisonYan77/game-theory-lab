@@ -16029,5 +16029,85 @@
     "a_en": "Actively bid up the price, deliberately increasing the opponent's cost, even if you don't win it",
     "b_zh": "理性出价，以自己预算为准，不参与非理性竞争",
     "b_en": "Bid rationally based on your budget, not getting into irrational competition"
+  },
+  {
+    "q_zh": "你被关在一个房间，对面是另一位玩家。你们可以合作或背叛。如果你们都合作，各得 3 分；若你合作而对方背叛，你得 0 分，对方得 5 分；若双方都背叛，各得 1 分。对方声称他绝不会背叛。你会选择？",
+    "q_en": "You are locked in a room with another player. You can cooperate or defect. If both cooperate, you each get 3 points. If you cooperate and they defect, you get 0, they get 5. If both defect, each gets 1. Your opponent swears they will never betray you. What do you choose?",
+    "a_zh": "合作（相信对方）",
+    "a_en": "Cooperate (trust the opponent)",
+    "b_zh": "背叛（先下手为强）",
+    "b_en": "Defect (strike first)"
+  },
+  {
+    "q_zh": "拍卖会上有一张 100 元的钞票，你和一名对手轮流加价，每次至少加 1 元，出价最高者赢得钞票，但最高价和第二高价都要支付自己的叫价。如果你是第一个叫价，你会出多少？",
+    "q_en": "In an auction, there is a $100 bill. You and one opponent bid alternately, minimum increment $1. The highest bidder wins the bill, but both the highest and second-highest bidders must pay their own bids. If you bid first, how much do you bid?",
+    "a_zh": "出 1 元（低成本试探）",
+    "a_en": "Bid $1 (low-cost probe)",
+    "b_zh": "直接出 99 元（封顶施压）",
+    "b_en": "Bid $99 (cap to pressure)"
+  },
+  {
+    "q_zh": "在‘公共资源’游戏中，你和另外三人共有一个渔场。你们各自可以选择捕捞量（1-5 单位）。每捕捞 1 单位可得 1 美元，但总捕捞量超过 12 时，鱼群崩溃，所有人收益归零。你的目标是在满足自身利益的同时不让鱼群崩溃。你选择捕捞多少？",
+    "q_en": "In a 'common pool resource' game, you and three others share a fishery. Each of you chooses a harvest level (1-5 units). Each unit yields $1, but if total harvest exceeds 12 units, the fish stock collapses and everyone gets zero. Your goal is to maximize your own payoff while avoiding collapse. How many units do you harvest?",
+    "a_zh": "捕捞 1 单位（保守）",
+    "a_en": "Harvest 1 unit (conservative)",
+    "b_zh": "捕捞 5 单位（激进）",
+    "b_en": "Harvest 5 units (aggressive)"
+  },
+  {
+    "q_zh": "你被绑在一个决策椅上，对面是一位仇敌。如果你们都保持沉默，双方各判 1 年；如果你们互相指证，各判 3 年；若一方沉默一方指证，沉默者判 5 年，指证者无罪释放。对方是个出了名报复心强的人。你会？",
+    "q_en": "You are strapped in a decision chair facing a bitter foe. If both stay silent, each gets 1 year in prison. If both accuse each other, each gets 3 years. If one stays silent and the other accuses, the silent one gets 5 years, the accuser goes free. Your opponent is notoriously vindictive. What do you do?",
+    "a_zh": "沉默（赌对方也怕长刑）",
+    "a_en": "Stay silent (bet the opponent fears long sentence)",
+    "b_zh": "指证（自保优先）",
+    "b_en": "Accuse (self-preservation first)"
+  },
+  {
+    "q_zh": "在一个零和博弈中，你和对手同时选择正面或反面。如果结果相同，你赢 10 美元；结果不同，你输 10 美元。对手是位概率大师，已知他偏好出正面（概率 70%）。你会？",
+    "q_en": "In a zero-sum game, you and your opponent simultaneously choose heads or tails. If both match, you win $10; if they differ, you lose $10. Your opponent is a probability guru known to prefer heads (70% of the time). What do you choose?",
+    "a_zh": "出反面（利用对方偏好）",
+    "a_en": "Choose tails (exploit opponent’s bias)",
+    "b_zh": "出正面（尝试随机混合）",
+    "b_en": "Choose heads (attempt mixed strategy)"
+  },
+  {
+    "q_zh": "你们要分 100 美元，采用‘最后通牒’规则：你先提出分配方案，对方接受则按方案分，拒绝则两人都得 0。对方是个极其理性且记仇的人，你提的方案是？",
+    "q_en": "You are to split $100 using the ultimatum rule: you propose a split, if the other accepts you follow it, if they reject both get $0. The other is extremely rational and spiteful. What do you propose?",
+    "a_zh": "自己拿 99，给对方 1（试探容忍度）",
+    "a_en": "Keep $99 for self, give $1 to other (test tolerance)",
+    "b_zh": "自己拿 60，给对方 40（公平预防）",
+    "b_en": "Keep $60, give $40 to other (fairness for safety)"
+  },
+  {
+    "q_zh": "有一道两难：你可以选择做一个‘烂人’（损人不利己），让双方各损失 1 点；或者做‘好人’（利人不利己），让对方得 2 点，自己得 0 点。对方已经表明他也面临同样选择，并且他嘲笑你太懦弱。你会？",
+    "q_en": "There is a dilemma: you can be a 'jerk' (harm both, each loses 1 point) or a 'saint' (help the other, they gain 2, you gain 0). The other has stated they face the same choice and mocks you as cowardly. What do you do?",
+    "a_zh": "当烂人（以牙还牙）",
+    "a_en": "Be a jerk (tit for tat)",
+    "b_zh": "当好人（证明自己不懦弱）",
+    "b_en": "Be a saint (prove I'm not cowardly)"
+  },
+  {
+    "q_zh": "在一个‘淘汰赛’中，你和另外 7 人各自选择攻击 1 到 10 点力量。总力量最高的人得 100 分，最低的人得 0 分，同分者并列。对方明确表示他将出 10 点。你会出多少？",
+    "q_en": "In a knockout tournament, you and 7 others each choose an attack strength from 1 to 10. The highest total gets 100 points, the lowest gets 0, ties allowed. Your opponent explicitly states they will use 10. What do you choose?",
+    "a_zh": "出 10（齐平保本）",
+    "a_en": "Choose 10 (tie to protect)",
+    "b_zh": "出 1（让对手独赢并拉低总分）",
+    "b_en": "Choose 1 (let opponent win but lower total)"
+  },
+  {
+    "q_zh": "在‘信号游戏’中，你可以选择发布一个昂贵的谎言（成本 5）或真实信息（成本 0）。对方根据你的信号决定是否与你合作（合作得 10，不合作得 0）。如果对方知道你是为了利益而发布的，他会不合作。你会？",
+    "q_en": "In a signaling game, you can send an expensive lie (cost 5) or a truthful message (cost 0). The other decides whether to cooperate with you based on your signal (cooperate: you get 10, not: you get 0). If they believe you are signaling for gain, they won’t cooperate. What do you do?",
+    "a_zh": "发送昂贵谎言（伪装真诚）",
+    "a_en": "Send expensive lie (fake sincerity)",
+    "b_zh": "发送真实信息（成本低但可能不被信）",
+    "b_en": "Send truthful message (low cost but may not be trusted)"
+  },
+  {
+    "q_zh": "最后，你与对手做一次终极博弈：双方同时选择 A 或 B。如果都选 A，你得 2 点，对方得 2 点；都选 B，你得 1 点，对方得 1 点；若你选 B 对方选 A，你得 5 点，对方得 0 点；反之你得 0 点，对方得 5 点。你确信对方会选 B（因为他说他讨厌复杂）。你会？",
+    "q_en": "Finally, you play a one-shot game: both choose A or B simultaneously. If both A: you get 2, opponent gets 2. Both B: you get 1, opponent gets 1. You B, opponent A: you get 5, opponent 0. You A, opponent B: you get 0, opponent 5. You are certain the opponent will choose B (they said they hate complexity). What do you choose?",
+    "a_zh": "选 A（利用对方预测）",
+    "a_en": "Choose A (exploit their prediction)",
+    "b_zh": "选 B（信任对方且追求双赢）",
+    "b_en": "Choose B (trust them and aim for mutual win)"
   }
 ]
