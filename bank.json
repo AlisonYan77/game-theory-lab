@@ -16109,5 +16109,85 @@
     "a_en": "Choose A (exploit their prediction)",
     "b_zh": "选 B（信任对方且追求双赢）",
     "b_en": "Choose B (trust them and aim for mutual win)"
+  },
+  {
+    "q_zh": "你发现对手在上一轮故意选择了对双方都最有利的选项，但因此暴露了自己的偏好。这一轮，你应该：",
+    "q_en": "You notice your opponent deliberately chose the option that was best for both last round, but in doing so revealed their preference. This round, you should:",
+    "a_zh": "利用这个信息，选择克制对方的选项，获取单方优势",
+    "a_en": "Exploit this information by choosing the option that counters them, gaining unilateral advantage",
+    "b_zh": "假装没发现，继续维持合作的假象，等待更关键的时机再反制",
+    "b_en": "Pretend not to notice, maintain the facade of cooperation, and wait for a more critical moment to counter"
+  },
+  {
+    "q_zh": "在一场多轮博弈中，对方突然连续三次选择了对你有利但对他不利的选项。最可能的解释是：",
+    "q_en": "In a multi-round game, the opponent suddenly chooses the option that benefits you but harms them for three consecutive rounds. The most likely explanation is:",
+    "a_zh": "对方在故意诱骗你放松警惕，后期会突然背叛",
+    "a_en": "They are deliberately luring you into complacency, planning a sudden betrayal later",
+    "b_zh": "对方在测试你是否值得长期合作，若你投桃报李，将建立互信",
+    "b_en": "They are testing if you are worthy of long-term cooperation; if you reciprocate, mutual trust will be built"
+  },
+  {
+    "q_zh": "博弈只剩最后一轮，当前双方分数持平。你手上有一个信息：对方是理性计算型，从不冒不必要的风险。此时你应选择：",
+    "q_en": "Only one round remains and scores are tied. You know your opponent is a rational calculator who never takes unnecessary risks. You should choose:",
+    "a_zh": "选择激进的背叛选项，因为对方不会冒险反击，你至少能平局",
+    "a_en": "Choose an aggressive betrayal, because they won't risk retaliation; you'll at least tie",
+    "b_zh": "选择和平合作选项，因为对方为防止最坏结果，也会倾向合作，你更可能共赢",
+    "b_en": "Choose a cooperative option, because to avoid the worst outcome they'll also tend to cooperate, making a win-win more likely"
+  },
+  {
+    "q_zh": "对手在游戏中频繁使用“模仿你上一轮选择”的策略。你决定打破循环，你的最佳应对是：",
+    "q_en": "Your opponent frequently uses the strategy of 'mimicking your previous choice'. You decide to break the loop. Your best response is:",
+    "a_zh": "连续两次选择对自己有利但对对方有害的选项，迫使对方放弃模仿",
+    "a_en": "Choose the option beneficial to you but harmful to them twice in a row, forcing them to abandon mimicry",
+    "b_zh": "故意先选择对双方都坏的选项，观察对方是否真的模仿，然后据此重新调整策略",
+    "b_en": "Deliberately choose an option bad for both first, observe whether they truly mimic, then adjust your strategy based on that"
+  },
+  {
+    "q_zh": "在一个公开计分的博弈中，你的对手突然开始频繁查看你的表情和微动作。你认为他是在：",
+    "q_en": "In a game with public scores, your opponent suddenly starts frequently observing your facial expressions and micro-movements. You think he is:",
+    "a_zh": "试图捕捉你紧张或犹豫的信号，以预测你的下一步选择",
+    "a_en": "Trying to catch signals of nervousness or hesitation to predict your next move",
+    "b_zh": "故意制造心理压力，让你误以为他有读心能力，从而干扰你的判断",
+    "b_en": "Deliberately creating psychological pressure to make you falsely believe he has mind-reading ability, thereby disrupting your judgment"
+  },
+  {
+    "q_zh": "你发现对手在每次做出重要决定前，都会花很长时间思考。你推断他更倾向于：",
+    "q_en": "You notice your opponent takes a long time to think before every important decision. You infer they are more likely to:",
+    "a_zh": "计算各种结局，尤其是风险中的长期收益，偏向于保守策略",
+    "a_en": "Calculating various outcomes, especially long-term gains in risky situations, leaning toward conservative strategies",
+    "b_zh": "在脑海中模拟你的反应和可能的反制，试图设计复杂陷阱",
+    "b_en": "Simulating your reactions and possible counters in their mind, trying to design complex traps"
+  },
+  {
+    "q_zh": "在第二轮的博弈中，第一轮对方选择了合作，但你没有回应。现在对方脸色明显不悦。为了不失去未来的合作空间，你应当：",
+    "q_en": "In round two, the opponent cooperated in round one, but you didn't reciprocate. Now they look visibly displeased. To avoid losing future cooperation opportunities, you should:",
+    "a_zh": "立刻选择合作，并传递出歉意或改变的信号，修复关系",
+    "a_en": "Immediately cooperate and signal remorse or a change of heart to repair the relationship",
+    "b_zh": "选择背叛，但主动暗示这次是不得已而为之，希望对方理解你的处境",
+    "b_en": "Betray, but actively hint that it was forced by circumstances, hoping they understand your situation"
+  },
+  {
+    "q_zh": "你注意到对手在游戏过程中不断调整坐姿，每次要选合作时都会清喉咙。这种身体语言可能意味着：",
+    "q_en": "You notice your opponent constantly adjusts their posture during the game, and clears their throat every time they're about to cooperate. This body language may mean:",
+    "a_zh": "对方内心对合作有强烈抗拒，但理性上知道该合作，因此表现得矛盾",
+    "a_en": "They internally resist cooperation strongly, but rationally know they should cooperate, hence showing mixed signals",
+    "b_zh": "对方可能在伪装自己的意图，故意用清喉咙来误导你，让你以为他们很犹豫",
+    "b_en": "They may be disguising their intentions, deliberately using throat-clearing to mislead you into thinking they are hesitant"
+  },
+  {
+    "q_zh": "博弈结束前你领先对手很多分，但还有几轮。对手突然改变策略，开始不按常理出牌。你应该：",
+    "q_en": "Before the game ends, you lead by a large margin with several rounds left. Your opponent suddenly changes strategy and acts erratically. You should:",
+    "a_zh": "保持自己原有策略不变，保守对待，防止对手的疯狂反扑消耗你的优势",
+    "a_en": "Stick to your original strategy, play conservatively to prevent their desperate counterattack from eroding your lead",
+    "b_zh": "主动调整策略，尝试读懂对方新逻辑，因为他们可能找到了破你战术的漏洞",
+    "b_en": "Actively adjust your strategy, try to understand their new logic, because they may have found a loophole in your tactics"
+  },
+  {
+    "q_zh": "对手告诉你他信任你，但同时他偷偷瞟了一眼规则手册中关于“背叛惩罚”的段落。你应如何解读？",
+    "q_en": "Your opponent tells you he trusts you, but at the same time he subtly glances at the rulebook section about 'betrayal penalties'. How should you interpret this?",
+    "a_zh": "他是在暗示自己可能会背叛，但先让你放松警惕，以降低你的防备",
+    "a_en": "He's hinting that he may betray, but first wants to relax your guard to lower your defenses",
+    "b_zh": "他其实很在乎合作的稳定性，查看背叛惩罚是在评估自己若背叛能否承受后果，反而更可能坚持合作",
+    "b_en": "He actually values stability in cooperation; checking betrayal penalties is him assessing whether he could bear the consequences if he betrays, making him more likely to stay cooperative"
   }
 ]
