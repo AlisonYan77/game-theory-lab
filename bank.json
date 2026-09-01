@@ -16189,5 +16189,85 @@
     "a_en": "He's hinting that he may betray, but first wants to relax your guard to lower your defenses",
     "b_zh": "他其实很在乎合作的稳定性，查看背叛惩罚是在评估自己若背叛能否承受后果，反而更可能坚持合作",
     "b_en": "He actually values stability in cooperation; checking betrayal penalties is him assessing whether he could bear the consequences if he betrays, making him more likely to stay cooperative"
+  },
+  {
+    "q_zh": "你和对手分别有10个金币，你们同时选择：保留全部，或捐赠5个给对方。若双方都保留，各得0额外；若都捐赠，各得15额外；若一方保留一方捐赠，保留方得20额外，捐赠方得0额外。你会选择？",
+    "q_en": "You and your opponent each have 10 coins. Simultaneously choose: Keep all, or donate 5 to the other. If both keep, +0 extra each; if both donate, +15 extra each; if one keeps and one donates, the keeper gets +20, the donor gets 0. What do you choose?",
+    "a_zh": "捐赠",
+    "a_en": "Donate",
+    "b_zh": "保留",
+    "b_en": "Keep"
+  },
+  {
+    "q_zh": "一场拍卖：你们各自写一个数字（1-10），数字大者获胜，但获胜者需要支付自己的数字。若平局则都输。你的对手是理性且熟悉这个规则的人。你会写？",
+    "q_en": "An auction: each writes a number (1-10); the higher number wins, but the winner pays their own number. A tie means both lose. Your opponent is rational and knows this rule. What number do you write?",
+    "a_zh": "写1（迫使对方也写1，避免亏损）",
+    "a_en": "Write 1 (force a likely tie to avoid loss)",
+    "b_zh": "写2（赌对方写1或2，但你赢面小）",
+    "b_en": "Write 2 (bet opponent writes 1 or 2, but risk loss)"
+  },
+  {
+    "q_zh": "你和对手各持一张卡，红或黑。同时亮出。若同色，你赢10元；若异色，对手赢10元。对手已知你倾向选红（你上轮选了红）。这轮你会？",
+    "q_en": "You and opponent each hold a card, Red or Black. Reveal simultaneously. If same color, you win $10; if different, opponent wins $10. Opponent knows you leaned Red last round (you picked Red). This round you will?",
+    "a_zh": "选红（利用对方以为你会变而改黑）",
+    "a_en": "Pick Red (exploit opponent expecting you to switch to Black)",
+    "b_zh": "选黑（因为对方认为你会猜他选黑）",
+    "b_en": "Pick Black (because opponent thinks you'll assume he picks Black)"
+  },
+  {
+    "q_zh": "这是一个重复游戏，共10轮。每轮你们同时说“合作”或“背叛”。若双合作各+3，双背叛各0，一合作一背叛则背叛者+5，合作者-1。你希望总收益最大化。前9轮你们都合作。第10轮你会？",
+    "q_en": "Repeated game for 10 rounds. Each round simultaneously say 'Cooperate' or 'Betray'. If both cooperate, +3 each; both betray, 0 each; one betrays one cooperates, betrayer +5, cooperator -1. You want max total payoff. First 9 rounds you both cooperated. Round 10 you will?",
+    "a_zh": "合作（维持信任，但对方可能背叛）",
+    "a_en": "Cooperate (maintain trust, but opponent may betray)",
+    "b_zh": "背叛（最后一轮无惩罚，最大化单轮收益）",
+    "b_en": "Betray (no future punishment, maximize one-round gain)"
+  },
+  {
+    "q_zh": "你和对手同时选一个数字1或2。若选相同数字，你获得该数字的分数（1或2）；若不同，对手获得他选的那个数字的分数。你的对手是风险中立且想赢。你会选？",
+    "q_en": "You and opponent pick 1 or 2 simultaneously. If same, you get that number's points (1 or 2); if different, opponent gets the number he picked. Opponent is risk-neutral and wants to win. What do you pick?",
+    "a_zh": "选1（确保至少不亏，但收益低）",
+    "a_en": "Pick 1 (guarantee not to lose badly, but low payoff)",
+    "b_zh": "选2（赌对方选1，你赢2分但若同2你只得2）",
+    "b_en": "Pick 2 (bet opponent picks 1 to win 2, but if both pick 2 you only get 2)"
+  },
+  {
+    "q_zh": "你在一个公共品游戏中，初始各有20元。你们同时决定贡献多少（0-20元）到公共池。池子翻倍后平均分给两人。你若只在乎自己的金钱，你的贡献额是？",
+    "q_en": "In a public goods game, each starts with $20. Simultaneously decide contribution (0-20) to public pool. The pool doubles and is split equally. If you only care about your own money, what contribution do you make?",
+    "a_zh": "贡献0（因为公共池翻倍但平分，边际回报<1）",
+    "a_en": "Contribute 0 (because marginal return <1)",
+    "b_zh": "贡献20（最大化总收益，但个人可能被占便宜）",
+    "b_en": "Contribute 20 (maximize total pool, but risk being exploited)"
+  },
+  {
+    "q_zh": "你与对手比赛猜对方下一次行动。已知对手上一轮选了“石头”。现在你推测这轮他会根据你的风格调整。你会出？",
+    "q_en": "You play a guess-the-action game. Opponent last round chose 'Rock'. Now you anticipate s/he will adjust based on your style. What do you throw?",
+    "a_zh": "布（若他改出剪刀，你的布输；若他继续石头，你赢）",
+    "a_en": "Paper (if he switches to Scissors you lose, but if he stays Rock you win)",
+    "b_zh": "剪刀（若他改出布，你赢；若他出石头，你输）",
+    "b_en": "Scissors (if he switches to Paper you win, but if Rock you lose)"
+  },
+  {
+    "q_zh": "你和对手分100元。你先提出分配方案，对手必须接受或拒绝。若拒绝，双方得0。对手是理性且只想最大化自己的钱。你提出给自己多少？",
+    "q_en": "You and opponent split $100. You propose a split, opponent accepts or rejects. If rejected, both get $0. Opponent is rational and only maximizes own money. What amount do you propose for yourself?",
+    "a_zh": "给自己99元（给对手1，他理性接受）",
+    "a_en": "Keep $99 (offer $1, rational opponent accepts)",
+    "b_zh": "给自己80元（更公平，降低被拒风险但减少收益）",
+    "b_en": "Keep $80 (fairer, lower rejection risk but less profit)"
+  },
+  {
+    "q_zh": "你与对手玩“懦夫博弈”：各自驾驶车辆相向而行，先转向者为懦夫（输）。若都不转，双方重伤（-10）。若你转他转，各得-2；若你转他不转，你得-5他得5。你相信对手很冲动。你会？",
+    "q_en": "Chicken game: two cars driving head-on. First to swerve is 'chicken' (loses). If neither swerves, both badly hurt (-10). If both swerve, -2 each. If you swerve and he doesn't, you get -5, he gets +5. You believe opponent is impulsive. You will?",
+    "a_zh": "不转（赌对方先怂，但若他不怂则重伤）",
+    "a_en": "Don't swerve (bet opponent chickens out, but risk serious injury)",
+    "b_zh": "转向（保命，但输掉博弈）",
+    "b_en": "Swerve (save yourself, but lose the game)"
+  },
+  {
+    "q_zh": "你在最后通牒博弈中作为响应者。提议者提出分配比例：他拿90%，你拿10%。你知道他是理性且知道你会拒绝不公分配。若你拒绝，双方0元。你会？",
+    "q_en": "You are the responder in ultimatum game. Proposer offers split: 90% to him, 10% to you. You know he is rational and knows you might reject unfair deals. If you reject, both get $0. What do you do?",
+    "a_zh": "接受（至少得10元，拒绝则0）",
+    "a_en": "Accept (get $10 vs $0 if reject)",
+    "b_zh": "拒绝（惩罚不公平，让对方后悔）",
+    "b_en": "Reject (punish unfairness, make him regret)"
   }
 ]
