@@ -16269,5 +16269,85 @@
     "a_en": "Accept (get $10 vs $0 if reject)",
     "b_zh": "拒绝（惩罚不公平，让对方后悔）",
     "b_en": "Reject (punish unfairness, make him regret)"
+  },
+  {
+    "q_zh": "你与另一个人共同完成一个项目，对方声称自己已尽全力，但你知道他偷懒了。你会怎么做？",
+    "q_en": "You and another person are working on a project together. They claim they did their best, but you know they slacked off. What do you do?",
+    "a_zh": "指出对方偷懒，要求重新分工，并公开沟通。",
+    "a_en": "Call out their laziness, demand a redistribution of tasks, and communicate openly.",
+    "b_zh": "默默承担更多工作，避免冲突，但内心会记下这笔账。",
+    "b_en": "Silently take on more work to avoid conflict, but keep a mental note of it."
+  },
+  {
+    "q_zh": "在拍卖中，你出价已高于预算，但只差最后一口价就能赢。你如何选择？",
+    "q_en": "In an auction, your bid is already above your budget, but you're only one final bid away from winning. What do you choose?",
+    "a_zh": "继续加价，因为已经投入太多，必须要赢。",
+    "a_en": "Keep bidding, because you've invested too much to lose now.",
+    "b_zh": "立刻退出，止损，承认这是一个沉没成本陷阱。",
+    "b_en": "Immediately walk away, cut losses, and recognize it as a sunk cost trap."
+  },
+  {
+    "q_zh": "朋友请你帮忙保守一个秘密，这个秘密会伤害到第三方。朋友求你保密，第三方又向你求证。你会？",
+    "q_en": "A friend asks you to keep a secret that would hurt a third party. Your friend begs you to stay silent, but the third party asks you directly. What do you do?",
+    "a_zh": "对第三方撒谎，维护朋友的信任。",
+    "a_en": "Lie to the third party to maintain your friend's trust.",
+    "b_zh": "如实告诉第三方，即使这会破坏你与朋友的友谊。",
+    "b_en": "Tell the truth to the third party, even if it destroys your friendship."
+  },
+  {
+    "q_zh": "在一场多人谈判中，对手故意给你一个不可能接受的最后通牒。你如何应对？",
+    "q_en": "In a multi-party negotiation, your opponent gives you an ultimatum that is impossible to accept. How do you respond?",
+    "a_zh": "当场拒绝，并转身离开，以显示强硬立场。",
+    "a_en": "Reject it on the spot and walk away to show strength.",
+    "b_zh": "不正面回应，先拖延，寻找其他盟友或替代方案。",
+    "b_en": "Avoid a direct response, stall for time, and seek allies or alternatives."
+  },
+  {
+    "q_zh": "你被误解了，但解释清楚需要暴露自己的弱点。对方是你的对手。你会解释吗？",
+    "q_en": "You've been misunderstood, but clarifying it would expose your weakness. The other person is your opponent. Do you explain?",
+    "a_zh": "解释清楚，因为信用比面子重要。",
+    "a_en": "Clarify clearly, because credibility matters more than face.",
+    "b_zh": "不解释，宁可被误解也不暴露弱点。",
+    "b_en": "Stay silent, preferring to be misunderstood rather than show vulnerability."
+  },
+  {
+    "q_zh": "在合作游戏中，对方上次背叛了你。这次他又向你表示愿意合作。你会？",
+    "q_en": "In a cooperative game, your partner betrayed you last time. Now they signal they want to cooperate again. What do you do?",
+    "a_zh": "再次合作，给予对方一次信任的机会。",
+    "a_en": "Cooperate again, giving them another chance to be trusted.",
+    "b_zh": "再次背叛，以牙还牙，让他知道后果。",
+    "b_en": "Betray again, tit-for-tat, so they learn the consequences."
+  },
+  {
+    "q_zh": "你获得了一个内幕消息，可以让你在博弈中稳赢，但使用它会违反规则。对手也在盯着你。你如何选择？",
+    "q_en": "You have insider information that guarantees a win in the game, but using it violates the rules. Your opponent is watching you. What do you choose?",
+    "a_zh": "使用它，赢最重要，规则只是摆设。",
+    "a_en": "Use it – winning matters most; rules are just a formality.",
+    "b_zh": "不使用，保持公平，即使这会让你输掉比赛。",
+    "b_en": "Don't use it, stay fair, even if it means losing the game."
+  },
+  {
+    "q_zh": "你的盟友在关键决策点上犹豫，导致你们可能一起输。你确信自己的方案更好。你会？",
+    "q_en": "Your ally hesitates at a critical decision point, risking a loss for both of you. You're sure your own plan is better. What do you do?",
+    "a_zh": "强行推动你的方案，即使盟友不情愿。",
+    "a_en": "Push your plan through forcefully, even if your ally is reluctant.",
+    "b_zh": "尊重盟友的决定，一起承担风险。",
+    "b_en": "Respect your ally's decision and share the risk together."
+  },
+  {
+    "q_zh": "你发现对手在策略上有一个明显漏洞，但如果你利用它，可能会让整个博弈失去平衡（比如导致规则被修改）。你会用吗？",
+    "q_en": "You spot an obvious flaw in your opponent's strategy. But exploiting it might unbalance the whole game (e.g., cause rule changes). Do you use it?",
+    "a_zh": "果断利用，胜者才有资格谈平衡。",
+    "a_en": "Exploit it decisively – winners get to talk about balance.",
+    "b_zh": "不用，因为破坏规则对长远不利。",
+    "b_en": "Don't use it, because breaking the game harms the long term."
+  },
+  {
+    "q_zh": "在最后一轮博弈中，你的选择将决定谁输谁赢，但你发现自己和对手势均力敌，概率完全随机。你会？",
+    "q_en": "In the final round, your choice determines the winner, but you're evenly matched and the outcome is essentially random. What do you do?",
+    "a_zh": "采取风险最大化策略，试图搏一把大赢。",
+    "a_en": "Go for maximum risk, trying to grab a big win.",
+    "b_zh": "采取保守策略，确保不输，平分秋色。",
+    "b_en": "Play conservatively to ensure not losing, ending in a draw."
   }
 ]
