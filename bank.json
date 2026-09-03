@@ -16349,5 +16349,85 @@
     "a_en": "Go for maximum risk, trying to grab a big win.",
     "b_zh": "采取保守策略，确保不输，平分秋色。",
     "b_en": "Play conservatively to ensure not losing, ending in a draw."
+  },
+  {
+    "q_zh": "你与对手各持一把水枪，距离10米面对面。对手突然把枪口对准天空，声称‘我绝不会先射你’。你会怎么做？",
+    "q_en": "You and your opponent each hold a water gun, standing 10 meters apart facing each other. Suddenly, your opponent points his gun at the sky and says, 'I will never shoot you first.' What do you do?",
+    "a_zh": "立刻朝对手射击——这是最佳时机，趁他分心。",
+    "a_en": "Shoot immediately—this is the perfect moment while he is distracted.",
+    "b_zh": "也把枪口朝天，观察他是否真的信守承诺，等待下一步。",
+    "b_en": "Point your gun skyward too, and watch whether he truly keeps his word before deciding the next move."
+  },
+  {
+    "q_zh": "拍卖会上，你与另一买家争夺一件藏品。系统提示：你当前出价100元，对手出价200元。接下来你只有一次加价机会，且每次加价必须翻倍。你该怎么做？",
+    "q_en": "At an auction, you and another bidder are fighting over an item. The system shows: your current bid is $100, your opponent's is $200. You have only one chance to raise, and each raise must double. What do you do?",
+    "a_zh": "加价到400元，赌对手不敢继续翻倍而放弃。",
+    "a_en": "Raise to $400, betting that your opponent won't dare to double again and will back down.",
+    "b_zh": "放弃加价，承认损失，避免陷入无底的博弈陷阱。",
+    "b_en": "Stop bidding, accept the loss, and avoid falling into an endless trap of escalation."
+  },
+  {
+    "q_zh": "两个囚犯被隔离审讯。检方告诉你：若你招供且对方沉默，你获释，对方判10年；若双方都沉默，各判1年；若都招供，各判5年。你相信对方会沉默（因为你们约定过），但他可能会背叛。你会选？",
+    "q_en": "Two prisoners are interrogated in isolation. The prosecutor tells you: if you confess and the other stays silent, you go free and he gets 10 years; if both stay silent, each gets 1 year; if both confess, each gets 5 years. You believe the other will stay silent (as you agreed), but he might betray you. What do you choose?",
+    "a_zh": "保持沉默，赌他也信守承诺。",
+    "a_en": "Stay silent, betting he keeps his promise.",
+    "b_zh": "主动招供，确保自己不会坐满5年牢。",
+    "b_en": "Confess proactively, ensuring you don't serve the full 5 years."
+  },
+  {
+    "q_zh": "你和朋友玩‘分钱游戏’：你提议分配100元，他说‘接受或拒绝’。若他接受，你们按你的方案分；若拒绝，双方都拿0元。你提议自己拿60元，他拿40元，但你认为他可能会拒绝以惩罚你的贪婪。你会提议？",
+    "q_en": "You and a friend play a 'split money' game: you propose how to split $100, and he says 'accept or reject.' If he accepts, you divide as proposed; if he rejects, both get $0. You propose $60 for yourself and $40 for him, but you think he might reject out of spite. What do you propose?",
+    "a_zh": "仍然拿60，因为他理智的话会接受，毕竟40比0多。",
+    "a_en": "Still keep $60, because if rational he would accept—$40 is better than $0.",
+    "b_zh": "改为拿50，降低对方拒绝的风险，确保双方都受益。",
+    "b_en": "Change to $50 for yourself, lowering the risk of rejection so both benefit."
+  },
+  {
+    "q_zh": "在重复多轮的‘信任博弈’中，你每轮可给对手送0-10块钱（你会损失同样金额但对手获得双倍）。对手前几轮都选择全额返还你。但最后一轮（你知道是最后一次）前，你怀疑他可能不返还而独吞。你会怎么做？",
+    "q_en": "In a repeated 'trust game', each round you can send your opponent $0-10 (you lose that amount, he gains double). He has returned the full amount every round. But before the final round (you know it's the last), you suspect he might keep everything. What do you do?",
+    "a_zh": "最后一轮送0元，防止被背叛，虽然损失了巩固合作的机会。",
+    "a_en": "Send $0 in the final round to prevent betrayal, though you lose the chance to solidify cooperation.",
+    "b_zh": "仍然送10元，试图用善意换取他人格上的回报（即使理性上不合理）。",
+    "b_en": "Still send $10, hoping your goodwill will elicit a reciprocal response even if it's rational to distrust."
+  },
+  {
+    "q_zh": "一款游戏有‘虚拟战斗’和‘和平发展’两种风格。你是排名第一的玩家，第二名总在野外偷袭你。若你现在主动攻击他，可能两败俱伤给第三名机会；若不去打他，他会继续骚扰你。你选择？",
+    "q_en": "A game offers 'virtual combat' and 'peaceful development' styles. You are ranked #1, and the #2 player constantly ambushes you in the wild. If you attack him now, you both may suffer, giving #3 a chance; if you don't, he will keep harassing you. What do you choose?",
+    "a_zh": "设计陷阱诱他深入，在保全自己的前提下重创他一次，作为威慑。",
+    "a_en": "Design a trap to lure him deep, crippling him once while preserving yourself, as a deterrent.",
+    "b_zh": "无视他的骚扰，专注于发展实力，相信长期资源积累能让你笑到最后。",
+    "b_en": "Ignore his harassment and focus on growing your power, believing long-term resource accumulation will make you win in the end."
+  },
+  {
+    "q_zh": "你和对手玩‘猜测数字’：你俩同时写下一个1到100的整数，若两数之和≤100，则你获得：你写的数 × 3，他获得：他写的数 × 3。但若和>100，则两人都只能拿到未超过100的那一部分所对应的倍数（即无效）。你猜他会写50（为了最大化两人收益），你会写？",
+    "q_en": "You and an opponent play 'guess a number': you each simultaneously write an integer from 1 to 100. If the sum ≤ 100, you each earn 3× your own number. But if sum > 100, neither gets anything. You guess he will write 50 (to maximize joint gain). What do you write?",
+    "a_zh": "写50，公平且确保总收益最大。",
+    "a_en": "Write 50, for fairness and to maximize combined reward.",
+    "b_zh": "写51，赌他写49，你就能比对方多拿3倍的差价，且总和仍不超100。",
+    "b_en": "Write 51, betting he writes 49, so you out-earn him by 3× the gap, with the sum still ≤100."
+  },
+  {
+    "q_zh": "你在一个资源分配游戏中，每回合你都可以从公共池中取1-3个金币。取后公共池刷新补充。但若某回合所有人合计取超过池子容量的80%，下回合池子容量减半。对手过去都取2个，今天他突然取3个。你怀疑他想逼你少取以维持池子。你会？",
+    "q_en": "In a resource-sharing game, each round you can take 1-3 coins from a public pool. After taking, the pool refreshes. But if in any round the total taken exceeds 80% of the pool's capacity, the next round's capacity halves. Your opponent has always taken 2, but today he takes 3. You suspect he's trying to force you to take less to sustain the pool. What do you do?",
+    "a_zh": "也取3个，和他抗衡，哪怕可能触发惩罚，也要让他知道不能靠激进欺负你。",
+    "a_en": "Also take 3, countering him, even if it might trigger the penalty, to show he can't bully you with aggression.",
+    "b_zh": "只取1个，维持池子充裕，指望他内疚而回归合作。",
+    "b_en": "Take only 1, keeping the pool healthy, hoping he feels guilty and returns to cooperation."
+  },
+  {
+    "q_zh": "谈判中，对方提出‘五五分账’，但你得知他的机会成本比你低（他若走开，还能赚到另一个小利；你若走开，什么都得不到）。他故意摆出强硬态度说不接受就破裂。你会接受五五分账吗？",
+    "q_en": "In a negotiation, the other party proposes a 50/50 split, but you learn his opportunity cost is low (he can get a smaller deal elsewhere if he walks; you get nothing). He acts tough, saying if you don't accept, the deal is off. Do you accept the 50/50 split?",
+    "a_zh": "接受，因为接受总比破裂好，哪怕你吃了亏。",
+    "a_en": "Accept, because a deal is better than no deal, even if you lose out.",
+    "b_zh": "拒绝并摆出更弱姿态，故意让他知道你的‘破罐破摔’底线，逼他降低要求。",
+    "b_en": "Refuse and feign a weak position, signaling you have nothing to lose, to force him to lower his demand."
+  },
+  {
+    "q_zh": "你正在玩‘胆小鬼博弈’：两车相向而行，先打方向盘者输。对手是个疯子，他的表情告诉你他绝不会让。但你注意到他车后有交警车灯闪烁，他可能急于逃跑不想纠缠。你该怎么做？",
+    "q_en": "You're playing 'chicken': two cars speed toward each other, and the first to swerve loses. Your opponent is a madman—his face says he'll never yield. But you notice police lights flashing behind his car; he may be desperate to flee and avoid a scene. What do you do?",
+    "a_zh": "坚持直行，赌他因害怕警察而最后关头让路。",
+    "a_en": "Hold your path straight, betting his fear of police will make him swerve at the last second.",
+    "b_zh": "先打方向盘让路，第一时间避开风险，不值得跟疯子比命。",
+    "b_en": "Swerve early to avoid danger—it's not worth risking your life against a madman."
   }
 ]
