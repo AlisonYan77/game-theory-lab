@@ -16429,5 +16429,85 @@
     "a_en": "Hold your path straight, betting his fear of police will make him swerve at the last second.",
     "b_zh": "先打方向盘让路，第一时间避开风险，不值得跟疯子比命。",
     "b_en": "Swerve early to avoid danger—it's not worth risking your life against a madman."
+  },
+  {
+    "q_zh": "你需要做出一个决定：是立刻拿到确定无疑的1000元，还是抛一枚硬币，若正面朝上拿到2000元，若反面则一无所得？",
+    "q_en": "You must choose: take a guaranteed 1000 yuan immediately, or flip a coin—heads gives you 2000 yuan, tails gives you nothing.",
+    "a_zh": "拿确定的1000元，落袋为安",
+    "a_en": "Take the guaranteed 1000 yuan—secure now.",
+    "b_zh": "赌一把，硬币正反各半，追求翻倍",
+    "b_en": "Gamble—coin has a 50% chance of double."
+  },
+  {
+    "q_zh": "在一个多人重复博弈中，对方连续三轮都选择背叛。你决定下次如何回应？",
+    "q_en": "In a repeated game, the other side has defected for three rounds straight. How will you respond next?",
+    "a_zh": "以牙还牙，也选择背叛惩罚对方",
+    "a_en": "Tit-for-tat—defect to punish them.",
+    "b_zh": "不计前嫌，重新尝试合作信号",
+    "b_en": "Forgive and signal cooperation again."
+  },
+  {
+    "q_zh": "若竞争对手突然公布一项昂贵的技术投资（可能只是虚张声势），你该相信并退缩，还是依旧按原计划进攻？",
+    "q_en": "If a rival suddenly announces an expensive tech investment (possibly a bluff), do you believe it and back down, or stick to your original aggressive plan?",
+    "a_zh": "相信对方威慑，暂缓攻击并观望",
+    "a_en": "Believe the threat—pause and watch.",
+    "b_zh": "认定是虚张声势，继续强攻市场",
+    "b_en": "Treat it as a bluff—attack the market."
+  },
+  {
+    "q_zh": "在最后通牒博弈中，对方分给你100元中的30元（其余归对方）。你接受还是拒绝？",
+    "q_en": "In an ultimatum game, the other offers you 30 yuan out of 100 (keeping 70). Do you accept or reject?",
+    "a_zh": "接受，至少还有30元",
+    "a_en": "Accept—at least get 30.",
+    "b_zh": "拒绝，让双方都得不到以求公平",
+    "b_en": "Reject—get nothing to punish unfairness."
+  },
+  {
+    "q_zh": "你能看到对手下一步的抉择概率是60%攻、40%守。你会倾向选择防御姿势，还是出其不意的攻击？",
+    "q_en": "You estimate the opponent's next move is 60% attack, 40% defend. Would you choose a defensive stance or surprise attack?",
+    "a_zh": "采取防御，规避大概率攻击风险",
+    "a_en": "Defend—avoid the likely attack.",
+    "b_zh": "选择进攻，利用对方防守的漏洞",
+    "b_en": "Attack—exploit the defensive gap."
+  },
+  {
+    "q_zh": "两人分蛋糕，你先切。你知道对方肯定会选他更满意的那块。为了最大化你的利益，你应如何切？",
+    "q_en": "You cut a cake in two. The other will pick whichever piece they prefer. To maximize your benefit, how should you cut?",
+    "a_zh": "切得尽可能均匀，让对方无差别选择",
+    "a_en": "Cut as evenly as possible—no advantage for them.",
+    "b_zh": "故意切一稍大一块，赌他选大的然后你拿小的？",
+    "b_en": "Make one slightly bigger, hoping they take big and you take small?"
+  },
+  {
+    "q_zh": "如果你在竞争拍卖中高出价对手一倍就能赢，但你可能白白亏钱。你知道对方极度风险厌恶，你会怎么做？",
+    "q_en": "In a competitive auction, if you bid double the rival you could win, but maybe lose money. You know the rival is extremely risk-averse. What do you do?",
+    "a_zh": "正常出价，避免因贪婪导致巨大损失",
+    "a_en": "Bid a reasonable amount—avoid huge losses.",
+    "b_zh": "故意抬高价格，逼对手退出，然后压低收益",
+    "b_en": "Exaggerate price to force rival out, then lower returns."
+  },
+  {
+    "q_zh": "在合作困境中，如果对方提出：你先让步，我保证之后加倍补偿你。你应该先信任吗？",
+    "q_en": "In a cooperation dilemma, the other says: you concede first, and I promise double compensation later. Should you trust them first?",
+    "a_zh": "不能先让步，防止对方言而无信",
+    "a_en": "No—don't move first; they may not honor.",
+    "b_zh": "先做出善意让步，建立互信基础",
+    "b_en": "Yes—make a goodwill concession to build trust."
+  },
+  {
+    "q_zh": "你和对手同时选择出拳（石头/剪刀/布）。你推测对方因为上次输了这次多半会出布，你会出什么？",
+    "q_en": "You and rival choose rock/paper/scissors simultaneously. You guess that since they lost last time, they'll likely play paper. What do you throw?",
+    "a_zh": "出剪刀，克制对手可能的布",
+    "a_en": "Scissors—to beat their likely paper.",
+    "b_zh": "出石头，因为对方可能反过来想骗你",
+    "b_en": "Rock—because they may counter-surprise you."
+  },
+  {
+    "q_zh": "在长期竞争市场中，一个对手先低价倾销试图抢占你的份额。你会如何应对？",
+    "q_en": "In a long-run market, a rival dumps low prices to take your share. How do you respond?",
+    "a_zh": "短期也降价对抗，宁可一时亏损也要守住地盘",
+    "a_en": "Cut prices to match, even at short-term loss, to protect turf.",
+    "b_zh": "保持价格，提升产品价值差异化，放弃部分低价客户",
+    "b_en": "Hold price, differentiate quality, concede some cheap customers."
   }
 ]
