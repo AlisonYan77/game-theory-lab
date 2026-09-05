@@ -16509,5 +16509,85 @@
     "a_en": "Cut prices to match, even at short-term loss, to protect turf.",
     "b_zh": "保持价格，提升产品价值差异化，放弃部分低价客户",
     "b_en": "Hold price, differentiate quality, concede some cheap customers."
+  },
+  {
+    "q_zh": "你无意中得到一个秘密消息，如果公开它，能让你获得巨大短期利益，但会严重伤害一个曾经帮助过你的人。你会怎么做？",
+    "q_en": "You accidentally learn a secret that would give you huge short-term gain if exposed, but would seriously hurt someone who once helped you. What do you do?",
+    "a_zh": "公开消息，机会难得，利益优先",
+    "a_en": "Expose it – opportunity is rare; profit comes first",
+    "b_zh": "保守秘密，保护曾帮助过我的人",
+    "b_en": "Keep the secret – protect the one who helped me"
+  },
+  {
+    "q_zh": "在零和博弈中，对方连续三次都选择合作，但你心里清楚他可能在下一次背叛。此时你会：",
+    "q_en": "In a zero-sum game, your opponent has cooperated three times in a row, but you suspect betrayal is coming next. What do you do?",
+    "a_zh": "继续试探一次，积累更多信息再判断",
+    "a_en": "Test once more – gather more info before judging",
+    "b_zh": "立刻选择背叛，以防被对方抢先",
+    "b_en": "Betray now to preempt being taken advantage of"
+  },
+  {
+    "q_zh": "你的团队在谈判中明显占上风，对方已做出重大让步。你面临选择：是见好就收锁定成果，还是继续施压争取全部利益？",
+    "q_en": "Your team is clearly winning in a negotiation and the other side has already made major concessions. Do you lock in the gains or push for full advantage?",
+    "a_zh": "见好就收，确保合作不被破坏",
+    "a_en": "Take the win now – secure the deal and relationship",
+    "b_zh": "继续施压，争取最大利益",
+    "b_en": "Keep pushing to extract maximum benefit"
+  },
+  {
+    "q_zh": "你发现对手的决策模式有规律，但如果你利用这个规律，对方会立刻察觉并从此不再信任你。此时你会：",
+    "q_en": "You spot a pattern in your opponent's decisions, but exploiting it would make them realize and never trust you again. What's your move?",
+    "a_zh": "使用规律速胜，信任可以以后再修复",
+    "a_en": "Use the pattern to win fast – trust can be rebuilt later",
+    "b_zh": "放弃利用，维持长期关系",
+    "b_en": "Let it go – preserve the long-term relationship"
+  },
+  {
+    "q_zh": "在一个重复博弈游戏中，对手突然变得非常强硬且不理性。你认为最好的应对是：",
+    "q_en": "In a repeated game, your opponent suddenly becomes aggressive and irrational. What's your best response?",
+    "a_zh": "以牙还牙，用强硬回应立下规矩",
+    "a_en": "Mirror aggression – set a firm boundary",
+    "b_zh": "先软化态度，避免冲突升级",
+    "b_en": "De-escalate first to avoid a spiral"
+  },
+  {
+    "q_zh": "你自己掌握一方信息，而对手拥有另一方信息。如果双方信息互换，整体收益将最大化，但你担心对方掌握后反咬一口。你怎么选？",
+    "q_en": "You have unique information and your opponent has complementary info. Sharing would maximize joint payoff, but you fear they might exploit you afterwards. What do you do?",
+    "a_zh": "只透露部分信息，保留底牌",
+    "a_en": "Share only part – keep an ace in hand",
+    "b_zh": "全部共享，赌对方也会同样做",
+    "b_en": "Share fully – gamble on reciprocity"
+  },
+  {
+    "q_zh": "在公共物品博弈中，你贡献了应得的份额，但其他人都在搭便车。下一轮你会：",
+    "q_en": "In a public-goods game, you contributed your fair share while others free-ride. What do you do next round?",
+    "a_zh": "减少贡献，惩罚搭便车者",
+    "a_en": "Reduce contribution to punish free-riders",
+    "b_zh": "继续贡献，希望带动他人改变",
+    "b_en": "Keep contributing – hope to inspire change"
+  },
+  {
+    "q_zh": "对方威胁说，如果你不答应他的条件，他会选择“两败俱伤”的策略。你已经判断出他的威胁只是虚张声势。你会：",
+    "q_en": "Your opponent threatens mutual destruction if you don't accept their terms. You're fairly sure it's a bluff. What do you do?",
+    "a_zh": "强硬拒绝，测试其威胁是否真实",
+    "a_en": "Refuse firmly – call the bluff",
+    "b_zh": "稍作让步，换取安全",
+    "b_en": "Yield a little – buy safety"
+  },
+  {
+    "q_zh": "在拍卖博弈中，你已与另一买家形成默契轮流低价得标。但这一次出现了一个新手，他不守规矩地抬高了价格。你会：",
+    "q_en": "In an auction game, you and another bidder have a tacit understanding to rotate low bids. A newcomer breaks it by bidding high. What do you do?",
+    "a_zh": "联合老买家一起压制新手，教训他",
+    "a_en": "Team up with the old bidder to punish the newcomer",
+    "b_zh": "抬高价格与新手竞争，但之后恢复默契",
+    "b_en": "Outbid the newcomer, but restore the tacit deal later"
+  },
+  {
+    "q_zh": "你在一场“囚徒困境”的最终回合，对方上一轮背叛了你，这次你选择背叛还是合作？",
+    "q_en": "You're in the final round of a repeated prisoner's dilemma. Your opponent defected last round. Do you defect or cooperate now?",
+    "a_zh": "合作，因为这是改善关系的最后机会",
+    "a_en": "Cooperate – it's the last chance to rebuild trust",
+    "b_zh": "背叛，因为对方已经不可信",
+    "b_en": "Defect – they've proven untrustworthy"
   }
 ]
