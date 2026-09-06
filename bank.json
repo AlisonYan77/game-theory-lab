@@ -16589,5 +16589,85 @@
     "a_en": "Cooperate – it's the last chance to rebuild trust",
     "b_zh": "背叛，因为对方已经不可信",
     "b_en": "Defect – they've proven untrustworthy"
+  },
+  {
+    "q_zh": "你和一个陌生人分一笔钱。规则是：你提出分配方案，对方接受则按方案分；对方拒绝则两人都一无所获。你会如何分配？",
+    "q_en": "You must split a sum of money with a stranger. You propose the split; if they accept, you divide accordingly; if they reject, neither gets anything. What do you propose?",
+    "a_zh": "给对方 20%，自己拿 80%（占便宜，但赌对方理性）",
+    "a_en": "Give them 20%, keep 80% (greedy but betting on their rationality)",
+    "b_zh": "给对方 50%，自己拿 50%（公平，避免被拒风险）",
+    "b_en": "Give them 50%, keep 50% (fair, minimizes rejection risk)"
+  },
+  {
+    "q_zh": "你参与一场拍卖，拍品价值明确为100元。你已出价90元，另一人出价95元。现在你面临一个选择：加价到100元，或者放弃。已知拍卖规则是：出价最高者获胜，但第二高者也要支付自己的出价。你会怎么做？",
+    "q_en": "In an auction, an item is worth exactly 100. You bid 90, another bids 95. You can raise to 100 or drop out. The rule: highest bidder wins, but second-highest also pays their bid. What do you do?",
+    "a_zh": "加价到100元（因为只要赢，至少不亏）",
+    "a_en": "Raise to 100 (if you win, you break even at worst)",
+    "b_zh": "放弃（避免陷入恶性加价，可能亏更多）",
+    "b_en": "Drop out (avoid escalation that could cost you more)"
+  },
+  {
+    "q_zh": "你和对手玩石头剪刀布，连续玩多轮。前5轮你一直出石头，对方总是出布。第6轮，你认为对方会怎么出？",
+    "q_en": "You play rock-paper-scissors repeatedly. In the first 5 rounds, you always play rock, and they always play paper. On round 6, what do you expect?",
+    "a_zh": "对方继续出布（因为他们觉得你会变），所以出剪刀",
+    "a_en": "They stick with paper (fearing you'll switch), so you play scissors",
+    "b_zh": "对方以为你会改变，所以他们会出石头，我出布",
+    "b_en": "They anticipate you changing and play rock, so you play paper"
+  },
+  {
+    "q_zh": "你是一家公司老板，员工威胁要离职去竞争对手那里，除非你大幅加薪。你判断该员工并非不可替代，但短期内招人成本高。你是否答应加薪？",
+    "q_en": "You are a boss; an employee threatens to quit for a competitor unless you give a large raise. They are replaceable long-term, but replacing them now is costly. Do you agree?",
+    "a_zh": "不答应，宁可承担短期成本也防止未来被继续要挟",
+    "a_en": "Refuse, accepting short-term cost to avoid future blackmail",
+    "b_zh": "答应加薪，留人要紧，等时机成熟再慢慢替换",
+    "b_en": "Agree to the raise, keep them now, replace them quietly later"
+  },
+  {
+    "q_zh": "你和朋友玩一个游戏：每人同时写下一个1到100之间的整数，总和超过100则两人都输。若总和不超过100，那么写得数小的人赢。你朋友上次写了70，这次你写什么？",
+    "q_en": "You and a friend each write a number 1-100 simultaneously. If the sum exceeds 100, both lose. If not, whoever wrote the smaller number wins. Last time your friend wrote 70. What do you write this time?",
+    "a_zh": "写29（因为朋友若写70，29+70=99，能赢过30~69？不，小优先，所以写1最稳但可能输，29是折中）",
+    "a_en": "Write 29 (balancing risk and win chance against a 70)",
+    "b_zh": "写1（确保总和不超过100，且对方写任何数只要不写1我就能赢）",
+    "b_en": "Write 1 (guarantees non-loss, and wins unless they also write 1)"
+  },
+  {
+    "q_zh": "在囚徒困境中，你和同伙被分开审讯。检察官给你一个交易：指证对方，你减刑，对方重判；若两人都沉默，各判一年；都指证则各判五年。你知道对方大概率会沉默并指望你保护他。你会指证还是沉默？",
+    "q_en": "In a prisoner's dilemma, you and your partner are interrogated separately. The prosecutor offers: testify against the other, you get a light sentence and they get a heavy one. If both stay silent, 1 year each. If both testify, 5 years each. You believe they will stay silent and trust you. Do you testify?",
+    "a_zh": "指证（哪怕对方沉默，我还能轻判；若对方也指证，也比我沉默且对方指证好）",
+    "a_en": "Testify (dominates silence regardless of their choice)",
+    "b_zh": "沉默（维护信任，赌对方也沉默，两人只坐一年牢）",
+    "b_en": "Stay silent (preserve mutual trust, hoping for 1 year each)"
+  },
+  {
+    "q_zh": "你参与一个“最后通牒”游戏：有100元，你提出分配，对方接受则按你的方案，拒绝则双方零。你强烈需要这100元，对方也理性。你会给对方多少钱？",
+    "q_en": "In an ultimatum game with 100, you propose a split. If they accept, the deal stands; if reject, both get 0. You desperately need the money, and the other is rational. What do you offer?",
+    "a_zh": "给1元（因为理性人不会拒绝任何正数，接受比0好）",
+    "a_en": "Offer 1 (a rational actor accepts any positive amount over 0)",
+    "b_zh": "给40元（避免对方情绪化拒绝，保住大部分）",
+    "b_en": "Offer 40 (to avoid spiteful rejection and still keep a big share)"
+  },
+  {
+    "q_zh": "你和对手各选一个数字（0-9），同时亮出。如果两人数字之和是偶数，你赢10元；若是奇数，对手赢10元。对手似乎很擅长判断你是否随机。你会怎么选？",
+    "q_en": "You each secretly pick a digit 0-9. Reveal simultaneously. If the sum is even, you win 10; if odd, they win 10. Your opponent seems good at reading patterns. What do you pick?",
+    "a_zh": "选5（固定数字很难预测，但易被利用）——这里意为随机策略，但选5不是随机。其实应改为“随机选，不固定”",
+    "a_en": "Pick randomly (avoid any exploitable pattern)",
+    "b_zh": "先观察对方手腕或表情再选（利用非语言线索）",
+    "b_en": "Try to read their physical tells or timing before choosing"
+  },
+  {
+    "q_zh": "你拥有一个双头垄断市场，竞争对手最近降价10%，你感受到了压力。你的产品市场份额略大，但成本也略高。你最优的回应是？",
+    "q_en": "In a duopoly, your competitor just cut prices by 10%. Your product has slightly higher market share but also higher costs. What is your optimal response?",
+    "a_zh": "立即跟随降价，保住市场份额，宁可短期利润下降",
+    "a_en": "Match the price cut immediately to protect market share",
+    "b_zh": "不降价，而是通过提升服务质量或品牌价值来差异化",
+    "b_en": "Do not cut price; instead differentiate with quality or brand"
+  },
+  {
+    "q_zh": "在“懦夫博弈”中，你与对手驾车相向而行。谁先打方向盘避开谁就输（被视为懦夫）。你观察到对方眼神堅定，且对方车上疑似有朋友在录像。你该怎么做？",
+    "q_en": "In a game of chicken, you and a rival drive head-on. Whoever swerves first loses. You see the rival’s determined look, and there may be friends filming them. What do you do?",
+    "a_zh": "打方向盘避开，因为对方很可能不会退让（形象压力）",
+    "a_en": "Swerve, because given social pressure, they likely won't yield",
+    "b_zh": "径直前行，赌对方怕死且不愿出事（毕竟只是游戏）",
+    "b_en": "Keep straight, betting they fear physical harm more"
   }
 ]
