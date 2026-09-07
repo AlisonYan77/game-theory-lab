@@ -16669,5 +16669,85 @@
     "a_en": "Swerve, because given social pressure, they likely won't yield",
     "b_zh": "径直前行，赌对方怕死且不愿出事（毕竟只是游戏）",
     "b_en": "Keep straight, betting they fear physical harm more"
+  },
+  {
+    "q_zh": "在一次合作谈判中，对方要求你公开你的全部底价，并承诺也会同等公开。对方是一位有长期合作记录的老伙伴。你会怎么做？",
+    "q_en": "In a negotiation, the other side asks you to fully disclose your bottom line, promising to do the same. This partner has a long history of cooperation. What do you do?",
+    "a_zh": "A. 相信其历史信誉，率先公开自己的底价以换取信任",
+    "a_en": "A. Trust their track record and disclose your reserve price first to build goodwill.",
+    "b_zh": "B. 要求对方先公开，自己随后再视情况回答",
+    "b_en": "B. Ask them to disclose first, then decide based on their action."
+  },
+  {
+    "q_zh": "你在一个“囚徒困境”式游戏中，对方是你未来的主要竞争对手。你知道如果双方都背叛，对彼此都不利。你会选择哪种策略？",
+    "q_en": "In a prisoner's dilemma-style game, your counterpart is your future main rival. You know mutual defection hurts both. Which strategy do you choose?",
+    "a_zh": "A. 先合作，但如果对方第一次背叛，则永远背叛（冷酷策略）",
+    "a_en": "A. Start cooperative, but if they defect once, defect forever (grim trigger).",
+    "b_zh": "B. 随机选择，保持不可预测性以避免被利用",
+    "b_en": "B. Randomize to stay unpredictable and avoid being exploited."
+  },
+  {
+    "q_zh": "拍卖会上，你对一件物品的估值是1000元，但竞争激烈。你只知道当前最高出价是800元。你最理性的出价策略是什么？",
+    "q_en": "At an auction, you value an item at 1000, but bidding is fierce. Current highest bid is 800. What is your most rational bidding strategy?",
+    "a_zh": "A. 直接出价1000元封顶，避免被对方逐步试探出你的底牌",
+    "a_en": "A. Bid your maximum of 1000 immediately to preempt incremental probing.",
+    "b_zh": "B. 每次加价最低幅度，保持低调，直到最后再大举压过对手",
+    "b_en": "B. Keep minimal increments to stay low-key, then leap over at the end."
+  },
+  {
+    "q_zh": "一项合作项目，对方产出明显比你的贡献低，但对方是项目关键人物。在分成谈判中，你更倾向于？",
+    "q_en": "In a joint project, your partner's output is clearly lower than yours, but they are a key gatekeeper. In profit-sharing talks, you lean toward?",
+    "a_zh": "A. 明确提出按实际贡献比例分配，否则威胁退出合作",
+    "a_en": "A. Propose proportionally based on actual contribution, threatening exit if rejected.",
+    "b_zh": "B. 接受略高于对方的分成，但私下减少自己投入以平衡",
+    "b_en": "B. Accept slightly higher share than theirs, but secretly reduce your effort to balance."
+  },
+  {
+    "q_zh": "网络环境下，有人匿名散布关于你的负面消息。你知道这只是试探你的反应，以便下一步勒索。最佳回应是？",
+    "q_en": "Online, someone anonymously spreads negative info about you. You suspect it's a probe to see how you react before extorting you. Best response?",
+    "a_zh": "A. 公开回应并追查到底，表明你强硬且不计成本反击",
+    "a_en": "A. Respond publicly and investigate thoroughly, showing you will retaliate at all costs.",
+    "b_zh": "B. 不回应，并暂时关闭所有社交动态，让信息自然冷却",
+    "b_en": "B. Don't respond and briefly go dark on socials to let it cool down."
+  },
+  {
+    "q_zh": "在一次多轮谈判中，对方第一轮就给出一个非常接近你底线的条件。这一般意味着？",
+    "q_en": "In multi-round negotiations, the other side opens with an offer very close to your bottom line. Usually this means?",
+    "a_zh": "A. 对方可能已经知道你的底线，你应该立刻警惕信息泄露并策略性拒绝",
+    "a_en": "A. They might already know your bottom line - be alert to information leak and strategically decline.",
+    "b_zh": "B. 这是真诚的邀请，为了快速达成协议你应该接受此条件",
+    "b_en": "B. It's a genuine invitation to settle quickly, so accept the offer."
+  },
+  {
+    "q_zh": "你与对手玩“胆小鬼博弈”：双方相向而行，谁先转向谁输。若都不转向，则同归于尽。你更倾向于？",
+    "q_en": "You and a rival play Chicken: driving toward each other - first to swerve loses; if neither swerves, both crash. You tend to?",
+    "a_zh": "A. 提前摘下方向盘并抛到窗外，让对方看到你已无路可退",
+    "a_en": "A. Remove and throw the steering wheel out the window, visibly committing to no retreat.",
+    "b_zh": "B. 准备在最后一刻才转向，赌对方比自己更怕死",
+    "b_en": "B. Plan to swerve at the last moment, betting the other fears death more."
+  },
+  {
+    "q_zh": "在一个重复博弈中，对方一直合作，但你知道他偶尔有不明收益来源。你怀疑他在通过试错测试你的底线。你会？",
+    "q_en": "In a repeated game, the other side consistently cooperates, but you know they have occasional unexplained gains. You suspect they are probing your limit. You would?",
+    "a_zh": "A. 在下一轮突然背叛一次，让对方明白你也会报复而非一味宽容",
+    "a_en": "A. Sudden defect one round to warn them that you will retaliate, not always forgive.",
+    "b_zh": "B. 继续合作但暗中记录所有异常，等累积证据后再摊牌",
+    "b_en": "B. Keep cooperating but secretly log irregularities, then confront when evidence mounts."
+  },
+  {
+    "q_zh": "你和搭档共同面对第三方竞争者，但你和搭档内部也有利益冲突。最稳妥的同盟策略是？",
+    "q_en": "You and a partner face a common rival, yet you and your partner also have internal conflicts. Most stable alliance strategy?",
+    "a_zh": "A. 建立“内紧外松”机制：对外一致，对内设置独立仲裁却保持各自最大利益",
+    "a_en": "A. Establish a 'tight outside, loose inside' pact: unify externally but internally set independent arbitration while preserving each side's core interests.",
+    "b_zh": "B. 乘竞争对手施压时，暗中削弱同伴以获取内部优势",
+    "b_en": "B. Exploit the rival's pressure to secretly weaken your partner for internal advantage."
+  },
+  {
+    "q_zh": "在谈判中，你发现对方有一处明显的逻辑漏洞，若利用可大幅占优，但会损害长期信任。你选择？",
+    "q_en": "During negotiation, you spot a glaring logical loophole in their position that you can exploit for big gains, but it may damage long-term trust. You choose?",
+    "a_zh": "A. 当下不点破，但将其作为私下交换对方让步的筹码",
+    "a_en": "A. Don't expose it now, but preserve it as private leverage for future concessions.",
+    "b_zh": "B. 当场指出漏洞，展示你的分析力，但要求合理而非极端收益",
+    "b_en": "B. Point it out immediately to show your analytical edge, but demand only reasonable gains."
   }
 ]
