@@ -16749,5 +16749,85 @@
     "a_en": "A. Don't expose it now, but preserve it as private leverage for future concessions.",
     "b_zh": "B. 当场指出漏洞，展示你的分析力，但要求合理而非极端收益",
     "b_en": "B. Point it out immediately to show your analytical edge, but demand only reasonable gains."
+  },
+  {
+    "q_zh": "你被关在一个房间，和另一名陌生人进行以下选择：若双方都沉默，各判1年；若你背叛而对方沉默，你获释，对方判10年；若都背叛，各判5年。对方看起来容易紧张。你会选？",
+    "q_en": "You and a stranger are in separate rooms facing this choice: if both stay silent, each gets 1 year; if you betray while they stay silent, you go free and they get 10 years; if both betray, each gets 5 years. The other seems anxious. What do you choose?",
+    "a_zh": "沉默，赌对方也沉默",
+    "a_en": "Stay silent, betting the other also stays silent",
+    "b_zh": "背叛，抢先确保自己安全",
+    "b_en": "Betray to secure your own safety first"
+  },
+  {
+    "q_zh": "一场拍卖中，投标的只有你和对手。规则是：出价最高者获胜，但你和对手都要支付自己的报价（即使输）。对手先出价100元，现在轮到你。你评估奖品价值约80元。你会？",
+    "q_en": "In an auction, only you and one opponent bid. Rule: the highest bid wins, but both pay their own bid even if they lose. Opponent bid ¥100 first. It's your turn. You estimate the prize is worth ~¥80. What do you do?",
+    "a_zh": "放弃出价，认输止损",
+    "a_en": "Drop out, accept the loss and stop",
+    "b_zh": "出价110元，赌对手不愿再跟",
+    "b_en": "Bid ¥110, betting opponent won't follow"
+  },
+  {
+    "q_zh": "两人分100元。你提出分配方案，对方若接受则按方案分；若拒绝则两人都拿不到。对方明确表示讨厌不公平。你会提议自己拿多少？",
+    "q_en": "Split ¥100. You propose a split; if the other accepts, it's done; if they refuse, both get nothing. The other clearly hates unfairness. How much do you propose for yourself?",
+    "a_zh": "拿70元，试探对方底线",
+    "a_en": "Take ¥70, testing their threshold",
+    "b_zh": "拿50元，确保对方接受",
+    "b_en": "Take ¥50, ensuring acceptance"
+  },
+  {
+    "q_zh": "你和对手各有一张牌：你的是A（大），对手的未知但可能是K或Q。你们同时亮牌，大者赢走底池。底池大，但对手刚才已经连续偷看了你三次（你知道他在观察你的微表情）。你会？",
+    "q_en": "You and opponent each have a card: yours is an Ace (high). Theirs unknown, could be King or Queen. You reveal simultaneously; higher card wins pot. The pot is large, but opponent has repeatedly stared at you (you know they're reading your micro-expressions). What do you do?",
+    "a_zh": "表现平静且自信，下大注",
+    "a_en": "Act calm and confident, bet big",
+    "b_zh": "故意露出犹豫，误导对手",
+    "b_en": "Deliberately look hesitant, to mislead"
+  },
+  {
+    "q_zh": "团队接力赛，你和搭档每人贡献一半路程。搭档的性格非常争强好胜，他先跑前半程，你跑后半程。如果前半程他投入所有体力，你们全程最快，但他可能后半程虚脱拖累整体。他现在问你，他应该留多少体力给你？",
+    "q_en": "In a relay race, you and a teammate each cover half. Your partner is extremely competitive and runs the first half. If he goes all out, the team may be fastest overall early, but he could collapse later and hurt the result. He asks you how much energy to save for you. What do you say?",
+    "a_zh": "让他全速跑，你相信自己能补救",
+    "a_en": "Tell him to run full speed, you trust you can fix it",
+    "b_zh": "让他保留三成体力你也只出八成力",
+    "b_en": "Ask him to save 30% energy, and you only give 80% effort"
+  },
+  {
+    "q_zh": "走私游戏：你负责运输，对方负责接货。若你按时到且无人跟踪，成功则各得20万；若你晚到一小时，警方会起疑但对方保持冷静，成功各得15万；若你早到而被发现，双方损失。对方刚发消息说“我这边有警车转悠”。你预期他会晚到。你会？",
+    "q_en": "Smuggling game: you transport, they receive. If you arrive on time and untracked, you both earn ¥200k. If you're one hour late, police might suspect but if receiver stays calm you get ¥150k each. If you arrive early and get spotted, you both lose. They just texted 'police car circling here.' You expect them to be late. What do you do?",
+    "a_zh": "准时到达，赌他们能处理风险",
+    "a_en": "Arrive on time, betting they manage the risk",
+    "b_zh": "故意迟到一小时，降低风险",
+    "b_en": "Deliberately be one hour late to reduce risk"
+  },
+  {
+    "q_zh": "谈判中，你代表公司出价收购对方。你的上限是500万，但对方心理价位可能在300-400万。对方显得急于出手。你第一次出价应该？",
+    "q_en": "In a negotiation, you represent your company buying from them. Your hard ceiling is ¥5M. Their likely acceptable range is ¥3-4M. They seem eager to sell. What's your first offer?",
+    "a_zh": "出200万，低开留空间",
+    "a_en": "Offer ¥2M, low to leave room",
+    "b_zh": "出350万，直接接近其期望",
+    "b_en": "Offer ¥3.5M,接近其期望"
+  },
+  {
+    "q_zh": "你经营两家咖啡馆，竞争对手在同一街区开了一家新店。对方正打价格战，你的老客户开始流失。你估计如果跟进降价，利润会降20%，但能保住客源；如果不跟，客户流失30%但利润保持。对手财力比你雄厚。你的选择？",
+    "q_en": "You run two coffee shops. A competitor opened nearby and is price-warring. Your regulars are drifting away. If you match cuts, your profit drops 20% but you keep most customers. If you don't cut, you lose 30% of customers but keep margins. The opponent has deeper pockets than you. What do you do?",
+    "a_zh": "跟进降价，死守市场份额",
+    "a_en": "Match cuts, defend market share at all costs",
+    "b_zh": "不降价，转而提升品质和服务",
+    "b_en": "Don't cut prices; instead improve quality and service"
+  },
+  {
+    "q_zh": "你们被困在荒岛上，有一捆木棍。有人提出建议：每人每天轮流拿走一根，共3天。但你发现其中一根特别粗，价值相当于三根。规则允许你可以先挑，然后别人知道剩下只有普通棍。你会？",
+    "q_en": "Stranded on an island with a bundle of sticks. Someone suggests each person takes one per day, over 3 days. But you notice one thick stick worth 3 normal ones. The rule allows you to pick first, and others will know only normal sticks are left. What do you do?",
+    "a_zh": "先拿那根粗的，不管公平",
+    "a_en": "Take the thick one first, ignoring fairness",
+    "b_zh": "先拿普通棍，最后再拿粗的",
+    "b_en": "Take a normal first, then the thick one last"
+  },
+  {
+    "q_zh": "在重复性博弈中（未来还会多次合作），上一轮对方背叛了你，这一轮你相信对方可能以为你会报复。如果你报复（也背叛），双方关系恶化但能保住尊严；如果原谅（沉默），可能被当软弱但积累信任。对方性格记仇，你看重长期利益。此时你会？",
+    "q_en": "In a repeated game (future rounds matter), in the last round the other betrayed you. This round, you believe they might expect you to retaliate. If you retaliate (also betray), it damages the relationship but saves face. If you forgive (stay silent), you may look weak but build trust. The other is vengeful, and you care about long-term gain. What do you do?",
+    "a_zh": "果断报复，树立不好惹的形象",
+    "a_en": "Retaliate decisively, building a tough reputation",
+    "b_zh": "沉默一次，表示你愿意恢复正常合作",
+    "b_en": "Stay silent once, showing willingness to return to cooperation"
   }
 ]
