@@ -16829,5 +16829,83 @@
     "a_en": "Retaliate decisively, building a tough reputation",
     "b_zh": "沉默一次，表示你愿意恢复正常合作",
     "b_en": "Stay silent once, showing willingness to return to cooperation"
+  },
+  {
+    "q_zh": "你在谈判中已给出最后报价，对方沉默不语。此时你更倾向于怎么做？",
+    "q_en": "You've made a final offer in a negotiation and the other side is silent. What do you lean toward doing now?",
+    "a_zh": "继续沉默，等待对方先开口，以施压",
+    "a_en": "Stay silent and let them speak first, to apply pressure",
+    "b_zh": "主动打破沉默，补充让步或解释理由",
+    "b_en": "Break the silence yourself, add a concession or explanation"
+  },
+  {
+    "q_zh": "坚持随机，避免被对方看透模式",
+    "q_en": "Keep randomizing, to avoid being predictable",
+    "b_zh": "找出其规律，针对性设计反制策略",
+    "b_en": "Find the pattern and design a counter-strategy"
+  },
+  {
+    "q_zh": "在多人博弈中，你与某人暂时结盟，但对方刚背叛了你一次。你会？",
+    "q_en": "In a multiplayer game, you've formed a temporary alliance, but they just betrayed you once. What do you do?",
+    "a_zh": "立即报复背叛，让对方知道代价",
+    "a_en": "Retaliate immediately to teach them the cost",
+    "b_zh": "忽略这次，维持联盟以图长远利益",
+    "b_en": "Let it go and keep the alliance for long-term gain"
+  },
+  {
+    "q_zh": "你手上有一张关键牌，可以立刻获得优势，但会暴露你的意图。你倾向于？",
+    "q_en": "You hold a key card that can give you an immediate advantage, but it reveals your intentions. You tend to?",
+    "a_zh": "立刻使用，获取眼前的胜利",
+    "a_en": "Play it now for the immediate win",
+    "b_zh": "保留起来，等待更合适的时机",
+    "b_en": "Save it for a better opportunity later"
+  },
+  {
+    "q_zh": "当对手表现出过度自信时，你的首选反应是？",
+    "q_en": "When your opponent displays overconfidence, your first reaction is?",
+    "a_zh": "利用其轻敌心理，设下陷阱",
+    "a_en": "Exploit their arrogance by setting a trap",
+    "b_zh": "直接挑战其自信，进行正面硬碰",
+    "b_en": "Confront them head-on to shake that confidence"
+  },
+  {
+    "q_zh": "你连续输掉几轮，但局面还未完全失控。你会？",
+    "q_en": "You've lost several rounds in a row, but the situation isn't out of control yet. What do you do?",
+    "a_zh": "改变风格，突然采取激进/保守策略",
+    "a_en": "Drastically change your style to aggressive/conservative",
+    "b_zh": "维持原状，相信概率会均值回归",
+    "b_en": "Stay consistent, trusting the law of averages"
+  },
+  {
+    "q_zh": "你看到对方露出焦虑的微表情，但无法百分百确定其真实性。你会？",
+    "q_en": "You notice a micro-expression of anxiety from your opponent, but can't be 100% sure it's genuine. You will?",
+    "a_zh": "视为真实信号，乘胜追击",
+    "a_en": "Treat it as a real signal and press your advantage",
+    "b_zh": "视为诱饵，故意反向行动",
+    "b_en": "Treat it as bait and deliberately do the opposite"
+  },
+  {
+    "q_zh": "在重复博弈中，你更愿意建立哪种形象？",
+    "q_en": "In a repeated game, which reputation do you prefer to build?",
+    "a_zh": "温和但有底线，可合作但不可欺负",
+    "a_en": "Nice but with limits - cooperative but not exploitable",
+    "b_zh": "强硬且不可预测，让别人难以应对",
+    "b_en": "Tough and unpredictable - hard for others to deal with"
+  },
+  {
+    "q_zh": "当你拥有信息优势（知道对手不知道的内部消息），你会？",
+    "q_en": "When you have an information advantage (knowing inside facts your opponent doesn't), you will?",
+    "a_zh": "隐藏信息，暗中利用它获利",
+    "a_en": "Hide the info and use it quietly to profit",
+    "b_zh": "主动透露部分信息，以误导对方判断",
+    "b_en": "Proactively reveal partial info to mislead them"
+  },
+  {
+    "q_zh": "在博弈最后时刻，你处于微弱落后，只剩一次行动机会。你更偏向？",
+    "q_en": "At the very final moment, you're slightly behind and have one move left. You lean toward?",
+    "a_zh": "采取高风险的搏杀策略，赌一把逆袭",
+    "a_en": "A high-risk all-in gamble to reverse the outcome",
+    "b_zh": "采取稳守策略，等待对方犯错",
+    "b_en": "A conservative hold, hoping the opponent makes a mistake"
   }
 ]
