@@ -16907,5 +16907,85 @@
     "a_en": "A high-risk all-in gamble to reverse the outcome",
     "b_zh": "采取稳守策略，等待对方犯错",
     "b_en": "A conservative hold, hoping the opponent makes a mistake"
+  },
+  {
+    "q_zh": "你被关在一间密室，桌上有一把钥匙和一张写着“钥匙是假的”的字条。你会先相信哪个？",
+    "q_en": "You're locked in a room. On the table are a key and a note reading 'The key is fake.' Which do you trust first?",
+    "a_zh": "相信钥匙是真的，先试锁",
+    "a_en": "Trust the key is real and try the lock first",
+    "b_zh": "相信字条，先找其他出口",
+    "b_en": "Trust the note and look for another exit first"
+  },
+  {
+    "q_zh": "电梯里只有你和一位陌生人，他忽然盯着你笑。你更可能怎么想？",
+    "q_en": "You're alone in an elevator with a stranger who suddenly stares and smiles at you. What's your first thought?",
+    "a_zh": "他只是礼貌或尴尬，不必多想",
+    "a_en": "He's just being polite or awkward; no big deal",
+    "b_zh": "他在试探我或别有意图",
+    "b_en": "He's testing me or has an ulterior motive"
+  },
+  {
+    "q_zh": "朋友说：“我有个秘密，但你先答应不生气。”你更倾向于？",
+    "q_en": "A friend says, 'I have a secret, but promise you won't get angry first.' What do you lean toward?",
+    "a_zh": "先让他说，听完再判断",
+    "a_en": "Let them tell it first, then judge after hearing",
+    "b_zh": "先问清是什么事，再决定听不听",
+    "b_en": "Ask what it's about first, then decide whether to listen"
+  },
+  {
+    "q_zh": "两人同时向你求助，一个哭得很惨，一个语气平静。你更可能先帮谁？",
+    "q_en": "Two people ask for your help at the same time. One is crying hard, the other sounds calm. Who do you help first?",
+    "a_zh": "先帮哭得惨的，因为更急",
+    "a_en": "Help the one crying hard first, because it seems more urgent",
+    "b_zh": "先帮语气平静的，因为可能更危险",
+    "b_en": "Help the calm one first, because it might be more dangerous"
+  },
+  {
+    "q_zh": "你发现伴侣手机亮起一条陌生消息：“昨晚很开心。”你更可能？",
+    "q_en": "You notice a message on your partner's phone from a stranger: 'Had a great time last night.' What are you more likely to do?",
+    "a_zh": "先直接问伴侣，不自己脑补",
+    "a_en": "Ask your partner directly instead of imagining things",
+    "b_zh": "先记住内容，暗中观察",
+    "b_en": "Remember the message first and observe secretly"
+  },
+  {
+    "q_zh": "谈判中对方突然沉默，盯着你不说话。你更可能？",
+    "q_en": "In a negotiation, the other side suddenly goes silent and stares at you. What are you more likely to do?",
+    "a_zh": "主动开口打破沉默",
+    "a_en": "Speak up first to break the silence",
+    "b_zh": "也保持沉默，等对方先开口",
+    "b_en": "Stay silent too and wait for them to speak first"
+  },
+  {
+    "q_zh": "你捡到一个钱包，里面有现金和身份证。你更可能？",
+    "q_en": "You find a wallet with cash and an ID card. What are you more likely to do?",
+    "a_zh": "想办法联系失主归还",
+    "a_en": "Try to contact the owner and return it",
+    "b_zh": "交给警察或附近管理处",
+    "b_en": "Hand it to the police or a nearby office"
+  },
+  {
+    "q_zh": "同事在会上把你的功劳说成他的。你更可能？",
+    "q_en": "A colleague takes credit for your work in a meeting. What are you more likely to do?",
+    "a_zh": "当场澄清，把事实说清楚",
+    "a_en": "Clarify on the spot and state the facts",
+    "b_zh": "会后私下找他谈，不公开冲突",
+    "b_en": "Talk to him privately after the meeting to avoid public conflict"
+  },
+  {
+    "q_zh": "你参加一个游戏，规则是：背叛可拿大奖，合作则平分。你更可能？",
+    "q_en": "You're in a game where betrayal wins big, while cooperation splits the reward. What are you more likely to choose?",
+    "a_zh": "选择合作，先建立信任",
+    "a_en": "Choose cooperation and build trust first",
+    "b_zh": "选择背叛，先保证自己利益",
+    "b_en": "Choose betrayal to secure your own interests first"
+  },
+  {
+    "q_zh": "有人对你说：“我这是为你好。”你更可能？",
+    "q_en": "Someone tells you, 'I'm doing this for your own good.' What are you more likely to think?",
+    "a_zh": "先感谢，再自己判断是否接受",
+    "a_en": "Thank them first, then decide for yourself whether to accept it",
+    "b_zh": "先警惕，怀疑对方在控制我",
+    "b_en": "Be wary first and suspect they're trying to control me"
   }
 ]
