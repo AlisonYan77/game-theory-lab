@@ -16987,5 +16987,85 @@
     "a_en": "Thank them first, then decide for yourself whether to accept it",
     "b_zh": "先警惕，怀疑对方在控制我",
     "b_en": "Be wary first and suspect they're trying to control me"
+  },
+  {
+    "q_zh": "你发现一位好友在社交媒体上发布了明显错误的健康信息。你会怎么做？",
+    "q_en": "You notice a friend has posted obviously false health information on social media. What do you do?",
+    "a_zh": "公开评论纠正他，让其他人也看到正确信息。",
+    "a_en": "Publicly comment to correct them, so others see the correct information too.",
+    "b_zh": "私下发消息提醒他，避免让他当众难堪。",
+    "b_en": "Privately message them to avoid embarrassing them publicly."
+  },
+  {
+    "q_zh": "你和同事竞争同一个晋升名额，你发现他私下违反了公司规定。你会？",
+    "q_en": "You and a colleague are competing for the same promotion, and you discover they secretly violated company rules. What do you do?",
+    "a_zh": "向领导举报，规则就是规则。",
+    "a_en": "Report it to management—rules are rules.",
+    "b_zh": "保持沉默，不想靠这种方式赢得竞争。",
+    "b_en": "Stay silent—you don't want to win this way."
+  },
+  {
+    "q_zh": "朋友向你借了一笔钱，约定一个月归还，但三个月过去了他只字不提。你会？",
+    "q_en": "A friend borrowed money, promised to repay in a month, but three months have passed in silence. What do you do?",
+    "a_zh": "直接开口要回来，亲兄弟明算账。",
+    "a_en": "Ask for it back directly—clear accounts keep good friendships.",
+    "b_zh": "再等等，怕开口伤感情。",
+    "b_en": "Wait longer—you fear asking will hurt the friendship."
+  },
+  {
+    "q_zh": "你在网上看到一个你很讨厌的人遭遇了不幸。你的第一反应是？",
+    "q_en": "You see online that someone you dislike has suffered a misfortune. Your first reaction?",
+    "a_zh": "虽然不喜欢他，但还是感到同情。",
+    "a_en": "Despite disliking them, you still feel sympathy.",
+    "b_zh": "心里有一丝暗爽，觉得是报应。",
+    "b_en": "A small sense of satisfaction—it feels like karma."
+  },
+  {
+    "q_zh": "团队项目成功了，但主要功劳其实是你的，领导却表扬了另一个人。你会？",
+    "q_en": "The team project succeeded, but the main credit was yours, yet your boss praised someone else. What do you do?",
+    "a_zh": "找机会向领导说明自己的实际贡献。",
+    "a_en": "Find a chance to clarify your actual contribution to the boss.",
+    "b_zh": "算了，团队成功就好，不计较个人得失。",
+    "b_en": "Let it go—team success matters more than personal credit."
+  },
+  {
+    "q_zh": "你在电梯里捡到一个钱包，里面有大量现金和失主证件。你会？",
+    "q_en": "You find a wallet in an elevator with a lot of cash and the owner's ID. What do you do?",
+    "a_zh": "立刻联系失主或交给物业，尽快归还。",
+    "a_en": "Contact the owner or hand it to building management immediately.",
+    "b_zh": "先拿走现金，再把钱包交给警察。",
+    "b_en": "Take the cash first, then turn the wallet in to the police."
+  },
+  {
+    "q_zh": "你的伴侣翻看了你的手机，你感到被侵犯隐私。你会？",
+    "q_en": "Your partner went through your phone, and you feel your privacy was violated. What do you do?",
+    "a_zh": "严肃沟通，明确表达自己的底线。",
+    "a_en": "Have a serious talk and clearly state your boundaries.",
+    "b_zh": "假装不在意，但心里记下这笔账。",
+    "b_en": "Pretend it's fine, but quietly keep score."
+  },
+  {
+    "q_zh": "你在排队时，有人插队到你前面。你会？",
+    "q_en": "Someone cuts in line right in front of you. What do you do?",
+    "a_zh": "当场指出，要求他排到后面去。",
+    "a_en": "Call it out on the spot and tell them to go to the back.",
+    "b_zh": "忍了，不想为小事起冲突。",
+    "b_en": "Let it go—not worth a conflict over something small."
+  },
+  {
+    "q_zh": "你获得了一个重要的内部消息，可能影响股价。你会？",
+    "q_en": "You receive important insider information that could affect stock prices. What do you do?",
+    "a_zh": "利用它获利，机会难得。",
+    "a_en": "Use it to profit—such chances are rare.",
+    "b_zh": "不碰，违法的事不干。",
+    "b_en": "Stay away—you don't do illegal things."
+  },
+  {
+    "q_zh": "你的好友请你帮忙撒谎，为他做不在场证明。你会？",
+    "q_en": "A close friend asks you to lie to provide them with an alibi. What do you do?",
+    "a_zh": "拒绝，帮忙可以但不能违法。",
+    "a_en": "Refuse—you'll help, but not break the law.",
+    "b_zh": "答应，朋友有难必须帮。",
+    "b_en": "Agree—friends must help each other in trouble."
   }
 ]
