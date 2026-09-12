@@ -17067,5 +17067,85 @@
     "a_en": "Refuse—you'll help, but not break the law.",
     "b_zh": "答应，朋友有难必须帮。",
     "b_en": "Agree—friends must help each other in trouble."
+  },
+  {
+    "q_zh": "你在一场游戏中领先，但规则允许你选择：拿走当前一半的奖金立刻结束，或者继续挑战可能翻倍但失败则一无所有。你选？",
+    "q_en": "You are leading in a game, but the rules let you choose: take half the current prize and end now, or continue for a chance to double it but lose everything if you fail. What do you choose?",
+    "a_zh": "拿走一半，立刻结束",
+    "a_en": "Take half and end now",
+    "b_zh": "继续挑战，争取翻倍",
+    "b_en": "Continue for a chance to double it"
+  },
+  {
+    "q_zh": "你和对手各有一枚硬币，同时选择正面或反面。若两人相同，你赢；若不同，对方赢。你会选？",
+    "q_en": "You and your opponent each have a coin and simultaneously choose heads or tails. If they match, you win; if they differ, your opponent wins. What do you choose?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "团队合作能带来最大共同收益，但如果你偷偷少出力，个人收益会更高。你更倾向于？",
+    "q_en": "Teamwork yields the greatest shared benefit, but if you secretly put in less effort, your personal payoff is higher. Which do you lean toward?",
+    "a_zh": "全力合作，追求共同收益",
+    "a_en": "Cooperate fully and pursue shared benefit",
+    "b_zh": "偷偷少出力，先保个人收益",
+    "b_en": "Secretly contribute less to secure personal gain"
+  },
+  {
+    "q_zh": "你面对一个陌生人，双方都可以选择“信任”或“背叛”。若都信任，各得 5 分；若你信任对方背叛，你得 0 分、对方得 10 分。你先选？",
+    "q_en": "You face a stranger, and both can choose Trust or Betray. If both trust, each gets 5 points; if you trust and they betray, you get 0 and they get 10. What do you choose first?",
+    "a_zh": "信任",
+    "a_en": "Trust",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "你在一场拍卖中已经投入很多，若继续加价可能回本，但也可能越陷越深。你会？",
+    "q_en": "You have already invested a lot in an auction. Bidding more may recover your costs, but it may also sink you deeper. What do you do?",
+    "a_zh": "继续加价，争取回本",
+    "a_en": "Keep bidding to recover costs",
+    "b_zh": "立刻停止，接受损失",
+    "b_en": "Stop immediately and accept the loss"
+  },
+  {
+    "q_zh": "你可以选择独享 8 分，或者与另一位玩家平分 20 分。但对方若不接受平分方案，你们都将得 0 分。你提出？",
+    "q_en": "You can take 8 points for yourself, or split 20 points equally with another player. But if they reject the split, you both get 0. What do you propose?",
+    "a_zh": "独享 8 分",
+    "a_en": "Take 8 points for yourself",
+    "b_zh": "提出平分 20 分",
+    "b_en": "Propose splitting 20 equally"
+  },
+  {
+    "q_zh": "在公共资源游戏中，每个人都可以取走资源。如果大家适度取用，资源可持续；如果都多取，资源会枯竭。你？",
+    "q_en": "In a common-resource game, everyone can take from the resource. If everyone takes moderately, it lasts; if everyone takes too much, it collapses. What do you do?",
+    "a_zh": "适度取用，维持长期收益",
+    "a_en": "Take moderately to sustain long-term payoff",
+    "b_zh": "尽量多取，先拿到手",
+    "b_en": "Take as much as possible while you can"
+  },
+  {
+    "q_zh": "你和搭档要分配一项任务：认真做会花很多精力，但成果更好；敷衍做更轻松，但可能被对方发现。你选？",
+    "q_en": "You and a partner must split a task: doing it seriously takes more effort but yields better results; slacking is easier but may be noticed. What do you choose?",
+    "a_zh": "认真做，保证成果",
+    "a_en": "Do it seriously and ensure quality",
+    "b_zh": "敷衍做，先省精力",
+    "b_en": "Slack off to save energy"
+  },
+  {
+    "q_zh": "谈判中，你可以先开出一个极端条件施压，也可以先提出温和条件建立信任。你更可能？",
+    "q_en": "In a negotiation, you can open with an extreme demand to apply pressure, or start with a moderate offer to build trust. Which are you more likely to do?",
+    "a_zh": "先开极端条件施压",
+    "a_en": "Open with an extreme demand to pressure them",
+    "b_zh": "先提温和条件建立信任",
+    "b_en": "Start with a moderate offer to build trust"
+  },
+  {
+    "q_zh": "你发现对方在上一轮欺骗了你。下一轮你们仍要互动，你会？",
+    "q_en": "You find that your counterpart deceived you in the last round. You still have to interact next round. What do you do?",
+    "a_zh": "选择报复，让对方付出代价",
+    "a_en": "Retaliate and make them pay a price",
+    "b_zh": "选择原谅，尝试重新合作",
+    "b_en": "Forgive and try to cooperate again"
   }
 ]
