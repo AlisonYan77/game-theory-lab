@@ -17147,5 +17147,85 @@
     "a_en": "Retaliate and make them pay a price",
     "b_zh": "选择原谅，尝试重新合作",
     "b_en": "Forgive and try to cooperate again"
+  },
+  {
+    "q_zh": "你被关在一间有两个出口的房间里：A 出口承诺给你 100 万但不保证安全；B 出口承诺绝对安全但没有钱。你会选哪个？",
+    "q_en": "You're trapped in a room with two exits: Exit A promises you $1 million but no guarantee of safety; Exit B guarantees absolute safety but no money. Which do you choose?",
+    "a_zh": "选 A：先拿到 100 万，再冒险赌一把安全",
+    "a_en": "Choose A: take the $1 million first, then gamble on safety",
+    "b_zh": "选 B：安全最重要，钱可以以后再赚",
+    "b_en": "Choose B: safety matters most; money can be earned later"
+  },
+  {
+    "q_zh": "你发现伴侣手机里有一条暧昧短信。你更倾向于：",
+    "q_en": "You find a flirtatious text on your partner's phone. You're more inclined to:",
+    "a_zh": "A：立刻摊牌质问，要求对方解释清楚",
+    "a_en": "A: Confront them immediately and demand an explanation",
+    "b_zh": "B：先不动声色，暗中观察收集更多信息",
+    "b_en": "B: Stay quiet for now and secretly observe to gather more information"
+  },
+  {
+    "q_zh": "你和同事竞争同一个晋升名额，你偶然得知他私下说了你的坏话。你会：",
+    "q_en": "You and a colleague are competing for the same promotion, and you happen to learn he badmouthed you in private. What do you do?",
+    "a_zh": "A：直接向上级反映他的行为，正面反击",
+    "a_en": "A: Report his behavior to your superior and fight back directly",
+    "b_zh": "B：用业绩说话，不纠缠，让结果证明一切",
+    "b_en": "B: Let your performance speak and avoid entanglement, letting results prove everything"
+  },
+  {
+    "q_zh": "朋友向你借一大笔钱，说一个月还，但你知道他过去有拖欠记录。你会：",
+    "q_en": "A friend asks to borrow a large sum, saying he'll repay in a month, but you know he has a history of delaying repayment. What do you do?",
+    "a_zh": "A：借，但要求写借条并约定利息",
+    "a_en": "A: Lend it, but require a written IOU and agreed interest",
+    "b_zh": "B：不借，直接拒绝以免伤感情又伤钱",
+    "b_en": "B: Don't lend it and refuse directly to avoid hurting both feelings and finances"
+  },
+  {
+    "q_zh": "在一场谈判中，对方迟迟不肯让步，而你的时间快到了。你会：",
+    "q_en": "In a negotiation, the other side refuses to budge, and your time is running out. You will:",
+    "a_zh": "A：亮出底线，威胁退出谈判施压",
+    "a_en": "A: Reveal your bottom line and threaten to walk away to apply pressure",
+    "b_zh": "B：先小幅让步，换取对方也退一步",
+    "b_en": "B: Make a small concession first to get the other side to move a little too"
+  },
+  {
+    "q_zh": "你发现团队里有人搭便车不干活，但项目快截止了。你会：",
+    "q_en": "You notice someone on your team is free-riding and not working, but the project deadline is near. You will:",
+    "a_zh": "A：当众点出问题，逼他承担责任",
+    "a_en": "A: Call out the problem publicly and force him to take responsibility",
+    "b_zh": "B：先默默补位完成项目，事后再算账",
+    "b_en": "B: Quietly cover the gap to finish the project first, then settle accounts later"
+  },
+  {
+    "q_zh": "你在网上看到一条可能让你暴富但风险极高的投资机会，且很多人都在晒收益。你会：",
+    "q_en": "You see an online investment opportunity with huge potential returns but extremely high risk, and many people are posting profits. You will:",
+    "a_zh": "A：小仓位试水，搏一把高回报",
+    "a_en": "A: Try a small position and gamble on a high return",
+    "b_zh": "B：完全不碰，远离看不懂的高风险局",
+    "b_en": "B: Stay completely away and avoid high-risk games you don't understand"
+  },
+  {
+    "q_zh": "你捡到一个装满现金的钱包，里面还有失主的身份证。你会：",
+    "q_en": "You find a wallet full of cash with the owner's ID inside. You will:",
+    "a_zh": "A：设法联系失主归还，可能得到酬谢",
+    "a_en": "A: Try to contact the owner and return it, possibly getting a reward",
+    "b_zh": "B：交给警察，省事又不担责任",
+    "b_en": "B: Hand it to the police—simple and avoids responsibility"
+  },
+  {
+    "q_zh": "你和对手玩囚徒困境，这是最后一轮，之前你们一直合作。你会：",
+    "q_en": "You're playing a prisoner's dilemma with an opponent, and this is the final round; you've cooperated until now. You will:",
+    "a_zh": "A：继续合作，守住信誉",
+    "a_en": "A: Keep cooperating and preserve your credibility",
+    "b_zh": "B：最后一轮背叛，最大化自己的收益",
+    "b_en": "B: Betray in the final round to maximize your own payoff"
+  },
+  {
+    "q_zh": "你暗恋的人让你帮忙追求你的好朋友。你会：",
+    "q_en": "The person you secretly like asks you to help them pursue your good friend. You will:",
+    "a_zh": "A：坦白自己的心意，争取一次机会",
+    "a_en": "A: Confess your feelings and fight for one chance",
+    "b_zh": "B：成全他们，把感情藏在心里",
+    "b_en": "B: Let them be together and hide your feelings in your heart"
   }
 ]
