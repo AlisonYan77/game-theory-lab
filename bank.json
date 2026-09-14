@@ -17227,5 +17227,85 @@
     "a_en": "A: Confess your feelings and fight for one chance",
     "b_zh": "B：成全他们，把感情藏在心里",
     "b_en": "B: Let them be together and hide your feelings in your heart"
+  },
+  {
+    "q_zh": "你和一位陌生人共同面对一笔奖金。规则是：你提出分配方案，对方只能接受或拒绝。如果拒绝，两人都拿不到钱。你会提出？",
+    "q_en": "You and a stranger share a cash prize. You propose a split; the other can only accept or reject. If rejected, both get nothing. What do you propose?",
+    "a_zh": "五五平分，确保对方愿意接受",
+    "a_en": "Split 50/50 to make acceptance likely",
+    "b_zh": "自己拿九成，只给对方一成",
+    "b_en": "Take 90% and offer only 10%"
+  },
+  {
+    "q_zh": "同事请你帮忙完成他的紧急任务，但你自己也很忙。你知道他下次很可能不会回报你。你会？",
+    "q_en": "A colleague asks for help with an urgent task, but you're busy. You know he's unlikely to repay you next time. What do you do?",
+    "a_zh": "先帮他，哪怕这次吃亏，也维护关系",
+    "a_en": "Help anyway, even at a cost, to preserve the relationship",
+    "b_zh": "拒绝，把时间留给自己的事",
+    "b_en": "Refuse and keep time for your own work"
+  },
+  {
+    "q_zh": "你和对手同时选择“合作”或“背叛”。如果只有你合作，你会损失很大；如果双方都合作，收益最大。你更倾向于？",
+    "q_en": "You and a rival simultaneously choose “cooperate” or “betray.” If only you cooperate, you lose big; if both cooperate, you gain the most. What are you more inclined to do?",
+    "a_zh": "先合作，赌对方也会合作",
+    "a_en": "Cooperate first, betting the other will too",
+    "b_zh": "先背叛，防止自己被利用",
+    "b_en": "Betray first to avoid being exploited"
+  },
+  {
+    "q_zh": "朋友向你借钱，金额不小，但没有借条。你知道他有过拖欠别人的记录。你会？",
+    "q_en": "A friend asks to borrow a significant amount with no written contract. You know he has a history of delaying repayment. What do you do?",
+    "a_zh": "借给他，但约定明确还款时间",
+    "a_en": "Lend it, but set a clear repayment deadline",
+    "b_zh": "不借，直接说明风险太大",
+    "b_en": "Don’t lend and explain the risk is too high"
+  },
+  {
+    "q_zh": "在团队项目中，你可以选择多干活让项目更好，也可以只完成最低要求。别人大概率不会知道你具体做了多少。你会？",
+    "q_en": "In a team project, you can do extra work to improve the outcome or do only the minimum. Others likely won’t know exactly how much you did. What do you do?",
+    "a_zh": "尽量多贡献，重视集体结果",
+    "a_en": "Contribute as much as possible and value the team outcome",
+    "b_zh": "只做最低要求，避免被当免费劳力",
+    "b_en": "Do only the minimum to avoid being used for free labor"
+  },
+  {
+    "q_zh": "你发现伴侣撒了一个小谎，但揭穿它可能引发大争吵。你更可能会？",
+    "q_en": "You discover your partner told a small lie, but exposing it may trigger a big fight. What are you more likely to do?",
+    "a_zh": "直接指出，要求对方解释",
+    "a_en": "Point it out directly and ask for an explanation",
+    "b_zh": "暂时不说，观察是否还有更多问题",
+    "b_en": "Stay silent for now and watch whether bigger issues appear"
+  },
+  {
+    "q_zh": "一个陌生人在网上发起募捐，故事很感人，但你无法核实真假。你会？",
+    "q_en": "A stranger starts an online fundraiser with a moving story, but you can’t verify whether it’s true. What do you do?",
+    "a_zh": "小额捐款，宁可帮错也不愿错过",
+    "a_en": "Donate a small amount; better to help wrongly than miss helping",
+    "b_zh": "不捐，无法核实就不参与",
+    "b_en": "Don’t donate; if it can’t be verified, don’t participate"
+  },
+  {
+    "q_zh": "你和竞争对手都知道，如果双方都降价，利润都会下降；如果都维持高价，利润最高。但先降价的一方可能抢到更多客户。你会？",
+    "q_en": "You and a competitor know that if both cut prices, profits fall; if both keep prices high, profits are highest. But whoever cuts first may grab more customers. What do you do?",
+    "a_zh": "维持高价，尝试形成默契",
+    "a_en": "Keep prices high and try to establish tacit cooperation",
+    "b_zh": "率先降价，抢占市场份额",
+    "b_en": "Cut prices first to seize market share"
+  },
+  {
+    "q_zh": "你在一场谈判中可以让步促成交易，也可以坚持到底争取更多利益。如果谈崩，双方都损失。你更可能？",
+    "q_en": "In a negotiation, you can concede to close the deal or hold firm for more. If talks collapse, both sides lose. What are you more likely to do?",
+    "a_zh": "适度让步，优先确保成交",
+    "a_en": "Concede moderately and prioritize closing the deal",
+    "b_zh": "坚持条件，赌对方最终会让步",
+    "b_en": "Hold firm and bet the other side will eventually concede"
+  },
+  {
+    "q_zh": "你和朋友一起吃饭，结账时可以主动多付一点，也可以精确AA。你知道朋友收入比你高。你会？",
+    "q_en": "Dining with a friend, you can either pay a bit more voluntarily or split exactly. You know your friend earns more than you. What do you do?",
+    "a_zh": "精确AA，避免自己吃亏",
+    "a_en": "Split exactly to avoid losing out",
+    "b_zh": "主动多付一点，显得大方",
+    "b_en": "Pay a bit more voluntarily to seem generous"
   }
 ]
