@@ -17307,5 +17307,85 @@
     "a_en": "Split exactly to avoid losing out",
     "b_zh": "主动多付一点，显得大方",
     "b_en": "Pay a bit more voluntarily to seem generous"
+  },
+  {
+    "q_zh": "你被卷入一场信任测试：对方先行动，你可以选择合作或背叛。若对方合作，你背叛可得最大利益；若对方背叛，你合作会损失最重。你更可能怎么做？",
+    "q_en": "You are in a trust test: the other person moves first, and you can choose to cooperate or betray. If they cooperate, betraying gives you the biggest gain; if they betray, cooperating costs you the most. What are you more likely to do?",
+    "a_zh": "先假设对方会合作，选择合作，争取长期互惠",
+    "a_en": "Assume the other person will cooperate, choose cooperation, and aim for long-term mutual benefit",
+    "b_zh": "先防一手，选择背叛，避免自己成为最大输家",
+    "b_en": "Guard against the worst first, choose betrayal, and avoid becoming the biggest loser"
+  },
+  {
+    "q_zh": "你和搭档参加分配游戏：你先提出方案，对方只能接受或拒绝。若拒绝，双方都拿不到钱。你会怎么分？",
+    "q_en": "You and a partner play a bargaining game: you propose a split first, and the other person can only accept or reject. If rejected, both get nothing. How do you split it?",
+    "a_zh": "给对方略少于一半但仍有吸引力的份额，确保他愿意接受",
+    "a_en": "Give the other person slightly less than half but still an attractive share, ensuring acceptance",
+    "b_zh": "坚持接近对半甚至多给对方一点，降低被拒绝风险",
+    "b_en": "Stick close to a 50/50 split or even give a little more, reducing the risk of rejection"
+  },
+  {
+    "q_zh": "在一个重复博弈中，对手上一轮背叛了你，但这一轮主动示好。你更倾向于：",
+    "q_en": "In a repeated game, your opponent betrayed you last round but now signals goodwill. You are more inclined to:",
+    "a_zh": "回应善意，恢复合作，因为长期关系比单次输赢更重要",
+    "a_en": "Respond with goodwill and restore cooperation, because the long-term relationship matters more than one round",
+    "b_zh": "保持警惕，先试探或惩罚一轮，避免被再次利用",
+    "b_en": "Stay alert, test or punish for one round first, and avoid being exploited again"
+  },
+  {
+    "q_zh": "你参加拍卖：出价最高者赢，但第二高的人也要支付自己的报价。你更可能：",
+    "q_en": "You are in an auction: the highest bidder wins, but the second-highest bidder also pays their bid. You are more likely to:",
+    "a_zh": "谨慎出价，提前设上限，避免陷入追价陷阱",
+    "a_en": "Bid cautiously, set a limit in advance, and avoid the bidding trap",
+    "b_zh": "根据对手气势灵活加价，争取压过对方拿下标的",
+    "b_en": "Adjust your bids based on the opponent’s momentum and push to outbid them"
+  },
+  {
+    "q_zh": "团队项目中，你可以偷懒搭便车，也可以承担更多任务。若多数人都偷懒，项目会失败。你更可能：",
+    "q_en": "In a team project, you can free ride or take on more tasks. If most people free ride, the project fails. You are more likely to:",
+    "a_zh": "先承担关键任务，带动他人投入，争取整体成功",
+    "a_en": "Take on key tasks first, motivate others to contribute, and aim for overall success",
+    "b_zh": "先观察别人投入多少，再决定自己是否努力",
+    "b_en": "Observe how much others contribute first, then decide whether to put in effort"
+  },
+  {
+    "q_zh": "你和陌生人各有一笔钱，可以选择投入公共池。投入越多，全体收益越高，但个人可保留越少。你会：",
+    "q_en": "You and a stranger each have money and can contribute to a public pool. The more you contribute, the higher everyone’s return, but the less you keep personally. What do you do?",
+    "a_zh": "投入较多，因为集体收益最大化最终也可能惠及自己",
+    "a_en": "Contribute more, because maximizing the group’s return may ultimately benefit you too",
+    "b_zh": "投入较少，因为别人可能搭便车，自己保留更稳",
+    "b_en": "Contribute less, because others may free ride, so keeping more is safer"
+  },
+  {
+    "q_zh": "你发现对手在谈判中故意虚张声势。你更可能：",
+    "q_en": "You realize your opponent is deliberately bluffing in a negotiation. You are more likely to:",
+    "a_zh": "直接点破并施压，逼对方暴露底线",
+    "a_en": "Call it out directly and apply pressure to force them to reveal their bottom line",
+    "b_zh": "不动声色，顺势利用他的虚张声势争取更大利益",
+    "b_en": "Stay calm, play along, and use their bluff to gain a bigger advantage"
+  },
+  {
+    "q_zh": "面对一个可能背叛你的伙伴，你可以先发制人或建立信任。你更相信：",
+    "q_en": "Facing a partner who might betray you, you can strike first or build trust. You believe more in:",
+    "a_zh": "先释放可信承诺，用合作换取合作",
+    "a_en": "Make a credible commitment first and exchange cooperation for cooperation",
+    "b_zh": "先掌握主动权，用实力和威慑避免被背叛",
+    "b_en": "Seize the initiative first and use strength and deterrence to prevent betrayal"
+  },
+  {
+    "q_zh": "在竞争游戏中，你可以选择公开策略让对手跟进，也可以隐藏意图突然出手。你更偏向：",
+    "q_en": "In a competitive game, you can make your strategy public so the opponent follows, or hide your intent and strike suddenly. You prefer:",
+    "a_zh": "公开部分策略，引导对手进入对己有利的节奏",
+    "a_en": "Reveal part of your strategy to guide the opponent into a rhythm favorable to you",
+    "b_zh": "隐藏真实意图，在关键节点突然行动取得优势",
+    "b_en": "Hide your true intent and act suddenly at the key moment to gain advantage"
+  },
+  {
+    "q_zh": "你只能和同一对手玩一次博弈，且没有未来交集。你更可能选择：",
+    "q_en": "You can play a game only once with the same opponent, with no future interaction. You are more likely to choose:",
+    "a_zh": "仍然倾向合作，因为守信本身就是一种稳定策略",
+    "a_en": "Still lean toward cooperation, because keeping faith is itself a stable strategy",
+    "b_zh": "更倾向自利，因为一次性关系里背叛收益通常更高",
+    "b_en": "Lean more toward self-interest, because in a one-shot relationship betrayal usually pays more"
   }
 ]
