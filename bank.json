@@ -17387,5 +17387,85 @@
     "a_en": "Still lean toward cooperation, because keeping faith is itself a stable strategy",
     "b_zh": "更倾向自利，因为一次性关系里背叛收益通常更高",
     "b_en": "Lean more toward self-interest, because in a one-shot relationship betrayal usually pays more"
+  },
+  {
+    "q_zh": "你被关在一间密室，门外有两名守卫。已知其中一人永远说真话，另一人永远说假话，但你不知道谁是谁。你只能向其中一人提一个问题来决定哪扇门通向自由。你会选择：",
+    "q_en": "You are trapped in a room with two guards outside. One always tells the truth, the other always lies, but you don't know which is which. You can ask only one question to one guard to decide which door leads to freedom. You choose to:",
+    "a_zh": "随机选一名守卫，问他：“如果我问另一名守卫哪扇门通向自由，他会指哪扇？”然后走相反的门",
+    "a_en": "Pick one guard at random and ask: 'If I asked the other guard which door leads to freedom, what would he say?' Then take the opposite door",
+    "b_zh": "分别问两名守卫同一个问题：“你这扇门通向自由吗？”然后选择回答“是”的那扇门",
+    "b_en": "Ask both guards the same question: 'Does your door lead to freedom?' Then choose the door where the answer is 'yes'"
+  },
+  {
+    "q_zh": "你和对手各有一枚硬币，同时选择正面或反面。规则：若两枚都是正面，你赢3元；若两枚都是反面，你赢1元；若一正一反，你输2元。你会：",
+    "q_en": "You and an opponent each have a coin and simultaneously choose heads or tails. Rules: if both are heads, you win $3; if both are tails, you win $1; if one heads and one tails, you lose $2. You will:",
+    "a_zh": "选择正面，因为正面时的期望收益更高",
+    "a_en": "Choose heads, because the expected payoff is higher when heads is involved",
+    "b_zh": "混合策略，随机出正面或反面，让对手无法预测",
+    "b_en": "Use a mixed strategy, randomizing between heads and tails so the opponent cannot predict"
+  },
+  {
+    "q_zh": "在一个拍卖中，拍品对你价值100元，对对手价值80元。规则是最高出价者赢得拍品并支付自己的出价（第一价格密封拍卖）。你会：",
+    "q_en": "In an auction, the item is worth $100 to you and $80 to your opponent. The highest bidder wins and pays their own bid (first-price sealed-bid auction). You will:",
+    "a_zh": "出价略低于100元，比如95元，确保有利润空间",
+    "a_en": "Bid slightly below $100, say $95, to ensure a profit margin",
+    "b_zh": "出价略低于80元，逼对手出价超过其价值",
+    "b_en": "Bid slightly below $80, forcing the opponent to bid above their value"
+  },
+  {
+    "q_zh": "你和同事合作完成一个项目。如果两人都努力，各得10分；如果一人努力一人偷懒，努力者得2分，偷懒者得14分；如果两人都偷懒，各得5分。你会：",
+    "q_en": "You and a colleague work on a project. If both work hard, each gets 10 points; if one works hard and the other slacks, the hard worker gets 2 and the slacker gets 14; if both slack, each gets 5. You will:",
+    "a_zh": "选择努力，因为合作对双方长期最有利",
+    "a_en": "Choose to work hard, because cooperation is best for both in the long run",
+    "b_zh": "选择偷懒，因为无论对方怎么做，偷懒的收益都更高",
+    "b_en": "Choose to slack, because no matter what the other does, slacking yields a higher payoff"
+  },
+  {
+    "q_zh": "你在玩一个重复囚徒困境游戏，已经进行了10轮，对手一直选择合作。第11轮你会：",
+    "q_en": "You are playing an iterated prisoner's dilemma, 10 rounds in, and your opponent has always cooperated. On round 11, you will:",
+    "a_zh": "继续合作，建立信任以获得长期最大收益",
+    "a_en": "Keep cooperating to build trust for the maximum long-term payoff",
+    "b_zh": "选择背叛，抓住机会获取一次性高额收益",
+    "b_en": "Defect to seize a one-time high payoff"
+  },
+  {
+    "q_zh": "两个公司同时决定是否进入一个新市场。如果只有一家进入，进入者获利100万；如果两家都进入，各亏损50万；如果都不进入，各获利0。你会：",
+    "q_en": "Two firms simultaneously decide whether to enter a new market. If only one enters, it earns $1M; if both enter, each loses $500K; if neither enters, each earns $0. You will:",
+    "a_zh": "进入市场，赌对方不敢进入",
+    "a_en": "Enter the market, betting the other side won't dare to enter",
+    "b_zh": "不进入，避免两家都进入时的巨额亏损",
+    "b_en": "Stay out, avoiding the huge loss if both enter"
+  },
+  {
+    "q_zh": "你在和对手玩最后通牒博弈：你提出分配方案，对方可以选择接受或拒绝。如果拒绝，两人都得不到钱。假设总金额为100元，你会提出：",
+    "q_en": "You are playing the ultimatum game: you propose a split, and the opponent can accept or reject. If rejected, both get nothing. With $100 total, you propose:",
+    "a_zh": "给对方1元，自己留99元，因为理性对手应该接受任何正收益",
+    "a_en": "Offer the opponent $1 and keep $99, because a rational opponent should accept any positive amount",
+    "b_zh": "给对方30-50元，确保对方愿意接受，避免一无所有",
+    "b_en": "Offer $30–50 to ensure acceptance and avoid getting nothing"
+  },
+  {
+    "q_zh": "你在一个公共品博弈中，组里有4人。每人可以选择投入10元到公共池，池中总额翻倍后平均分给所有人。你会：",
+    "q_en": "You are in a public goods game with 4 players. Each can invest $10 into a common pool; the total is doubled and split equally among all. You will:",
+    "a_zh": "投入10元，因为如果大家都投入，每人能拿回20元",
+    "a_en": "Invest $10, because if everyone invests, each gets $20 back",
+    "b_zh": "投入0元，因为不管别人投多少，搭便车总是最划算",
+    "b_en": "Invest $0, because free-riding is always most profitable regardless of others"
+  },
+  {
+    "q_zh": "你和对手在玩胆小鬼博弈：两人开车相向而行，谁先转向谁输。如果你确信对手绝不转向，你会：",
+    "q_en": "You are in a game of chicken: two cars drive toward each other, and whoever swerves first loses. If you are certain the opponent will never swerve, you will:",
+    "a_zh": "坚持不转向，赌对方最终会害怕",
+    "a_en": "Hold your course, betting the opponent will eventually be too afraid",
+    "b_zh": "提前转向，保住性命比赢得博弈更重要",
+    "b_en": "Swerve early, because survival matters more than winning the game"
+  },
+  {
+    "q_zh": "你在一场谈判中，对方开出了一个低于你底线的报价。你知道对方时间紧迫，急需成交。你会：",
+    "q_en": "In a negotiation, the other side makes an offer below your bottom line. You know they are time-pressed and urgently need a deal. You will:",
+    "a_zh": "直接拒绝并报出你的底线价格，展示强硬立场",
+    "a_en": "Reject it outright and state your bottom-line price, showing a firm stance",
+    "b_zh": "假装犹豫后勉强接受，先锁定交易再说",
+    "b_en": "Pretend to hesitate and reluctantly accept, locking in the deal first"
   }
 ]
