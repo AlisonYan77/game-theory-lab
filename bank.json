@@ -17467,5 +17467,85 @@
     "a_en": "Reject it outright and state your bottom-line price, showing a firm stance",
     "b_zh": "假装犹豫后勉强接受，先锁定交易再说",
     "b_en": "Pretend to hesitate and reluctantly accept, locking in the deal first"
+  },
+  {
+    "q_zh": "你是一名新员工，发现团队正在使用一种你认为低效且过时的工作流程。你会选择：",
+    "q_en": "You are a new employee and notice the team is using an inefficient and outdated workflow. Would you:",
+    "a_zh": "私下向直属领导提出优化建议，并附上具体方案",
+    "a_en": "Privately suggest improvements to your direct manager with a concrete plan",
+    "b_zh": "先完全适应现有流程，等到建立足够信任后再提出",
+    "b_en": "Fully adapt to the existing process first and raise it after building enough trust"
+  },
+  {
+    "q_zh": "你和一位同事竞争同一个晋升名额。你发现他私下向领导夸大了自己的贡献。你会：",
+    "q_en": "You and a colleague are competing for the same promotion. You discover he privately exaggerated his contributions to leadership. Would you:",
+    "a_zh": "向领导客观陈述自己的成果，不主动攻击对方",
+    "a_en": "Present your own results objectively to leadership without attacking him",
+    "b_zh": "也适度包装自己的贡献，确保不处于劣势",
+    "b_en": "Also package your contributions somewhat to avoid being at a disadvantage"
+  },
+  {
+    "q_zh": "在一次重要谈判中，对方开出了一个明显低于你预期的条件。你会：",
+    "q_en": "In an important negotiation, the other side opens with terms clearly below your expectations. Would you:",
+    "a_zh": "直接表达不满并给出你的底线，试探对方真实意图",
+    "a_en": "Directly express dissatisfaction and state your bottom line to test their real intent",
+    "b_zh": "保持沉默，先让对方继续说话，收集更多信息后再回应",
+    "b_en": "Stay silent, let them keep talking, and respond after gathering more information"
+  },
+  {
+    "q_zh": "你发现朋友在一个项目中的方案存在重大漏洞，但这个项目是他负责的。你会：",
+    "q_en": "You find a major flaw in your friend's plan for a project he is responsible for. Would you:",
+    "a_zh": "在公开讨论前私下提醒他，让他自己决定如何处理",
+    "a_en": "Privately remind him before any public discussion and let him decide how to handle it",
+    "b_zh": "在团队会议上直接指出问题，避免项目受损",
+    "b_en": "Point out the problem directly in the team meeting to prevent project damage"
+  },
+  {
+    "q_zh": "你在一个小组任务中承担了大部分工作，但最终成果署名为整个小组。下次分组时你会：",
+    "q_en": "You did most of the work in a group task, but the final output was credited to the whole group. Next time you are grouped, would you:",
+    "a_zh": "主动争取担任组长，明确分工和署名规则",
+    "a_en": "Actively seek to be group leader and clarify division of labor and credit rules",
+    "b_zh": "选择与上次表现积极的成员合作，减少搭便车现象",
+    "b_en": "Choose to work with members who were active last time to reduce free-riding"
+  },
+  {
+    "q_zh": "你在一场博弈游戏中可以秘密选择合作或背叛。你预计对方大概率会选择背叛。你会：",
+    "q_en": "In a game, you can secretly choose to cooperate or betray. You expect the other player will most likely betray. Would you:",
+    "a_zh": "仍然选择合作，用行动影响对方并为长期关系铺路",
+    "a_en": "Still choose to cooperate, influence them through action, and pave the way for a long-term relationship",
+    "b_zh": "选择背叛，先保证自己不成为被利用的一方",
+    "b_en": "Choose to betray, first ensuring you are not the one being exploited"
+  },
+  {
+    "q_zh": "你的上级提出了一个你并不认同的决策，但要求团队全力执行。你会：",
+    "q_en": "Your supervisor makes a decision you disagree with but demands full team execution. Would you:",
+    "a_zh": "在执行中保留记录，若出现问题可证明自己曾提出异议",
+    "a_en": "Execute while keeping records so you can prove you raised objections if problems arise",
+    "b_zh": "先全力执行，用实际结果来验证决策是否正确",
+    "b_en": "Fully execute first and use actual results to verify whether the decision was correct"
+  },
+  {
+    "q_zh": "你掌握了一个可能影响团队利益的关键信息，但公开它会让你失去个人优势。你会：",
+    "q_en": "You hold key information that could affect the team's interests, but revealing it would cost you your personal advantage. Would you:",
+    "a_zh": "选择性分享，只公开对团队必要且不损害自身核心利益的部分",
+    "a_en": "Share selectively, revealing only what is necessary for the team without harming your core interests",
+    "b_zh": "完全公开，认为长期信任比短期优势更重要",
+    "b_en": "Disclose everything, believing long-term trust matters more than short-term advantage"
+  },
+  {
+    "q_zh": "你和一位陌生人被分配到同一组完成一项有奖竞赛。你们只有一次沟通机会。你会：",
+    "q_en": "You and a stranger are assigned to the same team for a prize competition. You have only one chance to communicate. Would you:",
+    "a_zh": "明确表达希望双方都全力以赴，并提议平分奖励",
+    "a_en": "Clearly express that you hope both give full effort and propose splitting the reward equally",
+    "b_zh": "观察对方态度后再决定自己的投入程度，保留后手",
+    "b_en": "Observe the other person's attitude before deciding your level of effort, keeping a fallback option"
+  },
+  {
+    "q_zh": "你发现某个规则对你不利，但改变它需要说服多数人。你会：",
+    "q_en": "You find a rule unfavorable to you, but changing it requires persuading the majority. Would you:",
+    "a_zh": "联合少数同样受影响的人，形成联盟后再提出修改",
+    "a_en": "Unite with the few others also affected, form a coalition, and then propose changes",
+    "b_zh": "单独用数据和逻辑说服关键决策者，避免被看作拉帮结派",
+    "b_en": "Persuade key decision-makers alone with data and logic to avoid being seen as forming cliques"
   }
 ]
