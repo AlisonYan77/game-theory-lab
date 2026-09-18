@@ -17547,5 +17547,85 @@
     "a_en": "Unite with the few others also affected, form a coalition, and then propose changes",
     "b_zh": "单独用数据和逻辑说服关键决策者，避免被看作拉帮结派",
     "b_en": "Persuade key decision-makers alone with data and logic to avoid being seen as forming cliques"
+  },
+  {
+    "q_zh": "你被邀请参加一个游戏。主持人给你两个按钮：按A，如果对方也按A，你们各得100元；如果对方按B，你得0元，对方得200元。按B，如果对方按A，你得200元，对方得0元；如果对方按B，你们各得50元。你会按哪个？",
+    "q_en": "You are invited to a game. The host gives you two buttons: Press A. If the other person also presses A, you each get $100. If the other person presses B, you get $0 and they get $200. Press B. If the other person presses A, you get $200 and they get $0. If the other person presses B, you each get $50. Which do you press?",
+    "a_zh": "按A",
+    "a_en": "Press A",
+    "b_zh": "按B",
+    "b_en": "Press B"
+  },
+  {
+    "q_zh": "你和一个陌生人分别拿到一笔钱，各自决定投入一个公共池。投入的钱会翻倍后平均分给你们。你更倾向于投入多少？",
+    "q_en": "You and a stranger each receive some money and separately decide how much to contribute to a public pool. The contributed money is doubled and then split equally between you. How much are you more inclined to contribute?",
+    "a_zh": "投入大部分，期待对方也这么做",
+    "a_en": "Contribute most of it, expecting the other to do the same",
+    "b_zh": "投入很少或不投，保留自己的钱",
+    "b_en": "Contribute little or nothing, keeping your own money"
+  },
+  {
+    "q_zh": "在一次谈判中，对方提出了一个对你稍有利、但对他自己也不差的方案。但你怀疑他可能隐藏了信息。你会：",
+    "q_en": "In a negotiation, the other party proposes a plan that slightly favors you but is not bad for them either. But you suspect they may be hiding information. You will:",
+    "a_zh": "接受方案，见好就收",
+    "a_en": "Accept the plan, take the good deal while it lasts",
+    "b_zh": "拒绝并试探，争取更多信息",
+    "b_en": "Reject and probe, trying to get more information"
+  },
+  {
+    "q_zh": "你发现一个朋友在背后说了你的坏话，但你知道他最近压力很大。你会：",
+    "q_en": "You find out a friend has been saying bad things about you behind your back, but you know they have been under a lot of pressure lately. You will:",
+    "a_zh": "直接对峙，要求解释",
+    "a_en": "Confront them directly and demand an explanation",
+    "b_zh": "暂时沉默，观察后续行为",
+    "b_en": "Stay silent for now and observe their subsequent behavior"
+  },
+  {
+    "q_zh": "你参与一个竞标，你知道另一个竞标者是你的老朋友。你们可以合作抬高价格，也可以相互压价。你会：",
+    "q_en": "You are in a bidding contest, and you know the other bidder is an old friend. You can cooperate to drive up the price, or undercut each other. You will:",
+    "a_zh": "尝试合作，共同获利",
+    "a_en": "Try to cooperate and profit together",
+    "b_zh": "独立出价，不依赖对方",
+    "b_en": "Bid independently, not relying on the other"
+  },
+  {
+    "q_zh": "你在一个团队项目中，你的贡献明显多于其他人，但最终奖励是平均分配的。下次你还会全力投入吗？",
+    "q_en": "In a team project, your contribution is clearly more than others, but the final reward is split equally. Will you still go all out next time?",
+    "a_zh": "会，我重视团队整体成果",
+    "a_en": "Yes, I value the overall team outcome",
+    "b_zh": "不会，我会调整投入以匹配回报",
+    "b_en": "No, I will adjust my effort to match the reward"
+  },
+  {
+    "q_zh": "你和一个对手玩重复的囚徒困境。前几轮对方一直选择合作。这一轮你会：",
+    "q_en": "You are playing repeated Prisoner's Dilemma with an opponent. For the first few rounds, they have always chosen to cooperate. This round, you will:",
+    "a_zh": "继续合作，建立信任",
+    "a_en": "Continue to cooperate and build trust",
+    "b_zh": "选择背叛，利用对方的合作",
+    "b_en": "Choose to defect and exploit their cooperation"
+  },
+  {
+    "q_zh": "你被要求将一个资源分配给两个陌生人，一个很富有，一个很贫穷。规则是你可以自由决定分配比例。你会：",
+    "q_en": "You are asked to allocate a resource between two strangers, one very rich and one very poor. The rule is you can freely decide the split. You will:",
+    "a_zh": "平均分配，公平对待",
+    "a_en": "Split equally, treating them fairly",
+    "b_zh": "多分给贫穷者，考虑实际需求",
+    "b_en": "Give more to the poor one, considering actual need"
+  },
+  {
+    "q_zh": "你在一场拍卖中，已经出价很高，但对手还在加价。你感觉对手可能是在虚张声势。你会：",
+    "q_en": "In an auction, you have already bid high, but the opponent keeps raising. You sense they might be bluffing. You will:",
+    "a_zh": "继续加价，不轻易放弃",
+    "a_en": "Keep raising, not giving up easily",
+    "b_zh": "停止加价，避免陷入陷阱",
+    "b_en": "Stop raising, avoiding falling into a trap"
+  },
+  {
+    "q_zh": "你有一个秘密，如果告诉对方，可能增进关系，但也可能被利用。你会：",
+    "q_en": "You have a secret. If you tell the other person, it might improve the relationship, but it could also be used against you. You will:",
+    "a_zh": "选择告诉，信任对方",
+    "a_en": "Choose to tell, trusting the other person",
+    "b_zh": "选择保留，保护自己",
+    "b_en": "Choose to keep it, protecting yourself"
   }
 ]
