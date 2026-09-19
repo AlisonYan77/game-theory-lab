@@ -17627,5 +17627,85 @@
     "a_en": "Choose to tell, trusting the other person",
     "b_zh": "选择保留，保护自己",
     "b_en": "Choose to keep it, protecting yourself"
+  },
+  {
+    "q_zh": "你被卷入一场信任博弈：对方先选择‘合作’或‘背叛’，你看到后再决定。你更愿意相信对方会合作，还是预设对方会背叛？",
+    "q_en": "You are in a trust game: the other side chooses 'cooperate' or 'betray' first, and you decide after seeing it. Would you rather believe they will cooperate, or assume they will betray?",
+    "a_zh": "相信对方会合作，因为先释放善意更可能换来长期回报",
+    "a_en": "Believe they will cooperate, because signaling goodwill first is more likely to earn long-term returns",
+    "b_zh": "预设对方会背叛，因为提前防御能避免最大损失",
+    "b_en": "Assume they will betray, because preparing defenses avoids the worst loss"
+  },
+  {
+    "q_zh": "你和陌生人同时选择是否投入一笔钱。只有双方都投入，收益才会翻倍；若只有你投入，你会亏掉本金。你会怎么选？",
+    "q_en": "You and a stranger simultaneously choose whether to invest. Only if both invest will the payoff double; if only you invest, you lose your principal. What do you choose?",
+    "a_zh": "投入，因为合作成功时的收益值得承担风险",
+    "a_en": "Invest, because the reward from successful cooperation is worth the risk",
+    "b_zh": "不投入，因为不能确定对方是否会配合",
+    "b_en": "Do not invest, because you cannot be sure the other side will cooperate"
+  },
+  {
+    "q_zh": "在一次谈判中，你可以先亮出底线，也可以隐藏底线试探对方。你更倾向于哪种策略？",
+    "q_en": "In a negotiation, you can reveal your bottom line first or hide it and probe the other side. Which strategy do you prefer?",
+    "a_zh": "先亮底线，用清晰边界换取高效信任",
+    "a_en": "Reveal the bottom line first, using clear boundaries to gain efficient trust",
+    "b_zh": "隐藏底线，用信息差争取更大谈判空间",
+    "b_en": "Hide the bottom line, using information asymmetry to gain more bargaining room"
+  },
+  {
+    "q_zh": "你发现合作对象曾经在别的博弈中背叛过别人，但对方对你一直很友好。你会如何判断？",
+    "q_en": "You discover your partner once betrayed someone in another game, but they have always been friendly to you. How do you judge this?",
+    "a_zh": "重视当下互动，过去行为不一定代表会背叛我",
+    "a_en": "Focus on the present interaction; past behavior does not necessarily mean they will betray me",
+    "b_zh": "警惕历史模式，过去背叛过别人就更可能再次背叛",
+    "b_en": "Heed the historical pattern; someone who betrayed before is more likely to betray again"
+  },
+  {
+    "q_zh": "你和一个对手反复进行‘囚徒困境’式选择。你更可能采用哪种长期策略？",
+    "q_en": "You and an opponent repeatedly make prisoner's-dilemma-style choices. Which long-term strategy are you more likely to use?",
+    "a_zh": "以牙还牙：先合作，之后复制对方上一次的选择",
+    "a_en": "Tit for tat: cooperate first, then copy the opponent's last choice",
+    "b_zh": "始终背叛：确保自己永远不会被占便宜",
+    "b_en": "Always betray: make sure you are never taken advantage of"
+  },
+  {
+    "q_zh": "你有机会在一个公共资源项目中少付出、多享受成果，而且短期内很难被识破。你会怎么做？",
+    "q_en": "You have a chance to contribute less and enjoy more in a public-resource project, and it is hard to detect in the short term. What do you do?",
+    "a_zh": "仍然按规则付出，因为长期声誉比短期占便宜更重要",
+    "a_en": "Still contribute according to the rules, because long-term reputation matters more than short-term gain",
+    "b_zh": "选择搭便车，因为只要不被发现，理性上更划算",
+    "b_en": "Free ride, because if you are not caught, it is rationally more profitable"
+  },
+  {
+    "q_zh": "在分配一笔奖金时，你和搭档都希望自己拿更多。若谈不拢，双方都拿不到。你更愿意先提出哪种方案？",
+    "q_en": "When dividing a bonus, both you and your partner want more. If you cannot agree, neither gets anything. Which proposal would you rather make first?",
+    "a_zh": "提出相对公平的方案，优先确保合作达成",
+    "a_en": "Propose a relatively fair split, prioritizing reaching a deal",
+    "b_zh": "提出明显有利于自己的方案，先测试对方底线",
+    "b_en": "Propose a clearly self-favoring split, first testing the other side's limit"
+  },
+  {
+    "q_zh": "你察觉到对方可能在用情绪施压，让你做出让步。你会如何回应？",
+    "q_en": "You sense the other side may be using emotional pressure to make you concede. How do you respond?",
+    "a_zh": "保持冷静并表达理解，但不因压力改变核心条件",
+    "a_en": "Stay calm and show understanding, but do not change core terms because of pressure",
+    "b_zh": "立刻强硬反击，让对方知道情绪策略对你无效",
+    "b_en": "Counter强硬 immediately so they know emotional tactics do not work on you"
+  },
+  {
+    "q_zh": "你知道对方掌握比你更多的信息，但你可以选择是否承认这一点。你会怎么做？",
+    "q_en": "You know the other side has more information than you, but you can choose whether to admit it. What do you do?",
+    "a_zh": "承认信息劣势，主动请教或交换信息",
+    "a_en": "Admit the information disadvantage and actively ask or exchange information",
+    "b_zh": "不承认劣势，尽量表现得胸有成竹以维持谈判地位",
+    "b_en": "Do not admit the disadvantage; appear fully confident to maintain negotiating position"
+  },
+  {
+    "q_zh": "如果一个群体中大多数人都选择背叛，只有少数人坚持合作，你更可能成为哪一类人？",
+    "q_en": "If most people in a group choose betrayal while only a few insist on cooperation, which type are you more likely to be?",
+    "a_zh": "坚持合作，因为总有人要维持群体信任的底线",
+    "a_en": "Insist on cooperation, because someone must uphold the baseline of group trust",
+    "b_zh": "跟随多数背叛，因为环境已经变了，合作者会先受损",
+    "b_en": "Follow the majority and betray, because the environment has changed and cooperators suffer first"
   }
 ]
