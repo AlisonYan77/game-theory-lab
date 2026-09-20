@@ -17707,5 +17707,85 @@
     "a_en": "Insist on cooperation, because someone must uphold the baseline of group trust",
     "b_zh": "跟随多数背叛，因为环境已经变了，合作者会先受损",
     "b_en": "Follow the majority and betray, because the environment has changed and cooperators suffer first"
+  },
+  {
+    "q_zh": "你在一场两人囚徒困境中，对方先选择了“合作”。轮到你时，你会？",
+    "q_en": "In a two-player Prisoner's Dilemma, the other player chooses 'Cooperate' first. On your turn, do you?",
+    "a_zh": "也选择合作，建立信任以争取长期共赢",
+    "a_en": "Also choose Cooperate, building trust for long-term mutual gain",
+    "b_zh": "选择背叛，利用对方的善意获取一次性最大收益",
+    "b_en": "Choose Betray, exploiting their goodwill for maximum one-shot payoff"
+  },
+  {
+    "q_zh": "你和陌生人各拿到 100 元。规则：你可以选择把任意金额给对方，对方收到的金额会翻三倍；随后对方可选择回赠你任意金额。你更倾向于？",
+    "q_en": "You and a stranger each get $100. Rule: you may send any amount to them, it triples, then they may send any amount back. You prefer to?",
+    "a_zh": "先给出较大金额，赌对方会回报",
+    "a_en": "Send a larger amount first, betting they will reciprocate",
+    "b_zh": "只给很少或不给，避免被占便宜",
+    "b_en": "Send little or nothing, avoiding being exploited"
+  },
+  {
+    "q_zh": "在一个公共物品实验中，若大家都出钱则人人受益，但你可以少出钱仍享受好处。你会？",
+    "q_en": "In a public goods game, everyone benefits if all contribute, but you can free ride. Do you?",
+    "a_zh": "按约定足额贡献，维护集体合作",
+    "a_en": "Contribute the agreed amount to sustain collective cooperation",
+    "b_zh": "尽量少贡献，坐享其成",
+    "b_en": "Contribute as little as possible and free ride"
+  },
+  {
+    "q_zh": "你正在和对手玩“最后通牒博弈”：你提出分配方案，对方只能接受或拒绝；若拒绝，两人都拿不到钱。作为提议者，你会？",
+    "q_en": "You're in an Ultimatum Game: you propose a split; the other accepts or rejects; if rejected, both get nothing. As proposer, do you?",
+    "a_zh": "给对方接近公平的份额，确保被接受",
+    "a_en": "Offer a near-fair share to ensure acceptance",
+    "b_zh": "给自己尽可能多，赌对方即使不满也会接受",
+    "b_en": "Keep as much as possible, betting they'll accept despite unfairness"
+  },
+  {
+    "q_zh": "在重复博弈中，对方连续三次都选择背叛。你更可能？",
+    "q_en": "In a repeated game, the other player has betrayed three times in a row. You are more likely to?",
+    "a_zh": "仍给对方一次合作机会，观察是否改变",
+    "a_en": "Give them one more chance to cooperate and observe if they change",
+    "b_zh": "立即转为以牙还牙，之后持续背叛",
+    "b_en": "Switch to tit-for-tat immediately and keep betraying"
+  },
+  {
+    "q_zh": "你和搭档要共同完成一项任务。你可以选择认真准备，也可以偷懒；若对方认真而你偷懒，你收益最高。你会？",
+    "q_en": "You and a partner must complete a task. You can prepare seriously or slack off; if they work hard and you slack, you gain most. Do you?",
+    "a_zh": "认真准备，因为长期合作更重要",
+    "a_en": "Prepare seriously, because long-term cooperation matters more",
+    "b_zh": "选择偷懒，赌对方会承担大部分工作",
+    "b_en": "Slack off, betting your partner will carry most of the work"
+  },
+  {
+    "q_zh": "你面对一个“信任博弈”：先转钱给对方会让总额增加，但对方可能不返还。你更相信？",
+    "q_en": "You face a Trust Game: sending money first increases the total, but they may not return it. You trust more in?",
+    "a_zh": "人性中的互惠倾向，愿意先承担风险",
+    "a_en": "Humans' reciprocity tendency, willing to take the risk first",
+    "b_zh": "理性自利，认为不应先暴露弱点",
+    "b_en": "Rational self-interest, believing you shouldn't expose vulnerability first"
+  },
+  {
+    "q_zh": "在一场竞标中，出价最高者获胜，但第二高者也需支付自己的出价。你会？",
+    "q_en": "In an auction where the highest bid wins but the second-highest also pays their bid, do you?",
+    "a_zh": "谨慎出价，避免陷入赢家诅咒",
+    "a_en": "Bid cautiously to avoid the winner's curse",
+    "b_zh": "激进加价，相信对手会先退出",
+    "b_en": "Bid aggressively, believing opponents will drop out first"
+  },
+  {
+    "q_zh": "你和同事竞争一个晋升名额。若你们互相拆台，可能两败俱伤；若合作表现，可能共同受益但名额有限。你会？",
+    "q_en": "You and a colleague compete for one promotion. If you undermine each other, both may lose; if you cooperate, both may benefit but only one slot exists. Do you?",
+    "a_zh": "优先合作，提升整体表现，再公平竞争",
+    "a_en": "Cooperate first to improve overall performance, then compete fairly",
+    "b_zh": "先发制人，主动削弱对方优势",
+    "b_en": "Strike first and actively weaken the other's advantage"
+  },
+  {
+    "q_zh": "在博弈实验室中，你可以选择公开自己的策略，也可以保密。你更倾向于？",
+    "q_en": "In the Game Lab, you can reveal your strategy or keep it secret. You prefer to?",
+    "a_zh": "公开策略，传递可信承诺，促成合作",
+    "a_en": "Reveal your strategy to signal credible commitment and encourage cooperation",
+    "b_zh": "保密策略，保留信息优势与突然性",
+    "b_en": "Keep your strategy secret to preserve informational advantage and surprise"
   }
 ]
