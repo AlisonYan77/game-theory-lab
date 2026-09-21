@@ -17787,5 +17787,85 @@
     "a_en": "Reveal your strategy to signal credible commitment and encourage cooperation",
     "b_zh": "保密策略，保留信息优势与突然性",
     "b_en": "Keep your strategy secret to preserve informational advantage and surprise"
+  },
+  {
+    "q_zh": "你与一位陌生人被分别关在两个房间，无法沟通。你们各自需要选择按下一个按钮：如果两人都按A，各得100元；如果两人都按B，各得50元；如果一人按A一人按B，按A者得0元，按B者得150元。你会按哪个？",
+    "q_en": "You and a stranger are placed in separate rooms with no communication. Each of you must press a button: if both press A, you each get $100; if both press B, you each get $50; if one presses A and the other presses B, the A-presser gets $0 and the B-presser gets $150. Which do you press?",
+    "a_zh": "按A",
+    "a_en": "Press A",
+    "b_zh": "按B",
+    "b_en": "Press B"
+  },
+  {
+    "q_zh": "在一场拍卖中，出价最高者赢得商品，但出价第二高的人也必须支付自己的出价且什么都得不到。起拍价为0元，商品对你价值100元。当前最高出价是60元。你会怎么做？",
+    "q_en": "In an auction, the highest bidder wins the item, but the second-highest bidder must also pay their bid and receives nothing. The starting price is $0, and the item is worth $100 to you. The current highest bid is $60. What do you do?",
+    "a_zh": "出价70元继续竞拍",
+    "a_en": "Bid $70 and continue bidding",
+    "b_zh": "退出，不再出价",
+    "b_en": "Drop out and stop bidding"
+  },
+  {
+    "q_zh": "你正在参加一个游戏节目。你面前有三扇门：一扇后面是大奖，另外两扇后面是山羊。你选择了1号门。主持人知道门后的内容，他打开了3号门，里面是山羊，然后问你：要不要改选2号门？你会怎么选？",
+    "q_en": "You are on a game show. There are three doors: one hides a grand prize and the other two hide goats. You pick Door 1. The host, who knows what is behind the doors, opens Door 3, revealing a goat, and asks: Do you want to switch to Door 2? What do you choose?",
+    "a_zh": "改选2号门",
+    "a_en": "Switch to Door 2",
+    "b_zh": "坚持1号门",
+    "b_en": "Stick with Door 1"
+  },
+  {
+    "q_zh": "你和一个对手各自独立选择“合作”或“背叛”。如果两人都合作，各得30分；如果两人都背叛，各得10分；如果你合作而对方背叛，你得0分、对方得50分；如果你背叛而对方合作，你得50分、对方得0分。这是单次博弈，没有未来互动。你会选择？",
+    "q_en": "You and an opponent independently choose 'Cooperate' or 'Defect.' If both cooperate, you each get 30 points; if both defect, you each get 10 points; if you cooperate and the opponent defects, you get 0 and they get 50; if you defect and they cooperate, you get 50 and they get 0. This is a one-shot game with no future interaction. What do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Defect"
+  },
+  {
+    "q_zh": "你被要求从1到100之间选一个整数。所有参与者所选数字的平均值会乘以2/3，谁选的数字最接近这个结果谁就获胜。如果所有参与者都完全理性且知道其他人也完全理性，你会选哪个数字？",
+    "q_en": "You are asked to choose an integer from 1 to 100. The average of all chosen numbers will be multiplied by 2/3, and whoever chose the number closest to this result wins. If all players are fully rational and know others are fully rational, what number do you choose?",
+    "a_zh": "选择1",
+    "a_en": "Choose 1",
+    "b_zh": "选择33",
+    "b_en": "Choose 33"
+  },
+  {
+    "q_zh": "你和另一位参与者各自拿到一笔10元资金，可以决定保留或投入公共池。投入公共池的钱会翻倍后平均分给两人。如果两人都全部投入，每人最终得到20元；如果只有你投入，你得10元、对方得30元；如果两人都不投入，各保留10元。你会投入多少？",
+    "q_en": "You and another player each receive $10 and can decide how much to keep or contribute to a public pool. Money contributed to the pool is doubled and split equally between both players. If both contribute everything, each ends with $20; if only you contribute, you end with $10 and the other gets $30; if neither contributes, each keeps $10. How much do you contribute?",
+    "a_zh": "全部投入",
+    "a_en": "Contribute everything",
+    "b_zh": "全部保留",
+    "b_en": "Keep everything"
+  },
+  {
+    "q_zh": "你面对一个“最后通牒博弈”：你和另一位匿名玩家分100元。由对方决定分配方案，你只能选择接受或拒绝。如果你接受，按方案分配；如果你拒绝，两人都得0元。对方提出的方案是：他拿99元，给你1元。你会？",
+    "q_en": "You are in an 'Ultimatum Game': you and another anonymous player split $100. The other player proposes a split, and you can only accept or reject. If you accept, the split happens; if you reject, both get $0. The other player proposes: they take $99 and give you $1. What do you do?",
+    "a_zh": "接受",
+    "a_en": "Accept",
+    "b_zh": "拒绝",
+    "b_en": "Reject"
+  },
+  {
+    "q_zh": "你和一位同伴共同完成一项任务，每人可以选择“努力”或“偷懒”。如果两人都努力，任务成功，各得80元；如果两人都偷懒，任务失败，各得20元；如果你努力而对方偷懒，你得30元、对方得70元；如果你偷懒而对方努力，你得70元、对方得30元。你会选择？",
+    "q_en": "You and a partner work on a task, and each can choose 'Work hard' or 'Slack off.' If both work hard, the task succeeds and each gets $80; if both slack off, the task fails and each gets $20; if you work hard and the other slacks off, you get $30 and they get $70; if you slack off and they work hard, you get $70 and they get $30. What do you choose?",
+    "a_zh": "努力",
+    "a_en": "Work hard",
+    "b_zh": "偷懒",
+    "b_en": "Slack off"
+  },
+  {
+    "q_zh": "在一个“信任博弈”中，你先决定是否把10元交给对方。如果你交给对方，金额会变成30元，然后对方决定返还给你多少。如果你不交，游戏结束，你保留10元、对方得0元。假设对方是陌生人且只玩一次。你会？",
+    "q_en": "In a 'Trust Game,' you first decide whether to give $10 to the other player. If you give it, the amount becomes $30, and then the other player decides how much to return to you. If you do not give it, the game ends, you keep $10, and the other gets $0. Assume the other player is a stranger and this is a one-shot game. What do you do?",
+    "a_zh": "交出10元",
+    "a_en": "Give the $10",
+    "b_zh": "不交，保留10元",
+    "b_en": "Do not give it and keep the $10"
+  },
+  {
+    "q_zh": "你参加一个“懦夫博弈”：你和对手分别驾车相向而行，谁先转向谁就是“懦夫”输掉，但如果两人都不转向就会相撞，后果最严重。若你转向而对方不转，你得0分、对方得100分；若两人都转向，各得50分；若两人都不转，各得-100分。你会？",
+    "q_en": "You are in a 'Game of Chicken': you and an opponent drive toward each other. Whoever swerves first is the 'chicken' and loses, but if neither swerves, you crash, which is worst. If you swerve and they do not, you get 0 and they get 100; if both swerve, you each get 50; if neither swerves, you each get -100. What do you do?",
+    "a_zh": "转向",
+    "a_en": "Swerve",
+    "b_zh": "不转向",
+    "b_en": "Do not swerve"
   }
 ]
