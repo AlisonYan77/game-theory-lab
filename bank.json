@@ -17867,5 +17867,85 @@
     "a_en": "Swerve",
     "b_zh": "不转向",
     "b_en": "Do not swerve"
+  },
+  {
+    "q_zh": "你在一个荒岛上，只有一艘只能载一人的小船。你和另一个陌生人同时发现了它。你会：",
+    "q_en": "You are on a deserted island with only one small boat that can carry one person. You and a stranger spot it at the same time. What do you do?",
+    "a_zh": "提议用石头剪刀布决定谁走，输的人等死",
+    "a_en": "Propose rock-paper-scissors to decide who leaves, loser stays to die",
+    "b_zh": "直接跳上船划走，不回头看",
+    "b_en": "Jump into the boat and row away without looking back"
+  },
+  {
+    "q_zh": "你的好友向你坦白了一个秘密：他犯下了严重错误，只有你知道。警察来询问，你会：",
+    "q_en": "Your close friend confesses a secret: he made a serious mistake, and only you know. The police come to question you. What do you do?",
+    "a_zh": "替他隐瞒，哪怕自己可能被牵连",
+    "a_en": "Cover for him, even if you might get implicated",
+    "b_zh": "如实说出真相，保护自己",
+    "b_en": "Tell the truth to protect yourself"
+  },
+  {
+    "q_zh": "你发现同事在报表中做了假账，但他平时对你很好，还帮过你多次。你会：",
+    "q_en": "You discover a colleague falsified reports, but he's always been kind to you and helped you many times. What do you do?",
+    "a_zh": "私下提醒他改正，给他一次机会",
+    "a_en": "Privately warn him to correct it and give him a chance",
+    "b_zh": "直接向领导举报，维护公司制度",
+    "b_en": "Report him directly to the boss to uphold company rules"
+  },
+  {
+    "q_zh": "一场匿名投票中，你的一票将决定是否淘汰一个很讨厌但能力很强的队友。你会投：",
+    "q_en": "In an anonymous vote, your ballot decides whether to eliminate a teammate you dislike but who is very capable. How do you vote?",
+    "a_zh": "淘汰他，个人感受更重要",
+    "a_en": "Eliminate him—personal feelings matter more",
+    "b_zh": "留下他，团队利益优先",
+    "b_en": "Keep him—team interest comes first"
+  },
+  {
+    "q_zh": "你捡到一个装满现金的钱包，里面还有失主的身份证和全家福。你会：",
+    "q_en": "You find a wallet full of cash, along with the owner's ID and a family photo. What do you do?",
+    "a_zh": "想办法联系失主，原物归还",
+    "a_en": "Try to contact the owner and return everything",
+    "b_zh": "拿走现金，把钱包扔进垃圾桶",
+    "b_en": "Take the cash and throw the wallet in the trash"
+  },
+  {
+    "q_zh": "你和对手在谈判，你手里有一张能彻底击垮对方的底牌。你会：",
+    "q_en": "You are negotiating with an opponent, and you hold a card that could completely destroy them. What do you do?",
+    "a_zh": "亮出底牌，逼对方全面让步",
+    "a_en": "Play the card and force them to make full concessions",
+    "b_zh": "保留底牌，换取长期合作信任",
+    "b_en": "Hold the card back to build long-term trust and cooperation"
+  },
+  {
+    "q_zh": "你在一场游戏中可以作弊且绝不会被发现，赢了能获得巨额奖金。你会：",
+    "q_en": "In a game, you can cheat and never be caught. Winning brings a huge prize. What do you do?",
+    "a_zh": "作弊赢钱，机会难得",
+    "a_en": "Cheat and win—such an opportunity is rare",
+    "b_zh": "老老实实玩，输赢都认",
+    "b_en": "Play fair and accept the outcome either way"
+  },
+  {
+    "q_zh": "你的团队里有人拖后腿导致项目失败，但他正在经历家庭变故。你会：",
+    "q_en": "Someone on your team dragged everyone down and caused a project to fail, but he's going through a family crisis. What do you do?",
+    "a_zh": "向上级如实汇报，责任分明",
+    "a_en": "Report honestly to your superior—responsibility must be clear",
+    "b_zh": "替他分担责任，私下帮他渡过难关",
+    "b_en": "Share the blame and privately help him through the tough time"
+  },
+  {
+    "q_zh": "两个朋友同时向你借钱，但你只能借给一个人。一个信用好但关系一般，一个关系铁但从不还钱。你会借给：",
+    "q_en": "Two friends ask you for a loan at the same time, but you can only lend to one. One has good credit but you're not close; the other is a close friend who never pays back. Who do you lend to?",
+    "a_zh": "信用好的那个，钱要能回来",
+    "a_en": "The one with good credit—money must come back",
+    "b_zh": "关系铁的那个，情义更重要",
+    "b_en": "The close friend—loyalty matters more"
+  },
+  {
+    "q_zh": "你被困在一场博弈中：合作则双方各得5分，背叛则你得10分对方得0分。但如果对方也背叛，双方都得0分。你会：",
+    "q_en": "You're trapped in a game: if you cooperate, both get 5 points; if you betray, you get 10 and the other gets 0. But if both betray, both get 0. What do you do?",
+    "a_zh": "选择合作，争取双赢",
+    "a_en": "Choose to cooperate and aim for a win-win",
+    "b_zh": "选择背叛，赌对方会合作",
+    "b_en": "Choose to betray and bet the other will cooperate"
   }
 ]
