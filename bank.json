@@ -17947,5 +17947,85 @@
     "a_en": "Choose to cooperate and aim for a win-win",
     "b_zh": "选择背叛，赌对方会合作",
     "b_en": "Choose to betray and bet the other will cooperate"
+  },
+  {
+    "q_zh": "你被卷入一场信任博弈：对方先行动，可以“合作”分你 70 元，也可以“背叛”独吞 100 元。轮到你时，你只能选择接受结果或掀桌（两人都拿 0）。你更倾向怎么做？",
+    "q_en": "You're in a trust game: the other player moves first and can either 'cooperate' and give you $70, or 'betray' and take $100 alone. When it's your turn, you can only accept the outcome or flip the table (both get $0). What do you lean toward?",
+    "a_zh": "如果对方合作，我接受；如果对方背叛，我宁可掀桌",
+    "a_en": "If they cooperate, I accept; if they betray, I'd rather flip the table",
+    "b_zh": "无论对方怎么选，我都接受，因为拿到一点也比 0 好",
+    "b_en": "No matter what they choose, I accept, because something is better than nothing"
+  },
+  {
+    "q_zh": "你和同事竞争一个晋升名额。你可以选择公开分享关键资源，提升团队整体业绩；也可以暗中保留资源，增加自己胜率。你更可能？",
+    "q_en": "You and a colleague are competing for one promotion. You can either openly share key resources to improve the team's overall performance, or quietly hold them back to increase your own odds. What are you more likely to do?",
+    "a_zh": "公开分享，先做大蛋糕，再凭实力竞争",
+    "a_en": "Share openly, grow the pie first, then compete on ability",
+    "b_zh": "暗中保留，先确保自己不被反超",
+    "b_en": "Hold back quietly, making sure I don't get overtaken first"
+  },
+  {
+    "q_zh": "在一次重复博弈中，对方之前连续三次都选择了背叛。现在他释放信号说这次会合作。你更愿意？",
+    "q_en": "In a repeated game, the other player has betrayed you three times in a row. Now they signal that they'll cooperate this time. What would you rather do?",
+    "a_zh": "先合作一次，观察他是否真的改变",
+    "a_en": "Cooperate once to see if they've really changed",
+    "b_zh": "继续背叛，直到他用实际行动证明可信",
+    "b_en": "Keep betraying until they prove trustworthiness through action"
+  },
+  {
+    "q_zh": "你发现对手在谈判中故意虚张声势，用一个几乎不可能兑现的威胁来压迫你让步。你更倾向？",
+    "q_en": "You realize your opponent is bluffing in a negotiation, using an almost impossible threat to pressure you into conceding. What do you lean toward?",
+    "a_zh": "当场点破他的虚张声势，逼他重新出价",
+    "a_en": "Call out the bluff on the spot and force them to make a new offer",
+    "b_zh": "不拆穿，先假装受影响，再反手争取更大利益",
+    "b_en": "Don't expose it; pretend to be affected first, then counter for a bigger gain"
+  },
+  {
+    "q_zh": "两个团队都面临“谁先投入谁吃亏，但都不投入会双输”的局面。你更相信哪种策略？",
+    "q_en": "Two teams face a situation where whoever invests first risks losing out, but if neither invests, both lose. Which strategy do you trust more?",
+    "a_zh": "先小步投入，释放可验证的诚意，推动对方跟进",
+    "a_en": "Make a small first move, send verifiable goodwill, and push the other side to follow",
+    "b_zh": "按兵不动，等对方先投入后再跟进",
+    "b_en": "Hold still and wait for the other side to invest before following"
+  },
+  {
+    "q_zh": "你在一场竞标中知道还有一名强敌。你可以选择高价稳拿，也可以低价冒险。你更看重？",
+    "q_en": "In a bidding contest, you know there's one strong rival left. You can either bid high to secure the win, or bid low and take a risk. What do you care about more?",
+    "a_zh": "提高胜率，哪怕利润被压缩",
+    "a_en": "Increasing the chance of winning, even if profit gets squeezed",
+    "b_zh": "保留利润，哪怕可能输掉机会",
+    "b_en": "Preserving profit, even if I might lose the opportunity"
+  },
+  {
+    "q_zh": "朋友向你借一笔不小的钱，承诺一个月后还。你们关系不错，但过去他有过拖延记录。你更可能？",
+    "q_en": "A friend asks to borrow a significant amount and promises to repay in a month. You're close, but they have a history of delaying repayment. What are you more likely to do?",
+    "a_zh": "借，但明确写清还款时间和后果",
+    "a_en": "Lend it, but clearly write down the repayment date and consequences",
+    "b_zh": "不借，避免金钱破坏关系",
+    "b_en": "Don't lend, to avoid money ruining the relationship"
+  },
+  {
+    "q_zh": "你在一场博弈里可以“先示弱”诱使对方轻敌，也可以“先示强”逼对方保守。你更偏好？",
+    "q_en": "In a game, you can either 'show weakness first' to make the opponent underestimate you, or 'show strength first' to force them to play safe. Which do you prefer?",
+    "a_zh": "先示弱，等对方冒进后反击",
+    "a_en": "Show weakness first, then counter after they overreach",
+    "b_zh": "先示强，让对方不敢轻易进攻",
+    "b_en": "Show strength first, so they don't dare attack easily"
+  },
+  {
+    "q_zh": "如果一场博弈只能选一次，而且结果取决于对方是否信任你，你更愿意？",
+    "q_en": "If a game can only be played once and the outcome depends on whether the other person trusts you, what would you rather do?",
+    "a_zh": "主动给出可信承诺，比如先押上一部分利益",
+    "a_en": "Make a credible commitment first, such as putting some of my own interests at stake",
+    "b_zh": "保持模糊，让对方因为不确定而不敢背叛",
+    "b_en": "Stay ambiguous, so they don't dare betray because of the uncertainty"
+  },
+  {
+    "q_zh": "你发现合作能让双方长期收益最大，但短期里对方可能通过背叛获得更高收益。你更倾向？",
+    "q_en": "You find that cooperation maximizes both sides' long-term payoff, but in the short term the other side could gain more by betraying. What do you lean toward?",
+    "a_zh": "坚持合作，并用规则提高背叛成本",
+    "a_en": "Stick to cooperation and use rules to raise the cost of betrayal",
+    "b_zh": "先背叛一次锁定收益，再考虑是否合作",
+    "b_en": "Betray once first to lock in gains, then consider whether to cooperate"
   }
 ]
