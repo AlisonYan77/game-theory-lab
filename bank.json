@@ -18027,5 +18027,85 @@
     "a_en": "Stick to cooperation and use rules to raise the cost of betrayal",
     "b_zh": "先背叛一次锁定收益，再考虑是否合作",
     "b_en": "Betray once first to lock in gains, then consider whether to cooperate"
+  },
+  {
+    "q_zh": "你在一场拍卖会上，主持人给了你两个按钮：按下A可立即获得100元，按下B有50%概率获得300元、50%概率一无所获。你会选哪个？",
+    "q_en": "At an auction, the host gives you two buttons: pressing A earns you $100 immediately; pressing B gives a 50% chance to win $300 and a 50% chance to win nothing. Which do you choose?",
+    "a_zh": "A：立即获得100元",
+    "a_en": "A: Get $100 immediately",
+    "b_zh": "B：50%概率获得300元",
+    "b_en": "B: 50% chance to get $300"
+  },
+  {
+    "q_zh": "你和一个陌生人各有一笔钱，合作则双方各得200元；背叛则你独得300元，对方得0元。但前提是对方也做出选择。你会？",
+    "q_en": "You and a stranger each have money. If you cooperate, you both get $200; if you betray, you get $300 alone and the other gets $0. But the other person also chooses. What do you do?",
+    "a_zh": "A：选择合作",
+    "a_en": "A: Cooperate",
+    "b_zh": "B：选择背叛",
+    "b_en": "B: Betray"
+  },
+  {
+    "q_zh": "你被指控参与一项犯罪，检察官分别审讯你和同伙。如果你们都沉默，各判1年；你认罪而对方沉默，你获释、对方判5年；你们都认罪，各判3年。你会？",
+    "q_en": "You are accused of a crime and interrogated separately from your partner. If both stay silent, you each get 1 year; if you confess and the other stays silent, you go free and the other gets 5 years; if both confess, you each get 3 years. What do you do?",
+    "a_zh": "A：保持沉默",
+    "a_en": "A: Stay silent",
+    "b_zh": "B：认罪",
+    "b_en": "B: Confess"
+  },
+  {
+    "q_zh": "在一个公共资源池中，如果每个人都少取一点，资源可长期持续；但如果你多取一点，你短期收益更大。你倾向于？",
+    "q_en": "In a common resource pool, if everyone takes a little less, the resource lasts long-term; but if you take a little more, your short-term gain is larger. You tend to:",
+    "a_zh": "A：少取一点，维持长期",
+    "a_en": "A: Take less to sustain it",
+    "b_zh": "B：多取一点，优先自身利益",
+    "b_en": "B: Take more for self-interest"
+  },
+  {
+    "q_zh": "你的朋友向你借一笔钱，说下月还。你知道他过去有拖延还款的记录。你会？",
+    "q_en": "A friend asks to borrow money, promising to repay next month. You know he has a history of delaying repayment. What do you do?",
+    "a_zh": "A：借，但设定明确还款条件",
+    "a_en": "A: Lend, but set clear repayment terms",
+    "b_zh": "B：不借，保护自身利益",
+    "b_en": "B: Refuse to protect yourself"
+  },
+  {
+    "q_zh": "在一次团队项目中，你可以选择认真完成自己的部分，或稍微偷懒并依赖他人补位。你预计没人会发现。你会？",
+    "q_en": "In a team project, you can either do your part diligently or slack off a bit and rely on others to cover. You expect no one will notice. What do you do?",
+    "a_zh": "A：认真完成",
+    "a_en": "A: Do your part diligently",
+    "b_zh": "B：偷懒依赖他人",
+    "b_en": "B: Slack and rely on others"
+  },
+  {
+    "q_zh": "你在玩一个重复博弈游戏。对手上一轮背叛了你，但这一轮表示愿意合作。你会？",
+    "q_en": "You are in a repeated game. The opponent betrayed you last round but now offers to cooperate. What do you do?",
+    "a_zh": "A：选择合作，给对方机会",
+    "a_en": "A: Cooperate and give them a chance",
+    "b_zh": "B：选择背叛，防止再次吃亏",
+    "b_en": "B: Betray to avoid being exploited again"
+  },
+  {
+    "q_zh": "你是一位公司管理者，发现一名员工犯了一个不会被发现的错误。承认错误会损害你的声誉，但隐瞒可能带来更大长期风险。你会？",
+    "q_en": "You are a manager and discover an employee made an error that no one will find. Admitting it damages your reputation, but hiding it may cause bigger long-term risk. What do you do?",
+    "a_zh": "A：承认并修正",
+    "a_en": "A: Admit and correct it",
+    "b_zh": "B：隐瞒以保护声誉",
+    "b_en": "B: Hide it to protect reputation"
+  },
+  {
+    "q_zh": "你在一场谈判中，对方提出一个对你略有利但对他也有利的方案。你可以接受，也可以继续施压争取更多。你会？",
+    "q_en": "In a negotiation, the other side offers a proposal that slightly benefits you but also benefits them. You can accept it or push for more. What do you do?",
+    "a_zh": "A：接受方案，达成合作",
+    "a_en": "A: Accept and close the deal",
+    "b_zh": "B：继续施压争取更多",
+    "b_en": "B: Push for more"
+  },
+  {
+    "q_zh": "你在社交中认识一个可能对你有帮助的人，但你需要先付出时间与资源帮助他。你会？",
+    "q_en": "You meet someone who could help you later, but you must first invest time and resources to help them. What do you do?",
+    "a_zh": "A：先付出，建立关系",
+    "a_en": "A: Invest first to build the relationship",
+    "b_zh": "B：观望，等对方先行动",
+    "b_en": "B: Wait and see if they act first"
   }
 ]
