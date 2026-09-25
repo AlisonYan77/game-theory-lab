@@ -18107,5 +18107,85 @@
     "a_en": "A: Invest first to build the relationship",
     "b_zh": "B：观望，等对方先行动",
     "b_en": "B: Wait and see if they act first"
+  },
+  {
+    "q_zh": "你发现伴侣的手机收到一条来自陌生人的暧昧消息，但对方尚未点开查看。你会：",
+    "q_en": "You notice your partner's phone has received a flirty message from a stranger, but they haven't opened it yet. What do you do?",
+    "a_zh": "直接提醒对方查看并当场问清楚",
+    "a_en": "Tell them immediately and ask about it openly",
+    "b_zh": "先不吭声，观察他们之后的反应再决定",
+    "b_en": "Say nothing for now and observe their reaction first"
+  },
+  {
+    "q_zh": "你和同事竞争同一个晋升名额，你偶然得知对手方案中的一个致命漏洞。你会：",
+    "q_en": "You and a colleague are competing for the same promotion, and you accidentally discover a fatal flaw in their proposal. What do you do?",
+    "a_zh": "在评审会上直接指出这个漏洞",
+    "a_en": "Point out the flaw directly during the review meeting",
+    "b_zh": "私下提醒对手，让他们自己修正",
+    "b_en": "Privately warn your rival so they can fix it themselves"
+  },
+  {
+    "q_zh": "朋友向你借一大笔钱，理由是创业急需，但你清楚他过去三次创业都失败了。你会：",
+    "q_en": "A friend asks to borrow a large sum for a startup, but you know their last three ventures all failed. What do you do?",
+    "a_zh": "借，但要求签正式借条并约定还款计划",
+    "a_en": "Lend it, but require a formal IOU and repayment plan",
+    "b_zh": "拒绝，但提出帮他介绍投资人而非直接给钱",
+    "b_en": "Refuse, but offer to introduce investors instead of giving cash"
+  },
+  {
+    "q_zh": "你在一个团队项目中发现领导犯了一个会导致项目失败的决策错误，但公开质疑会让领导下不来台。你会：",
+    "q_en": "In a team project, you find the leader has made a decision that will doom the project, but questioning it publicly would embarrass them. What do you do?",
+    "a_zh": "当场提出质疑，把风险讲清楚",
+    "a_en": "Challenge it on the spot and lay out the risks clearly",
+    "b_zh": "会后私下找领导沟通，给他留面子",
+    "b_en": "Talk to the leader privately after the meeting to save face"
+  },
+  {
+    "q_zh": "你正在谈判一份合同，对方开价明显高于市场价，但你知道他们急需这笔交易。你会：",
+    "q_en": "You're negotiating a contract. The other side's price is clearly above market, but you know they urgently need this deal. What do you do?",
+    "a_zh": "直接压价到底线，利用他们的急迫",
+    "a_en": "Push the price down to your limit, exploiting their urgency",
+    "b_zh": "小幅还价，保持长期合作的可能",
+    "b_en": "Counter with a modest offer to preserve a long-term relationship"
+  },
+  {
+    "q_zh": "你发现室友偷偷用了你的东西但没告诉你，而且东西被弄坏了。你会：",
+    "q_en": "You discover your roommate secretly used your belongings without telling you, and something got broken. What do you do?",
+    "a_zh": "直接摊牌，要求赔偿并立规矩",
+    "a_en": "Confront them directly, demand compensation, and set rules",
+    "b_zh": "先装作不知道，看他们会不会主动承认",
+    "b_en": "Pretend you don't know and see if they confess on their own"
+  },
+  {
+    "q_zh": "你在玩一场多人博弈游戏，你手上有可以背叛盟友换取巨大收益的机会，且对方大概率不会发现。你会：",
+    "q_en": "In a multiplayer game, you have a chance to betray an ally for huge gains, and they likely won't find out. What do you do?",
+    "a_zh": "背叛，收益最大化才是游戏目标",
+    "a_en": "Betray them—maximizing payoff is the goal of the game",
+    "b_zh": "不背叛，维持信誉以便后续合作",
+    "b_en": "Don't betray—maintain your reputation for future alliances"
+  },
+  {
+    "q_zh": "你偶然看到一位好友的伴侣在和其他人约会，但好友对此一无所知。你会：",
+    "q_en": "You accidentally see your close friend's partner on a date with someone else, but your friend has no idea. What do you do?",
+    "a_zh": "立刻告诉好友真相，哪怕他们一时难以接受",
+    "a_en": "Tell your friend the truth immediately, even if it's hard to hear",
+    "b_zh": "先不动声色，收集更多证据再决定说不说",
+    "b_en": "Stay quiet for now, gather more evidence before deciding"
+  },
+  {
+    "q_zh": "面试时被问到一个你不会的问题，但你可以含糊其辞蒙混过关。你会：",
+    "q_en": "In an interview, you're asked something you don't know, but you could bluff your way through. What do you do?",
+    "a_zh": "坦诚承认不会，但展示学习能力",
+    "a_en": "Admit you don't know, but showcase your ability to learn",
+    "b_zh": "用模糊的话术绕过去，先拿到机会再说",
+    "b_en": "Use vague phrasing to dodge it and secure the opportunity first"
+  },
+  {
+    "q_zh": "你和朋友合买彩票中了奖，但奖金是以你的名义领取的，朋友还没得知中奖消息。你会：",
+    "q_en": "You and a friend bought a lottery ticket together and won, but the prize is in your name and your friend doesn't know yet. What do you do?",
+    "a_zh": "第一时间通知朋友，按约定平分",
+    "a_en": "Notify your friend immediately and split it as agreed",
+    "b_zh": "先想清楚怎么分，再决定告诉他多少",
+    "b_en": "Figure out the split first, then decide how much to tell them"
   }
 ]
