@@ -18187,5 +18187,85 @@
     "a_en": "Notify your friend immediately and split it as agreed",
     "b_zh": "先想清楚怎么分，再决定告诉他多少",
     "b_en": "Figure out the split first, then decide how much to tell them"
+  },
+  {
+    "q_zh": "你发现同事在汇报中窃取了你的创意并获得了表扬。你会怎么做？",
+    "q_en": "You notice a colleague took credit for your idea in a meeting and got praised for it. What do you do?",
+    "a_zh": "当场指出这是你的想法，拿出证据对质，让所有人知道真相",
+    "a_en": "Speak up immediately, show evidence, and make sure everyone knows the truth",
+    "b_zh": "私下找对方谈，给对方一个体面改正的机会，同时观察后续表现",
+    "b_en": "Talk to them privately, give them a chance to correct it gracefully, and watch what they do next"
+  },
+  {
+    "q_zh": "你和朋友合伙创业，项目开始赚钱后，朋友提出想拿走比你多 20% 的分成，理由是“当初是我先提出的”。你会：",
+    "q_en": "You and a friend started a business together. Now that it's making money, your friend wants 20% more than you because “I came up with the original idea.” What do you do?",
+    "a_zh": "坚持按原约定分配，谈判可以，但原则不能让",
+    "a_en": "Stick to the original agreement—negotiation is fine, but the principle is not negotiable",
+    "b_zh": "如果项目还能继续做大，接受短期让步，换取长期合作稳定",
+    "b_en": "If the business can still grow, accept a short-term concession to preserve long-term cooperation"
+  },
+  {
+    "q_zh": "在一场匿名投票中，你可以选择“合作”让所有人各得 10 分，或选择“背叛”让自己得 25 分、其他人各得 0 分。你预计别人也会这样选。你会：",
+    "q_en": "In an anonymous vote, you can choose “cooperate” so everyone gets 10 points, or “betray” so you get 25 and everyone else gets 0. You expect others face the same choice. What do you do?",
+    "a_zh": "选择合作，因为长期信任比一次高分更重要",
+    "a_en": "Cooperate, because long-term trust matters more than one big score",
+    "b_zh": "选择背叛，因为如果别人也可能背叛，我不能先吃亏",
+    "b_en": "Betray, because if others may betray too, I can't afford to be the one who loses first"
+  },
+  {
+    "q_zh": "你发现伴侣在重大财务决定上隐瞒了你，但事情已经解决，没有造成损失。你会：",
+    "q_en": "You find out your partner hid a major financial decision from you, but it's already resolved and caused no loss. What do you do?",
+    "a_zh": "仍然严肃提出边界问题，因为隐瞒本身比结果更重要",
+    "a_en": "Still raise it seriously as a boundary issue, because the concealment matters more than the outcome",
+    "b_zh": "既然没有损失，就先放下，重点讨论以后如何透明沟通",
+    "b_en": "Since there was no loss, let it go for now and focus on how to communicate transparently going forward"
+  },
+  {
+    "q_zh": "你在一场谈判中占据优势，对方已经明显让步。继续施压可能拿到更多，但也可能让对方退出。你会：",
+    "q_en": "You have the upper hand in a negotiation and the other side has already made clear concessions. Pushing harder may get more, but may also make them walk away. What do you do?",
+    "a_zh": "见好就收，锁定当前成果，避免把对方逼到鱼死网破",
+    "a_en": "Take the win, lock in the current deal, and avoid pushing them to a breaking point",
+    "b_zh": "再试一次极限施压，判断对方底线，争取利益最大化",
+    "b_en": "Try one more round of maximum pressure to test their limit and maximize your gains"
+  },
+  {
+    "q_zh": "团队里有人能力很强但态度傲慢，经常公开挑战你的权威。你会：",
+    "q_en": "A team member is very capable but arrogant and often challenges your authority in public. What do you do?",
+    "a_zh": "公开立规矩，必要时压制对方，确保团队秩序不被破坏",
+    "a_en": "Set the rules publicly and suppress them if necessary to protect team order",
+    "b_zh": "私下交换利益与尊重，给对方舞台，也让他为你所用",
+    "b_en": "Trade respect and benefits privately, give them a stage, and make their strength work for you"
+  },
+  {
+    "q_zh": "你怀疑一个朋友在背后说你坏话，但没有确凿证据。你会：",
+    "q_en": "You suspect a friend has been speaking badly about you behind your back, but you have no solid proof. What do you do?",
+    "a_zh": "直接问清楚，哪怕可能尴尬，也比猜疑内耗强",
+    "a_en": "Ask them directly—even if it's awkward, it's better than letting suspicion eat away at you",
+    "b_zh": "先不动声色，继续观察，同时慢慢调整对这段关系的投入",
+    "b_en": "Stay calm, keep observing, and gradually adjust how much you invest in the relationship"
+  },
+  {
+    "q_zh": "你有一个重要机会，但需要你推荐一个人一起参与。A 能力更强但可能抢你功劳，B 能力一般但绝对忠诚。你会选：",
+    "q_en": "You have an important opportunity and must recommend someone to join you. A is more capable but may steal your credit; B is average but absolutely loyal. Who do you choose?",
+    "a_zh": "选 A，因为结果最重要，功劳可以提前谈好规则",
+    "a_en": "Choose A, because results matter most and credit rules can be negotiated in advance",
+    "b_zh": "选 B，因为关键时刻可控和信任比能力更稀缺",
+    "b_en": "Choose B, because at critical moments, controllability and trust are rarer than ability"
+  },
+  {
+    "q_zh": "你在一段关系中付出更多，对方似乎习以为常。你会：",
+    "q_en": "You put more into a relationship, and the other person seems to take it for granted. What do you do?",
+    "a_zh": "减少付出，让对方感受到落差，重新评估你的价值",
+    "a_en": "Pull back and let them feel the difference, so they reassess your value",
+    "b_zh": "直接表达需求，明确告诉对方你需要怎样的回应",
+    "b_en": "Express your needs directly and tell them clearly what kind of response you need"
+  },
+  {
+    "q_zh": "你发现一个规则对你不利，但短期内无法改变。你会：",
+    "q_en": "You find a rule works against you, but it can't be changed in the short term. What do you do?",
+    "a_zh": "表面遵守规则，暗中寻找漏洞和杠杆，等待时机翻盘",
+    "a_en": "Follow the rule on the surface, quietly look for loopholes and leverage, and wait for the chance to turn things around",
+    "b_zh": "公开推动改变规则，哪怕暂时吃亏，也要争取长期公平",
+    "b_en": "Publicly push to change the rule—even if you lose for now, fight for long-term fairness"
   }
 ]
