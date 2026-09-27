@@ -18267,5 +18267,85 @@
     "a_en": "Follow the rule on the surface, quietly look for loopholes and leverage, and wait for the chance to turn things around",
     "b_zh": "公开推动改变规则，哪怕暂时吃亏，也要争取长期公平",
     "b_en": "Publicly push to change the rule—even if you lose for now, fight for long-term fairness"
+  },
+  {
+    "q_zh": "你被卷入一场信任博弈：对方先选择分给你 100 元中的一部分，你可以选择接受或拒绝。若拒绝，两人都拿不到钱；若接受，则按对方分配拿走。你更在意什么？",
+    "q_en": "You are in a trust game: the other person first chooses how much of $100 to give you, and you can accept or reject. If you reject, both get nothing; if you accept, you take what was offered. What do you care about more?",
+    "a_zh": "只要我能拿到钱，就接受，哪怕对方拿得更多",
+    "a_en": "As long as I get some money, I accept, even if the other person gets more",
+    "b_zh": "如果对方明显不公平，我宁愿拒绝，让他也拿不到",
+    "b_en": "If the other person is clearly unfair, I would rather reject and make them get nothing too"
+  },
+  {
+    "q_zh": "在一场囚徒困境里，你们都不能沟通。你知道合作对双方最好，但背叛能自保。你会怎么选？",
+    "q_en": "In a prisoner's dilemma, you cannot communicate. You know cooperation is best for both, but betrayal can protect you. What do you choose?",
+    "a_zh": "选择合作，先释放善意，赌对方也会合作",
+    "a_en": "Choose cooperation, signal goodwill first, and bet the other person will cooperate too",
+    "b_zh": "选择背叛，因为我不确定对方会不会坑我",
+    "b_en": "Choose betrayal, because I am not sure whether the other person will screw me over"
+  },
+  {
+    "q_zh": "你参加一个拍卖，赢家要支付自己的出价，但奖品价值其实低于大家预期。你已经投入很多。你会？",
+    "q_en": "You are in an auction where the winner pays their bid, but the prize is actually worth less than everyone expected. You have already invested a lot. What do you do?",
+    "a_zh": "继续加价，不想让之前的投入白费",
+    "a_en": "Keep bidding higher, because I do not want my previous investment to be wasted",
+    "b_zh": "立刻收手，承认损失，避免越陷越深",
+    "b_en": "Stop immediately, accept the loss, and avoid sinking deeper"
+  },
+  {
+    "q_zh": "你和搭档做一个项目，双方都能选择努力或偷懒。如果只有你努力，你吃亏；如果都努力，收益最大。你更倾向？",
+    "q_en": "You and a partner work on a project, and both can choose to work hard or slack off. If only you work hard, you lose out; if both work hard, the payoff is greatest. What are you more inclined to do?",
+    "a_zh": "先努力，用行动带动对方，也建立信任",
+    "a_en": "Work hard first, lead by example, and build trust",
+    "b_zh": "先观察对方，只有确认他也努力我才努力",
+    "b_en": "Observe the other person first, and only work hard if I confirm they are working hard too"
+  },
+  {
+    "q_zh": "在一个最后通牒博弈中，对方提出给你 10%，自己拿 90%。你可以接受或拒绝。拒绝则双方归零。你会？",
+    "q_en": "In an ultimatum game, the other person offers you 10% and keeps 90%. You can accept or reject. If you reject, both get zero. What do you do?",
+    "a_zh": "接受，因为拿到一点总比什么都没有好",
+    "a_en": "Accept, because getting something is better than getting nothing",
+    "b_zh": "拒绝，因为这种分配太羞辱人，我要维护公平感",
+    "b_en": "Reject, because the split is insulting and I want to defend fairness"
+  },
+  {
+    "q_zh": "你和陌生人玩重复博弈。第一轮对方背叛了你。第二轮你会？",
+    "q_en": "You are playing a repeated game with a stranger. In the first round, they betrayed you. What do you do in the second round?",
+    "a_zh": "以牙还牙，也背叛一次，让对方知道代价",
+    "a_en": "Tit for tat: betray once too, so they know the cost",
+    "b_zh": "仍然选择合作，给对方一次修复关系的机会",
+    "b_en": "Still choose cooperation and give them one chance to repair the relationship"
+  },
+  {
+    "q_zh": "你在团队里发现有人搭便车，不付出却分享成果。你更可能？",
+    "q_en": "In a team, you notice someone free-riding: contributing little but sharing the results. What are you more likely to do?",
+    "a_zh": "公开指出问题，哪怕冲突升级，也要制止搭便车",
+    "a_en": "Point it out openly, even if conflict escalates, to stop the free-riding",
+    "b_zh": "暂时不说，先调整自己的投入，避免自己吃亏",
+    "b_en": "Stay quiet for now and adjust my own effort first, so I do not lose out"
+  },
+  {
+    "q_zh": "你面对一个可能长期合作的伙伴，但对方历史记录不太透明。你会？",
+    "q_en": "You face a potential long-term partner, but their track record is not very transparent. What do you do?",
+    "a_zh": "先小规模合作试探，逐步增加投入",
+    "a_en": "Start with a small cooperation to test, then increase investment gradually",
+    "b_zh": "要么一开始就深度合作，要么完全不做，不想浪费时间去猜",
+    "b_en": "Either cooperate deeply from the start or not at all; I do not want to waste time guessing"
+  },
+  {
+    "q_zh": "你能选择一个策略参加多轮博弈：要么总是合作，要么先合作但被背叛后报复。你更信哪套？",
+    "q_en": "You can choose a strategy for multiple rounds: either always cooperate, or cooperate first but retaliate after betrayal. Which do you trust more?",
+    "a_zh": "总是合作，因为长期看善意会得到回报",
+    "a_en": "Always cooperate, because in the long run goodwill is rewarded",
+    "b_zh": "有条件合作，因为善意必须配合边界和反击",
+    "b_en": "Conditional cooperation, because goodwill needs boundaries and retaliation"
+  },
+  {
+    "q_zh": "在一次资源分配中，你有权决定自己拿多少，但对方可以拒绝并导致双方都失去资源。你更可能怎么分？",
+    "q_en": "In a resource allocation, you can decide how much to take, but the other person can reject and cause both of you to lose the resource. How are you more likely to split it?",
+    "a_zh": "我拿略多一点，因为我有决定权，也要保证自己收益",
+    "a_en": "Take a little more, because I have the decision power and need to secure my payoff",
+    "b_zh": "尽量分得公平，哪怕自己少拿，也要降低被拒绝风险",
+    "b_en": "Split it as fairly as possible, even if I get less, to reduce the risk of rejection"
   }
 ]
