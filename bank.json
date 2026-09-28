@@ -18347,5 +18347,85 @@
     "a_en": "Take a little more, because I have the decision power and need to secure my payoff",
     "b_zh": "尽量分得公平，哪怕自己少拿，也要降低被拒绝风险",
     "b_en": "Split it as fairly as possible, even if I get less, to reduce the risk of rejection"
+  },
+  {
+    "q_zh": "你发现同事在汇报中窃取了你的创意，但老板很赏识他。你会当众揭穿他，还是私下沟通？",
+    "q_en": "You find a colleague stole your idea in a presentation, but the boss admires him. Do you expose him publicly or talk privately?",
+    "a_zh": "当众揭穿，让他颜面扫地，防止他继续得利",
+    "a_en": "Expose him publicly to humiliate him and stop his gains",
+    "b_zh": "私下沟通，给他留面子，争取内部解决",
+    "b_en": "Talk privately, save face, and seek an internal solution"
+  },
+  {
+    "q_zh": "你和对手竞争一个晋升名额，你掌握他简历造假的信息。你会举报还是以此为筹码谈判？",
+    "q_en": "You and a rival compete for a promotion; you know he faked his resume. Do you report him or use it as leverage?",
+    "a_zh": "直接举报，净化竞争环境，凭实力取胜",
+    "a_en": "Report him directly to clean the competition and win by merit",
+    "b_zh": "私下威胁他退出，避免两败俱伤",
+    "b_en": "Threaten him privately to drop out and avoid mutual destruction"
+  },
+  {
+    "q_zh": "团队项目失败，领导要追责。你知道主要责任在组长，但你也犯了小错。你会主动承担主责还是指出组长？",
+    "q_en": "A team project failed and the boss wants accountability. The lead is mainly at fault, but you made a small mistake. Do you take the blame or point at the lead?",
+    "a_zh": "主动承担主责，换取组长的信任和未来回报",
+    "a_en": "Take main blame to earn the lead's trust and future payback",
+    "b_zh": "指出组长主责，保护自己的职业记录",
+    "b_en": "Point at the lead to protect your own career record"
+  },
+  {
+    "q_zh": "你捡到一个钱包，里面有大量现金和失主联系方式。你会归还并索要报酬，还是归还但不要报酬？",
+    "q_en": "You find a wallet with lots of cash and the owner's contact. Do you return it and ask for a reward, or return it without reward?",
+    "a_zh": "归还并索要10%作为报酬，这是合理激励",
+    "a_en": "Return it and ask for 10% as a reward—a fair incentive",
+    "b_zh": "归还但分文不取，维护道德声誉",
+    "b_en": "Return it without taking anything to protect moral reputation"
+  },
+  {
+    "q_zh": "你和朋友合伙创业，他投入少但出力多。现在公司盈利，他要求五五分成。你会接受还是按投入比例分配？",
+    "q_en": "You co-found a startup with a friend; he invested less but works more. Now profitable, he wants a 50-50 split. Do you accept or split by investment?",
+    "a_zh": "接受五五分成，留住他的努力和合作关系",
+    "a_en": "Accept 50-50 to keep his effort and the partnership",
+    "b_zh": "按投入比例分配，坚持公平和契约精神",
+    "b_en": "Split by investment to uphold fairness and the contract"
+  },
+  {
+    "q_zh": "你在谈判中有一个对方不知道的致命弱点。你会一开始就坦诚，还是留到关键时刻使用？",
+    "q_en": "In a negotiation you have a fatal weakness the other side doesn't know. Do you disclose it early or save it for a critical moment?",
+    "a_zh": "一开始就坦诚，建立信任，换取对方让步",
+    "a_en": "Disclose early to build trust and trade for concessions",
+    "b_zh": "留到关键时刻使用，最大化谈判筹码",
+    "b_en": "Save it for a critical moment to maximize leverage"
+  },
+  {
+    "q_zh": "你发现室友偷偷用了你的东西但没告诉你。你会直接质问，还是也偷偷用他的东西作为报复？",
+    "q_en": "You find your roommate secretly used your stuff without telling you. Do you confront him directly or secretly use his stuff in revenge?",
+    "a_zh": "直接质问，设立界限，避免升级",
+    "a_en": "Confront directly to set boundaries and avoid escalation",
+    "b_zh": "偷偷用他的东西报复，让他也尝尝滋味",
+    "b_en": "Secretly use his stuff in revenge so he tastes his own medicine"
+  },
+  {
+    "q_zh": "你参加一个匿名投票，决定是否揭发一个作弊的同学。揭发会导致他被开除。你会投揭发还是保密？",
+    "q_en": "You're in an anonymous vote on whether to expose a cheating classmate. Exposure means expulsion. Do you vote to expose or keep it secret?",
+    "a_zh": "投揭发，维护规则公平，作弊必须付出代价",
+    "a_en": "Vote to expose to uphold fair rules—cheating must have a cost",
+    "b_zh": "投保密，给他一次改过机会，不毁掉他前途",
+    "b_en": "Vote to keep it secret to give him a chance and not ruin his future"
+  },
+  {
+    "q_zh": "你和一个陌生人被困在荒岛，只有一份食物。你会提议平分，还是先下手为强？",
+    "q_en": "You and a stranger are stranded on a deserted island with only one portion of food. Do you propose to split it or take it first?",
+    "a_zh": "提议平分，合作求生，长期更有利",
+    "a_en": "Propose to split it—cooperate to survive, better long-term",
+    "b_zh": "先下手为强，确保自己活下去",
+    "b_en": "Take it first to ensure your own survival"
+  },
+  {
+    "q_zh": "你的竞争对手突然向你示好，提出合作。你知道他可能另有目的。你会接受合作还是拒绝并防范？",
+    "q_en": "Your rival suddenly extends an olive branch and proposes cooperation. You know he may have ulterior motives. Do you accept or refuse and stay guarded?",
+    "a_zh": "接受合作，将计就计，在合作中摸清他的底牌",
+    "a_en": "Accept cooperation, play along, and learn his cards through working together",
+    "b_zh": "拒绝并防范，不给他任何可乘之机",
+    "b_en": "Refuse and stay guarded, giving him no opening"
   }
 ]
