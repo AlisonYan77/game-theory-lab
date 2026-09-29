@@ -18427,5 +18427,85 @@
     "a_en": "Accept cooperation, play along, and learn his cards through working together",
     "b_zh": "拒绝并防范，不给他任何可乘之机",
     "b_en": "Refuse and stay guarded, giving him no opening"
+  },
+  {
+    "q_zh": "你发现同事在会议上把你的创意说成是他自己的。你会：",
+    "q_en": "You notice a colleague presenting your idea as their own in a meeting. You:",
+    "a_zh": "当场打断并澄清这是你的想法",
+    "a_en": "Interrupt on the spot and clarify it was your idea",
+    "b_zh": "会后私下找他沟通，避免公开冲突",
+    "b_en": "Talk to them privately afterward to avoid public conflict"
+  },
+  {
+    "q_zh": "朋友向你借了一笔钱，约定一周还，但一个月过去仍未提。你会：",
+    "q_en": "A friend borrowed money, promised to repay in a week, but a month has passed in silence. You:",
+    "a_zh": "主动开口提醒他还钱",
+    "a_en": "Bring it up directly and ask for repayment",
+    "b_zh": "继续等，担心开口会伤感情",
+    "b_en": "Keep waiting, fearing it would hurt the friendship to ask"
+  },
+  {
+    "q_zh": "你和搭档做一个项目，功劳大部分被你获得，但对方付出更多。你会：",
+    "q_en": "You and a partner worked on a project. You got most of the credit, but they did more work. You:",
+    "a_zh": "主动向上级说明对方的贡献",
+    "a_en": "Proactively tell your boss about your partner's contribution",
+    "b_zh": "保持沉默，接受现有的功劳分配",
+    "b_en": "Stay silent and accept the current credit distribution"
+  },
+  {
+    "q_zh": "谈判中对方提出了一个明显对你不利的条件。你会：",
+    "q_en": "In a negotiation, the other side proposes terms clearly unfavorable to you. You:",
+    "a_zh": "立即拒绝并亮出你的底线",
+    "a_en": "Reject immediately and state your bottom line",
+    "b_zh": "先接受部分条件，换取后续谈判空间",
+    "b_en": "Accept parts of it first to gain room for later negotiation"
+  },
+  {
+    "q_zh": "你发现好友的伴侣在背着他/她出轨。你会：",
+    "q_en": "You discover your close friend's partner is cheating behind their back. You:",
+    "a_zh": "直接告诉好友真相",
+    "a_en": "Tell your friend the truth directly",
+    "b_zh": "不介入，让他们自己处理",
+    "b_en": "Stay out of it and let them handle it themselves"
+  },
+  {
+    "q_zh": "团队投票决定方案，你的方案被否，但你确信自己的更好。你会：",
+    "q_en": "The team voted and rejected your proposal, but you're sure yours is better. You:",
+    "a_zh": "坚持己见，继续争取大家支持",
+    "a_en": "Stick to your position and keep trying to win support",
+    "b_zh": "服从团队决定，配合执行另一个方案",
+    "b_en": "Follow the team's decision and cooperate with the other plan"
+  },
+  {
+    "q_zh": "你在一场博弈中可以先出手。规则是：先出手占优，但双方都先出手会两败俱伤。你会：",
+    "q_en": "You can move first in a game where moving first is advantageous, but if both move first, both lose badly. You:",
+    "a_zh": "果断先出手，抢占主动权",
+    "a_en": "Move first decisively to seize the initiative",
+    "b_zh": "观望对方动作，再决定是否出手",
+    "b_en": "Wait to see what the other side does before deciding"
+  },
+  {
+    "q_zh": "有人当众用玩笑贬低你，周围人都在笑。你会：",
+    "q_en": "Someone publicly belittles you with a joke while everyone laughs. You:",
+    "a_zh": "当场用更犀利的玩笑回击",
+    "a_en": "Fire back with a sharper joke on the spot",
+    "b_zh": "微笑带过，事后再处理",
+    "b_en": "Smile it off and deal with it later"
+  },
+  {
+    "q_zh": "你需要向一个可能拒绝你的人求助。你会：",
+    "q_en": "You need to ask someone for help, knowing they might refuse. You:",
+    "a_zh": "直接说明需求，给出理由",
+    "a_en": "State your request directly with clear reasons",
+    "b_zh": "先铺垫感情，再委婉提出请求",
+    "b_en": "Build rapport first, then make the request tactfully"
+  },
+  {
+    "q_zh": "你手握一个秘密，公开它可以获利，但会伤害信任你的人。你会：",
+    "q_en": "You hold a secret. Revealing it could profit you but would hurt someone who trusts you. You:",
+    "a_zh": "公开秘密，抓住机会",
+    "a_en": "Reveal the secret and seize the opportunity",
+    "b_zh": "保守秘密，守住信任",
+    "b_en": "Keep the secret and protect the trust"
   }
 ]
