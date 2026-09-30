@@ -18507,5 +18507,85 @@
     "a_en": "Reveal the secret and seize the opportunity",
     "b_zh": "保守秘密，守住信任",
     "b_en": "Keep the secret and protect the trust"
+  },
+  {
+    "q_zh": "你被关在一间密室，门上有两个按钮：A 能立刻开门外放你走，但会让另一个陌生人被困 1 小时；B 不开门，但你和他都安全，只是你要多等 3 小时。你选？",
+    "q_en": "You are locked in a room with two buttons: A opens the door and frees you now, but traps a stranger for 1 hour; B keeps the door closed, both of you are safe, but you must wait 3 more hours. Choose?",
+    "a_zh": "按 A：我先出去，代价让别人承担",
+    "a_en": "Press A: I get out now, someone else pays the cost",
+    "b_zh": "按 B：不伤害别人，我多等",
+    "b_en": "Press B: no one gets hurt, I wait longer"
+  },
+  {
+    "q_zh": "你和对手各有一笔钱。A：你拿走 80%，对方拿 20%；B：你们各拿 50%，但对方会知道是你选了公平方案。你更在意结果还是形象？",
+    "q_en": "You and an opponent each have money at stake. A: You take 80%, they take 20%; B: You each take 50%, but they will know you chose fairness. Do you care more about outcome or reputation?",
+    "a_zh": "选 A：利益优先，拿更多",
+    "a_en": "Choose A: prioritize gain, take more",
+    "b_zh": "选 B：公平优先，保形象",
+    "b_en": "Choose B: prioritize fairness, protect image"
+  },
+  {
+    "q_zh": "团队项目只剩一个晋升名额。A：你私下向领导强调自己的贡献，可能挤掉队友；B：你公开肯定队友，即使自己可能落选。你选？",
+    "q_en": "Your team has one promotion slot left. A: You privately emphasize your contribution to the boss, possibly edging out your teammate; B: You publicly credit your teammate, even if you may lose the slot. Choose?",
+    "a_zh": "选 A：先争取自己的机会",
+    "a_en": "Choose A: fight for my own chance first",
+    "b_zh": "选 B：维护关系和声誉",
+    "b_en": "Choose B: protect the relationship and reputation"
+  },
+  {
+    "q_zh": "陌生人先给你 100 元，让你决定分给他多少。A：你一分不给，自己全拿；B：你分他 50 元。若对方能事后评价你，你怎么选？",
+    "q_en": "A stranger gives you $100 first and lets you decide how much to share. A: Give nothing, keep it all; B: Give $50. If they can rate you afterward, what do you choose?",
+    "a_zh": "选 A：理性自利，全部留下",
+    "a_en": "Choose A: rational self-interest, keep it all",
+    "b_zh": "选 B：互惠公平，分他一半",
+    "b_en": "Choose B: reciprocity and fairness, split it"
+  },
+  {
+    "q_zh": "你和朋友同时面对一个机会：A：你先抢到，朋友会失望；B：你让给朋友，他成功后会欠你人情。你更看重即时收益还是长期关系？",
+    "q_en": "You and a friend face the same opportunity: A: You take it first, your friend is disappointed; B: You let your friend have it, and they owe you a favor if they succeed. Do you value immediate gain or long-term relationship?",
+    "a_zh": "选 A：机会先到手更重要",
+    "a_en": "Choose A: getting the opportunity matters more",
+    "b_zh": "选 B：关系和人情的回报更长远",
+    "b_en": "Choose B: relationships and favors pay off longer"
+  },
+  {
+    "q_zh": "一个匿名投票决定是否给所有人加薪，但若只有你反对，你可能被怀疑是破坏者。A：投赞成，随大流；B：投反对，坚持你认为不可行的方案。你选？",
+    "q_en": "An anonymous vote decides whether everyone gets a raise, but if you are the only one opposed, you may be suspected as the saboteur. A: Vote yes and follow the crowd; B: Vote no and stick to what you think is unworkable. Choose?",
+    "a_zh": "选 A：隐藏立场，降低风险",
+    "a_en": "Choose A: hide my stance, reduce risk",
+    "b_zh": "选 B：坚持判断，承担代价",
+    "b_en": "Choose B: stand by my judgment, bear the cost"
+  },
+  {
+    "q_zh": "你和搭档合作，但你知道他可能背叛你。A：你先背叛，保证自己不吃亏；B：你先合作，赌他也会合作。你选？",
+    "q_en": "You are working with a partner, but you know they might betray you. A: Betray first to avoid being exploited; B: Cooperate first and bet they will too. Choose?",
+    "a_zh": "选 A：先发制人，保护自己",
+    "a_en": "Choose A: strike first, protect myself",
+    "b_zh": "选 B：先释放善意，争取双赢",
+    "b_en": "Choose B: show goodwill first, aim for mutual win"
+  },
+  {
+    "q_zh": "你捡到一个钱包，里面有现金和失主证件。A：拿走现金，扔掉证件；B：设法归还，可能获得感谢但没回报。你选？",
+    "q_en": "You find a wallet with cash and the owner’s ID. A: Take the cash and toss the ID; B: Try to return it, possibly getting thanks but no reward. Choose?",
+    "a_zh": "选 A：现实利益优先",
+    "a_en": "Choose A: practical gain first",
+    "b_zh": "选 B：道德与信誉优先",
+    "b_en": "Choose B: morality and integrity first"
+  },
+  {
+    "q_zh": "谈判中对方开价很低。A：你立刻强硬反击，可能谈崩但争取最大利益；B：你先接受部分条件，换取后续合作机会。你选？",
+    "q_en": "In a negotiation, the other side opens very low. A: Hit back hard immediately, risking a breakdown but maximizing gain; B: Accept some terms first to secure future cooperation. Choose?",
+    "a_zh": "选 A：强硬博弈，争最大利益",
+    "a_en": "Choose A: play hard, maximize gain",
+    "b_zh": "选 B：适度让步，保合作空间",
+    "b_en": "Choose B: concede a bit, preserve cooperation"
+  },
+  {
+    "q_zh": "你能匿名举报一个违规的同事。A：举报，可能让他受罚，你受益；B：不举报，维持表面和平，但风险继续存在。你选？",
+    "q_en": "You can anonymously report a colleague’s violation. A: Report it, possibly getting them punished and benefiting you; B: Don’t report, keep the peace, but the risk remains. Choose?",
+    "a_zh": "选 A：规则优先，借机获益",
+    "a_en": "Choose A: rules first, seize the advantage",
+    "b_zh": "选 B：关系优先，避免冲突",
+    "b_en": "Choose B: relationship first, avoid conflict"
   }
 ]
