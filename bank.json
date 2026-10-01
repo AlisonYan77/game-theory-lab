@@ -18587,5 +18587,85 @@
     "a_en": "Choose A: rules first, seize the advantage",
     "b_zh": "选 B：关系优先，避免冲突",
     "b_en": "Choose B: relationship first, avoid conflict"
+  },
+  {
+    "q_zh": "你在一场拍卖中领先，只需再出价一次就可能赢下。此时你更倾向于？",
+    "q_en": "You are leading in an auction and one more bid could win it. What do you lean toward?",
+    "a_zh": "继续加价，先锁定胜利再说",
+    "a_en": "Keep bidding and lock in the win first",
+    "b_zh": "暂停加价，避免被对手抬价套牢",
+    "b_en": "Pause and avoid being trapped by a bidding war"
+  },
+  {
+    "q_zh": "团队合作时，你发现有人偷懒但项目仍能按时完成。你会？",
+    "q_en": "In a team project, someone is slacking off but the deadline can still be met. What do you do?",
+    "a_zh": "当场指出，维护公平和规则",
+    "a_en": "Call it out immediately to uphold fairness and rules",
+    "b_zh": "先不撕破脸，优先保证项目顺利结束",
+    "b_en": "Avoid conflict for now and prioritize finishing smoothly"
+  },
+  {
+    "q_zh": "你掌握一个关键信息，能让谈判更有利。你更可能？",
+    "q_en": "You hold key information that could strengthen your negotiation. You are more likely to:",
+    "a_zh": "先隐藏信息，等关键时刻再抛出",
+    "a_en": "Hide it first and reveal it at the critical moment",
+    "b_zh": "适度透露，换取对方更快让步",
+    "b_en": "Reveal some of it to get the other side to concede faster"
+  },
+  {
+    "q_zh": "朋友借钱后一直没提还款。你更倾向于？",
+    "q_en": "A friend borrowed money and hasn’t mentioned repayment. What do you prefer?",
+    "a_zh": "直接提醒，关系也要有边界",
+    "a_en": "Remind them directly; relationships need boundaries too",
+    "b_zh": "再等等，不想因为钱破坏感情",
+    "b_en": "Wait longer; I don’t want money to ruin the friendship"
+  },
+  {
+    "q_zh": "在竞争激烈的环境中，你更相信？",
+    "q_en": "In a highly competitive environment, what do you trust more?",
+    "a_zh": "先发制人，主动出击更容易占优",
+    "a_en": "Strike first; taking initiative gives an advantage",
+    "b_zh": "后发制人，观察对手再决定行动",
+    "b_en": "React later; observe opponents before acting"
+  },
+  {
+    "q_zh": "你和对手都知道彼此底牌有限。此时你更可能？",
+    "q_en": "You and your opponent both know your cards are limited. What are you more likely to do?",
+    "a_zh": "表现得强硬，制造自己还有后手的印象",
+    "a_en": "Act tough to create the impression you still have leverage",
+    "b_zh": "表现得合作，争取换取对方的真实意图",
+    "b_en": "Act cooperative to draw out the opponent’s true intentions"
+  },
+  {
+    "q_zh": "如果规则允许灰色操作，而且别人也在用。你会？",
+    "q_en": "If the rules allow gray-area moves and others are using them, what do you do?",
+    "a_zh": "跟着用，否则自己会吃亏",
+    "a_en": "Use them too; otherwise I’ll be at a disadvantage",
+    "b_zh": "尽量不用，避免长期信誉受损",
+    "b_en": "Avoid them as much as possible to protect long-term reputation"
+  },
+  {
+    "q_zh": "你发现对方在试探你的底线。你更倾向于？",
+    "q_en": "You notice the other side is testing your limits. What do you lean toward?",
+    "a_zh": "立刻强硬回应，让对方知道代价",
+    "a_en": "Respond firmly at once so they know the cost",
+    "b_zh": "暂时模糊回应，保留谈判空间",
+    "b_en": "Give a vague response for now and keep room to negotiate"
+  },
+  {
+    "q_zh": "在一场可能双赢的合作里，你更愿意？",
+    "q_en": "In a potentially win-win collaboration, you would rather:",
+    "a_zh": "先谈清楚利益分配，再投入资源",
+    "a_en": "Clarify how benefits are split before investing resources",
+    "b_zh": "先建立信任和投入，再逐步谈分配",
+    "b_en": "Build trust and invest first, then gradually discuss distribution"
+  },
+  {
+    "q_zh": "当你知道自己可能犯错，但承认会失去优势。你会？",
+    "q_en": "When you know you may be wrong, but admitting it would cost your advantage, what do you do?",
+    "a_zh": "承认错误，换取长期可信度",
+    "a_en": "Admit the mistake to gain long-term credibility",
+    "b_zh": "先不承认，尽量把局面稳住",
+    "b_en": "Don’t admit it yet; stabilize the situation first"
   }
 ]
