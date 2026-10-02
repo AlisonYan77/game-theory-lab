@@ -18667,5 +18667,85 @@
     "a_en": "Admit the mistake to gain long-term credibility",
     "b_zh": "先不承认，尽量把局面稳住",
     "b_en": "Don’t admit it yet; stabilize the situation first"
+  },
+  {
+    "q_zh": "你被卷入一场三人分赃游戏，规则是：谁先提出分配方案，若被否决就会被淘汰。你希望自己扮演什么角色？",
+    "q_en": "You are in a three-player split-the-loot game: whoever proposes first is eliminated if the proposal is rejected. Which role would you rather play?",
+    "a_zh": "先手提议者，主动掌控节奏",
+    "a_en": "The first proposer, actively controlling the pace",
+    "b_zh": "后手否决者，保留反制筹码",
+    "b_en": "The later veto player, keeping counter-leverage"
+  },
+  {
+    "q_zh": "同事把一个模糊任务甩给你，并说“你更擅长这个”。你更倾向于？",
+    "q_en": "A colleague dumps a vague task on you and says, “You’re better at this.” What do you lean toward?",
+    "a_zh": "先接下，再用成果换取下次资源",
+    "a_en": "Accept it first, then trade the result for resources next time",
+    "b_zh": "当场澄清边界，避免被默认兜底",
+    "b_en": "Clarify boundaries immediately to avoid becoming the default backup"
+  },
+  {
+    "q_zh": "谈判时对方突然沉默，盯着你看。你通常会？",
+    "q_en": "In a negotiation, the other side suddenly goes silent and stares at you. What do you usually do?",
+    "a_zh": "先开口填补空白，推动信息流动",
+    "a_en": "Speak first to fill the silence and keep information flowing",
+    "b_zh": "也保持沉默，让对方先暴露底牌",
+    "b_en": "Stay silent too and make them reveal their hand first"
+  },
+  {
+    "q_zh": "你发现朋友在群里故意忽略你的观点。你更可能？",
+    "q_en": "You notice a friend deliberately ignores your point in a group chat. What are you more likely to do?",
+    "a_zh": "直接点名追问，把冲突摆到台面",
+    "a_en": "Call them out directly and bring the conflict into the open",
+    "b_zh": "暂时不回应，私下寻找更有利时机",
+    "b_en": "Hold back for now and look for a more advantageous private moment"
+  },
+  {
+    "q_zh": "在团队投票前，你手里有一票能决定结果。你会怎么用？",
+    "q_en": "Before a team vote, you hold the decisive vote. How do you use it?",
+    "a_zh": "公开表态，换取明确承诺",
+    "a_en": "Declare publicly and trade it for a clear commitment",
+    "b_zh": "隐而不发，等别人加价后再决定",
+    "b_en": "Keep it hidden and decide after others raise their offers"
+  },
+  {
+    "q_zh": "你和一个强势的人合作项目，对方总想主导。你更愿意？",
+    "q_en": "You are working with a domineering person who always wants to lead. What would you rather do?",
+    "a_zh": "让出表面主导权，控制关键节点",
+    "a_en": "Give up visible leadership but control the key checkpoints",
+    "b_zh": "正面争夺主导权，确立规则",
+    "b_en": "Compete head-on for leadership and set the rules"
+  },
+  {
+    "q_zh": "如果你能选择一次“最后通牒博弈”中的身份，你会选？",
+    "q_en": "If you could choose your role once in an ultimatum game, which would you pick?",
+    "a_zh": "提议者，决定分配方案",
+    "a_en": "The proposer, deciding the split",
+    "b_zh": "回应者，决定接受或拒绝",
+    "b_en": "The responder, deciding whether to accept or reject"
+  },
+  {
+    "q_zh": "你怀疑对手在虚张声势，但不确定。你更倾向于？",
+    "q_en": "You suspect your opponent is bluffing but aren’t sure. What do you lean toward?",
+    "a_zh": "小幅加注试探，逼对方回应",
+    "a_en": "Make a small raise to test and force a response",
+    "b_zh": "暂时退让，保留实力观察",
+    "b_en": "Retreat for now, preserve strength, and observe"
+  },
+  {
+    "q_zh": "在一个重复博弈中，对方上次背叛了你。这次你更可能？",
+    "q_en": "In a repeated game, the other side betrayed you last time. This time you are more likely to:",
+    "a_zh": "以牙还牙，先让对方付出代价",
+    "a_en": "Retaliate tit-for-tat and make them pay first",
+    "b_zh": "释放合作信号，争取长期收益",
+    "b_en": "Send a cooperative signal and aim for long-term gains"
+  },
+  {
+    "q_zh": "你必须在信息不完全时做决定。你更相信？",
+    "q_en": "You must decide with incomplete information. What do you trust more?",
+    "a_zh": "概率计算，选择期望值最高的方案",
+    "a_en": "Probability calculation and the highest expected-value option",
+    "b_zh": "直觉读人，判断谁更可能先让步",
+    "b_en": "Intuitive reading of people and who is more likely to yield first"
   }
 ]
