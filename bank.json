@@ -18747,5 +18747,85 @@
     "a_en": "Probability calculation and the highest expected-value option",
     "b_zh": "直觉读人，判断谁更可能先让步",
     "b_en": "Intuitive reading of people and who is more likely to yield first"
+  },
+  {
+    "q_zh": "你发现同事把本该自己完成的工作推给了你，你会怎么做？",
+    "q_en": "You realize a coworker has pushed their own work onto you. What do you do?",
+    "a_zh": "当场委婉拒绝，并明确说明这不在你的职责范围内。",
+    "a_en": "Politely refuse on the spot and clearly state it is outside your responsibilities.",
+    "b_zh": "先接下任务，但之后找机会让领导知道真实分工。",
+    "b_en": "Accept the task first, but later find a chance to let your manager know the real division of labor."
+  },
+  {
+    "q_zh": "在一场谈判中，对方先报出一个明显偏高的条件，你更倾向于：",
+    "q_en": "In a negotiation, the other side opens with an obviously inflated demand. You are more likely to:",
+    "a_zh": "立刻强硬回击，压低对方预期，避免被锚定。",
+    "a_en": "Counter aggressively at once to lower their expectations and avoid being anchored.",
+    "b_zh": "不急着反驳，先追问依据，再慢慢把话题拉回合理区间。",
+    "b_en": "Not rush to argue, first ask for justification, then slowly steer the discussion back to a reasonable range."
+  },
+  {
+    "q_zh": "朋友向你借一笔不小的钱，但没有说明还款时间，你会：",
+    "q_en": "A friend asks to borrow a significant amount of money but does not mention when they will repay it. You would:",
+    "a_zh": "直接问清用途和还款计划，再决定是否借。",
+    "a_en": "Directly ask about the purpose and repayment plan before deciding whether to lend.",
+    "b_zh": "先借一部分，既顾情面，也控制风险。",
+    "b_en": "Lend only part of it, preserving the relationship while limiting risk."
+  },
+  {
+    "q_zh": "团队讨论时，你的方案被大家忽视，而另一个相似的方案却被采纳，你会：",
+    "q_en": "During a team discussion, your proposal is ignored while a similar one is adopted. What do you do?",
+    "a_zh": "当场指出两者相似之处，争取属于自己的认可。",
+    "a_en": "Point out the similarities on the spot and fight for recognition of your contribution.",
+    "b_zh": "先支持被采纳的方案，之后再私下沟通贡献归属。",
+    "b_en": "Support the adopted proposal first, then discuss credit privately later."
+  },
+  {
+    "q_zh": "你怀疑伴侣在隐瞒一件重要的事，但对方坚持说没事，你会：",
+    "q_en": "You suspect your partner is hiding something important, but they insist nothing is wrong. You would:",
+    "a_zh": "继续追问到底，认为透明比暂时的平静更重要。",
+    "a_en": "Keep pressing until you get the truth, believing transparency matters more than temporary calm.",
+    "b_zh": "暂时停止追问，观察行为变化，等待更合适的时机。",
+    "b_en": "Stop pressing for now, observe changes in behavior, and wait for a better moment."
+  },
+  {
+    "q_zh": "在职场竞争中，你发现对手有一个致命弱点，但这个弱点涉及他的隐私，你会：",
+    "q_en": "In workplace competition, you discover a rival's fatal weakness, but it involves their privacy. You would:",
+    "a_zh": "只要合法且能赢，就可能利用它。",
+    "a_en": "Use it if it is legal and can help you win.",
+    "b_zh": "不碰隐私弱点，改为在公开规则内击败对方。",
+    "b_en": "Avoid the privacy-related weakness and beat them within public rules instead."
+  },
+  {
+    "q_zh": "你和朋友同时喜欢上一个人，而朋友先向你坦白了自己的心意，你会：",
+    "q_en": "You and a friend both like the same person, and your friend confesses their feelings to you first. You would:",
+    "a_zh": "坦白自己也有好感，让关系在明面上公平竞争。",
+    "a_en": "Admit you also have feelings and let it become fair competition in the open.",
+    "b_zh": "先隐藏自己的心意，避免伤害友情，再看事情如何发展。",
+    "b_en": "Hide your feelings first to avoid hurting the friendship, then see how things develop."
+  },
+  {
+    "q_zh": "当你进入一个新群体时，你更倾向于：",
+    "q_en": "When you enter a new group, you are more inclined to:",
+    "a_zh": "先观察规则和权力结构，再决定如何表现自己。",
+    "a_en": "Observe the rules and power structure first, then decide how to present yourself.",
+    "b_zh": "主动展示能力和善意，尽快建立自己的位置。",
+    "b_en": "Actively show competence and goodwill to establish your position quickly."
+  },
+  {
+    "q_zh": "如果一个人曾经背叛过你，现在又回来寻求合作，你会：",
+    "q_en": "If someone who once betrayed you comes back seeking cooperation, you would:",
+    "a_zh": "可以合作，但设定明确边界和惩罚机制。",
+    "a_en": "Cooperate if there are clear boundaries and consequences.",
+    "b_zh": "拒绝合作，因为信任一旦破裂就很难修复。",
+    "b_en": "Refuse cooperation, because once trust is broken it is hard to repair."
+  },
+  {
+    "q_zh": "在信息不对称的局面中，你掌握关键信息，但公开它可能损害你的利益，你会：",
+    "q_en": "In a situation of information asymmetry, you hold key information, but revealing it may hurt your interests. You would:",
+    "a_zh": "保留信息，把它作为谈判筹码，在合适时机交换利益。",
+    "a_en": "Keep the information as a bargaining chip and trade it for benefits at the right time.",
+    "b_zh": "在必要时公开信息，用长期信誉换取更稳固的关系。",
+    "b_en": "Reveal it when necessary, trading long-term credibility for a more stable relationship."
   }
 ]
