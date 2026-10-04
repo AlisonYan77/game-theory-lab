@@ -18827,5 +18827,85 @@
     "a_en": "Keep the information as a bargaining chip and trade it for benefits at the right time.",
     "b_zh": "在必要时公开信息，用长期信誉换取更稳固的关系。",
     "b_en": "Reveal it when necessary, trading long-term credibility for a more stable relationship."
+  },
+  {
+    "q_zh": "你被关进一间密室，出口有两扇门。守卫告诉你：A 门通向自由，B 门通向陷阱，但守卫可能说谎。你只能问一个问题来判断哪扇门安全。你会问：",
+    "q_en": "You are locked in a room with two exits. The guard says: Door A leads to freedom, Door B leads to a trap, but the guard may be lying. You can ask one question to determine which door is safe. What do you ask?",
+    "a_zh": "问守卫：如果我问你哪扇门通向自由，你会指哪扇？",
+    "a_en": "Ask the guard: If I asked you which door leads to freedom, which would you point to?",
+    "b_zh": "问守卫：你刚才说的是真话吗？",
+    "b_en": "Ask the guard: Was what you just said true?"
+  },
+  {
+    "q_zh": "你和对手各拿到 100 元。规则：双方同时选择“合作”或“背叛”。都合作各得 50 元；都背叛各得 10 元；一方背叛一方合作，背叛者得 80 元，合作者得 0 元。只玩一次，你会选：",
+    "q_en": "You and an opponent each receive $100. Rules: both choose Cooperate or Betray simultaneously. Both cooperate: each gets $50. Both betray: each gets $10. One betrays while the other cooperates: betrayer gets $80, cooperator gets $0. Playing only once, what do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "一个陌生人愿意给你 1000 元，条件是你必须从以下两种分配中选择一种：A. 你拿 600，他拿 400；B. 你拿 500，他拿 1000。你更在意相对收益还是绝对收益？你会选：",
+    "q_en": "A stranger offers you $1000, but you must choose one of two allocations: A. You get $600, he gets $400; B. You get $500, he gets $1000. Do you care more about relative or absolute gain? What do you choose?",
+    "a_zh": "选 A：我拿 600，他拿 400",
+    "a_en": "Choose A: I get $600, he gets $400",
+    "b_zh": "选 B：我拿 500，他拿 1000",
+    "b_en": "Choose B: I get $500, he gets $1000"
+  },
+  {
+    "q_zh": "你在玩“最后通牒博弈”：对方决定如何分配 100 元给你和他。如果对方给你 X 元，你可以接受或拒绝。若拒绝，两人都拿 0。对方给你 1 元，自己留 99 元。你会：",
+    "q_en": "You are playing the Ultimatum Game: the other player decides how to split $100 between you and them. If they offer you $X, you can accept or reject. If you reject, both get $0. They offer you $1 and keep $99. What do you do?",
+    "a_zh": "接受，因为 1 元总比 0 元好",
+    "a_en": "Accept, because $1 is better than $0",
+    "b_zh": "拒绝，因为不公平的分配不能接受",
+    "b_en": "Reject, because an unfair split is unacceptable"
+  },
+  {
+    "q_zh": "你参加一个猜数字游戏：所有人从 0 到 100 中选一个整数，最接近所有答案平均数三分之二的人获胜。你认为多数人会理性推理到第几层？你会选：",
+    "q_en": "You join a number-guessing game: everyone chooses an integer from 0 to 100, and the person closest to two-thirds of the average wins. How many levels of reasoning do you think most people will use? What do you choose?",
+    "a_zh": "选 33 左右，假设多数人只推理一层",
+    "a_en": "Choose around 33, assuming most people reason only one level",
+    "b_zh": "选 0 或 1，假设多数人会一直推理到均衡",
+    "b_en": "Choose 0 or 1, assuming most people reason all the way to equilibrium"
+  },
+  {
+    "q_zh": "你是公司员工，老板说：“如果本月团队业绩达标，所有人加薪 10%；如果有人偷懒，达标失败，所有人不加薪。”你知道偷懒不会被发现。你会：",
+    "q_en": "You are an employee. The boss says: 'If the team hits this month's target, everyone gets a 10% raise; if anyone slacks off and the target is missed, no one gets a raise.' You know slacking off won't be detected. What do you do?",
+    "a_zh": "努力工作，因为团队成功我也受益",
+    "a_en": "Work hard, because team success benefits me too",
+    "b_zh": "偷懒，因为即使我不努力，别人也可能努力",
+    "b_en": "Slack off, because others may work hard even if I don't"
+  },
+  {
+    "q_zh": "你和朋友一起吃饭，账单 AA。你们都可以点更贵的菜，因为成本由两人分担。你知道朋友也懂这个逻辑。你会：",
+    "q_en": "You and a friend eat together and split the bill equally. You can both order more expensive dishes because the cost is shared. You know your friend understands this logic too. What do you do?",
+    "a_zh": "点正常价格的菜，避免占朋友便宜",
+    "a_en": "Order normally priced dishes to avoid taking advantage of your friend",
+    "b_zh": "点更贵的菜，因为朋友也可能这么做",
+    "b_en": "Order more expensive dishes, because your friend might do the same"
+  },
+  {
+    "q_zh": "你在一场拍卖中竞拍 100 元现金。规则：出价最高者付自己的出价并拿走 100 元，出价第二高者也必须付自己的出价但什么都得不到。目前最高价是 99 元。你会：",
+    "q_en": "You are in an auction for $100 cash. Rule: the highest bidder pays their bid and wins $100; the second-highest bidder also pays their bid but gets nothing. The current highest bid is $99. What do you do?",
+    "a_zh": "出价 100 元，至少不亏不赚",
+    "a_en": "Bid $100, so at least you break even",
+    "b_zh": "不再出价，避免陷入更大损失",
+    "b_en": "Stop bidding to avoid falling into a bigger loss"
+  },
+  {
+    "q_zh": "你和对手玩重复囚徒困境，已经合作了 9 轮。第 10 轮是最后一轮，双方都知道这是最后一次。你会：",
+    "q_en": "You are playing repeated Prisoner's Dilemma and have cooperated for 9 rounds. Round 10 is the last round, and both sides know it is the last. What do you do?",
+    "a_zh": "继续合作，维持信任",
+    "a_en": "Keep cooperating to maintain trust",
+    "b_zh": "选择背叛，因为最后一轮没有未来惩罚",
+    "b_en": "Betray, because there is no future punishment in the last round"
+  },
+  {
+    "q_zh": "你在地铁上看到一个陌生人掉了钱包，周围只有你看见。你可以还给他，也可以拿走。你认为哪种选择更符合长期博弈中的理性？",
+    "q_en": "You see a stranger drop their wallet on the subway, and only you notice. You can return it or take it. Which choice do you think is more rational in a long-term game?",
+    "a_zh": "还给他，因为声誉和长期合作更重要",
+    "a_en": "Return it, because reputation and long-term cooperation matter more",
+    "b_zh": "拿走，因为没人看见，短期收益确定",
+    "b_en": "Take it, because no one saw and the short-term gain is certain"
   }
 ]
