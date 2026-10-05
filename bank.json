@@ -18907,5 +18907,85 @@
     "a_en": "Return it, because reputation and long-term cooperation matter more",
     "b_zh": "拿走，因为没人看见，短期收益确定",
     "b_en": "Take it, because no one saw and the short-term gain is certain"
+  },
+  {
+    "q_zh": "你被卷入一场游戏：必须从两个按钮中选一个。按A，你有100%的概率失去100元；按B，你有50%的概率失去200元，50%的概率不失去任何东西。你选哪个？",
+    "q_en": "You are forced into a game: choose one of two buttons. Button A: 100% chance to lose $100. Button B: 50% chance to lose $200, 50% chance to lose nothing. Which do you choose?",
+    "a_zh": "按A：稳亏100元",
+    "a_en": "Press A: lose $100 for sure",
+    "b_zh": "按B：赌一把，可能亏200元也可能不亏",
+    "b_en": "Press B: gamble, either lose $200 or lose nothing"
+  },
+  {
+    "q_zh": "你和一个陌生人各拿10元。如果你们都选择“合作”，系统给你们每人加20元；如果一人合作一人背叛，背叛者拿30元，合作者拿0元；如果都背叛，各拿5元。你选哪个？",
+    "q_en": "You and a stranger each start with $10. If both choose Cooperate, each gains $20. If one cooperates and the other betrays, the betrayer gets $30 and the cooperator gets $0. If both betray, each gets $5. Which do you choose?",
+    "a_zh": "合作",
+    "a_en": "Cooperate",
+    "b_zh": "背叛",
+    "b_en": "Betray"
+  },
+  {
+    "q_zh": "一个钱包里有100元，你和另一个人都声称是自己的。规则：各自写下一个0到100之间的索赔金额。如果两人索赔之和不超过100，各拿自己写的金额；如果超过100，两人都拿0元。你写多少？",
+    "q_en": "A wallet contains $100, and you and another person both claim it. Rule: each writes a claim from 0 to 100. If the sum of claims is ≤100, each gets their claimed amount; if it exceeds 100, both get $0. What do you claim?",
+    "a_zh": "写50元（追求公平）",
+    "a_en": "Claim $50 (fairness)",
+    "b_zh": "写100元（赌对方写0或很小）",
+    "b_en": "Claim $100 (bet the other writes 0 or very little)"
+  },
+  {
+    "q_zh": "你面前有两个信封，其中一个的钱是另一个的两倍。你随机拿了一个，打开发现是100元。你可以选择保留，或换另一个信封。你换吗？",
+    "q_en": "Two envelopes are in front of you; one contains twice as much money as the other. You randomly pick one, open it, and see $100. You may keep it or switch to the other envelope. Do you switch?",
+    "a_zh": "换（期望值更高）",
+    "a_en": "Switch (higher expected value)",
+    "b_zh": "不换（避免后悔，保持现状）",
+    "b_en": "Don't switch (avoid regret, keep status quo)"
+  },
+  {
+    "q_zh": "你参加一个拍卖：一件价值100元的物品，出价最高者得到它，但出价第二高的人也要支付自己的出价且什么都得不到。你打算怎么出价？",
+    "q_en": "You join an auction: an item worth $100 goes to the highest bidder, but the second-highest bidder must also pay their bid and gets nothing. How do you bid?",
+    "a_zh": "只出很低的价格，比如10元，避免被套",
+    "a_en": "Bid very low, e.g. $10, to avoid the trap",
+    "b_zh": "接近100元出价，势在必得",
+    "b_en": "Bid close to $100, determined to win"
+  },
+  {
+    "q_zh": "你和对手各有一枚硬币，同时选择正面或反面。如果两枚硬币相同，你赢10元；如果不同，你输10元。你选哪面？",
+    "q_en": "You and an opponent each have a coin and simultaneously choose heads or tails. If the coins match, you win $10; if they differ, you lose $10. Which side do you choose?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你被困在一个公共资源困境中：10个人共享一片牧场，每人可以选择养10只羊或20只羊。如果总羊数不超过100只，每只羊收益10元；如果超过100只，草场退化，每只羊收益降为2元。你养多少？",
+    "q_en": "You are in a common-resource dilemma: 10 people share a pasture. Each chooses to raise 10 sheep or 20 sheep. If total sheep ≤100, each sheep earns $10; if >100, the pasture degrades and each sheep earns $2. How many do you raise?",
+    "a_zh": "养10只（可持续）",
+    "a_en": "Raise 10 (sustainable)",
+    "b_zh": "养20只（争取个人最大利益）",
+    "b_en": "Raise 20 (maximize personal gain)"
+  },
+  {
+    "q_zh": "你和一个对手玩“最后通牒博弈”：你有100元，你决定分给对方多少。如果对方接受，按你的方案分；如果对方拒绝，两人都拿0元。你分多少？",
+    "q_en": "You play the Ultimatum Game with an opponent: you have $100 and decide how much to offer them. If they accept, you split as proposed; if they reject, both get $0. How much do you offer?",
+    "a_zh": "分给对方30-50元，确保被接受",
+    "a_en": "Offer them $30–50 to ensure acceptance",
+    "b_zh": "分给对方1元，赌对方理性接受",
+    "b_en": "Offer them $1, betting they act rationally"
+  },
+  {
+    "q_zh": "你和一个陌生人被分别关押。如果你们都沉默，各判1年；如果一人认罪一人沉默，认罪者释放，沉默者判10年；如果都认罪，各判5年。你选哪个？",
+    "q_en": "You and a stranger are interrogated separately. If both stay silent, each gets 1 year. If one confesses and the other stays silent, the confessor goes free and the silent one gets 10 years. If both confess, each gets 5 years. What do you choose?",
+    "a_zh": "沉默",
+    "a_en": "Stay silent",
+    "b_zh": "认罪",
+    "b_en": "Confess"
+  },
+  {
+    "q_zh": "你在一个岛上，岛上有一笔公共基金100元。你可以选择“投入”或“不投入”。如果至少有3人投入，所有投入者每人拿回50元；如果少于3人投入，投入者损失10元。你投吗？",
+    "q_en": "You are on an island with a public fund of $100. You can choose to contribute or not. If at least 3 people contribute, each contributor gets $50 back; if fewer than 3 contribute, each contributor loses $10. Do you contribute?",
+    "a_zh": "投入",
+    "a_en": "Contribute",
+    "b_zh": "不投入",
+    "b_en": "Do not contribute"
   }
 ]
