@@ -18987,5 +18987,85 @@
     "a_en": "Contribute",
     "b_zh": "不投入",
     "b_en": "Do not contribute"
+  },
+  {
+    "q_zh": "你被卷入一场信任测试：对方先行动，可以选择“合作”让双方各得 70 分，或选择“背叛”让自己得 100 分、你得 0 分。你知道对方也懂这套规则。你更愿意接受哪种安排？",
+    "q_en": "You are in a trust test: the other person moves first and can either cooperate, giving both of you 70 points, or betray, giving them 100 points and you 0. You know they understand the rules too. Which arrangement would you rather accept?",
+    "a_zh": "接受对方先行动，因为大多数人会为了避免长期内疚或报复而选择合作",
+    "a_en": "Let the other person move first, because most people will cooperate to avoid long-term guilt or retaliation",
+    "b_zh": "拒绝这种安排，因为只要背叛的即时收益足够大，对方就很可能背叛",
+    "b_en": "Reject the arrangement, because if betrayal pays enough immediately, the other person is likely to betray"
+  },
+  {
+    "q_zh": "在一个双人谈判中，你可以先提出一个“强硬但合理”的方案，也可以先提出一个“温和且留余地”的方案。对方更可能因为哪种策略而让步？",
+    "q_en": "In a two-person negotiation, you can either open with a tough but reasonable proposal, or with a gentle proposal that leaves room. Which strategy is more likely to make the other side concede?",
+    "a_zh": "强硬但合理，因为明确的底线会改变对方对你可接受范围的判断",
+    "a_en": "Tough but reasonable, because a clear bottom line changes their judgment of your acceptable range",
+    "b_zh": "温和且留余地，因为善意开场更容易激发互惠和合作意愿",
+    "b_en": "Gentle and flexible, because a goodwill opening is more likely to trigger reciprocity and willingness to cooperate"
+  },
+  {
+    "q_zh": "你发现团队里有人偷偷违反规则却获得了好处。你有机会举报，但举报可能让你被孤立；不举报则可能让违规继续扩大。你更倾向于怎么做？",
+    "q_en": "You discover someone in your team secretly broke the rules and benefited. You can report it, but that may get you isolated; if you do not, the violation may spread. What are you more inclined to do?",
+    "a_zh": "举报，因为如果没人惩罚违规，合作规则会迅速崩坏，最终所有人受损",
+    "a_en": "Report it, because if no one punishes violations, cooperative rules collapse quickly and everyone eventually loses",
+    "b_zh": "不举报，因为公开对抗会让自己成为靶子，沉默更可能保住当前位置",
+    "b_en": "Do not report it, because open confrontation makes you a target, while silence is more likely to protect your position"
+  },
+  {
+    "q_zh": "你和朋友一起创业，股权可以五五开，也可以你拿 60%、朋友拿 40%，由你承担更多决策压力。哪种分配更可能让合作更稳？",
+    "q_en": "You and a friend start a business. Equity can be split 50-50, or you can take 60% and your friend 40%, with you bearing more decision pressure. Which split is more likely to keep the partnership stable?",
+    "a_zh": "五五开，因为公平感会降低嫉妒和内耗，即使决策慢一点也更稳",
+    "a_en": "50-50, because fairness reduces envy and internal friction, and stability matters more even if decisions are slower",
+    "b_zh": "你拿 60%，因为责任和权力匹配时，决策效率更高，长期收益也更大",
+    "b_en": "You take 60%, because when responsibility and power match, decisions are faster and long-term gains are larger"
+  },
+  {
+    "q_zh": "你正在玩一个重复博弈游戏：上一轮对方背叛了你。下一轮你可以选择报复，也可以选择继续合作。哪种更可能提高你的最终得分？",
+    "q_en": "You are playing a repeated game: in the last round, the other person betrayed you. Next round you can retaliate or keep cooperating. Which is more likely to improve your final score?",
+    "a_zh": "报复，因为要让对方知道背叛有代价，才能阻止他未来继续占便宜",
+    "a_en": "Retaliate, because they must learn betrayal has a cost, or they will keep taking advantage of you",
+    "b_zh": "继续合作，因为一次报复可能引发报复循环，让双方都陷入双输",
+    "b_en": "Keep cooperating, because one retaliation can trigger a cycle of revenge and leave both sides worse off"
+  },
+  {
+    "q_zh": "你在一场竞标中知道对手很需要这个项目，而你只是“可拿可不拿”。你应该表现出更强硬的姿态，还是适当示弱？",
+    "q_en": "In a bid, you know your opponent badly needs the project, while you can take it or leave it. Should you act tougher or show some weakness?",
+    "a_zh": "更强硬，因为对方越需要，你越能通过坚定姿态逼他提高条件或退出",
+    "a_en": "Act tougher, because the more they need it, the more your firm stance can push them to raise terms or drop out",
+    "b_zh": "适当示弱，因为隐藏真实需求会让对方误判你的底线，从而给你更大空间",
+    "b_en": "Show some weakness, because hiding your true needs makes them misjudge your bottom line and gives you more room"
+  },
+  {
+    "q_zh": "你和一个陌生人分配 100 元。你可以提出分配方案，对方只能接受或拒绝；若拒绝，双方都得 0。你更愿意提出哪种方案？",
+    "q_en": "You and a stranger split 100 yuan. You propose a division, and they can only accept or reject; if rejected, both get 0. Which proposal would you rather make?",
+    "a_zh": "给对方较少，比如 10 元，因为理性人即使少拿也应接受，否则是损人不利己",
+    "a_en": "Give them little, such as 10 yuan, because a rational person should accept something rather than nothing",
+    "b_zh": "给对方接近公平，比如 40 到 50 元，因为人会为了惩罚不公平而宁愿两败俱伤",
+    "b_en": "Give them something close to fair, such as 40 to 50 yuan, because people will choose mutual loss to punish unfairness"
+  },
+  {
+    "q_zh": "你在团队中掌握关键信息，公开它能让团队整体受益，但也可能削弱你的个人谈判筹码。你更可能怎么做？",
+    "q_en": "You hold key information in a team. Sharing it benefits the whole team but may weaken your personal bargaining power. What are you more likely to do?",
+    "a_zh": "公开，因为长期合作中，可信和互惠比短期信息优势更值钱",
+    "a_en": "Share it, because in long-term cooperation, trustworthiness and reciprocity are worth more than short-term information advantage",
+    "b_zh": "保留，因为关键信息就是权力，过早公开会让自己在未来博弈中被动",
+    "b_en": "Keep it, because key information is power, and revealing it too early leaves you passive in future games"
+  },
+  {
+    "q_zh": "你被要求参加一个“公共物品”实验：每个人都可以选择投入或保留资源。投入能让集体变好，但保留对自己更有利。你更可能选择？",
+    "q_en": "You join a public goods experiment: each person can contribute or keep resources. Contributing improves the group, but keeping benefits you more. What are you more likely to choose?",
+    "a_zh": "投入，因为如果大家都搭便车，系统会崩溃，最后谁都无法获益",
+    "a_en": "Contribute, because if everyone free-rides, the system collapses and no one benefits in the end",
+    "b_zh": "保留，因为别人投入时你保留能占便宜，别人不投入时你投入更吃亏",
+    "b_en": "Keep, because if others contribute you gain by keeping, and if others do not contribute you lose by contributing"
+  },
+  {
+    "q_zh": "你在一段关系中可以先道歉，也可以等对方先低头。虽然你也有错，但你先道歉可能显得“输了”。你更倾向于？",
+    "q_en": "In a relationship, you can apologize first or wait for the other person to give in. You were partly wrong too, but apologizing first may feel like losing. What are you more inclined to do?",
+    "a_zh": "先道歉，因为关系不是零和博弈，先修复的人往往掌握长期主动权",
+    "a_en": "Apologize first, because a relationship is not a zero-sum game, and the one who repairs first often holds long-term initiative",
+    "b_zh": "等对方先低头，因为一旦你先道歉，对方可能把责任都推给你并形成惯性",
+    "b_en": "Wait for them to give in first, because if you apologize first, they may blame you for everything and repeat the pattern"
   }
 ]
