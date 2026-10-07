@@ -19067,5 +19067,85 @@
     "a_en": "Apologize first, because a relationship is not a zero-sum game, and the one who repairs first often holds long-term initiative",
     "b_zh": "等对方先低头，因为一旦你先道歉，对方可能把责任都推给你并形成惯性",
     "b_en": "Wait for them to give in first, because if you apologize first, they may blame you for everything and repeat the pattern"
+  },
+  {
+    "q_zh": "你被卷入一场信任游戏：如果双方都选择合作，各得 100 元；如果一方背叛而另一方合作，背叛者得 180 元，合作者得 0 元；如果双方都背叛，各得 40 元。你无法与对方沟通，也不知道对方是谁。你会怎么选？",
+    "q_en": "You are in a trust game: if both cooperate, each gets $100; if one defects while the other cooperates, the defector gets $180 and the cooperator gets $0; if both defect, each gets $40. You cannot communicate and do not know who the other person is. What do you choose?",
+    "a_zh": "合作，先释放善意，赌对方也会理性选择双赢",
+    "a_en": "Cooperate, signal goodwill first, and bet the other side also rationally chooses mutual gain",
+    "b_zh": "背叛，优先保证自己不成为被利用的一方",
+    "b_en": "Defect, prioritize ensuring I am not the one who gets exploited"
+  },
+  {
+    "q_zh": "你和对手各有一笔 50 元筹码。若你选择“加注”，对方选择“退出”，你赢走对方 50 元；若你选择“退出”，对方选择“加注”，你损失 50 元；若双方都“加注”，各损失 20 元；若双方都“退出”，各保留 50 元。你判断对方性格强势、很可能加注。你会怎么选？",
+    "q_en": "You and an opponent each have a $50 stake. If you choose Raise and the opponent chooses Fold, you win their $50; if you Fold and they Raise, you lose $50; if both Raise, each loses $20; if both Fold, each keeps $50. You judge the opponent is aggressive and likely to Raise. What do you choose?",
+    "a_zh": "加注，既然对方强势，退出只会被压制，不如正面博弈",
+    "a_en": "Raise. Since the opponent is aggressive, folding only gets me dominated, so I would rather confront them directly",
+    "b_zh": "退出，避免双方都加注造成确定损失，保住 50 元",
+    "b_en": "Fold. Avoid the certain loss from both raising and keep the $50"
+  },
+  {
+    "q_zh": "你面对一个“最后通牒博弈”：对方可以决定如何分配 100 元，你只能选择接受或拒绝。如果接受，按对方方案分配；如果拒绝，双方都得 0 元。对方提出给你 20 元、自己留 80 元。你会怎么选？",
+    "q_en": "You face an ultimatum game: the other side decides how to split $100, and you can only accept or reject. If you accept, the split happens; if you reject, both get $0. They offer you $20 and keep $80. What do you choose?",
+    "a_zh": "接受，20 元也比 0 元好，理性上不应为了公平惩罚自己",
+    "a_en": "Accept. $20 is still better than $0, and rationally I should not punish myself for fairness",
+    "b_zh": "拒绝，不能接受明显不公平的方案，否则会鼓励对方继续压榨",
+    "b_en": "Reject. I cannot accept an obviously unfair offer, or it encourages the other side to keep exploiting"
+  },
+  {
+    "q_zh": "你和另一位玩家参加“公共物品博弈”：每人初始有 100 元，可以选择投入 0 元或 50 元到公共池。投入的钱会翻倍后平均分给所有人。若只有你投入，你最终为 75 元，对方为 150 元；若双方都投入，各为 150 元；若双方都不投入，各为 100 元。你会怎么选？",
+    "q_en": "You and another player are in a public goods game: each starts with $100 and can contribute $0 or $50 to a public pool. Contributions double and are split equally between all players. If only you contribute, you end with $75 and they end with $150; if both contribute, each ends with $150; if neither contributes, each ends with $100. What do you choose?",
+    "a_zh": "投入 50 元，争取双赢，也测试对方是否愿意合作",
+    "a_en": "Contribute $50, aiming for mutual gain and testing whether the other side is willing to cooperate",
+    "b_zh": "投入 0 元，防止自己出钱却被对方搭便车",
+    "b_en": "Contribute $0, preventing myself from paying while the other side free-rides"
+  },
+  {
+    "q_zh": "在一个重复囚徒困境中，你们已经连续 5 轮都选择合作。第 6 轮时，你发现对方犹豫时间明显变长。如果本轮你背叛而对方合作，你可多拿 30 元；如果双方合作，各拿 20 元；如果双方背叛，各拿 5 元。你会怎么选？",
+    "q_en": "In a repeated prisoner's dilemma, you have both cooperated for 5 straight rounds. In round 6, you notice the other side hesitates much longer. If you defect while they cooperate, you gain $30 extra; if both cooperate, each gets $20; if both defect, each gets $5. What do you choose?",
+    "a_zh": "继续合作，维持长期信任比本轮多赚更重要",
+    "a_en": "Keep cooperating. Maintaining long-term trust matters more than earning extra this round",
+    "b_zh": "突然背叛，利用对方犹豫的窗口获取最大单轮收益",
+    "b_en": "Defect suddenly, exploiting their hesitation window for maximum single-round gain"
+  },
+  {
+    "q_zh": "你在一场“胆小鬼博弈”中：双方驾车相向而行，若都不转向，两败俱伤；若你转向而对方不转向，你丢面子但安全；若双方都转向，都安全但略显软弱。你判断对方非常在意面子，很可能不转向。你会怎么选？",
+    "q_en": "You are in a game of chicken: two cars drive toward each other. If neither swerves, both crash; if you swerve and they do not, you lose face but stay safe; if both swerve, both are safe but look weak. You judge the other side cares greatly about face and likely will not swerve. What do you choose?",
+    "a_zh": "不转向，摆出更强硬姿态，迫使对方先退让",
+    "a_en": "Do not swerve, display a tougher stance, and force the other side to back down first",
+    "b_zh": "转向，安全优先，面子和胜负不值得用真实损失去赌",
+    "b_en": "Swerve. Safety first; face and winning are not worth gambling on real loss"
+  },
+  {
+    "q_zh": "你是一名员工，和同事竞争一个晋升名额。若你选择“突出自己”，把关键成果归功于自己，可能获得晋升，但会损害同事关系；若你选择“团队优先”，强调共同成果，晋升概率降低，但更可能保持长期合作。你更看重长期职场关系。你会怎么选？",
+    "q_en": "You are an employee competing with a colleague for one promotion. If you choose Self-promote, claiming key results for yourself, you may get promoted but damage the relationship; if you choose Team-first, emphasizing shared results, your promotion odds drop but long-term cooperation is more likely. You value long-term workplace relationships. What do you choose?",
+    "a_zh": "突出自己，机会窗口有限，先拿到晋升再说",
+    "a_en": "Self-promote. The opportunity window is limited, so get the promotion first",
+    "b_zh": "团队优先，维护长期信任，未来合作价值更大",
+    "b_en": "Team-first. Preserve long-term trust because future cooperation is more valuable"
+  },
+  {
+    "q_zh": "你在二手交易平台卖一台相机，心理底价是 3000 元。买家出价 2800 元，并表示如果今天成交就立刻付款。你知道这台相机再挂一周可能能卖 3200 元，但也可能继续无人问津。你会怎么选？",
+    "q_en": "You are selling a camera on a secondhand platform with a reserve price of $3,000. A buyer offers $2,800 and says they will pay immediately if you close today. You know that if you list it for another week it might sell for $3,200, but it might also remain unsold. What do you choose?",
+    "a_zh": "接受 2800 元，确定性现金流优先，避免时间成本和不确定性",
+    "a_en": "Accept $2,800. Prioritize certain cash flow and avoid time cost and uncertainty",
+    "b_zh": "拒绝 2800 元，坚持等待更高出价，争取 3200 元或至少 3000 元",
+    "b_en": "Reject $2,800. Hold out for a higher offer, aiming for $3,200 or at least $3,000"
+  },
+  {
+    "q_zh": "你和朋友合伙创业，项目需要再投入 10 万元才能撑过 3 个月。如果成功，未来可能回本 50 万元；如果失败，10 万元全部亏掉。你判断成功概率约为 40%。朋友希望你继续投，但你也担心被沉没成本绑架。你会怎么选？",
+    "q_en": "You and a friend are co-founders. The project needs another $100,000 to survive 3 months. If it succeeds, it may return $500,000; if it fails, the entire $100,000 is lost. You estimate success probability at about 40%. Your friend wants to continue investing, but you worry about being trapped by sunk cost. What do you choose?",
+    "a_zh": "继续投入，期望收益为正，值得为可能的 50 万回报承担风险",
+    "a_en": "Invest more. The expected value is positive, so it is worth taking the risk for a possible $500,000 return",
+    "b_zh": "停止投入，避免沉没成本偏差，及时止损保留剩余资源",
+    "b_en": "Stop investing. Avoid sunk-cost bias, cut losses in time, and preserve remaining resources"
+  },
+  {
+    "q_zh": "你在一个匿名网络实验中可以决定是否举报一个作弊者。若你举报且作弊者被惩罚，你获得 10 元，但可能被其他参与者视为“破坏者”；若你不举报，作弊者继续获利，群体整体收益下降，但你个人不受影响。你会怎么选？",
+    "q_en": "In an anonymous online experiment, you can decide whether to report a cheater. If you report and the cheater is punished, you get $10 but may be seen by other participants as a troublemaker; if you do not report, the cheater keeps profiting, the group's overall payoff drops, but you are personally unaffected. What do you choose?",
+    "a_zh": "举报，维护规则和群体利益，即使可能承担社交代价",
+    "a_en": "Report. Uphold the rules and group interest even if it may carry social cost",
+    "b_zh": "不举报，避免成为众矢之的，个人利益不受损最重要",
+    "b_en": "Do not report. Avoid becoming a target; protecting my personal interest matters most"
   }
 ]
