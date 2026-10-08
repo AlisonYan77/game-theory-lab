@@ -19147,5 +19147,85 @@
     "a_en": "Report. Uphold the rules and group interest even if it may carry social cost",
     "b_zh": "不举报，避免成为众矢之的，个人利益不受损最重要",
     "b_en": "Do not report. Avoid becoming a target; protecting my personal interest matters most"
+  },
+  {
+    "q_zh": "你发现同事在汇报时把你负责的成果说成他主导的。当场只有你们两人知道真相。你会：",
+    "q_en": "You notice a colleague presenting your work as if he led it. Only the two of you know the truth in that room. What do you do?",
+    "a_zh": "立刻在会上补充细节，强调关键决策是你做的",
+    "a_en": "Immediately jump in with details, stressing that the key decisions were yours",
+    "b_zh": "先不打断，会后私下找他谈，要求他下次纠正",
+    "b_en": "Don’t interrupt; talk to him privately afterward and ask him to correct it next time"
+  },
+  {
+    "q_zh": "你与朋友同时竞争一个名额，规则允许你们互相投票，但不能投自己。你觉得对方会投你吗？你会：",
+    "q_en": "You and a friend are competing for one slot. Rules allow you to vote for each other but not yourselves. Do you think he’ll vote for you? What do you do?",
+    "a_zh": "先承诺投他，并期待他也投你",
+    "a_en": "Promise to vote for him first and expect him to vote for you too",
+    "b_zh": "不承诺，直接投给第三方，避免被道德绑架",
+    "b_en": "Make no promise and vote for a third person to avoid being guilt-tripped"
+  },
+  {
+    "q_zh": "谈判中对方先抛出极端条件，远超你的底线。你判断他可能只是试探。你会：",
+    "q_en": "In a negotiation, the other side opens with an extreme demand far beyond your limit. You suspect it’s just a probe. What do you do?",
+    "a_zh": "立刻还一个同样极端的条件，逼他先退",
+    "a_en": "Counter immediately with an equally extreme demand to force him to back down first",
+    "b_zh": "不接招，平静问他的真实优先级和可接受区间",
+    "b_en": "Don’t take the bait; calmly ask about his real priorities and acceptable range"
+  },
+  {
+    "q_zh": "团队里有人一直搭便车，但每次都能说漂亮话让领导满意。你掌握关键数据。你会：",
+    "q_en": "A teammate keeps free-riding but always impresses the boss with nice words. You hold the key data. What do you do?",
+    "a_zh": "在关键节点公开数据，让贡献可视化",
+    "a_en": "Release the data at a key moment so contributions become visible",
+    "b_zh": "暂时保留，先私下提醒他收敛，给他改正机会",
+    "b_en": "Hold it for now and privately warn him to shape up, giving him a chance to change"
+  },
+  {
+    "q_zh": "你和对手都知道：谁先亮出底牌，谁就失去议价空间。现在对方开始用沉默施压。你会：",
+    "q_en": "Both you and your opponent know whoever reveals their cards first loses leverage. Now he’s using silence to pressure you. What do you do?",
+    "a_zh": "先开口，但只给模糊信息，试探他的反应",
+    "a_en": "Speak first, but give only vague information to test his reaction",
+    "b_zh": "继续沉默，把不舒服感留给对方",
+    "b_en": "Stay silent and let the discomfort sit with him"
+  },
+  {
+    "q_zh": "你帮了别人一个大忙，对方说“改天一定重谢”。你知道“改天”往往不会来。你会：",
+    "q_en": "You did someone a big favor, and he says, “I’ll definitely repay you someday.” You know “someday” often never comes. What do you do?",
+    "a_zh": "当场半开玩笑地定一个具体时间和方式",
+    "a_en": "Half-jokingly pin down a specific time and way right then",
+    "b_zh": "微笑接受，不主动提，观察他是否真有行动",
+    "b_en": "Smile and accept it, don’t bring it up, and see if he actually acts"
+  },
+  {
+    "q_zh": "朋友向你借一笔不小的钱，说很快还。你担心借了伤钱，不借伤感情。你会：",
+    "q_en": "A friend asks to borrow a sizable sum and says he’ll repay soon. You worry lending hurts your money and refusing hurts the friendship. What do you do?",
+    "a_zh": "借，但要求写借条并约定明确还款日",
+    "a_en": "Lend it, but ask for an IOU and a clear repayment date",
+    "b_zh": "不借现金，改成请他吃饭或提供其他有限帮助",
+    "b_en": "Don’t lend cash; instead treat him to meals or offer other limited help"
+  },
+  {
+    "q_zh": "你在群体讨论中提出一个方案，没人回应；几分钟后另一个人说了类似方案，大家却开始赞同。你会：",
+    "q_en": "You propose an idea in a group discussion and get silence; minutes later someone says something similar and everyone starts agreeing. What do you do?",
+    "a_zh": "立刻接话：“这正是我刚才说的，我们可以这样细化……”",
+    "a_en": "Jump in immediately: “That’s exactly what I just said—let’s refine it this way…”",
+    "b_zh": "先不争署名，顺着推进方案，事后单独让关键人知道来源",
+    "b_en": "Don’t fight for credit now; push the idea forward, then privately let key people know where it came from"
+  },
+  {
+    "q_zh": "你知道对方很在意面子。要让他接受一个对他不利但必要的调整，你会：",
+    "q_en": "You know the other person cares a lot about face. To get him to accept a necessary but unfavorable adjustment, what do you do?",
+    "a_zh": "公开给他台阶，把调整说成“大家一起优化”的结果",
+    "a_en": "Give him a public out by framing it as “a joint optimization”",
+    "b_zh": "私下直说利害，让他自己对外宣布调整",
+    "b_en": "Tell him the stakes privately and let him announce the adjustment himself"
+  },
+  {
+    "q_zh": "一段关系里，你总是先道歉的人。这次你决定不再先低头。对方也持续冷处理。你会：",
+    "q_en": "In a relationship, you’re always the first to apologize. This time you decide not to give in first. The other person also keeps giving you the cold shoulder. What do you do?",
+    "a_zh": "继续等，直到对方先开口，以此重建规则",
+    "a_en": "Keep waiting until the other person speaks first, to reset the rules",
+    "b_zh": "设定一个期限，期限过后主动沟通，但只谈问题不认错",
+    "b_en": "Set a deadline; after it, initiate communication but discuss only the issue, not admit fault"
   }
 ]
