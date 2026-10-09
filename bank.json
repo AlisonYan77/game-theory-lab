@@ -19227,5 +19227,85 @@
     "a_en": "Keep waiting until the other person speaks first, to reset the rules",
     "b_zh": "设定一个期限，期限过后主动沟通，但只谈问题不认错",
     "b_en": "Set a deadline; after it, initiate communication but discuss only the issue, not admit fault"
+  },
+  {
+    "q_zh": "你被困在一个荒岛，救援队只能救一个人。你发现另一名幸存者也在发信号。你会：",
+    "q_en": "You are stranded on a deserted island, and the rescue team can only save one person. You notice another survivor is also signaling. What do you do?",
+    "a_zh": "合作共同发信号，增加两人都被发现的概率",
+    "a_en": "Cooperate on signaling together to increase the chance both of you are spotted",
+    "b_zh": "破坏对方的信号装置，确保自己获救",
+    "b_en": "Sabotage the other survivor’s signal device to ensure your own rescue"
+  },
+  {
+    "q_zh": "你和搭档共同完成一个项目，奖金只有一份。你们事先没有约定分配方式。你会：",
+    "q_en": "You and your partner complete a project together, but there is only one bonus. You had no prior agreement on how to split it. What do you do?",
+    "a_zh": "主动提出平分奖金，维护长期合作关系",
+    "a_en": "Propose splitting the bonus equally to preserve the long-term partnership",
+    "b_zh": "抢先向老板邀功，争取独吞奖金",
+    "b_en": "Race to claim credit with the boss and try to take the entire bonus"
+  },
+  {
+    "q_zh": "在囚徒困境中，如果你相信对方会选择沉默，你会：",
+    "q_en": "In the prisoner’s dilemma, if you believe the other person will stay silent, what do you do?",
+    "a_zh": "也选择沉默，争取双方都轻判",
+    "a_en": "Also stay silent, aiming for a lighter sentence for both",
+    "b_zh": "选择背叛，让自己获得最大利益",
+    "b_en": "Betray the other person to maximize your own benefit"
+  },
+  {
+    "q_zh": "你发现同事在汇报中用了你的创意，但没有提到你。你会：",
+    "q_en": "You discover a colleague used your idea in a presentation without crediting you. What do you do?",
+    "a_zh": "私下沟通，要求他下次注明你的贡献",
+    "a_en": "Talk to them privately and ask them to credit you next time",
+    "b_zh": "在下次会议上公开揭穿他，让他难堪",
+    "b_en": "Expose them publicly at the next meeting to embarrass them"
+  },
+  {
+    "q_zh": "你和朋友一起买彩票中了小奖，彩票是他买的，号码是你选的。你会：",
+    "q_en": "You and a friend win a small lottery prize. He bought the ticket, but you picked the numbers. What do you do?",
+    "a_zh": "建议平分奖金，因为双方都有贡献",
+    "a_en": "Suggest splitting the prize because both of you contributed",
+    "b_zh": "认为号码才是关键，要求拿大部分奖金",
+    "b_en": "Argue that the numbers were the key, so you should take most of the prize"
+  },
+  {
+    "q_zh": "在一个竞标中，你知道对手的底价。你可以选择压价击败他，也可以维持高价共同获利。你会：",
+    "q_en": "In a bidding situation, you know your opponent’s reserve price. You can undercut them to win, or keep prices high so both profit. What do you do?",
+    "a_zh": "维持高价，避免恶性竞争",
+    "a_en": "Keep prices high to avoid a destructive price war",
+    "b_zh": "压价击败对手，独占市场",
+    "b_en": "Undercut your opponent to win and dominate the market"
+  },
+  {
+    "q_zh": "你和室友合租，公共区域卫生一直没人打扫。你会：",
+    "q_en": "You and your roommate share an apartment, and the common area is always messy. What do you do?",
+    "a_zh": "主动打扫并提议制定轮值表",
+    "a_en": "Clean it yourself and propose a cleaning schedule",
+    "b_zh": "也不打扫，看谁先忍不住",
+    "b_en": "Also stop cleaning and see who gives in first"
+  },
+  {
+    "q_zh": "你在一场谈判中处于劣势，但对方不知道你的真实底线。你会：",
+    "q_en": "You are at a disadvantage in a negotiation, but the other side does not know your true bottom line. What do you do?",
+    "a_zh": "虚张声势，表现出强硬态度争取更好条件",
+    "a_en": "Bluff and act tough to negotiate better terms",
+    "b_zh": "坦诚示弱，希望对方让步",
+    "b_en": "Honestly show weakness and hope the other side makes concessions"
+  },
+  {
+    "q_zh": "你发现一个朋友在背后说你坏话，但当面仍然很友好。你会：",
+    "q_en": "You find out a friend talks behind your back but remains friendly to your face. What do you do?",
+    "a_zh": "直接问他原因，尝试解决误会",
+    "a_en": "Ask them directly why and try to resolve the misunderstanding",
+    "b_zh": "也背后说他坏话，以牙还牙",
+    "b_en": "Talk behind their back too, giving them a taste of their own medicine"
+  },
+  {
+    "q_zh": "你和另一个人同时竞争一个晋升名额，你们实力相当。你会：",
+    "q_en": "You and another person are competing for the same promotion, and you are equally qualified. What do you do?",
+    "a_zh": "专注于提升自己的业绩，公平竞争",
+    "a_en": "Focus on improving your own performance and compete fairly",
+    "b_zh": "散布对手的负面消息，降低他的评价",
+    "b_en": "Spread negative information about your rival to lower their evaluation"
   }
 ]
