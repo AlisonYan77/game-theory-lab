@@ -19307,5 +19307,85 @@
     "a_en": "Focus on improving your own performance and compete fairly",
     "b_zh": "散布对手的负面消息，降低他的评价",
     "b_en": "Spread negative information about your rival to lower their evaluation"
+  },
+  {
+    "q_zh": "你被卷入一场三人分金游戏。规则：由你先提出分配方案，若超过半数（含你自己）反对，你将被淘汰，由下一个人继续提方案。你当前最理性的出价策略是？",
+    "q_en": "You are in a three-player gold-division game. Rule: you propose first; if more than half (including you) reject, you are eliminated and the next player proposes. What is your most rational bid strategy?",
+    "a_zh": "给自己留最多，给第二个玩家刚好比他在下一轮能得到的多一点点，给第三个玩家0",
+    "a_en": "Keep the most for yourself, give the second player just a bit more than he would get in the next round, and give the third player 0",
+    "b_zh": "三人平均分配，确保没人反对",
+    "b_en": "Split equally among all three to ensure no one rejects"
+  },
+  {
+    "q_zh": "你和对手各有一枚硬币，同时选择正面或反面。若两枚硬币相同，你赢1元；若不同，你输1元。你最佳策略是？",
+    "q_en": "You and an opponent each have a coin and simultaneously choose heads or tails. If the coins match, you win 1 yuan; if they differ, you lose 1 yuan. What is your best strategy?",
+    "a_zh": "随机化，各50%概率出正面或反面",
+    "a_en": "Randomize, choosing heads or tails with 50% probability each",
+    "b_zh": "总是出正面，因为正面感觉更有利",
+    "b_en": "Always choose heads because it feels more advantageous"
+  },
+  {
+    "q_zh": "在公共品博弈中，10人每人可选择向公共池投入0到10元。投入总额翻倍后平均分给所有人。若你只关心自己收益，最优选择是？",
+    "q_en": "In a public goods game, 10 players can each invest 0 to 10 yuan into a common pool. The total is doubled and split equally among all. If you care only about your own payoff, what is the optimal choice?",
+    "a_zh": "投入10元，因为合作能让整体收益最大",
+    "a_en": "Invest 10 yuan, because cooperation maximizes overall payoff",
+    "b_zh": "投入0元，因为无论别人投多少，搭便车收益最高",
+    "b_en": "Invest 0 yuan, because free-riding yields the highest payoff regardless of others"
+  },
+  {
+    "q_zh": "你正在和陌生人玩最后通牒博弈：对方决定分100元，你只能接受或拒绝。若拒绝，两人都得不到钱。若对方给你1元，你理性上应该？",
+    "q_en": "You are playing the ultimatum game with a stranger: the proposer splits 100 yuan, and you can only accept or reject. If you reject, both get nothing. If the proposer offers you 1 yuan, rationally you should?",
+    "a_zh": "接受，因为1元比0元好",
+    "a_en": "Accept, because 1 yuan is better than 0",
+    "b_zh": "拒绝，因为1元太不公平，宁可双方都拿不到",
+    "b_en": "Reject, because 1 yuan is too unfair, and you would rather both get nothing"
+  },
+  {
+    "q_zh": "在囚徒困境中，你和同伙被分开审讯。若都沉默各判1年；若你坦白而同伙沉默，你释放、他判5年；若都坦白各判3年。只考虑自身刑期，你的占优策略是？",
+    "q_en": "In the prisoner's dilemma, you and your partner are interrogated separately. If both stay silent, each gets 1 year; if you confess and your partner stays silent, you go free and he gets 5 years; if both confess, each gets 3 years. Considering only your own sentence, your dominant strategy is?",
+    "a_zh": "坦白，因为无论对方怎么选，坦白都更轻",
+    "a_en": "Confess, because no matter what the other chooses, confessing is better",
+    "b_zh": "沉默，因为合作对双方总体最好",
+    "b_en": "Stay silent, because cooperation is best for both overall"
+  },
+  {
+    "q_zh": "你参加一个拍卖：出价最高者赢得100元，但出价第二高的人也要支付自己的出价。你预计会有人非理性抬价。你应如何应对？",
+    "q_en": "You enter an auction: the highest bidder wins 100 yuan, but the second-highest bidder also pays their bid. You expect some irrational overbidding. How should you respond?",
+    "a_zh": "尽早出价到100元，确保自己最高",
+    "a_en": "Bid up to 100 yuan early to ensure you are the highest",
+    "b_zh": "不参与或严格设上限，避免陷入升级陷阱",
+    "b_en": "Do not participate or set a strict cap to avoid the escalation trap"
+  },
+  {
+    "q_zh": "你和对手玩重复囚徒困境，对方前几轮一直合作。若你想建立长期合作声誉，本轮最佳选择通常是？",
+    "q_en": "You are playing repeated prisoner's dilemma, and the opponent has cooperated in previous rounds. If you want to build a long-term cooperative reputation, the best choice this round is usually?",
+    "a_zh": "背叛，因为可以立刻获得更高收益",
+    "a_en": "Defect, because it gives a higher immediate payoff",
+    "b_zh": "合作，因为长期互惠收益可能更大",
+    "b_en": "Cooperate, because long-term mutual benefit may be greater"
+  },
+  {
+    "q_zh": "在智猪博弈中，大猪和小猪同处一栏。按按钮会掉落食物，但按按钮者需付出成本。小猪等待时，大猪的最佳策略是？",
+    "q_en": "In the boxed pigs game, a big pig and a small pig share a pen. Pressing a lever drops food, but pressing costs energy. While the small pig waits, the big pig's best strategy is?",
+    "a_zh": "也等待，看谁先忍不住",
+    "a_en": "Also wait to see who gives in first",
+    "b_zh": "去按按钮，因为大猪食量大，等待损失更大",
+    "b_en": "Press the lever, because the big pig eats more and loses more by waiting"
+  },
+  {
+    "q_zh": "你面对一个承诺可信的对手：他声称若你进攻，他一定反击，且反击成本对他很低。此时你更应？",
+    "q_en": "You face an opponent with a credible commitment: he claims that if you attack, he will definitely retaliate, and retaliation is cheap for him. You should?",
+    "a_zh": "仍然进攻，赌他只是虚张声势",
+    "a_en": "Still attack, betting he is bluffing",
+    "b_zh": "不进攻，因为可信威胁会改变你的收益预期",
+    "b_en": "Do not attack, because a credible threat changes your expected payoff"
+  },
+  {
+    "q_zh": "在选美博弈中，所有人要从0到100中选一个数，最接近所有人数平均值2/3的人获胜。若你认为大家都理性，你应选？",
+    "q_en": "In a beauty contest game, everyone chooses a number from 0 to 100, and the person closest to 2/3 of the average wins. If you think everyone is rational, you should choose?",
+    "a_zh": "0，因为理性迭代会不断向下推导",
+    "a_en": "0, because rational iterated reasoning drives the number downward",
+    "b_zh": "33，因为这是第一层直觉的平均值附近",
+    "b_en": "33, because it is near the first-level intuitive average"
   }
 ]
