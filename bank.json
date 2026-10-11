@@ -19387,5 +19387,85 @@
     "a_en": "0, because rational iterated reasoning drives the number downward",
     "b_zh": "33，因为这是第一层直觉的平均值附近",
     "b_en": "33, because it is near the first-level intuitive average"
+  },
+  {
+    "q_zh": "你在一场拍卖会上，看中一件价值1000元的物品。当前出价950元，但每次加价只能加50元。如果继续加价，你可能会以1050元（超过实际价值）赢得拍卖；如果放弃，你损失了一次获得物品的机会。你会？",
+    "q_en": "You are at an auction for an item worth 1000 yuan. The current bid is 950 yuan, but each bid increment is 50 yuan. If you bid again, you might win at 1050 yuan (above its actual value); if you quit, you lose the chance to get the item. What do you do?",
+    "a_zh": "继续加价到1050元，宁可不划算也要赢",
+    "a_en": "Bid up to 1050 yuan — win even if it's a loss",
+    "b_zh": "放弃竞拍，避免超过实际价值的损失",
+    "b_en": "Quit the auction to avoid paying above value"
+  },
+  {
+    "q_zh": "你和同事共同负责一个项目，你做了大部分工作，但汇报时他抢了功劳。你如果当场揭穿他，可能会破坏团队气氛；如果不揭穿，你心里很不甘。你会？",
+    "q_en": "You and a colleague share a project. You did most of the work, but he took credit during the presentation. If you expose him on the spot, team morale may suffer; if you don't, you'll feel resentful. What do you do?",
+    "a_zh": "当场指出事实，维护自己的贡献",
+    "a_en": "Speak up immediately and claim your contribution",
+    "b_zh": "暂时沉默，之后私下找上级澄清",
+    "b_en": "Stay silent for now and clarify privately with your boss later"
+  },
+  {
+    "q_zh": "你发现伴侣的手机里有一条暧昧信息，但对方解释说只是普通朋友开玩笑。如果你追问，可能引发争吵；如果你不追问，心里会一直不安。你会？",
+    "q_en": "You find a flirty message on your partner's phone, but they explain it's just a joke with a friend. If you press further, it may cause a fight; if you don't, you'll feel uneasy. What do you do?",
+    "a_zh": "直接追问细节，要求对方给出合理解释",
+    "a_en": "Press for details and demand a reasonable explanation",
+    "b_zh": "暂时不提，观察一段时间再说",
+    "b_en": "Don't bring it up and observe for a while"
+  },
+  {
+    "q_zh": "你在玩一个信任游戏：如果你选择“合作”，对方选择“背叛”，你会损失100元；如果双方都合作，各得50元；如果双方都背叛，各得0元。你估计对方有60%的概率会选择背叛。你会？",
+    "q_en": "You're in a trust game: if you choose 'cooperate' and the other chooses 'betray', you lose 100 yuan; if both cooperate, each gets 50 yuan; if both betray, each gets 0. You estimate a 60% chance the other will betray. What do you do?",
+    "a_zh": "选择合作，赌对方会讲信用",
+    "a_en": "Cooperate — bet on the other's good faith",
+    "b_zh": "选择背叛，避免被对方坑",
+    "b_en": "Betray — avoid being exploited"
+  },
+  {
+    "q_zh": "你在排队买限量商品，前面只有一个人，但突然有几个人插队到你前面。如果你制止，可能引发冲突；如果你沉默，你可能买不到。你会？",
+    "q_en": "You're in line for a limited-edition item. Only one person is ahead of you, but several people cut in front. If you confront them, it may cause a scene; if you stay silent, you may miss out. What do you do?",
+    "a_zh": "大声制止插队，维护自己的位置",
+    "a_en": "Call out the line-cutters and defend your spot",
+    "b_zh": "忍让，避免冲突，另想办法",
+    "b_en": "Let it go to avoid conflict and find another way"
+  },
+  {
+    "q_zh": "你和朋友合伙做生意，现在有一个机会可以让你私下多赚一笔，但会损害朋友的利益。如果你做了，朋友可能永远不会发现；如果你不做，你会错过这笔钱。你会？",
+    "q_en": "You and a friend run a business together. An opportunity arises to make extra money privately, but it harms your friend's interests. If you do it, your friend may never find out; if you don't, you miss the money. What do you do?",
+    "a_zh": "私下操作，赚这笔钱",
+    "a_en": "Do it privately and take the money",
+    "b_zh": "放弃机会，维护朋友利益",
+    "b_en": "Forgo the opportunity to protect your friend"
+  },
+  {
+    "q_zh": "你在谈判中，对方开出一个略低于你底线的条件，但表示如果你不接受，谈判就破裂。你如果接受，虽然赚得少但能成交；如果拒绝，可能一无所获。你会？",
+    "q_en": "In a negotiation, the other side offers slightly below your bottom line but says the deal breaks if you refuse. If you accept, you earn less but close the deal; if you refuse, you may get nothing. What do you do?",
+    "a_zh": "接受条件，先成交再说",
+    "a_en": "Accept — close the deal first",
+    "b_zh": "拒绝，坚持自己的底线",
+    "b_en": "Refuse — stick to your bottom line"
+  },
+  {
+    "q_zh": "你在一个公共项目中需要决定是否贡献资源。如果大家都贡献，每个人都能受益；如果有人不贡献只享受，贡献者会吃亏。你估计其他人大多会贡献。你会？",
+    "q_en": "In a public project, you must decide whether to contribute resources. If everyone contributes, all benefit; if some free-ride, contributors lose out. You estimate most others will contribute. What do you do?",
+    "a_zh": "贡献资源，相信集体合作",
+    "a_en": "Contribute — trust in collective cooperation",
+    "b_zh": "不贡献，搭便车更划算",
+    "b_en": "Don't contribute — free-riding is more profitable"
+  },
+  {
+    "q_zh": "你和对手在玩“胆小鬼博弈”：两人开车相向而行，谁先转向谁就输。如果你转向，你丢面子；如果都不转，两败俱伤。你判断对方性格强硬，不太可能先转。你会？",
+    "q_en": "You're in a game of Chicken: two cars drive toward each other; whoever swerves first loses. If you swerve, you lose face; if neither swerves, both crash. You judge your opponent is tough and unlikely to swerve. What do you do?",
+    "a_zh": "坚持不转向，赌对方会先让步",
+    "a_en": "Don't swerve — bet the other will yield first",
+    "b_zh": "主动转向，避免两败俱伤",
+    "b_en": "Swerve first to avoid mutual destruction"
+  },
+  {
+    "q_zh": "你在一个团队中，发现有人泄露了团队机密给竞争对手。如果你举报，可能会被报复；如果你不举报，团队可能遭受重大损失。你会？",
+    "q_en": "On a team, you discover someone leaked confidential information to a competitor. If you report it, you may face retaliation; if you don't, the team may suffer major losses. What do you do?",
+    "a_zh": "举报泄密者，保护团队利益",
+    "a_en": "Report the leaker to protect the team",
+    "b_zh": "保持沉默，避免惹祸上身",
+    "b_en": "Stay silent to avoid trouble"
   }
 ]
