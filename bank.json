@@ -19467,5 +19467,85 @@
     "a_en": "Report the leaker to protect the team",
     "b_zh": "保持沉默，避免惹祸上身",
     "b_en": "Stay silent to avoid trouble"
+  },
+  {
+    "q_zh": "你被关在实验室里，桌上有一杯水和一把钥匙。你会选？",
+    "q_en": "You are locked in a lab with a glass of water and a key on the table. What do you choose?",
+    "a_zh": "拿走钥匙",
+    "a_en": "Take the key",
+    "b_zh": "喝掉水",
+    "b_en": "Drink the water"
+  },
+  {
+    "q_zh": "系统告诉你：按下按钮会随机拯救10人，但不按必定只救1人。你会？",
+    "q_en": "The system says: pressing the button randomly saves 10 people, but not pressing it certainly saves only 1. What do you do?",
+    "a_zh": "按下按钮",
+    "a_en": "Press the button",
+    "b_zh": "不按",
+    "b_en": "Do not press it"
+  },
+  {
+    "q_zh": "你发现同伴隐瞒了实验数据，而这份数据可能救你。你会？",
+    "q_en": "You discover your partner hid experimental data that might save you. What do you do?",
+    "a_zh": "当面拆穿并逼问",
+    "a_en": "Confront and pressure them",
+    "b_zh": "假装不知道，暗中调查",
+    "b_en": "Pretend not to know and investigate secretly"
+  },
+  {
+    "q_zh": "两个出口：A出口有70%概率安全，B出口有100%概率回到起点。你会？",
+    "q_en": "Two exits: Exit A has a 70% chance of safety, Exit B has a 100% chance of returning to the start. What do you choose?",
+    "a_zh": "A出口",
+    "a_en": "Exit A",
+    "b_zh": "B出口",
+    "b_en": "Exit B"
+  },
+  {
+    "q_zh": "你只能信任一个人：A曾背叛过你，B从未表态。你会？",
+    "q_en": "You can trust only one person: A betrayed you before, B has never taken a side. What do you do?",
+    "a_zh": "选择A",
+    "a_en": "Choose A",
+    "b_zh": "选择B",
+    "b_en": "Choose B"
+  },
+  {
+    "q_zh": "实验规则说：你多拿一份奖励，别人就会少一份。你会？",
+    "q_en": "The rules say: if you take one extra reward, someone else loses one. What do you do?",
+    "a_zh": "多拿一份",
+    "a_en": "Take one extra",
+    "b_zh": "按规则拿",
+    "b_en": "Take only what is allowed"
+  },
+  {
+    "q_zh": "门后传来求救声，但开门可能触发陷阱。你会？",
+    "q_en": "You hear cries for help behind a door, but opening it may trigger a trap. What do you do?",
+    "a_zh": "开门",
+    "a_en": "Open the door",
+    "b_zh": "离开",
+    "b_en": "Walk away"
+  },
+  {
+    "q_zh": "你可以修改一次实验结果：改高自己的分数，还是改低对手的分数？",
+    "q_en": "You can alter the experiment result once: raise your own score, or lower your opponent's score?",
+    "a_zh": "改高自己",
+    "a_en": "Raise your own score",
+    "b_zh": "改低对手",
+    "b_en": "Lower your opponent's score"
+  },
+  {
+    "q_zh": "系统给你两个身份：掌控信息的人，或掌控出口的人。你会？",
+    "q_en": "The system offers two identities: the one who controls information, or the one who controls the exit. What do you choose?",
+    "a_zh": "掌控信息",
+    "a_en": "Control information",
+    "b_zh": "掌控出口",
+    "b_en": "Control the exit"
+  },
+  {
+    "q_zh": "最后30秒，你必须选择：独自逃生，或回头救同伴。你会？",
+    "q_en": "With 30 seconds left, you must choose: escape alone, or go back to save your partner. What do you do?",
+    "a_zh": "独自逃生",
+    "a_en": "Escape alone",
+    "b_zh": "回头救同伴",
+    "b_en": "Go back to save your partner"
   }
 ]
