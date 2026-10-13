@@ -19547,5 +19547,85 @@
     "a_en": "Escape alone",
     "b_zh": "回头救同伴",
     "b_en": "Go back to save your partner"
+  },
+  {
+    "q_zh": "你发现伴侣的手机里有一条来自陌生人的暧昧信息，但伴侣并未察觉你看到了。你会：",
+    "q_en": "You notice a flirtatious message from a stranger on your partner's phone, but your partner doesn't know you saw it. What do you do?",
+    "a_zh": "直接质问伴侣，要求解释清楚",
+    "a_en": "Confront your partner directly and demand an explanation",
+    "b_zh": "暂时不说，暗中观察后续情况",
+    "b_en": "Stay silent for now and quietly observe what happens next"
+  },
+  {
+    "q_zh": "你和朋友合伙创业，项目盈利后朋友提议将大部分利润投入到高风险的新项目，你更倾向于：",
+    "q_en": "You co-founded a startup with a friend. After it becomes profitable, your friend proposes reinvesting most of the profits into a high-risk new venture. You prefer to:",
+    "a_zh": "同意冒险，相信高风险高回报",
+    "a_en": "Agree to the risk, believing high risk brings high reward",
+    "b_zh": "坚持稳健，先分一部分利润落袋为安",
+    "b_en": "Stay conservative and distribute some profits first to secure gains"
+  },
+  {
+    "q_zh": "在一场谈判中，对方开出了一个明显低于你预期的条件，但态度非常强硬。你会：",
+    "q_en": "In a negotiation, the other side offers terms far below your expectations but with a very firm attitude. You would:",
+    "a_zh": "立即强硬回击，表明绝不接受",
+    "a_en": "Push back firmly immediately, making it clear you won't accept",
+    "b_zh": "先表面接受部分条件，再逐步争取更多",
+    "b_en": "Superficially accept part of the terms first, then gradually negotiate for more"
+  },
+  {
+    "q_zh": "你无意中得知同事在背后说了你的坏话，而这位同事明天还要和你合作一个重要项目。你会：",
+    "q_en": "You accidentally learn a colleague spoke ill of you behind your back, yet tomorrow you must collaborate on an important project. You would:",
+    "a_zh": "直接挑明，要求对方道歉后再合作",
+    "a_en": "Bring it up directly and demand an apology before collaborating",
+    "b_zh": "假装不知道，先完成项目再考虑关系",
+    "b_en": "Pretend not to know, finish the project first, then reconsider the relationship"
+  },
+  {
+    "q_zh": "你在网上看到一个几乎不可能实现的限时抽奖活动，奖品是你非常想要的东西。你会：",
+    "q_en": "You see a limited-time lottery online with nearly impossible odds, but the prize is something you really want. You would:",
+    "a_zh": "花大量时间和金钱去尝试，万一中了呢",
+    "a_en": "Spend a lot of time and money trying, thinking 'what if I win'",
+    "b_zh": "理性评估概率后放弃，不做无谓投入",
+    "b_en": "Rationally assess the odds and give up, avoiding futile investment"
+  },
+  {
+    "q_zh": "你和一位朋友同时竞争一个唯一的名额，朋友请求你主动退出，并承诺以后补偿你。你会：",
+    "q_en": "You and a friend are competing for a single spot. Your friend asks you to withdraw and promises to compensate you later. You would:",
+    "a_zh": "相信朋友，主动退出以维护关系",
+    "a_en": "Trust your friend and withdraw to preserve the relationship",
+    "b_zh": "拒绝退出，公平竞争，关系归关系",
+    "b_en": "Refuse to withdraw and compete fairly, keeping friendship separate"
+  },
+  {
+    "q_zh": "你发现一个可以轻松获利但处于规则灰色地带的机会，几乎不会被发现。你会：",
+    "q_en": "You find an easy-profit opportunity in a gray area of the rules, almost impossible to be caught. You would:",
+    "a_zh": "抓住机会，只要没明确禁止就可以做",
+    "a_en": "Seize the opportunity, since it's not explicitly forbidden",
+    "b_zh": "放弃机会，避免潜在风险和内心不安",
+    "b_en": "Let it go, avoiding potential risks and inner unease"
+  },
+  {
+    "q_zh": "在一段关系中，你付出很多但对方似乎习以为常，很少主动回报。你会：",
+    "q_en": "In a relationship, you give a lot but the other person seems to take it for granted and rarely reciprocates. You would:",
+    "a_zh": "减少付出，用冷淡让对方意识到你的价值",
+    "a_en": "Reduce your effort and become distant to make them realize your value",
+    "b_zh": "坦诚沟通，直接表达自己的感受和需求",
+    "b_en": "Communicate honestly and directly express your feelings and needs"
+  },
+  {
+    "q_zh": "你在一场游戏中手握优势，但对手突然示弱并请求你让步。你会：",
+    "q_en": "You hold the advantage in a game, but your opponent suddenly shows weakness and asks you to go easy. You would:",
+    "a_zh": "趁机全力出击，确保胜利不留后患",
+    "a_en": "Press the advantage fully to secure victory with no future trouble",
+    "b_zh": "适当让步，给对方留面子以换取未来合作",
+    "b_en": "Concede slightly to save face and potentially gain future cooperation"
+  },
+  {
+    "q_zh": "你发现自己的一个秘密可能被朋友无意中泄露给了别人。你会：",
+    "q_en": "You discover a secret of yours may have been accidentally leaked by a friend to others. You would:",
+    "a_zh": "立刻质问朋友，要求其承担责任",
+    "a_en": "Immediately confront your friend and demand they take responsibility",
+    "b_zh": "先确认情况，再决定是否以及如何沟通",
+    "b_en": "First verify the situation, then decide whether and how to communicate"
   }
 ]
