@@ -19627,5 +19627,85 @@
     "a_en": "Immediately confront your friend and demand they take responsibility",
     "b_zh": "先确认情况，再决定是否以及如何沟通",
     "b_en": "First verify the situation, then decide whether and how to communicate"
+  },
+  {
+    "q_zh": "你和对手同时出牌。若都选A，各得3分；若都选B，各得1分；若一人A一人B，A得0分，B得5分。你会选？",
+    "q_en": "You and your opponent move simultaneously. If both choose A, each gets 3 points; if both choose B, each gets 1 point; if one chooses A and the other B, A gets 0 and B gets 5. What do you choose?",
+    "a_zh": "A：追求稳妥，避免被占大便宜",
+    "a_en": "A: Play safe and avoid being exploited",
+    "b_zh": "B：冒险博高收益，哪怕可能双输",
+    "b_en": "B: Gamble for high reward, even if both may lose"
+  },
+  {
+    "q_zh": "你和陌生人分100元。你提方案，对方只能接受或拒绝。若拒绝，两人都得0。你会提？",
+    "q_en": "You and a stranger split $100. You propose; the other can only accept or reject. If rejected, both get 0. What do you propose?",
+    "a_zh": "A：给对方30，自己留70",
+    "a_en": "A: Give the other 30 and keep 70",
+    "b_zh": "B：给对方1，自己留99",
+    "b_en": "B: Give the other 1 and keep 99"
+  },
+  {
+    "q_zh": "两人合伙项目，都努力则各赚8万；一人努力一人偷懒，努力者赚2万，偷懒者赚10万；都偷懒各赚4万。你更倾向？",
+    "q_en": "In a joint project, if both work hard each earns 80k; if one works and one slacks, the worker earns 20k and the slacker 100k; if both slack, each earns 40k. What do you lean toward?",
+    "a_zh": "A：先努力，尝试建立合作信任",
+    "a_en": "A: Work hard first and try to build trust",
+    "b_zh": "B：先偷懒，防止自己成为被占便宜的一方",
+    "b_en": "B: Slack first to avoid being the one exploited"
+  },
+  {
+    "q_zh": "拍卖100元钞票，出价最高者付自己的报价并拿走钞票，第二高者也必须付报价但拿不到钱。你会？",
+    "q_en": "An auction sells a $100 bill. The highest bidder pays their bid and gets the bill; the second-highest also pays their bid but gets nothing. What do you do?",
+    "a_zh": "A：一开始就出较高价，吓退对手",
+    "a_en": "A: Bid high early to scare others off",
+    "b_zh": "B：只出很低价，超过底线就退出",
+    "b_en": "B: Bid very low and quit once past your limit"
+  },
+  {
+    "q_zh": "你被怀疑拿了公共基金。若你承认并归还，轻罚；若否认但被查出，重罚；若否认且查不出，无事。你更可能？",
+    "q_en": "You are suspected of taking public funds. If you confess and return it, light punishment; if you deny but are exposed, heavy punishment; if you deny and are not exposed, nothing happens. What are you more likely to do?",
+    "a_zh": "A：承认，争取宽大处理",
+    "a_en": "A: Confess and seek leniency",
+    "b_zh": "B：否认，赌证据不足",
+    "b_en": "B: Deny and bet on lack of evidence"
+  },
+  {
+    "q_zh": "电梯里只有你和一位看起来很有权势的人。你们同时到门口，谁先出？",
+    "q_en": "You and a seemingly powerful person are alone in an elevator. You reach the door at the same time. Who exits first?",
+    "a_zh": "A：让对方先出，释放尊重信号",
+    "a_en": "A: Let the other exit first to signal respect",
+    "b_zh": "B：自己先出，抢占主动权",
+    "b_en": "B: Exit first to seize initiative"
+  },
+  {
+    "q_zh": "谈判中对方开出一个明显苛刻的条件。你更倾向？",
+    "q_en": "In a negotiation, the other side opens with an obviously harsh demand. What do you lean toward?",
+    "a_zh": "A：立刻强硬反击，抬高自己的锚点",
+    "a_en": "A: Hit back hard immediately and raise your own anchor",
+    "b_zh": "B：先不表态，试探对方真实底线",
+    "b_en": "B: Stay noncommittal first and probe their real bottom line"
+  },
+  {
+    "q_zh": "团队里有人总抢功但不干活。你掌握关键信息，可以选择公开或私下处理。你会？",
+    "q_en": "A teammate keeps taking credit without doing work. You hold key information and can handle it publicly or privately. What do you do?",
+    "a_zh": "A：私下提醒，给对方留面子",
+    "a_en": "A: Remind them privately and save face",
+    "b_zh": "B：公开点破，让代价立刻发生",
+    "b_en": "B: Expose it publicly so the cost happens immediately"
+  },
+  {
+    "q_zh": "两人被困荒岛，只有一份食物。若合作捕鱼，长期都能活；若抢夺，可能一人受伤但短期吃饱。你会？",
+    "q_en": "Two people are stranded on an island with only one portion of food. If you cooperate to fish, both can live long-term; if you fight, one may get hurt but eat short-term. What do you do?",
+    "a_zh": "A：合作捕鱼，接受短期饥饿",
+    "a_en": "A: Cooperate to fish and accept short-term hunger",
+    "b_zh": "B：先抢食物，保证眼前生存",
+    "b_en": "B: Grab the food first to secure immediate survival"
+  },
+  {
+    "q_zh": "你知道对手大概率会选“合作”，但你有一次背叛可获巨利。你会？",
+    "q_en": "You know the opponent will most likely choose cooperation, but you have one chance to betray for huge gain. What do you do?",
+    "a_zh": "A：仍然合作，维护长期声誉",
+    "a_en": "A: Still cooperate to protect long-term reputation",
+    "b_zh": "B：选择背叛，抓住一次性暴利",
+    "b_en": "B: Betray and seize the one-time windfall"
   }
 ]
