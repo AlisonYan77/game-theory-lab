@@ -19707,5 +19707,85 @@
     "a_en": "A: Still cooperate to protect long-term reputation",
     "b_zh": "B：选择背叛，抓住一次性暴利",
     "b_en": "B: Betray and seize the one-time windfall"
+  },
+  {
+    "q_zh": "你和对手同时选择数字：若都选3，各得3分；若你选3、对方选5，你得0分、对方得5分；若都选5，各得1分。你选哪个？",
+    "q_en": "You and your opponent choose a number simultaneously: if both pick 3, each gets 3 points; if you pick 3 and they pick 5, you get 0 and they get 5; if both pick 5, each gets 1. What do you choose?",
+    "a_zh": "选3",
+    "a_en": "Choose 3",
+    "b_zh": "选5",
+    "b_en": "Choose 5"
+  },
+  {
+    "q_zh": "你面前有两个按钮。A：无论对方怎么选，你都稳拿2分。B：对方若合作你拿5分，对方若背叛你拿0分。你按哪个？",
+    "q_en": "Two buttons: A guarantees you 2 points no matter what. B gives you 5 if they cooperate, 0 if they betray. Which do you press?",
+    "a_zh": "按A，稳拿2分",
+    "a_en": "Press A for a guaranteed 2",
+    "b_zh": "按B，赌对方合作",
+    "b_en": "Press B and bet on cooperation"
+  },
+  {
+    "q_zh": "谈判中，对方先开价100万。你知道他的底线其实是80万，但你不确定他是否知道你知道。你如何回应？",
+    "q_en": "In a negotiation, they open at 1M. You know their bottom line is 800k, but you're unsure if they know you know. How do you respond?",
+    "a_zh": "直接砍到70万，展示强硬",
+    "a_en": "Counter hard at 700k to show toughness",
+    "b_zh": "还价85万，留下成交空间",
+    "b_en": "Counter at 850k to leave room for a deal"
+  },
+  {
+    "q_zh": "公共资源池中有100元，你和另外3人各可取任意金额。若总和超过100，所有人都拿0。你取多少？",
+    "q_en": "A public pool has 100. You and 3 others each claim any amount. If the total exceeds 100, everyone gets 0. How much do you claim?",
+    "a_zh": "取25元，公平又安全",
+    "a_en": "Claim 25, fair and safe",
+    "b_zh": "取20元，留出缓冲防贪婪",
+    "b_en": "Claim 20, leaving a buffer against greed"
+  },
+  {
+    "q_zh": "你发现伴侣偷看了你的手机。直接摊牌可能引发大战，装作不知道又让你难受。你倾向？",
+    "q_en": "You find out your partner snooped through your phone. Confronting may spark a war; pretending you don't know eats at you. You lean toward:",
+    "a_zh": "直接摊牌，问清原因",
+    "a_en": "Confront directly and ask why",
+    "b_zh": "暂时不提，观察后续行为",
+    "b_en": "Stay quiet for now and watch their behavior"
+  },
+  {
+    "q_zh": "团队项目中，有人一直搭便车不干活。你如果公开指出，可能破坏关系；不说，活都落到你头上。你选？",
+    "q_en": "In a team project, someone keeps free-riding. Calling them out may damage the relationship; staying silent dumps the work on you. You choose:",
+    "a_zh": "公开指出，要求分工",
+    "a_en": "Call it out publicly and demand fair division",
+    "b_zh": "私下提醒，给对方台阶",
+    "b_en": "Remind them privately and give them an out"
+  },
+  {
+    "q_zh": "两个玩家各有一枚硬币，选择展示正面或反面。若两人相同，A赢；若不同，B赢。你是A，你出哪面？",
+    "q_en": "Two players each have a coin and show heads or tails. If they match, A wins; if not, B wins. You are A. Which side do you show?",
+    "a_zh": "正面",
+    "a_en": "Heads",
+    "b_zh": "反面",
+    "b_en": "Tails"
+  },
+  {
+    "q_zh": "你在面试中被问期望薪资。你心里的底线是15K，市场均价18K，但对方预算可能到20K。你怎么说？",
+    "q_en": "In an interview, you're asked for salary expectations. Your bottom line is 15K, market average is 18K, but their budget may reach 20K. What do you say?",
+    "a_zh": "报20K，争取上限",
+    "a_en": "Ask for 20K to aim high",
+    "b_zh": "报18K，贴合市场均价",
+    "b_en": "Ask for 18K, matching the market average"
+  },
+  {
+    "q_zh": "你和朋友合买彩票中了10万。当初没说好怎么分，但彩票是你排队买的，钱是AA的。你希望怎么分？",
+    "q_en": "You and a friend win 100k on a lottery. You never agreed on split terms; you queued to buy it, but you both paid equally. How do you want to split?",
+    "a_zh": "五五分，公平简单",
+    "a_en": "Split 50/50, fair and simple",
+    "b_zh": "你多拿一些，因为你出了力",
+    "b_en": "You take a bit more since you put in the effort"
+  },
+  {
+    "q_zh": "你被困荒岛，只有一块面包。远处有一个同样饥饿的陌生人正向你走来。你会？",
+    "q_en": "You're stranded on a deserted island with only one loaf of bread. A starving stranger is walking toward you. You will:",
+    "a_zh": "藏起面包，先保全自己",
+    "a_en": "Hide the bread and protect yourself first",
+    "b_zh": "主动分一半，寻求合作",
+    "b_en": "Offer half and seek cooperation"
   }
 ]
