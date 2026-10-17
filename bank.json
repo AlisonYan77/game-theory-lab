@@ -19787,5 +19787,85 @@
     "a_en": "Hide the bread and protect yourself first",
     "b_zh": "主动分一半，寻求合作",
     "b_en": "Offer half and seek cooperation"
+  },
+  {
+    "q_zh": "你发现同事把本应属于你的功劳据为己有，你会：",
+    "q_en": "You discover a colleague has taken credit for work that should have been yours. What do you do?",
+    "a_zh": "当场在会议上直接指出真相，让对方难堪",
+    "a_en": "Call it out directly in the meeting and embarrass them",
+    "b_zh": "私下找对方沟通，保留证据，必要时再向上级反映",
+    "b_en": "Talk to them privately, keep evidence, and escalate only if necessary"
+  },
+  {
+    "q_zh": "你和朋友合伙做生意，对方提出一个你隐约觉得有风险但收益很高的方案，你会：",
+    "q_en": "You and a friend run a business together. They propose a high-return plan you sense is risky. What do you do?",
+    "a_zh": "相信朋友的判断，先干了再说",
+    "a_en": "Trust your friend's judgment and just go for it",
+    "b_zh": "坚持先做小规模测试，把风险控制在可承受范围内",
+    "b_en": "Insist on a small-scale test first to keep risk manageable"
+  },
+  {
+    "q_zh": "谈判中对方突然开出远超预期的低价，你的第一反应是：",
+    "q_en": "In a negotiation, the other side suddenly offers a price far lower than expected. Your first reaction?",
+    "a_zh": "立刻接受，怕对方反悔",
+    "a_en": "Accept immediately before they change their mind",
+    "b_zh": "先不表态，试探对方底线和真实意图",
+    "b_en": "Hold back and probe their bottom line and true intentions"
+  },
+  {
+    "q_zh": "团队里有人一直搭便车不干活，你会：",
+    "q_en": "Someone on the team keeps free-riding without contributing. What do you do?",
+    "a_zh": "直接公开点名，让大家都知道",
+    "a_en": "Name them publicly so everyone knows",
+    "b_zh": "先私下提醒，若无改善再在团队中明确分工与责任",
+    "b_en": "Warn them privately first, then clarify roles and accountability if nothing changes"
+  },
+  {
+    "q_zh": "你掌握一个能让自己获利但会轻微损害他人利益的信息，你会：",
+    "q_en": "You hold information that benefits you but slightly harms others. What do you do?",
+    "a_zh": "先利用信息优势为自己争取最大利益",
+    "a_en": "Use the information advantage to maximize your own gain first",
+    "b_zh": "评估长期关系成本，选择不伤害他人也能获益的方式",
+    "b_en": "Weigh long-term relationship costs and find a way to gain without harming others"
+  },
+  {
+    "q_zh": "面对一个明显在试探你底线的对手，你会：",
+    "q_en": "Facing an opponent clearly testing your limits, what do you do?",
+    "a_zh": "立刻强硬回击，展示不可侵犯的姿态",
+    "a_en": "Hit back firmly at once to show you cannot be pushed",
+    "b_zh": "保持冷静，用一次明确而克制的回应划定边界",
+    "b_en": "Stay calm and draw the line with one clear, measured response"
+  },
+  {
+    "q_zh": "你和同伴被困在一个需要合作才能脱困的局面，但你不确定对方是否可信，你会：",
+    "q_en": "You and a partner are stuck in a situation that requires cooperation, but you're unsure if they're trustworthy. What do you do?",
+    "a_zh": "先主动示好释放善意，赌对方也会合作",
+    "a_en": "Make the first friendly move and bet they'll cooperate too",
+    "b_zh": "先做小步试探，根据对方反应逐步加大合作",
+    "b_en": "Start with small试探 steps and increase cooperation based on their response"
+  },
+  {
+    "q_zh": "有人在公开场合用话术让你下不来台，你会：",
+    "q_en": "Someone uses rhetoric to put you on the spot in public. What do you do?",
+    "a_zh": "当场针锋相对，绝不示弱",
+    "a_en": "Trade barbs on the spot and never show weakness",
+    "b_zh": "用幽默或反问化解，把主动权拿回来",
+    "b_en": "Defuse it with humor or a counter-question to regain the initiative"
+  },
+  {
+    "q_zh": "你发现自己在一段关系中一直付出更多，对方却习以为常，你会：",
+    "q_en": "You realize you've been giving more in a relationship while the other takes it for granted. What do you do?",
+    "a_zh": "突然停止付出，让对方感受落差",
+    "a_en": "Abruptly stop giving so they feel the difference",
+    "b_zh": "坦诚沟通自己的感受，重新协商彼此的投入",
+    "b_en": "Openly communicate your feelings and renegotiate mutual investment"
+  },
+  {
+    "q_zh": "在一个多人决策场景中，你的意见是少数派，但你认为自己是对的，你会：",
+    "q_en": "In a group decision, your view is the minority but you believe you're right. What do you do?",
+    "a_zh": "坚持己见并努力说服所有人",
+    "a_en": "Stick to your guns and try to convince everyone",
+    "b_zh": "先表达立场并记录，同时尊重集体决定并观察结果",
+    "b_en": "State your position on record, respect the group decision, and observe the outcome"
   }
 ]
