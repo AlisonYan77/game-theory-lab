@@ -19867,5 +19867,85 @@
     "a_en": "Stick to your guns and try to convince everyone",
     "b_zh": "先表达立场并记录，同时尊重集体决定并观察结果",
     "b_en": "State your position on record, respect the group decision, and observe the outcome"
+  },
+  {
+    "q_zh": "你和对手各拿 100 元本金，同时选择投入「合作池」或「私藏」。只要有人投合作池，池子翻倍后平分；私藏的钱归自己。你选？",
+    "q_en": "You and your opponent each have $100. Simultaneously choose to put it in the 'cooperation pool' or keep it private. Any money in the pool doubles and is split equally; private money stays with you. Your choice?",
+    "a_zh": "投入合作池",
+    "a_en": "Put it in the cooperation pool",
+    "b_zh": "全部私藏",
+    "b_en": "Keep it all private"
+  },
+  {
+    "q_zh": "两人分 100 元，你提方案，对方只能接受或拒绝。拒绝则两人都得 0。你提多少给自己？",
+    "q_en": "Two people split $100. You propose a split; the other can only accept or reject. Rejection means both get $0. How much do you propose for yourself?",
+    "a_zh": "给自己 99 元，给对方 1 元",
+    "a_en": "Keep $99, give $1",
+    "b_zh": "五五平分，各 50 元",
+    "b_en": "Split evenly, $50 each"
+  },
+  {
+    "q_zh": "同事请你帮忙完成一个紧急项目，说「下次一定还你人情」。你？",
+    "q_en": "A colleague asks for help on an urgent project, saying 'I'll owe you one next time.' You?",
+    "a_zh": "先帮，相信互惠",
+    "a_en": "Help first, trust reciprocity",
+    "b_zh": "先谈好具体回报再帮",
+    "b_en": "Negotiate concrete return before helping"
+  },
+  {
+    "q_zh": "囚徒困境：你和同伙都被抓。若都沉默各判 1 年；都招供各判 3 年；一人招供则招者释放、沉默者判 10 年。你选？",
+    "q_en": "Prisoner's Dilemma: Both silent = 1 year each; both confess = 3 years each; one confesses = confessor free, silent one gets 10 years. Your choice?",
+    "a_zh": "沉默",
+    "a_en": "Stay silent",
+    "b_zh": "招供",
+    "b_en": "Confess"
+  },
+  {
+    "q_zh": "一个陌生人在网上众筹救急，金额不大，你无法核实真假。你？",
+    "q_en": "A stranger crowdfunds for an emergency online. The amount is small but you can't verify it. You?",
+    "a_zh": "先捐一点，赌善意",
+    "a_en": "Donate a little, bet on goodwill",
+    "b_zh": "不捐，防被骗",
+    "b_en": "Don't donate, avoid being scammed"
+  },
+  {
+    "q_zh": "你和伴侣争论谁该做家务。你选择先退一步示好，还是坚持立场？",
+    "q_en": "You and your partner argue over chores. Do you make the first concession, or hold your ground?",
+    "a_zh": "先退一步示好",
+    "a_en": "Make the first concession",
+    "b_zh": "坚持立场不退",
+    "b_en": "Hold your ground"
+  },
+  {
+    "q_zh": "拍卖一个 100 元的钞票，出价最高者得，但第二高出价也要付钱（美元拍卖）。你会？",
+    "q_en": "An auction for a $100 bill: highest bidder wins, but the second-highest bidder also pays (dollar auction). You?",
+    "a_zh": "小加价参与，试图捡漏",
+    "a_en": "Bid small increments, try to snipe",
+    "b_zh": "不参与，避免升级战",
+    "b_en": "Stay out, avoid an escalation war"
+  },
+  {
+    "q_zh": "团队里有人偷懒搭便车，你作为成员会？",
+    "q_en": "Someone in your team free-rides on others' effort. As a member, you?",
+    "a_zh": "公开指出，维护公平",
+    "a_en": "Call it out publicly to keep fairness",
+    "b_zh": "先私下提醒，留面子",
+    "b_en": "Warn privately first, save face"
+  },
+  {
+    "q_zh": "你手里有一个能揭露对手弱点但会伤及无辜的信息。用还是不用？",
+    "q_en": "You hold information that exposes your opponent's weakness but would harm innocents. Use it or not?",
+    "a_zh": "用，胜利优先",
+    "a_en": "Use it, victory first",
+    "b_zh": "不用，守住底线",
+    "b_en": "Don't use it, keep the line"
+  },
+  {
+    "q_zh": "对方连续两次在合作中占你便宜，第三次又来找你合作。你？",
+    "q_en": "Your counterpart has taken advantage of you twice in a row, and comes back a third time for cooperation. You?",
+    "a_zh": "再给一次机会",
+    "a_en": "Give one more chance",
+    "b_zh": "拒绝并报复",
+    "b_en": "Refuse and retaliate"
   }
 ]
