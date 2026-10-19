@@ -19947,5 +19947,85 @@
     "a_en": "Give one more chance",
     "b_zh": "拒绝并报复",
     "b_en": "Refuse and retaliate"
+  },
+  {
+    "q_zh": "你和对手各持 100 元参与“信任博弈”：你先决定把多少钱给对方（0–100），对方收到后金额翻三倍，再决定返还你多少。你更倾向于给出多少？",
+    "q_en": "You and your opponent each have $100 in a Trust Game: you first choose how much to send (0–100), the amount triples when received, then they decide how much to return. How much do you tend to send?",
+    "a_zh": "A. 给出较多（如 50–100 元），相信对方会回报",
+    "a_en": "A. Send a lot (e.g., $50–100), trusting they will reciprocate",
+    "b_zh": "B. 给出很少（如 0–20 元），先保护自己",
+    "b_en": "B. Send very little (e.g., $0–20), protecting yourself first"
+  },
+  {
+    "q_zh": "在“最后通牒博弈”中，对方提议分 100 元：给你 30 元、自己留 70 元。若拒绝则两人都拿 0。你会？",
+    "q_en": "In an Ultimatum Game, the proposer splits $100: offers you $30 and keeps $70. If you reject, both get $0. What do you do?",
+    "a_zh": "A. 接受 30 元，有总比没有好",
+    "a_en": "A. Accept the $30—something beats nothing",
+    "b_zh": "B. 拒绝，宁愿牺牲也要惩罚不公平",
+    "b_en": "B. Reject—willing to sacrifice to punish unfairness"
+  },
+  {
+    "q_zh": "你和搭档玩“囚徒困境”，只能选一次且同时亮出。你更可能选择？",
+    "q_en": "You play a one-shot Prisoner's Dilemma with a partner, choosing simultaneously. Which are you more likely to pick?",
+    "a_zh": "A. 合作，期待对方也合作实现双赢",
+    "a_en": "A. Cooperate, hoping for mutual cooperation",
+    "b_zh": "B. 背叛，防止被对方利用",
+    "b_en": "B. Defect, to avoid being exploited"
+  },
+  {
+    "q_zh": "重复囚徒困境中，对手上一轮背叛了你。这一轮你更倾向于？",
+    "q_en": "In iterated Prisoner's Dilemma, your opponent defected last round. This round you lean toward:",
+    "a_zh": "A. 以牙还牙，本轮也背叛以示警告",
+    "a_en": "A. Tit-for-tat: defect this round as a warning",
+    "b_zh": "B. 宽容合作，给对方修复关系的机会",
+    "b_en": "B. Forgiving cooperation: give them a chance to repair trust"
+  },
+  {
+    "q_zh": "公共品博弈中，每人可向公共池投入 0–10 元，池中金额翻倍后平均分给所有人。你更倾向投入？",
+    "q_en": "In a Public Goods Game, each puts $0–10 into a pool that doubles and is split equally. How much do you lean toward contributing?",
+    "a_zh": "A. 多投入（如 7–10 元），带动集体收益",
+    "a_en": "A. Contribute a lot (e.g., $7–10) to boost the group",
+    "b_zh": "B. 少投入（如 0–3 元），避免搭便车者占便宜",
+    "b_en": "B. Contribute little (e.g., $0–3) to avoid free-riders"
+  },
+  {
+    "q_zh": "你在谈判中握有较强筹码，对方提出一个对你略有利但对其不利的方案。你更可能？",
+    "q_en": "You hold stronger leverage in a negotiation; the other side proposes a deal slightly favoring you but hurting them. You're more likely to:",
+    "a_zh": "A. 趁势加压，争取更大份额",
+    "a_en": "A. Push harder for a bigger share",
+    "b_zh": "B. 适度让步，维持长期合作关系",
+    "b_en": "B. Concede moderately to preserve a long-term relationship"
+  },
+  {
+    "q_zh": "面对一个声称“这次绝对靠谱”的旧对手，你曾被他骗过一次。你会？",
+    "q_en": "An old rival who once deceived you claims 'this time it's totally reliable.' What do you do?",
+    "a_zh": "A. 再信一次，人可能改变",
+    "a_en": "A. Trust again—people can change",
+    "b_zh": "B. 保持怀疑，要求先验证再合作",
+    "b_en": "B. Stay skeptical—demand verification before cooperating"
+  },
+  {
+    "q_zh": "在“胆小鬼博弈”中，双方开车对冲，谁先转向谁输。你更可能？",
+    "q_en": "In a Game of Chicken, two cars drive head-on; whoever swerves first loses. You're more likely to:",
+    "a_zh": "A. 坚持到底，赌对方先让步",
+    "a_en": "A. Hold your line, betting the other will yield",
+    "b_zh": "B. 率先转向，避免两败俱伤",
+    "b_en": "B. Swerve first to avoid mutual destruction"
+  },
+  {
+    "q_zh": "你发现对手在博弈中故意示弱，可能是诱你冒进。你会？",
+    "q_en": "You notice your opponent is deliberately showing weakness, possibly luring you to overreach. You:",
+    "a_zh": "A. 顺势进攻，抓住机会扩大优势",
+    "a_en": "A. Attack and seize the chance to expand your lead",
+    "b_zh": "B. 按兵不动，先判断这是否是陷阱",
+    "b_en": "B. Hold still and first assess whether it's a trap"
+  },
+  {
+    "q_zh": "合作进行到一半，你发现对方暗中为自己多留了利益。你更倾向于？",
+    "q_en": "Midway through a partnership, you discover your partner secretly kept extra benefits. You lean toward:",
+    "a_zh": "A. 立即摊牌，强硬要求重新分配",
+    "a_en": "A. Confront immediately and demand redistribution",
+    "b_zh": "B. 暂不点破，先收集证据并调整自己的策略",
+    "b_en": "B. Stay quiet, gather evidence, and adjust your strategy"
   }
 ]
