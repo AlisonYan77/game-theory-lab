@@ -20027,5 +20027,85 @@
     "a_en": "A. Confront immediately and demand redistribution",
     "b_zh": "B. 暂不点破，先收集证据并调整自己的策略",
     "b_en": "B. Stay quiet, gather evidence, and adjust your strategy"
+  },
+  {
+    "q_zh": "你发现同事把本该共同完成的项目成果据为己有，在汇报中只字未提你的贡献。此时你更倾向于：",
+    "q_en": "You discover a colleague has claimed sole credit for a project you completed together, never mentioning your contribution in the report. You are more likely to:",
+    "a_zh": "当场在会议上补充说明自己的贡献，让对方难堪但保住权益",
+    "a_en": "Speak up in the meeting to clarify your contribution, embarrassing them but protecting your interests",
+    "b_zh": "会后私下找对方沟通，给对方留面子但可能被敷衍",
+    "b_en": "Talk to them privately afterward, saving face but risking being brushed off"
+  },
+  {
+    "q_zh": "你和朋友合伙做生意，对方提出一个你直觉有风险但回报诱人的方案。你会：",
+    "q_en": "You and a friend run a business together. They propose a plan that feels risky to you but promises high returns. You will:",
+    "a_zh": "坚持自己的判断，要求先做小规模测试再决定",
+    "a_en": "Stick to your judgment and insist on a small-scale test first",
+    "b_zh": "相信朋友的判断，接受方案以维护合作关系",
+    "b_en": "Trust your friend's judgment and accept the plan to preserve the partnership"
+  },
+  {
+    "q_zh": "在一次谈判中，对方态度强硬且不断施压。你手中其实还有一张底牌未亮出。你会：",
+    "q_en": "In a negotiation, the other side is aggressive and keeps pressuring you. You still have a hidden trump card. You will:",
+    "a_zh": "立即亮出底牌，迅速扭转局面但暴露全部实力",
+    "a_en": "Reveal the trump card immediately to turn the tables, but expose all your strength",
+    "b_zh": "继续隐忍，等待最佳时机再出牌以获取更大利益",
+    "b_en": "Hold back and wait for the optimal moment to play it for greater gains"
+  },
+  {
+    "q_zh": "你发现好友在社交场合说了让你尴尬的话，事后他并未察觉。你会：",
+    "q_en": "You notice a close friend said something embarrassing about you in a social setting, and they didn't realize it. You will:",
+    "a_zh": "直接告诉他你的感受，坦诚沟通但可能引发争执",
+    "a_en": "Tell them directly how you feel—honest, but it may spark an argument",
+    "b_zh": "选择淡化处理，避免冲突但内心可能积累不满",
+    "b_en": "Downplay it to avoid conflict, though resentment may build up inside"
+  },
+  {
+    "q_zh": "团队中有人一直搭便车不干活，却和你拿一样的奖励。你会：",
+    "q_en": "Someone on the team consistently free-rides without contributing but receives the same reward as you. You will:",
+    "a_zh": "向管理者反映情况，推动建立更公平的考核机制",
+    "a_en": "Report it to management and push for a fairer evaluation system",
+    "b_zh": "先维持团队和谐，用自己的表现间接施压",
+    "b_en": "Maintain team harmony first and apply indirect pressure through your own performance"
+  },
+  {
+    "q_zh": "你正在竞争一个晋升名额，得知对手在背后散布对你不利的传言。你会：",
+    "q_en": "You're competing for a promotion and learn your rival is spreading negative rumors about you behind your back. You will:",
+    "a_zh": "正面回应，公开澄清事实并揭露对方行为",
+    "a_en": "Respond head-on, publicly clarify the facts and expose their behavior",
+    "b_zh": "专注做好自己的事，用实力和口碑说话",
+    "b_en": "Focus on your own work and let results and reputation speak for themselves"
+  },
+  {
+    "q_zh": "朋友向你借一笔不小的钱，你知道他偿还能力有限但关系很好。你会：",
+    "q_en": "A friend asks to borrow a significant sum. You know their ability to repay is limited, but you're close. You will:",
+    "a_zh": "借出但明确约定还款时间和方式，把规则说清楚",
+    "a_en": "Lend it but clearly agree on repayment terms and timing upfront",
+    "b_zh": "出于情谊借出且不提还款细节，避免伤感情",
+    "b_en": "Lend it out of friendship without mentioning repayment details to avoid hurting feelings"
+  },
+  {
+    "q_zh": "在多人讨论中，你的观点被大多数人反对，但你确信自己是对的。你会：",
+    "q_en": "In a group discussion, most people oppose your view, but you're confident you're right. You will:",
+    "a_zh": "坚持己见并据理力争，哪怕暂时孤立",
+    "a_en": "Stand your ground and argue your case, even if temporarily isolated",
+    "b_zh": "暂时附和多数，寻找其他时机再争取支持",
+    "b_en": "Go along with the majority for now and look for another chance to win support"
+  },
+  {
+    "q_zh": "你掌握了一个信息，公开它能帮团队避免损失，但会暴露你的一个失误。你会：",
+    "q_en": "You hold information that could help the team avoid a loss if disclosed, but revealing it would expose a mistake of yours. You will:",
+    "a_zh": "立即公开信息，承担责任优先保护团队利益",
+    "a_en": "Disclose it immediately, taking responsibility to protect the team first",
+    "b_zh": "先想办法私下弥补失误，再决定是否公开",
+    "b_en": "First try to fix the mistake privately, then decide whether to disclose"
+  },
+  {
+    "q_zh": "你和伴侣因一件小事产生分歧，双方都有道理。你会：",
+    "q_en": "You and your partner disagree over a small matter, and both of you have valid points. You will:",
+    "a_zh": "坚持讲道理分清对错，哪怕当下气氛紧张",
+    "a_en": "Insist on reasoning it out to determine who's right, even if tensions rise",
+    "b_zh": "先让步缓和气氛，事后再找机会沟通",
+    "b_en": "Concede first to ease the tension and find a chance to talk it through later"
   }
 ]
