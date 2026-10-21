@@ -20107,5 +20107,85 @@
     "a_en": "Insist on reasoning it out to determine who's right, even if tensions rise",
     "b_zh": "先让步缓和气氛，事后再找机会沟通",
     "b_en": "Concede first to ease the tension and find a chance to talk it through later"
+  },
+  {
+    "q_zh": "你与一位陌生人被困在荒岛，救援可能三天后才到。你发现对方偷偷藏起了仅剩的半瓶水。你会：",
+    "q_en": "You and a stranger are stranded on a deserted island, and rescue may not arrive for three days. You notice the other person secretly hiding the last half bottle of water. What do you do?",
+    "a_zh": "直接揭穿对方，要求平分水源，建立明确规则",
+    "a_en": "Confront them directly, demand an equal share of the water, and establish clear rules",
+    "b_zh": "假装没看见，暗中观察并保留自己的底牌",
+    "b_en": "Pretend not to notice, observe quietly, and keep your own cards close to your chest"
+  },
+  {
+    "q_zh": "公司有一个晋升名额，你与关系不错的同事都是候选人。领导暗示谁先提交完整方案谁更有优势。你会：",
+    "q_en": "There is one promotion slot at work, and both you and a colleague you get along with are candidates. Your boss hints that whoever submits a complete proposal first has an advantage. What do you do?",
+    "a_zh": "立即加班赶出方案，抢占先机",
+    "a_en": "Work overtime immediately to finish the proposal and seize the initiative",
+    "b_zh": "先与同事沟通，尝试达成公平竞争或合作共识",
+    "b_en": "Talk with your colleague first and try to agree on fair competition or cooperation"
+  },
+  {
+    "q_zh": "你在谈判中掌握对方急需的关键资源，但对方并不知道你时间紧迫。你会：",
+    "q_en": "In a negotiation, you control a key resource the other side urgently needs, but they do not know you are under time pressure. What do you do?",
+    "a_zh": "隐藏自己的时间压力，维持强硬姿态争取最大利益",
+    "a_en": "Conceal your time pressure, maintain a tough stance, and push for the maximum benefit",
+    "b_zh": "适度透露部分信息，换取更快达成协议",
+    "b_en": "Reveal some information appropriately in exchange for reaching a deal faster"
+  },
+  {
+    "q_zh": "朋友向你借一笔不小的钱，说一个月后归还，但没有提借条。你会：",
+    "q_en": "A friend asks to borrow a significant amount of money, says they will repay in a month, but does not mention a written IOU. What do you do?",
+    "a_zh": "顾及情面直接借出，相信对方会守信",
+    "a_en": "Lend the money directly to save face and trust that they will keep their word",
+    "b_zh": "委婉提出写借条或约定还款细节，保护双方关系",
+    "b_en": " tactfully ask for an IOU or agree on repayment details to protect the relationship"
+  },
+  {
+    "q_zh": "团队项目中有人一直划水，但项目成功后大家平分奖励。你会：",
+    "q_en": "In a team project, someone has been free-riding the whole time, but everyone will split the reward equally if the project succeeds. What do you do?",
+    "a_zh": "在团队会议上公开指出，推动按贡献分配",
+    "a_en": "Point it out openly in the team meeting and push for distribution based on contribution",
+    "b_zh": "私下提醒对方，避免公开冲突影响团队氛围",
+    "b_en": "Remind them privately to avoid open conflict that could hurt team morale"
+  },
+  {
+    "q_zh": "你在二手平台卖一件物品，买家出价略低于你的底价但表示可以立刻付款。你会：",
+    "q_en": "You are selling an item on a secondhand platform. A buyer offers slightly below your bottom line but says they can pay immediately. What do you do?",
+    "a_zh": "接受报价，快速成交降低不确定性",
+    "a_en": "Accept the offer and close quickly to reduce uncertainty",
+    "b_zh": "坚持底价，赌还有更高出价的买家出现",
+    "b_en": "Hold firm on your bottom line and bet that a higher bidder will appear"
+  },
+  {
+    "q_zh": "你和伴侣因为一件小事争执，双方都觉得自己有理。你会：",
+    "q_en": "You and your partner are arguing over a small matter, and both of you think you are right. What do you do?",
+    "a_zh": "先冷静下来主动让步，优先修复关系",
+    "a_en": "Calm down first and take the initiative to concede, prioritizing the relationship",
+    "b_zh": "坚持讲清道理，认为原则问题不能退让",
+    "b_en": "Insist on reasoning it through and believe you cannot back down on matters of principle"
+  },
+  {
+    "q_zh": "你发现竞争对手在产品上做了夸大宣传，短期内抢走了你的客户。你会：",
+    "q_en": "You find that a competitor has made exaggerated claims about their product and has taken away your customers in the short term. What do you do?",
+    "a_zh": "也适度放大自己的优势，先在市场上稳住阵脚",
+    "a_en": "Also moderately amplify your own advantages to hold your ground in the market first",
+    "b_zh": "坚持真实宣传，用长期口碑和服务赢回客户",
+    "b_en": "Stick to honest marketing and win customers back through long-term reputation and service"
+  },
+  {
+    "q_zh": "在一次多人游戏中，你可以选择与强者结盟稳拿第二，或冒险单干争取第一。你会：",
+    "q_en": "In a multiplayer game, you can choose to ally with the strongest player to secure second place, or take a risk and go solo for first place. What do you do?",
+    "a_zh": "与强者结盟，确保稳定收益",
+    "a_en": "Ally with the strongest player to secure a stable payoff",
+    "b_zh": "冒险单干，争取更高回报",
+    "b_en": "Take the risk and go solo for a higher return"
+  },
+  {
+    "q_zh": "你掌握一个可能损害朋友利益的秘密，但说出真相会让朋友短期内痛苦。你会：",
+    "q_en": "You hold a secret that could harm a friend's interests, but revealing the truth would cause them short-term pain. What do you do?",
+    "a_zh": "选择坦诚告知，让朋友自己做决定",
+    "a_en": "Choose to be honest and tell them, letting your friend make their own decision",
+    "b_zh": "暂时隐瞒，寻找更合适的时机或方式减少伤害",
+    "b_en": "Keep it hidden for now and look for a better time or way to reduce the harm"
   }
 ]
