@@ -20187,5 +20187,85 @@
     "a_en": "Choose to be honest and tell them, letting your friend make their own decision",
     "b_zh": "暂时隐瞒，寻找更合适的时机或方式减少伤害",
     "b_en": "Keep it hidden for now and look for a better time or way to reduce the harm"
+  },
+  {
+    "q_zh": "你被困在一个荒岛上，救援队将在 7 天后到达。你有两瓶水，但其中一瓶可能被污染了。你会：",
+    "q_en": "You are stranded on a deserted island, and rescue will arrive in 7 days. You have two bottles of water, but one of them may be contaminated. What do you do?",
+    "a_zh": "只喝确定安全的那瓶水，严格控制饮用量",
+    "a_en": "Drink only from the bottle you know is safe, strictly rationing it",
+    "b_zh": "两瓶都喝，赌污染的那瓶毒性不足以致命",
+    "b_en": "Drink from both bottles, betting the contaminated one isn't lethal"
+  },
+  {
+    "q_zh": "你和一位陌生人被分别关在两个房间里，各自可以选择“合作”或“背叛”。如果你们都合作，各得 100 元；如果一方背叛，背叛者得 150 元，合作者得 0 元；如果都背叛，各得 50 元。你会：",
+    "q_en": "You and a stranger are placed in separate rooms and can each choose 'cooperate' or 'betray'. If both cooperate, each gets $100; if one betrays, the betrayer gets $150 and the cooperator gets $0; if both betray, each gets $50. What do you choose?",
+    "a_zh": "选择合作，相信对方也会理性地选择合作",
+    "a_en": "Cooperate, trusting the other will also rationally choose to cooperate",
+    "b_zh": "选择背叛，因为这是无论对方怎么选都更有利的策略",
+    "b_en": "Betray, because it's the better strategy regardless of what the other chooses"
+  },
+  {
+    "q_zh": "公司有一个晋升名额，你和同事小李都是候选人。领导私下告诉你，如果你愿意在会议上主动支持小李的方案，小李晋升后会把一半奖金分给你。你会：",
+    "q_en": "There's one promotion slot at your company, and both you and your colleague Li are candidates. Your boss privately tells you that if you publicly support Li's proposal in the meeting, Li will share half the bonus with you after promotion. What do you do?",
+    "a_zh": "相信这个口头承诺，在会上支持小李",
+    "a_en": "Trust the verbal promise and support Li at the meeting",
+    "b_zh": "不相信口头承诺，仍然争取自己的晋升机会",
+    "b_en": "Don't trust the verbal promise and still compete for the promotion yourself"
+  },
+  {
+    "q_zh": "你在二手平台卖一台旧相机，标价 2000 元。买家说只能出 1500 元，否则就走人。你知道这台相机在别处大概能卖 1800 元。你会：",
+    "q_en": "You're selling a used camera on a secondhand platform for $2000. The buyer says they'll only pay $1500 or walk away. You know the camera could probably sell for about $1800 elsewhere. What do you do?",
+    "a_zh": "接受 1500 元，避免继续等待和交易成本",
+    "a_en": "Accept $1500 to avoid further waiting and transaction costs",
+    "b_zh": "拒绝这个报价，坚持等待更合适的买家",
+    "b_en": "Reject the offer and hold out for a better buyer"
+  },
+  {
+    "q_zh": "你和朋友合伙开了一家店，现在需要决定是否追加投资。如果追加，生意可能翻倍，也可能全部亏掉；如果不追加，维持现状但增长缓慢。你会：",
+    "q_en": "You and a friend co-own a shop and must decide whether to invest more. If you do, the business could double or lose everything; if you don't, it stays as is but grows slowly. What do you do?",
+    "a_zh": "追加投资，愿意承担风险换取更大回报",
+    "a_en": "Invest more, willing to take the risk for a bigger return",
+    "b_zh": "不追加投资，保住现有的稳定收益",
+    "b_en": "Don't invest more and preserve the current stable income"
+  },
+  {
+    "q_zh": "在一次团队项目中，你发现队友提交的数据有错误，但如果指出来，可能会让他在领导面前难堪。你会：",
+    "q_en": "In a team project, you notice a teammate submitted data with errors, but pointing it out might embarrass them in front of the boss. What do you do?",
+    "a_zh": "私下提醒队友，让他自己修正",
+    "a_en": "Privately remind the teammate and let them fix it themselves",
+    "b_zh": "直接在会议上指出，确保问题被及时纠正",
+    "b_en": "Point it out directly in the meeting to ensure it's corrected promptly"
+  },
+  {
+    "q_zh": "你在餐厅吃饭，发现菜里有一根头发。服务员态度很好，主动提出免单。你会：",
+    "q_en": "You're eating at a restaurant and find a hair in your dish. The waiter is very polite and offers to comp the meal. What do you do?",
+    "a_zh": "接受免单，不再追究",
+    "a_en": "Accept the free meal and let it go",
+    "b_zh": "接受免单，但同时在网上留下差评提醒他人",
+    "b_en": "Accept the free meal but also leave a negative review online to warn others"
+  },
+  {
+    "q_zh": "你参加一个抽奖活动，已经投入了 500 元购买抽奖券，还没中奖。再花 500 元可以大幅提高中奖概率。你会：",
+    "q_en": "You're in a raffle and have already spent $500 on tickets without winning. Spending another $500 would greatly increase your chances of winning. What do you do?",
+    "a_zh": "继续投入，已经花了这么多不能半途而废",
+    "a_en": "Keep spending—having already spent so much, you can't quit halfway",
+    "b_zh": "及时止损，不再追加投入",
+    "b_en": "Cut your losses and stop investing more"
+  },
+  {
+    "q_zh": "你和恋人因为一件小事吵架，双方都有错但都不愿先低头。你会：",
+    "q_en": "You and your partner had a fight over something trivial. Both of you are partly wrong but neither wants to give in first. What do you do?",
+    "a_zh": "主动道歉，先修复关系再讨论对错",
+    "a_en": "Apologize first, repair the relationship, then discuss who was right",
+    "b_zh": "坚持等对方先道歉，否则显得自己理亏",
+    "b_en": "Wait for the other to apologize first, or else you'd look like you were wrong"
+  },
+  {
+    "q_zh": "你的朋友向你借了一笔钱，说好一个月还，但已经过去三个月还没还。你最近也需要用钱。你会：",
+    "q_en": "A friend borrowed money from you, promising to repay in a month, but three months have passed. You need the money now too. What do you do?",
+    "a_zh": "直接开口催他还钱，哪怕可能影响关系",
+    "a_en": "Directly ask them to repay, even if it might strain the relationship",
+    "b_zh": "继续等待，暗示但不明说，避免破坏友情",
+    "b_en": "Keep waiting and hint indirectly rather than asking outright, to avoid damaging the friendship"
   }
 ]
