@@ -20267,5 +20267,85 @@
     "a_en": "Directly ask them to repay, even if it might strain the relationship",
     "b_zh": "继续等待，暗示但不明说，避免破坏友情",
     "b_en": "Keep waiting and hint indirectly rather than asking outright, to avoid damaging the friendship"
+  },
+  {
+    "q_zh": "你被困在一个荒岛上，救援队说只能带走一个人。你发现另一个幸存者也在等待救援，你会：",
+    "q_en": "You are stranded on a deserted island, and the rescue team says they can only take one person. You discover another survivor also waiting for rescue. What do you do?",
+    "a_zh": "隐瞒对方的存在，独自获救",
+    "a_en": "Hide the other survivor's existence and get rescued alone",
+    "b_zh": "告诉救援队还有一人，争取两人一起走",
+    "b_en": "Tell the rescue team there is another person and fight for both to leave together"
+  },
+  {
+    "q_zh": "你和朋友合伙创业，公司刚有起色，投资人提出只投你一个人、要求你踢掉合伙人。你会：",
+    "q_en": "You and a friend co-founded a startup. Just as it's taking off, an investor offers to fund only you, on the condition that you cut out your partner. What do you do?",
+    "a_zh": "接受投资，踢掉合伙人",
+    "a_en": "Accept the investment and cut out your partner",
+    "b_zh": "拒绝投资，保住合伙人",
+    "b_en": "Reject the investment and keep your partner"
+  },
+  {
+    "q_zh": "考试时你发现邻座在抄你的答案，监考老师暂时没注意。你会：",
+    "q_en": "During an exam, you notice the person next to you copying your answers, and the proctor hasn't noticed yet. What do you do?",
+    "a_zh": "挡住答卷，不让对方继续抄",
+    "a_en": "Cover your answer sheet so they can't keep copying",
+    "b_zh": "装作没看见，继续让对方抄",
+    "b_en": "Pretend not to notice and let them keep copying"
+  },
+  {
+    "q_zh": "你和同事竞争同一个晋升名额，你偶然得知同事的一个工作失误尚未被发现。你会：",
+    "q_en": "You and a colleague are competing for the same promotion. You happen to learn about a work mistake your colleague made that hasn't been discovered yet. What do you do?",
+    "a_zh": "向上级汇报这个失误",
+    "a_en": "Report the mistake to your superiors",
+    "b_zh": "保持沉默，靠自己实力竞争",
+    "b_en": "Stay silent and compete on your own merit"
+  },
+  {
+    "q_zh": "在一个两人分钱的游戏中，对方可以决定分给你多少，你若拒绝则两人都拿不到钱。对方分给你 10%（极不公平），你会：",
+    "q_en": "In a two-person money-splitting game, the other player decides how much to give you. If you reject, neither gets anything. They offer you 10% (extremely unfair). What do you do?",
+    "a_zh": "接受，有总比没有好",
+    "a_en": "Accept it—something is better than nothing",
+    "b_zh": "拒绝，宁可两败俱伤也不接受不公",
+    "b_en": "Reject it—rather lose everything than accept unfairness"
+  },
+  {
+    "q_zh": "你捡到一个装有大量现金和身份证的钱包，周围没有监控也没人看见。你会：",
+    "q_en": "You find a wallet full of cash and an ID, with no cameras and no one around to see. What do you do?",
+    "a_zh": "拿走现金，钱包丢掉",
+    "a_en": "Take the cash and discard the wallet",
+    "b_zh": "想办法联系失主归还",
+    "b_en": "Try to contact the owner and return it"
+  },
+  {
+    "q_zh": "团队项目中，你发现只要自己偷懒，成果依然能靠队友完成，且没人会发现。你会：",
+    "q_en": "In a team project, you realize that if you slack off, the work will still get done by your teammates and no one will notice. What do you do?",
+    "a_zh": "偷懒，坐享其成",
+    "a_en": "Slack off and ride on their effort",
+    "b_zh": "照常付出，做好自己的部分",
+    "b_en": "Put in your usual effort and do your part"
+  },
+  {
+    "q_zh": "你和陌生人玩信任游戏：你先给对方一笔钱，对方可以选择加倍奉还或独吞。你会先给多少？",
+    "q_en": "You play a trust game with a stranger: you give them money first, and they can either double it back or keep it all. How much do you give first?",
+    "a_zh": "给出较少的钱，降低风险",
+    "a_en": "Give a small amount to reduce risk",
+    "b_zh": "给出较多的钱，表达信任",
+    "b_en": "Give a larger amount to show trust"
+  },
+  {
+    "q_zh": "你发现好友的伴侣在偷偷出轨，好友毫不知情且很幸福。你会：",
+    "q_en": "You discover your close friend's partner is secretly cheating. Your friend has no idea and is very happy. What do you do?",
+    "a_zh": "告诉好友真相",
+    "a_en": "Tell your friend the truth",
+    "b_zh": "保持沉默，不介入他人感情",
+    "b_en": "Stay silent and not interfere in their relationship"
+  },
+  {
+    "q_zh": "一场拍卖中，出价最高者得标，但出价第二高的人也要付钱却什么都得不到。你已经投入很多，对手还在加价。你会：",
+    "q_en": "In an auction, the highest bidder wins, but the second-highest bidder also pays and gets nothing. You've already invested a lot, and your rival keeps raising the bid. What do you do?",
+    "a_zh": "继续加价，不甘心沉没成本",
+    "a_en": "Keep bidding—unwilling to let the sunk cost go",
+    "b_zh": "及时止损，退出竞价",
+    "b_en": "Cut your losses and withdraw from the bidding"
   }
 ]
