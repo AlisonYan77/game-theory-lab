@@ -20347,5 +20347,85 @@
     "a_en": "Keep bidding—unwilling to let the sunk cost go",
     "b_zh": "及时止损，退出竞价",
     "b_en": "Cut your losses and withdraw from the bidding"
+  },
+  {
+    "q_zh": "你被困在一个荒岛上，只有一艘仅能载一人的小船。你会选择独自离开寻找救援，还是留下来陪同样被困的同伴等待未知的救援？",
+    "q_en": "You are stranded on a deserted island with only a one-person boat. Do you leave alone to seek rescue, or stay with your stranded companion and wait for unknown rescue?",
+    "a_zh": "独自离开寻找救援",
+    "a_en": "Leave alone to seek rescue",
+    "b_zh": "留下来陪同伴等待救援",
+    "b_en": "Stay with your companion and wait for rescue"
+  },
+  {
+    "q_zh": "你发现同事在项目中犯了一个不会被发现的错误。你会选择私下提醒他改正，还是保持沉默以免惹麻烦？",
+    "q_en": "You discover a colleague made an error in a project that no one will notice. Do you privately remind them to fix it, or stay silent to avoid trouble?",
+    "a_zh": "私下提醒他改正",
+    "a_en": "Privately remind them to fix it",
+    "b_zh": "保持沉默以免惹麻烦",
+    "b_en": "Stay silent to avoid trouble"
+  },
+  {
+    "q_zh": "在一场谈判中，对方给出了一个对你有利但你怀疑有隐藏陷阱的条件。你会选择接受这个条件快速成交，还是拒绝并继续谈判以探明真相？",
+    "q_en": "In a negotiation, the other side offers terms favorable to you but you suspect a hidden trap. Do you accept quickly to close the deal, or decline and keep negotiating to uncover the truth?",
+    "a_zh": "接受条件快速成交",
+    "a_en": "Accept and close the deal quickly",
+    "b_zh": "拒绝并继续谈判探明真相",
+    "b_en": "Decline and keep negotiating to uncover the truth"
+  },
+  {
+    "q_zh": "你和朋友合伙创业，公司刚有起色时，一家大公司提出高价收购。你会选择套现离场获得安稳收益，还是拒绝收购继续做大自己的事业？",
+    "q_en": "You co-founded a startup with a friend, and just as it gains traction, a large company offers a high-price acquisition. Do you cash out for a stable return, or decline and keep growing your own business?",
+    "a_zh": "套现离场获得安稳收益",
+    "a_en": "Cash out for a stable return",
+    "b_zh": "拒绝收购继续做大事业",
+    "b_en": "Decline and keep growing the business"
+  },
+  {
+    "q_zh": "你在一场拍卖中看中一件心仪物品，价格已接近你的心理上限。你会选择继续加价拼一把，还是果断放弃避免冲动消费？",
+    "q_en": "At an auction, you have your eye on an item and the price is nearing your psychological limit. Do you keep bidding and go for it, or walk away to avoid an impulsive purchase?",
+    "a_zh": "继续加价拼一把",
+    "a_en": "Keep bidding and go for it",
+    "b_zh": "果断放弃避免冲动消费",
+    "b_en": "Walk away to avoid an impulsive purchase"
+  },
+  {
+    "q_zh": "你掌握了一个能让你在竞争中占据优势的秘密信息，但公开它可能伤害到无辜的人。你会选择利用这个信息获利，还是保守秘密放弃优势？",
+    "q_en": "You hold secret information that could give you a competitive edge, but revealing it might harm innocent people. Do you use the information for profit, or keep the secret and give up the advantage?",
+    "a_zh": "利用信息获利",
+    "a_en": "Use the information for profit",
+    "b_zh": "保守秘密放弃优势",
+    "b_en": "Keep the secret and give up the advantage"
+  },
+  {
+    "q_zh": "团队分配任务时，有一个既辛苦又不出彩的工作没人愿意做。你会选择主动承担这个任务，还是保持沉默等待别人接手？",
+    "q_en": "During task assignment, there is a grueling and thankless job no one wants. Do you volunteer to take it, or stay silent and wait for someone else to step up?",
+    "a_zh": "主动承担这个任务",
+    "a_en": "Volunteer to take the task",
+    "b_zh": "保持沉默等待别人接手",
+    "b_en": "Stay silent and wait for someone else"
+  },
+  {
+    "q_zh": "你的好友向你借了一笔钱，约定时间已过却迟迟未还。你会选择直接开口催讨，还是碍于情面继续等待？",
+    "q_en": "A close friend borrowed money from you and is overdue on repayment. Do you directly ask them to pay it back, or hold back out of politeness and keep waiting?",
+    "a_zh": "直接开口催讨",
+    "a_en": "Directly ask them to pay it back",
+    "b_zh": "碍于情面继续等待",
+    "b_en": "Hold back out of politeness and keep waiting"
+  },
+  {
+    "q_zh": "你在一场博弈游戏中有机会背叛盟友获得巨额奖励，但背叛会让盟友一无所有。你会选择背叛获取奖励，还是坚守盟约共享成果？",
+    "q_en": "In a game you have the chance to betray an ally for a huge reward, but betrayal would leave them with nothing. Do you betray for the reward, or honor the alliance and share the results?",
+    "a_zh": "背叛获取奖励",
+    "a_en": "Betray for the reward",
+    "b_zh": "坚守盟约共享成果",
+    "b_en": "Honor the alliance and share the results"
+  },
+  {
+    "q_zh": "你收到一份工作邀约，薪资很高但公司文化与你价值观严重不符。你会选择接受高薪工作，还是拒绝并等待更合适的机会？",
+    "q_en": "You receive a job offer with a high salary, but the company culture clashes badly with your values. Do you accept the high-paying job, or decline and wait for a better fit?",
+    "a_zh": "接受高薪工作",
+    "a_en": "Accept the high-paying job",
+    "b_zh": "拒绝并等待更合适的机会",
+    "b_en": "Decline and wait for a better fit"
   }
 ]
