@@ -20427,5 +20427,85 @@
     "a_en": "Accept the high-paying job",
     "b_zh": "拒绝并等待更合适的机会",
     "b_en": "Decline and wait for a better fit"
+  },
+  {
+    "q_zh": "你被分配到一个三人小组完成任务，但组员都不主动。你会：",
+    "q_en": "You're assigned to a three-person group task, but no one takes initiative. What do you do?",
+    "a_zh": "率先制定计划并分配任务，承担领导角色",
+    "a_en": "Step up first to make a plan and assign tasks, taking the leader role",
+    "b_zh": "保持观望，等别人先行动再配合",
+    "b_en": "Wait and see, then coordinate once someone else acts first"
+  },
+  {
+    "q_zh": "朋友向你借一笔不小的钱，说下月一定还。你会：",
+    "q_en": "A friend asks to borrow a significant sum, promising to repay next month. You:",
+    "a_zh": "借给他，相信这段关系值得",
+    "a_en": "Lend it, trusting the relationship is worth it",
+    "b_zh": "委婉拒绝或只借一小部分，保护自己",
+    "b_en": "Politely decline or lend only a small amount to protect yourself"
+  },
+  {
+    "q_zh": "谈判中对方先开出极低的报价。你的第一反应是：",
+    "q_en": "In a negotiation, the other side opens with an extremely low offer. Your first move:",
+    "a_zh": "立即强硬回击，抬高自己的锚点",
+    "a_en": "Counter hard immediately to set your own anchor high",
+    "b_zh": "先不表态，追问对方报价的依据",
+    "b_en": "Stay noncommittal and probe the reasoning behind their offer"
+  },
+  {
+    "q_zh": "你和同事竞争同一个晋升名额，他私下请你帮忙美言。你会：",
+    "q_en": "You and a colleague compete for one promotion; he privately asks you to put in a good word. You:",
+    "a_zh": "答应帮忙，维护关系，公平竞争",
+    "a_en": "Agree to help, preserving the relationship while competing fairly",
+    "b_zh": "婉拒，避免利益冲突和后续麻烦",
+    "b_en": "Decline politely to avoid conflict of interest and future trouble"
+  },
+  {
+    "q_zh": "在团队讨论中，你的方案被当众质疑。你会：",
+    "q_en": "In a team discussion, your proposal is publicly challenged. You:",
+    "a_zh": "当场据理力争，捍卫立场",
+    "a_en": "Defend your position firmly on the spot",
+    "b_zh": "先认可对方的点，再私下补充完整论证",
+    "b_en": "Acknowledge their point first, then privately present fuller evidence"
+  },
+  {
+    "q_zh": "你发现合作方在合同里埋了一个小陷阱。你会：",
+    "q_en": "You notice the partner buried a small trap in the contract. You:",
+    "a_zh": "当场指出并重谈条款，明确底线",
+    "a_en": "Point it out immediately and renegotiate, drawing a clear line",
+    "b_zh": "先按兵不动，收集更多信息再决定",
+    "b_en": "Hold back for now, gather more information before deciding"
+  },
+  {
+    "q_zh": "一群人玩信任游戏，你要决定是否先閉眼后倒。你会：",
+    "q_en": "In a trust game, you must decide whether to close your eyes and fall backward first. You:",
+    "a_zh": "先倒，用行动释放信任信号",
+    "a_en": "Fall first, signaling trust through action",
+    "b_zh": "请对方先倒，观察其诚意再回应",
+    "b_en": "Ask them to fall first and respond based on their sincerity"
+  },
+  {
+    "q_zh": "你知道一个秘密，泄露它能让你短期获利但会伤害朋友。你会：",
+    "q_en": "You know a secret; leaking it brings short-term gain but harms a friend. You:",
+    "a_zh": "守住秘密，长期信誉更重要",
+    "a_en": "Keep the secret—long-term reputation matters more",
+    "b_zh": "权衡利弊，若获利足够大可能泄露",
+    "b_en": "Weigh the trade-off; might leak if the payoff is large enough"
+  },
+  {
+    "q_zh": "面对一个总是拖延回复你消息的重要客户。你会：",
+    "q_en": "Facing an important client who always delays replying to your messages. You:",
+    "a_zh": "主动加大跟进频率，施加温和压力",
+    "a_en": "Increase follow-up frequency, applying gentle pressure",
+    "b_zh": "降低主动频率，用稀缺感反向施压",
+    "b_en": "Reduce outreach frequency, using scarcity to push back"
+  },
+  {
+    "q_zh": "团队里有人抢了你的功劳。你会：",
+    "q_en": "Someone on the team takes credit for your work. You:",
+    "a_zh": "当面澄清事实，明确贡献归属",
+    "a_en": "Clarify the facts face-to-face and assert your contribution",
+    "b_zh": "暂时隐忍，用后续成果证明自己",
+    "b_en": "Endure for now and prove yourself through later results"
   }
 ]
