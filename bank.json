@@ -20507,5 +20507,85 @@
     "a_en": "Clarify the facts face-to-face and assert your contribution",
     "b_zh": "暂时隐忍，用后续成果证明自己",
     "b_en": "Endure for now and prove yourself through later results"
+  },
+  {
+    "q_zh": "你被困在一个荒岛上，只能选择一种工具，你会选哪个？",
+    "q_en": "You are stranded on a desert island and can only choose one tool. Which do you pick?",
+    "a_zh": "一把瑞士军刀",
+    "a_en": "A Swiss Army knife",
+    "b_zh": "一个打火机",
+    "b_en": "A lighter"
+  },
+  {
+    "q_zh": "你发现同事在背后说你坏话，你会怎么做？",
+    "q_en": "You find out a colleague has been bad-mouthing you behind your back. What do you do?",
+    "a_zh": "直接当面对质",
+    "a_en": "Confront them directly",
+    "b_zh": "默默观察，寻找合适时机反击",
+    "b_en": "Observe quietly and wait for the right moment to strike back"
+  },
+  {
+    "q_zh": "在一场谈判中，对方提出了一个明显对你不利的条件，你会？",
+    "q_en": "In a negotiation, the other party proposes a clearly unfavorable term. You will:",
+    "a_zh": "立刻拒绝并表明底线",
+    "a_en": "Reject it immediately and state your bottom line",
+    "b_zh": "先接受部分条件，再逐步争取",
+    "b_en": "Accept part of it first, then gradually push for more"
+  },
+  {
+    "q_zh": "你更愿意拥有哪种能力？",
+    "q_en": "Which ability would you rather have?",
+    "a_zh": "看穿别人的谎言",
+    "a_en": "See through other people's lies",
+    "b_zh": "让别人相信你的谎言",
+    "b_en": "Make others believe your lies"
+  },
+  {
+    "q_zh": "团队合作中，你发现自己承担了最多的工作但功劳被他人抢走，你会？",
+    "q_en": "In teamwork, you find you did the most work but someone else took the credit. You will:",
+    "a_zh": "向上级说明真实情况",
+    "a_en": "Explain the real situation to your supervisor",
+    "b_zh": "下次合作时减少付出",
+    "b_en": "Reduce your effort in the next collaboration"
+  },
+  {
+    "q_zh": "你获得了一个内幕消息，可以让你的投资翻倍，但可能违法，你会？",
+    "q_en": "You get insider information that could double your investment but may be illegal. You will:",
+    "a_zh": "利用它，机会难得",
+    "a_en": "Use it—such opportunities are rare",
+    "b_zh": "放弃，风险太大",
+    "b_en": "Give it up—the risk is too high"
+  },
+  {
+    "q_zh": "你更害怕哪种情况？",
+    "q_en": "Which situation frightens you more?",
+    "a_zh": "被人利用",
+    "a_en": "Being used by others",
+    "b_zh": "错过机会",
+    "b_en": "Missing an opportunity"
+  },
+  {
+    "q_zh": "朋友向你借了一笔钱，迟迟不还，你会？",
+    "q_en": "A friend borrowed money from you and keeps delaying repayment. You will:",
+    "a_zh": "主动开口催要",
+    "a_en": "Bring it up and ask for it directly",
+    "b_zh": "等对方主动提起",
+    "b_en": "Wait for them to bring it up themselves"
+  },
+  {
+    "q_zh": "如果能知道一个秘密，你更想知道？",
+    "q_en": "If you could learn one secret, which would you rather know?",
+    "a_zh": "别人对你的真实评价",
+    "a_en": "What others really think of you",
+    "b_zh": "别人隐藏的弱点",
+    "b_en": "Others' hidden weaknesses"
+  },
+  {
+    "q_zh": "你在一场博弈中处于劣势，你会选择？",
+    "q_en": "You are at a disadvantage in a game. You will choose to:",
+    "a_zh": "冒险一搏，争取翻盘",
+    "a_en": "Take a bold risk to turn things around",
+    "b_zh": "保存实力，等待时机",
+    "b_en": "Preserve your strength and wait for the right moment"
   }
 ]
