@@ -20587,5 +20587,85 @@
     "a_en": "Take a bold risk to turn things around",
     "b_zh": "保存实力，等待时机",
     "b_en": "Preserve your strength and wait for the right moment"
+  },
+  {
+    "q_zh": "你在一场匿名谈判中，对方突然让步远超预期。你更倾向于：",
+    "q_en": "In an anonymous negotiation, the other side concedes far more than expected. You tend to:",
+    "a_zh": "立刻接受，锁定收益，避免夜长梦多",
+    "a_en": "Accept immediately and lock in the gain before things change",
+    "b_zh": "暂缓接受，试探对方是否隐藏了陷阱或后续条件",
+    "b_en": "Hold off and probe whether there's a hidden trap or follow-up condition"
+  },
+  {
+    "q_zh": "团队中有人公开质疑你的方案，但语气礼貌。你的第一反应是：",
+    "q_en": "Someone publicly questions your proposal, but politely. Your first reaction is:",
+    "a_zh": "当场用数据和逻辑反驳，维护权威",
+    "a_en": "Rebutt with data and logic on the spot to defend your authority",
+    "b_zh": "先认可对方的关注点，再私下了解其真实动机",
+    "b_en": "Acknowledge their concern first, then privately explore their real motive"
+  },
+  {
+    "q_zh": "你掌握一条对你不利但对方不知道的信息。你会：",
+    "q_en": "You hold information unfavorable to you that the other party doesn't know. You will:",
+    "a_zh": "主动披露，以换取信任和长期合作",
+    "a_en": "Disclose it proactively to earn trust and long-term cooperation",
+    "b_zh": "暂时保留，观察对方是否已察觉或试探",
+    "b_en": "Keep it for now and observe whether they suspect or probe"
+  },
+  {
+    "q_zh": "面对一个反复无常但资源丰富的合作者，你更可能：",
+    "q_en": "Facing an erratic but resource-rich partner, you are more likely to:",
+    "a_zh": "设定清晰边界与违约成本，再合作",
+    "a_en": "Set clear boundaries and penalty costs, then cooperate",
+    "b_zh": "先小额合作建立默契，逐步加深绑定",
+    "b_en": "Start with small collaborations to build rapport, then deepen ties"
+  },
+  {
+    "q_zh": "在多人博弈中，你发现自己是唯一掌握关键信息的人。你会：",
+    "q_en": "In a multi-player game, you realize you're the only one with key information. You will:",
+    "a_zh": "释放部分信息引导局势，保留核心筹码",
+    "a_en": "Release partial information to steer the situation, keeping core leverage",
+    "b_zh": "保持沉默，让各方自行暴露底牌",
+    "b_en": "Stay silent and let all sides reveal their hands"
+  },
+  {
+    "q_zh": "对方在谈判中突然情绪化发怒。你判断这更可能是：",
+    "q_en": "The other party suddenly gets emotional and angry mid-negotiation. You judge this is more likely:",
+    "a_zh": "真实情绪失控，需安抚以推进",
+    "a_en": "Genuine loss of control, requiring reassurance to proceed",
+    "b_zh": "策略性施压，需冷静不接招",
+    "b_en": "Strategic pressure, requiring calm non-engagement"
+  },
+  {
+    "q_zh": "你有机会抢先行动获得优势，但会损害一个潜在盟友。你会：",
+    "q_en": "You can act first for an advantage but it hurts a potential ally. You will:",
+    "a_zh": "抢先行动，优势优先，事后弥补关系",
+    "a_en": "Act first, prioritize advantage, repair the relationship later",
+    "b_zh": "先沟通结盟，用共享收益换取对方让路",
+    "b_en": "Communicate and ally first, trading shared gains for their cooperation"
+  },
+  {
+    "q_zh": "长期博弈中，对方多次小失信但大合作仍获益。你会：",
+    "q_en": "In a long-term game, the other side repeatedly breaks small promises but big cooperation still pays. You will:",
+    "a_zh": "每次小失信都明确追责，防止升级",
+    "a_en": "Hold them accountable for every small breach to prevent escalation",
+    "b_zh": "聚焦大合作收益，小失信选择性忽略",
+    "b_en": "Focus on big-picture gains and selectively ignore small breaches"
+  },
+  {
+    "q_zh": "你需要在信息不对称下做决定。你更依赖：",
+    "q_en": "You must decide under information asymmetry. You rely more on:",
+    "a_zh": "对方行为模式的历史数据与逻辑推演",
+    "a_en": "Historical behavioral patterns and logical deduction",
+    "b_zh": "直觉与微表情、语气等现场信号",
+    "b_en": "Intuition and on-site signals like micro-expressions and tone"
+  },
+  {
+    "q_zh": "博弈接近尾声，你仍有一张未打出的底牌。你会：",
+    "q_en": "As the game nears its end, you still hold an unplayed card. You will:",
+    "a_zh": "在关键时刻打出，争取最后一轮最大收益",
+    "a_en": "Play it at the pivotal moment for maximum final-round gain",
+    "b_zh": "保留不用，作为威慑或为下一轮博弈留后手",
+    "b_en": "Keep it unused as deterrence or leverage for the next round"
   }
 ]
