@@ -30,6 +30,7 @@
 </head>
 <body>
 
+
 <div id="game-container">
     <div class="stats">
         <span>奖池: <span id="pool">0</span></span>
@@ -91,17 +92,17 @@
     const i18n = {
     zh: { title: "博弈实验室", start: "开始游戏", stake: "投入资金" },
     en: { title: "Game Theory Lab", start: "Start Game", stake: "Investment" }
-    };
+};
 
-    function updateUI() {
-        // 根据 currentLang 切换页面上的所有文字
-        document.getElementById('title').innerText = i18n[currentLang].title;
-        // 渲染题目时使用 question[`q_${currentLang}`]
-    }
+function updateUI() {
+    // 根据 currentLang 切换页面上的所有文字
+    document.getElementById('title').innerText = i18n[currentLang].title;
+    // 渲染题目时使用 question[`q_${currentLang}`]
+}
     let pool = 0, streak = 0, timeLeft = 10, timerId = null, currentQuestions = [];
     let totalAssets = parseInt(localStorage.getItem('game_gold_v2')) || 0;
     document.getElementById('total-assets').innerText = totalAssets;
-
+    
     function showStage(id) {
         ['stage-start', 'stage-quiz', 'stage-decision', 'stage-prisoner', 'stage-result'].forEach(s => {
             document.getElementById(s).classList.add('hidden');
@@ -116,8 +117,15 @@
         if (!response.ok) throw new Error('题库文件不存在');
         const aiBank = await response.json();
 
-        // 2. 如果 AI 题库有题，就用 AI 的题；否则用备用题
-        const finalBank = aiBank.length > 0 ? aiBank : questionBank;
+        // 2. 字段归一化：兼容历史题库中 {q,a,b} 与 {q_zh,a_zh,b_zh} 两种格式，过滤缺字段的题
+        const normalize = q => ({
+            q: q.q || q.q_zh || '',
+            a: q.a || q.a_zh || '',
+            b: q.b || q.b_zh || ''
+        });
+        const finalBank = (aiBank.length > 0 ? aiBank : questionBank)
+            .map(normalize)
+            .filter(q => q.q && q.a && q.b);
         
         // 3. 随机抽取 6-8 道题
         currentQuestions = [...finalBank].sort(() => 0.5 - Math.random()).slice(0, 6);
